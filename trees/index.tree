@@ -1,0 +1,58 @@
+\title{Deligne's "The fundamental group of the projective line minus three points"}
+
+\import{macros}
+
+\p{
+  This is an English translation of \strong{P. Deligne}'s paper:
+
+  \ul{
+    \li{
+      "Le Groupe Fondamental de la Droite Projective Moins Trois Points".
+      In \em{Galois Groups over #{\mathbb{Q}}}, Springer–Verlag, MSRI Publications \strong{16} (1989), 79–297.
+      DOI: [10.1007/978-1-4613-9649-9_3](https://doi.org/10.1007/978-1-4613-9649-9_3).
+      [[PDF]](http://publications.ias.edu/node/407)
+    }
+  }
+}
+
+\ul{
+  \li{\todo{replace fref by ref}}
+}
+
+\p{
+  The translator ([Tim Hosgood](https://thosgood.com)) takes full responsibility for any errors introduced, and claims no rights to any of the mathematical content herein.
+  You can view the entire source code of this translation (and contribute or submit corrections) in the [GitHub repository](https://github.com/thosgood/minus-three-points).
+  Corrections and comments welcome.
+}
+
+\p{\strong{[PDF version coming soon]}}
+
+\p{
+  \strong{Table of contents}
+
+  \olc{
+    \lic{}{[\strong{Introduction}](introduction)}
+    \lic{0.}{[\strong{Terminology and notation}](minus-three-points-0)}
+    \lic{1.}{[\strong{Mixed motives}](minus-three-points-1)}
+    \lic{2.}{[\strong{Examples}](minus-three-points-2)}
+    \lic{3.}{[\strong{#{\mathbb{Z}(n)}-torsors}](minus-three-points-3)}
+    \lic{}{[\strong{Bibliography}](bibliography)}
+  }
+}
+
+\p{
+  \strong{Leitfaden}
+
+  \tikzcd{
+    1 \ar[dd, no head] & 4 \ar[d, no head] & & 9 \ar[d, no head] &
+  \\& 5 \ar[d, no head] & & 10 \ar[dl, no head] \ar[dr, no head] &
+  \\2 \ar[dd, no head] \ar[dr, no head] & 6 \ar[d, no head] & 11 \ar[ddr, no head] & & 12 \ar[ddl, no head]
+  \\& 7 \ar[d, no head] \ar[drr, no head] & & &
+  \\3 \ar[dddddrr, no head] & 8 & & 13 \ar[d, no head] &
+  \\ & & & 14 \ar[d, no head] &
+  \\ & & & 15 \ar[d, no head] &
+  \\ & & & 16 \ar[d, no head] \ar[dr, no head] \ar[ddl, no head] &
+  \\ & & & 17 \ar[dl, no head, dashed] & 18
+  \\ & & 19 & &
+  }
+}
