@@ -6,4 +6,73 @@
 
 \put\transclude/numbered{false}
 
+\subtree[minus-three-points-2.1]{
+  \number{2.1}
 
+  \p{
+    \oldpage{105}
+    The \em{Tate motive} #{\ZZ(1)} is a motive over #{\Spec(\ZZ)} (\ref{minus-three-points-1.15}) with integer coefficients (\ref{minus-three-points-1.23}).
+    Here is its description as a realisation system, in the language of \ref{minus-three-points-1.9} and \ref{minus-three-points-1.14} (along with \ref{minus-three-points-1.25}):
+  }
+
+  \ul{
+    \li{
+      [(M1)](minus-three-points-m1) and [(M7)](minus-three-points-m7): #{\ZZ(1)_\BB=2\pi i\ZZ\subset\CC} and #{F_\infty=-1}.
+    }
+
+    \li{
+      [(M'1)](minus-three-points-mp1): #{\ZZ(1)_\BB(C)=2\pi i\ZZ\subset C}.
+    }
+
+    \li{
+      [(M2)](minus-three-points-m2) and [(M'2)](minus-three-points-mp2): #{\ZZ(1)_\DR=\QQ(1)_\DR=\QQ}.
+    }
+
+    \li{
+      \p{
+        [(M3)](minus-three-points-m3) and [(M9)](minus-three-points-m9): #{\ZZ(1)_{\ZZ{/}n}} is the group #{\mu_n\subset\CC^\times} of #{n}-th roots of unity.
+        The transition morphisms are the #{\mu_n\to\mu_m\colon x\mapsto x^{n/m}} for #{m\mid n}.
+        The action of #{\Gal(\bar{\QQ}/\QQ)} is its action on the #{\mu_n}.
+        In the variant [(M'3)](minus-three-points-mp3), we have #{\ZZ(1)_{\ZZ{/}n}(\bar{k})=\mu_n(\bar{k})}.
+      }
+      \p{
+        We thus have that #{\ZZ(1)_\ell=\limproj\mu_{\ell^n}(\CC)}.
+      }
+    }
+
+    \li{
+      [(M4)](minus-three-points-m4), [(M10)](minus-three-points-m10), and [(M'4)](minus-three-points-mp4): #{\ZZ(1)_\crisp=\QQ_p} and #{\phi_p=1/p}.
+    }
+
+    \li{
+      [(M5)](minus-three-points-m5): The canonical comparison isomorphism #{\comp_{\DR,\BB}} is induced by the inclusions #{\ZZ(1)_\BB=2\pi i\ZZ\subset\CC} and #{\ZZ(1)_\DR=\QQ\subset\CC}, i.e.
+      ##{
+        \ZZ(1)_\BB\otimes\CC \simto \CC \simfrom \ZZ(1)_\DR\otimes\CC.
+      }
+      The isomorphism #{\comp_{\ZZ{/}n,\BB}} \ref{minus-three-points-1.25} is induced by
+      ##{
+        \exp(x/n)\colon \ZZ(1)_\BB \to \ZZ{/}n(1)\subset\CC^\times.
+      }
+      The isomorphism #{\comp_{\crisp,\DR}} is induced by the inclusion #{\QQ\subset\QQ_p}.
+    }
+
+    \li{
+      [(M'5)](minus-three-points-mp5): Replace #{\CC} by #{C} in [(M5)](minus-three-points-m5).
+    }
+
+    \li{
+      [(M6)](minus-three-points-m6) and [(M8)](minus-three-points-m8): #{\ZZ(1)} is of pure weight #{-2}, and #{\ZZ(1)_\DR} is of pure Hodge filtration #{-1}: the Hodge type is #{(-1,-1)}.
+    }
+  }
+
+  \subtree{
+    \taxon{notation}
+    \p{
+      #{\ZZ(n)\coloneqq\ZZ(1)^{\otimes n}}, #{\QQ(n)\coloneqq\ZZ(n)\otimes\QQ}, and, for any motive #{M}, #{M(n)\coloneqq M\otimes\ZZ(n)}.
+      Depending on the context, we also denote by #{(n)} taking the tensor product with a realisation of #{\ZZ(n)}.
+    }
+    \p{
+      If #{X} is smooth and projective over #{k}, and absolutely irreducible of dimension #{n}, then #{\HH_\mot^{2n}(X)} is the motive over #{k} induced from #{\QQ(-n)} by change of base from #{\QQ} to #{k}.
+    }
+  }
+}
