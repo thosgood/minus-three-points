@@ -1,0 +1,15 @@
+\taxon{reference}
+
+\title{Motives}
+\author{S. Kleiman}
+\date{1972}
+\meta{venue}{in "Proc. 5th Nordic Summer School, Oslo 1970" Wolters–Nordhoff}
+
+\meta{bibtex}{\startverb
+@incollection{Kl,
+  author = {Kleiman, S.},
+  title = {Motives},
+  booktitle = {{{Proc. 5th Nordic Summer School, Oslo 1970}}},
+  publisher = {Wolters--Nordhoff},
+  year = {1972},
+}\stopverb}

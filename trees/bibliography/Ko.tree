@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{A new proof of certain formulas for #{p}-adic #{L}-functions}
+\author{N. Koblitz}
+\date{1979}
+\meta{venue}{\em{Duke Math. J.} \strong{462} pp. 455–468}
+
+\meta{bibtex}{\startverb
+@article{Ko,
+  author = {Koblitz, N.},
+  title = {A new proof of certain formulas for $p$-adic $L$-functions},
+  journal = {Duke Math. J.},
+  volume = {462},
+  year = {1979},
+  pages = {455--468},
+}\stopverb}

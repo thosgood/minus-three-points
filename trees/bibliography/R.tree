@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Géométrie analytique rigid d'après Tate, Kiehl, ...}
+\author{M. Raynaud}
+\date{1974}
+\meta{venue}{in "Table ronde d'analyse non archimédienne (Paris 1972)" Bull. SMF pp. 319–327}
+
+\meta{bibtex}{\startverb
+@incollection{R,
+  author = {Raynaud, M.},
+  title = {{{G\'{e}om\'{e}trie analytique rigid d'apr\`{e}s Tate, Kiehl, \ldots}}},
+  booktitle = {Table ronde d'analyse non archim\'{e}dienne ({{Paris}} 1972)},
+  publisher = {Bull. SMF},
+  year = {1974},
+  pages = {319--327},
+}\stopverb}

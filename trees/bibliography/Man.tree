@@ -1,0 +1,17 @@
+\taxon{reference}
+
+\title{Correspondences, motives and monoïdal transformations}
+\author{Y. Manin}
+\date{1968}
+\meta{venue}{\em{Math. USSE-Sb.} \strong{6} pp. 439–470}
+
+\meta{bibtex}{\startverb
+@article{Man,
+  author = {Manin, Y.},
+  title = {Correspondences, motives and mono\"{i}dal transformations},
+  journal = {Mat. Sb.},
+  volume = {77},
+  year = {1968},
+  pages = {475--507},
+  note = {Translated: \textit{Math. USSE-Sb.} \textbf{6} (1968) pp. 439--470}
+}\stopverb}

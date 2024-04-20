@@ -1,0 +1,17 @@
+\taxon{reference}
+
+\title{Variations of mixed Hodge structures I}
+\author{J. Steenbrink}
+\author{S. Zucker}
+\date{1985}
+\meta{venue}{\em{Inv. Math.} \strong{80} pp. 489–542}
+
+\meta{bibtex}{\startverb
+@article{SZ,
+  author = {J. Steenbrink and S. Zucker},
+  title = {{{Variations of mixed Hodge structures I}}},
+  journal = {Inv. Math.},
+  volume = {80},
+  year = {1985},
+  pages = {489--542},
+}\stopverb}

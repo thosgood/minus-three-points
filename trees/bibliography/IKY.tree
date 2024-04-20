@@ -1,0 +1,18 @@
+\taxon{reference}
+
+\title{On some properties of the universal power series for Jacobi sums}
+\author{Y. Ihara}
+\author{M. Kaneko}
+\author{A. Yukinari}
+\date{1987}
+\meta{venue}{\em{Adv. Studies in Pure Math.} \strong{12} pp. 65–86}
+
+\meta{bibtex}{\startverb
+@article{IKY,
+  author = {Ihara, Y. and Kaneko, M. and Yukinari, A.},
+  title = {On some properties of the universal power series for {Jacobi} sums},
+  journal = {Adv. Studies in Pure Math.},
+  volume = {12},
+  year = {1987},
+  pages = {65--86},
+}\stopverb}

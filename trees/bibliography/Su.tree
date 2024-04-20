@@ -1,0 +1,17 @@
+\taxon{reference}
+
+\title{Infinitesimal computations in topology}
+\author{D. Sullivan}
+\author{S. Zucker}
+\date{1977}
+\meta{venue}{\em{Publ. Math. IHÉS} \strong{47} pp. 269–332}
+
+\meta{bibtex}{\startverb
+@article{Su,
+  author = {Sullivan, D.},
+  title = {Infinitesimal computations in topology},
+  journal = {Publ. Math. IH\'{E}S},
+  volume = {47},
+  year = {1977},
+  pages = {269--332},
+}\stopverb}

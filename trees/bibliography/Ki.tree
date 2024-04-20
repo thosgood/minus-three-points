@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Der Endlichkeitssatz für eigenliche Abbildungen in der nichtarchimedischen Funktionentheorie}
+\author{R. Kiehl}
+\date{1967}
+\meta{venue}{\em{Inv. Math.} \strong{2} pp. 191–214}
+
+\meta{bibtex}{\startverb
+@article{Ki,
+  author = {Kiehl, R.},
+  title = {{{Der Endlichkeitssatz f\"{u}r eigenliche Abbildungen in der nichtarchimedischen Funktionentheorie}}},
+  journal = {Inv. Math.},
+  volume = {2},
+  year = {1967},
+  pages = {191--214},
+}\stopverb}

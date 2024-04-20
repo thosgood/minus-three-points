@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Catégories tannakiennes}
+\author{N. Saavedra}
+\date{1972}
+\meta{venue}{Springer Verlag \em{Lecture Notes in Math.} \strong{265}}
+
+\meta{bibtex}{\startverb
+@book{Sa,
+  author = {Saavedra, N.},
+  title = {Cat\'{e}gories tannakiennes},
+  series = {Lecture Notes in Math.},
+  volume = {265},
+  publisher = {Springer Verlag},
+  year = {1972},
+}\stopverb}

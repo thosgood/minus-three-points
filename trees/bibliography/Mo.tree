@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{The algebraic topology of smooth algebraic varieties}
+\author{J. Morgan}
+\date{1978}
+\meta{venue}{\em{Publ. Math. IHÉS} \strong{48} pp. 137–204}
+
+\meta{bibtex}{\startverb
+@article{Mo,
+  author = {Morgan, J.},
+  title = {The algebraic topology of smooth algebraic varieties},
+  journal = {Publ. Math. IH\'{E}S},
+  volume = {48},
+  year = {1978},
+  pages = {137--204},
+}\stopverb}
