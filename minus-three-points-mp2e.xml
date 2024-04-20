@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>666</fr:anchor><fr:addr>minus-three-points-mp2e</fr:addr><fr:route>minus-three-points-mp2e.xml</fr:route><fr:number>M'2E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>715</fr:anchor><fr:addr>minus-three-points-mp2e</fr:addr><fr:route>minus-three-points-mp2e.xml</fr:route><fr:number>M'2E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       An <fr:tex>E</fr:tex>-vector space <fr:tex>M_ { \mathrm {DR}}</fr:tex>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>665</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>714</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We will now show how a realisation system <fr:tex>N</fr:tex>, smooth over <fr:tex>S= \operatorname {Spec} ( \mathcal {O} )</fr:tex> (as in <fr:ref
 addr="minus-three-points-1.17"
 href="minus-three-points-1.17.xml"
@@ -167,7 +167,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>664</fr:anchor><fr:addr>minus-three-points-mp6e</fr:addr><fr:route>minus-three-points-mp6e.xml</fr:route><fr:number>M'6E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>713</fr:anchor><fr:addr>minus-three-points-mp6e</fr:addr><fr:route>minus-three-points-mp6e.xml</fr:route><fr:number>M'6E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       A filtration <fr:tex>W</fr:tex> of the objects <fr:link
 href="minus-three-points-mp1e.xml"
 type="local"

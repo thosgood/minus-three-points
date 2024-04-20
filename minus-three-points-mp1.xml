@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>657</fr:anchor><fr:addr>minus-three-points-mp1</fr:addr><fr:route>minus-three-points-mp1.xml</fr:route><fr:number>M'1</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>700</fr:anchor><fr:addr>minus-three-points-mp1</fr:addr><fr:route>minus-three-points-mp1.xml</fr:route><fr:number>M'1</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       To every algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex> is attached, in a functorial way, <fr:tex>M_ { \mathrm {B}} (C)</fr:tex>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>656</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>699</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Here is a variant of the statement of <fr:ref
 addr="minus-three-points-1.4"
 href="minus-three-points-1.4.xml"
@@ -206,7 +206,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>654</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>697</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Here is a variant of the statement of <fr:ref
 addr="minus-three-points-1.4"
 href="minus-three-points-1.4.xml"
@@ -396,7 +396,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>655</fr:anchor><fr:addr>minus-three-points-mp6</fr:addr><fr:route>minus-three-points-mp6.xml</fr:route><fr:number>M'6</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>W</fr:tex> is a filtration of the objects of <fr:link
+root="false"><fr:frontmatter><fr:anchor>698</fr:anchor><fr:addr>minus-three-points-mp6</fr:addr><fr:route>minus-three-points-mp6.xml</fr:route><fr:number>M'6</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>W</fr:tex> is a filtration of the objects of <fr:link
 href="minus-three-points-mp1.xml"
 type="local"
 addr="minus-three-points-mp1">(M'1)</fr:link> to <fr:link

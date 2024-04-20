@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>629</fr:anchor><fr:addr>minus-three-points-m2</fr:addr><fr:route>minus-three-points-m2.xml</fr:route><fr:number>M2</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>672</fr:anchor><fr:addr>minus-three-points-m2</fr:addr><fr:route>minus-three-points-m2.xml</fr:route><fr:number>M2</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       A vector space <fr:tex>M_ { \mathrm {DR}}</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex> called the <fr:em>de Rham realisation</fr:em>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>628</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>671</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -195,7 +195,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>627</fr:anchor><fr:addr>minus-three-points-mp2</fr:addr><fr:route>minus-three-points-mp2.xml</fr:route><fr:number>M'2</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>670</fr:anchor><fr:addr>minus-three-points-mp2</fr:addr><fr:route>minus-three-points-mp2.xml</fr:route><fr:number>M'2</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The same as <fr:link
 href="minus-three-points-m2.xml"
 type="local"

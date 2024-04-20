@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>633</fr:anchor><fr:addr>minus-three-points-m3</fr:addr><fr:route>minus-three-points-m3.xml</fr:route><fr:number>M3</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>676</fr:anchor><fr:addr>minus-three-points-m3</fr:addr><fr:route>minus-three-points-m3.xml</fr:route><fr:number>M3</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       A module <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> over <fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex> called the <fr:em>étale cohomology realisation</fr:em>, which is of finite type, by <fr:link
 href="M5"
 type="external">(M5)</fr:link>.
@@ -18,7 +18,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>632</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>675</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -197,7 +197,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>630</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>673</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Here is a variant of the statement of <fr:ref
 addr="minus-three-points-1.4"
 href="minus-three-points-1.4.xml"
@@ -387,7 +387,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>631</fr:anchor><fr:addr>minus-three-points-mp3e</fr:addr><fr:route>minus-three-points-mp3e.xml</fr:route><fr:number>M'3E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>674</fr:anchor><fr:addr>minus-three-points-mp3e</fr:addr><fr:route>minus-three-points-mp3e.xml</fr:route><fr:number>M'3E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       (cf. <fr:link
 href="minus-three-points-m3.xml"
 type="local"
