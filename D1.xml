@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>298</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D1</fr:addr><fr:route>D1.xml</fr:route><fr:title>Equations différentielles à points singuliers réguliers</fr:title><fr:date><fr:year>1970</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+name="venue">Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>163</fr:strong></fr:meta><fr:meta
+name="bibtex">@book{D1,
+  author = {Deligne, P.},
+  title = {Equations diff\'{e}rentielles \`{a} points singuliers r\'{e}guliers},
+  series = {Lecture Notes in Math.},
+  volume = {163},
+  year = {1970},
+  publisher = {Springer Verlag},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

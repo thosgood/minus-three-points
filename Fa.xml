@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
+name="venue"><fr:em>Proc. 1st JAMI-conference</fr:em> pp. 25–81</fr:meta><fr:meta
+name="bibtex">@article{Fa,
+  author = {Faltings, G.},
+  title = {Crystalline cohomology and $p$-adic {{Galois}} representations},
+  year = {1998},
+  journal = {Proc. 1st JAMI-conference},
+  pages = {25--81}
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

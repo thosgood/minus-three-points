@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>296</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>40</fr:strong> pp. 5–58</fr:meta><fr:meta
+name="bibtex">@article{D2,
+  author = {Deligne, P.},
+  title = {Th\'{e}orie de {{Hodge}} {{II}}},
+  journal = {Publ. Math. IH\'{E}S},
+  volume = {40},
+  year = {1971},
+  pages = {5--58},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>295</fr:anchor><fr:addr>minus-three-points-am1</fr:addr><fr:route>minus-three-points-am1.xml</fr:route><fr:number>AM1</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M_ { \mathrm {B}}</fr:tex>, endowed with <fr:tex>W</fr:tex> and with the filtration <fr:tex>F</fr:tex> of <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {C} =M_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>, is a mixed Hodge <fr:tex>\mathbb {Q}</fr:tex>-structure [<fr:link
+href="D2.xml"
+type="local"
+addr="D2">D2</fr:link>, Definition 2.3.8].
+    </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
