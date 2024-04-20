@@ -2,6 +2,9 @@
 
 \import{macros}
 
+\put\transclude/numbered{false}
+\put\transclude/expanded{false}
+
 \p{
   This is an English translation of \strong{P. Deligne}'s paper:
 
