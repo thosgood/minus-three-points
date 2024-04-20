@@ -1,122 +1,57 @@
-::: {.rmenv #chunk-2.2 title="2.2" latex="{2.2}"}
-For an abelian variety $A$ over $\QQ$, we denote by $T(A)\otimes\QQ$ the motive $\HH_1^\mot(A)$ that is dual to $\HH_\mot^1(A)$, and by $T(A)$ the motive with integer coefficients defined by the integer structure $\HH_1(A(\CC),\ZZ)\subset\HH_1(A(\CC),\QQ)=(T(A)\otimes\QQ)_\BB$.
-\oldpage{106}The functor $A\mapsto T(A)$ is fully faithful: from $T(A)$ we can recover $\Lie(A)=T(A)_\DR/F^0$ and the complex torus
-$$
-  A(\CC)
-  = T(A)_\BB\setminus\Lie(A)
-  = T(A)_\BB\setminus T(A)_\DR\otimes\CC/F^0.
-$$
-The complex torus $A(\CC)$ determines the abelian variety $A_\CC$ over $\CC$ induced by $A$, and the $\QQ$-structure is uniquely determined by that of the Lie algebra.
-
-An abelian scheme $A$ over $S$ similarly defines a smooth motive with integer coefficients $T(A)$ over $S$.
-:::
-
-::: {.rmenv #chunk-2.3 title="2.3" latex="{2.3}"}
-Recall that a \em{smooth $1$-motive} $X$ over a scheme $S$ consists of
-
-a. a group scheme $L$ over $S$ that, locally, for the étale topology, is a constant group scheme defined by a free $\ZZ$-module of finite type;
-  an abelian scheme $A$ over $S$, and a torus $T$ over $S$;
-b. an extension $E$ of $A$ by $T$, and a morphism $\bar{u}\colon L\to A$;
-c. a morphism $u\colon L\to E$ lifting $\bar{u}$.
-
-We write $X=[L\xrightarrow{u}E]$.
-
-A $1$-motive $X$ over $\QQ$ defines a motive over $\QQ$ with integer coefficients $T(X)$ (cf. [[D3](D3), Section 10, but the crystalline aspect is missing]), and the functor $X\mapsto T(X)$ is fully faithful (cf. [[D3](D3), both 10.1.3 and 2.2]).
-
-For $X=[\ZZ\to0]$, $T(X)$ is the unit motive $\ZZ(0)$.
-For $X=[0\to\Gm]$, $T(X)$ is the Tate motive $\ZZ(1)$.
-For an abelian variety $A$ and $X=[0\to A]$, $T(X)=T(A)$.
-Of course, here, as in \ref{minus-three-points-2.2}, we can take more general bases than $\Spec(\QQ)$.
-:::
-
-::: {.rmenv #chunk-2.4 title="2.4" latex="{2.4}"}
-I conjecture that the set of motives with integer coefficients of the form $T(X)$ for some $1$-motive $X$ is stable under extensions.
-If $T'$ is a motive with integer coefficients, with $T'\otimes\QQ\simto T(X)\otimes\QQ$, then $T'$ is of the form $T(X')$ with $X'$ isogenous to $X$.
-The conjecture is thus equivalent to the claim that the set of motives $T(X)\otimes\QQ$, for $1$-motives $X$, is stable under extensions.
-The word "conjecture" is an abuse of terminology, since the statement itself is not precise.
-What is conjectured is that every realisation system \ref{minus-three-points-1.9} (or \ref{minus-three-points-1.24}, over $S$) that is an extension $T(X)$ by $T(Y)$ (for $1$-motives $X$ and $Y$), and "natural", "coming from geometry", is isomorphic to that defined by a $1$-motive $Z$ that is an extension of $X$ by $Y$.
-
-\oldpage{107}
-A point $a$ of an abelian variety $A$ over $\QQ$ defines a $1$-motive $[\ZZ\xrightarrow{u}A]$ with $u(1)=a$.
-The motive $T([\ZZ\xrightarrow{u}A])$ is an extension of $\ZZ(0)$ by $T(A)$, and the conjecture, applied to $\ZZ(0)$ and $T(A)$, implies that
-$$
-  A(\QQ) \simto \Ext^1(\ZZ(0),T(A))
-$$
-or, equivalently,
-$$
-  A(\QQ)\otimes\QQ \simto \Ext^1(\QQ(0),T(A)\otimes\QQ)
-$$
-(where $\Ext^1$ is in the abelian category of motives).
-
-More generally, if $E$ is an extension of an abelian variety by a torus, we want
-$$
-  E(\QQ) \simto \Ext^1(\ZZ(0),T(E))
-$$
-and similarly for more general bases that $\Spec(\QQ)$.
-
-The case $E=\Gm$ is particularly interesting: for every smooth scheme $S$ over $\Spec(\ZZ)$, we want, in the category of motives with integer coefficients over $S$,
-
-$$
-  \Gamma(S,\OO_S^\times) \simto \Ext^1(\ZZ(0),\ZZ(1)).
-\startverb\tag{2.4.1}\stopverb
-$$
-
-:::
-
 :::: {.rmenv #chunk-2.5 title="2.5" latex="{2.5}"}
-Let $M$ be a realisation system \ref{minus-three-points-1.9}.
-We spell out what a realisation system $E$ given by an extension of $\QQ(0)$ by $M$ is, when $M$ is of weight $\leqslant-1$ (i.e. $M=W_{-1}(M)$).
+    Let $M$ be a realisation system \ref{minus-three-points-1.9}.
+    We spell out what a realisation system $E$ given by an extension of $\QQ(0)$ by $M$ is, when $M$ is of weight $\leqslant-1$ (i.e. $M=W_{-1}(M)$).
 
-::: {.trmenv #M1P title="(M1)P" latex="{(M1)P}"}
-$E_\BB$ is an extension $M_\BB\to E_\BB\xrightarrow{u}\QQ$ of $\QQ$ by $M_\BB$.
-Its data is equivalent to that of $P_\BB\coloneqq u^{-1}(1)$, endowed with its structure as a torsor (principal homogeneous space) for $M_\BB$, i.e. $m\in M_\BB$ acts on $P_\BB$ via $p\mapsto p+m$.
-:::
+    ::: {.trmenv #M1P title="(M1)P" latex="{(M1)P}"}
+    $E_\BB$ is an extension $M_\BB\to E_\BB\xrightarrow{u}\QQ$ of $\QQ$ by $M_\BB$.
+    Its data is equivalent to that of $P_\BB\coloneqq u^{-1}(1)$, endowed with its structure as a torsor (principal homogeneous space) for $M_\BB$, i.e. $m\in M_\BB$ acts on $P_\BB$ via $p\mapsto p+m$.
+    :::
 
-::: {.trmenv #M234P title="(M2,3,4)P" latex="{(M2,3,4)P}"}
-Similarly, the data of $E_\DR$ (resp. $E_\AAf$, $E_\crisp$) is equivalent to that of a torsor $P_\DR$ (resp. $P_\AAf$, $P_\crisp$) for $M_\DR$ (resp. $M_\AAf$, $M_\crisp$).
-:::
+    ::: {.trmenv #M234P title="(M2,3,4)P" latex="{(M2,3,4)P}"}
+    Similarly, the data of $E_\DR$ (resp. $E_\AAf$, $E_\crisp$) is equivalent to that of a torsor $P_\DR$ (resp. $P_\AAf$, $P_\crisp$) for $M_\DR$ (resp. $M_\AAf$, $M_\crisp$).
+    :::
 
-::: {.trmenv #M5P title="(M5)P" latex="{(M5)P}"}
-The comparison morphisms for $E$ can be identified with comparison morphisms $P_\BB\otimes\CC\simto P_\DR\otimes\CC$, $P_\BB\otimes\AAf\simto P_\AAf$, and $P_\DR\otimes\QQ_p\simto P_\crisp$ that are compatible with the analogous morphisms for $M$.
+    ::: {.trmenv #M5P title="(M5)P" latex="{(M5)P}"}
+    The comparison morphisms for $E$ can be identified with comparison morphisms $P_\BB\otimes\CC\simto P_\DR\otimes\CC$, $P_\BB\otimes\AAf\simto P_\AAf$, and $P_\DR\otimes\QQ_p\simto P_\crisp$ that are compatible with the analogous morphisms for $M$.
 
-\subtree{
-  \taxon{notation}
-  \p{
-    #{\otimes}, see \ref{minus-three-points-0.4}.
-  }
-}
-:::
+    \subtree{
+      \taxon{notation}
+      \p{
+        #{\otimes}, see \ref{minus-three-points-0.4}.
+      }
+    }
+    :::
 
-::: {.trmenv #M6P title="(M6)P" latex="{(M6)P}"}
-Since $M$ is, by hypothesis, of weight $\leqslant-1$, and $\QQ(0)$ is of pure weight $0$, the weight filtration of $E$ is determined by that of $M$, i.e. $W_0(E)=E$, and $W_i(E)=W_i(E)$ for $i<0$.
-:::
+    ::: {.trmenv #M6P title="(M6)P" latex="{(M6)P}"}
+    Since $M$ is, by hypothesis, of weight $\leqslant-1$, and $\QQ(0)$ is of pure weight $0$, the weight filtration of $E$ is determined by that of $M$, i.e. $W_0(E)=E$, and $W_i(E)=W_i(E)$ for $i<0$.
+    :::
 
-::: {.trmenv #M7P title="(M7)P" latex="{(M7)P}"}
-\oldpage{108}
-The data of $F_\infty$ for $E$ is equivalent to that of an involution of $P_\BB$ that is compatible with that of $M_\BB$.
-Axiom [(AM2)](minus-three-points-am2) for $E$ is that this involution is induced by the $\CC$-antilinear involution of $P_{\BB,\CC}=\PP_{\DR,\CC}$ with fixed points $P_{\DR,\RR}$.
-:::
+    ::: {.trmenv #M7P title="(M7)P" latex="{(M7)P}"}
+    \oldpage{108}
+    The data of $F_\infty$ for $E$ is equivalent to that of an involution of $P_\BB$ that is compatible with that of $M_\BB$.
+    Axiom [(AM2)](minus-three-points-am2) for $E$ is that this involution is induced by the $\CC$-antilinear involution of $P_{\BB,\CC}=\PP_{\DR,\CC}$ with fixed points $P_{\DR,\RR}$.
+    :::
 
-::: {.trmenv #M8P title="(M8)P" latex="{(M8)P}"}
-The data of the Hodge filtration of $E_\DR$ is equivalent to that of the intersection $F^0P_\DR$ of $F^0E_\DR$ over $P_\DR$, which is a torsor for $F^0M_\DR$: for $p>0$, $F^pE_\DR=F^pM_\DR$; for $p=0$, $F^0E_\DR$ is generated by $F^0P_\DR$; and for $p<0$, $F^pE_\DR$ is the sum of $F^0E_\DR$ and $F^pM_\DR$.
-In other words, the data [(M8)](minus-three-points-m8) for $E_\DR$ is that of a reduction of the structure group of $P_\DR$, from $M_\DR$ to $F^0M_\DR$.
+    ::: {.trmenv #M8P title="(M8)P" latex="{(M8)P}"}
+    The data of the Hodge filtration of $E_\DR$ is equivalent to that of the intersection $F^0P_\DR$ of $F^0E_\DR$ over $P_\DR$, which is a torsor for $F^0M_\DR$: for $p>0$, $F^pE_\DR=F^pM_\DR$; for $p=0$, $F^0E_\DR$ is generated by $F^0P_\DR$; and for $p<0$, $F^pE_\DR$ is the sum of $F^0E_\DR$ and $F^pM_\DR$.
+    In other words, the data [(M8)](minus-three-points-m8) for $E_\DR$ is that of a reduction of the structure group of $P_\DR$, from $M_\DR$ to $F^0M_\DR$.
 
-The data of [(M1)](minus-three-points-m1), [(M2)](minus-three-points-m2), $\comp_{\DR/\BB}$, and [(M8)](minus-three-points-m8) are equivalent to the data of a torsor $F^0P_\DR$ for $F^0M_\DR$ and, in the $M_\DR\otimes\CC=M_\BB\otimes\CC$ torsor $P_{\DR,\CC}$ which is induced by $F^0M_\DR\to M_\DR\otimes\CC$, a $\QQ$-structure $P_\BB\subset P_{\DR,\CC}$ that is an $M_\BB$ torsor.
-:::
+    The data of [(M1)](minus-three-points-m1), [(M2)](minus-three-points-m2), $\comp_{\DR/\BB}$, and [(M8)](minus-three-points-m8) are equivalent to the data of a torsor $F^0P_\DR$ for $F^0M_\DR$ and, in the $M_\DR\otimes\CC=M_\BB\otimes\CC$ torsor $P_{\DR,\CC}$ which is induced by $F^0M_\DR\to M_\DR\otimes\CC$, a $\QQ$-structure $P_\BB\subset P_{\DR,\CC}$ that is an $M_\BB$ torsor.
+    :::
 
-::: {.trmenv #M9P title="(M9)P" latex="{(M9)P}"}
-The data of the action of $\Gal(\bar{\QQ}/\QQ)$ on $E_\AAf$ is equivalent to that of an action of $\Gal(\bar{\QQ}/\QQ)$ on $P_\AAf$, which makes $P_\AAf$ an equivariant $M_\AAf$-torsor.
-:::
+    ::: {.trmenv #M9P title="(M9)P" latex="{(M9)P}"}
+    The data of the action of $\Gal(\bar{\QQ}/\QQ)$ on $E_\AAf$ is equivalent to that of an action of $\Gal(\bar{\QQ}/\QQ)$ on $P_\AAf$, which makes $P_\AAf$ an equivariant $M_\AAf$-torsor.
+    :::
 
-::: {.trmenv #M10P title="(M10)P" latex="{(M10)P}"}
-Similarly, the automorphism $\phi_p$ of $E_\DR\otimes\QQ_p$ corresponds to an automorphism $\phi_p$ of $P_\DR\otimes\QQ_p$ such that
-$$
-  \phi_p(x+m) = \phi_p(x) + \phi_p(m).
-$$
-:::
+    ::: {.trmenv #M10P title="(M10)P" latex="{(M10)P}"}
+    Similarly, the automorphism $\phi_p$ of $E_\DR\otimes\QQ_p$ corresponds to an automorphism $\phi_p$ of $P_\DR\otimes\QQ_p$ such that
+    $$
+      \phi_p(x+m) = \phi_p(x) + \phi_p(m).
+    $$
+    :::
 
-We leave to the reader the task of translating axioms [(AM1)](minus-three-points-am1) to [(AM5)](minus-three-points-am5) for $P$.
-We note only that [(AM1)](minus-three-points-am1) and [(AM4)](minus-three-points-am4) follow from the same axioms for $M$, and that [(AM2)](minus-three-points-am2) and [(AM5)](minus-three-points-am5) can be expressed at best as functoriality in $\CC$, cf. \ref{minus-three-points-1.14}.
+    We leave to the reader the task of translating axioms [(AM1)](minus-three-points-am1) to [(AM5)](minus-three-points-am5) for $P$.
+    We note only that [(AM1)](minus-three-points-am1) and [(AM4)](minus-three-points-am4) follow from the same axioms for $M$, and that [(AM2)](minus-three-points-am2) and [(AM5)](minus-three-points-am5) can be expressed at best as functoriality in $\CC$, cf. \ref{minus-three-points-1.14}.
 ::::
 
 ::: {.rmenv #chunk-2.6 title="2.6 Definition" latex="{2.6 Definition}"}

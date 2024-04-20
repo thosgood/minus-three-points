@@ -3,7 +3,7 @@
 \import{macros}
 
 \put\transclude/numbered{false}
-\put\transclude/expanded{false}
+\put\transclude/expanded{true}
 
 \p{
   This is an English translation of \strong{P. Deligne}'s paper:
@@ -18,8 +18,8 @@
   }
 }
 
-\ul{
-  \li{\todo{replace fref by ref}}
+\p{
+  \todo{replace fref by ref}
 }
 
 \p{
@@ -28,83 +28,77 @@
   Corrections and comments welcome.
 }
 
-\p{\strong{[PDF version coming soon]}}
-
-\p{
-  \strong{Table of contents}
-
-  \olc{
-    \lic{}{
-      [\strong{Introduction}](minus-three-points-introduction) ✓
-    }
-    \lic{0.}{
-      [\strong{Terminology and notation}](minus-three-points-0) ✓
-    }
-    \lic{1.}{
-      [\strong{Mixed motives}](minus-three-points-1) ✓
-    }
-    \lic{2.}{
-      [\strong{Examples}](minus-three-points-2)
-    }
-    \lic{3.}{
-      [\strong{#{\mathbb{Z}(n)}-torsors}](minus-three-points-3)
-    }
-    \lic{4.}{
-      [\strong{Reminders on Ind-objects}](minus-three-points-4)
-    }
-    \lic{5.}{
-      [\strong{Algebraic geometry in a Tannakian category}](minus-three-points-5)
-    }
-    \lic{6.}{
-      [\strong{The fundamental group of a Tannakian category}](minus-three-points-6)
-    }
-    \lic{7.}{
-      [\strong{Algebraic geometry in the Tannakian category of realisation systems: interpretations}](minus-three-points-7)
-    }
-    \lic{8.}{
-      [\strong{Iterated extensions of Tate motives}](minus-three-points-8)
-    }
-    \lic{9.}{
-      [\strong{Reminders on unipotent groups}](minus-three-points-9)
-    }
-    \lic{10.}{
-      [\strong{Theories of #{\pi_1}}](minus-three-points-10)
-    }
-    \lic{11.}{
-      [\strong{The crystalline structure of #{\pi_1}}](minus-three-points-11)
-    }
-    \lic{12.}{
-      [\strong{The Hodge filtration of #{\pi_1}}](minus-three-points-12)
-    }
-    \lic{13.}{
-      [\strong{The motivic #{\pi_1}}](minus-three-points-13)
-    }
-    \lic{14.}{
-      [\strong{Example: the motivic #{\pi_1} of #{\Gm}}](minus-three-points-14)
-    }
-    \lic{15.}{
-      [\strong{Basepoints at infinity}](minus-three-points-15)
-    }
-    \lic{16.}{
-      [\strong{#{\mathbb{P}^1} minus three points: a quotient of the motivic #{\pi_1}}](minus-three-points-16)
-    }
-    \lic{17.}{
-      [\strong{}](minus-three-points-17)
-    }
-    \lic{18.}{
-      [\strong{The torsor #{P_{d,k}+(-1)^kP_{d,k}} is of finite order: geometric approach}](minus-three-points-18)
-    }
-    \lic{19.}{
-      [\strong{Comparison of the #{\mathbb{Z}(k)}-torsors from sections 3 and 16}](minus-three-points-19)
-    }
-    \lic{}{
-      [\strong{Bibliography}](minus-three-points-bibliography) ✓
-    }
+\olc{
+  \lic{}{
+    [\strong{Introduction}](minus-three-points-introduction) ✓
+  }
+  \lic{0.}{
+    [\strong{Terminology and notation}](minus-three-points-0) ✓
+  }
+  \lic{1.}{
+    [\strong{Mixed motives}](minus-three-points-1) ✓
+  }
+  \lic{2.}{
+    [\strong{Examples}](minus-three-points-2)
+  }
+  \lic{3.}{
+    [\strong{#{\mathbb{Z}(n)}-torsors}](minus-three-points-3)
+  }
+  \lic{4.}{
+    [\strong{Reminders on Ind-objects}](minus-three-points-4)
+  }
+  \lic{5.}{
+    [\strong{Algebraic geometry in a Tannakian category}](minus-three-points-5)
+  }
+  \lic{6.}{
+    [\strong{The fundamental group of a Tannakian category}](minus-three-points-6)
+  }
+  \lic{7.}{
+    [\strong{Algebraic geometry in the Tannakian category of realisation systems: interpretations}](minus-three-points-7)
+  }
+  \lic{8.}{
+    [\strong{Iterated extensions of Tate motives}](minus-three-points-8)
+  }
+  \lic{9.}{
+    [\strong{Reminders on unipotent groups}](minus-three-points-9)
+  }
+  \lic{10.}{
+    [\strong{Theories of #{\pi_1}}](minus-three-points-10)
+  }
+  \lic{11.}{
+    [\strong{The crystalline structure of #{\pi_1}}](minus-three-points-11)
+  }
+  \lic{12.}{
+    [\strong{The Hodge filtration of #{\pi_1}}](minus-three-points-12)
+  }
+  \lic{13.}{
+    [\strong{The motivic #{\pi_1}}](minus-three-points-13)
+  }
+  \lic{14.}{
+    [\strong{Example: the motivic #{\pi_1} of #{\Gm}}](minus-three-points-14)
+  }
+  \lic{15.}{
+    [\strong{Basepoints at infinity}](minus-three-points-15)
+  }
+  \lic{16.}{
+    [\strong{#{\mathbb{P}^1} minus three points: a quotient of the motivic #{\pi_1}}](minus-three-points-16)
+  }
+  \lic{17.}{
+    [\strong{}](minus-three-points-17)
+  }
+  \lic{18.}{
+    [\strong{The torsor #{P_{d,k}+(-1)^kP_{d,k}} is of finite order: geometric approach}](minus-three-points-18)
+  }
+  \lic{19.}{
+    [\strong{Comparison of the #{\mathbb{Z}(k)}-torsors from sections 3 and 16}](minus-three-points-19)
+  }
+  \lic{}{
+    [\strong{Bibliography}](minus-three-points-bibliography) ✓
   }
 }
 
-\p{
-  \strong{Leitfaden}
+\subtree{
+  \taxon{leitfaden}
 
   \tikzcd{
     1 \ar[dd, no head] & 4 \ar[d, no head] & & 9 \ar[d, no head] &
