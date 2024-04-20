@@ -23,3 +23,441 @@
 \p{
   A geometric interpretation of the relations of distributions (\fref{minus-three-points-3.13}) will be given in \fref{minus-three-points-17}.
 }
+
+\subtree[minus-three-points-3.1]{
+  \number{3.1}
+
+  \p{
+    We denote by #{P} the torsor #{P_{1,k}} that we are going to define.
+    At the same time, we will define a trivialisation #{u_\BB\in P_\BB} of its Betti realisation.
+    Since #{F^0\ZZ(k)_\DR=0}, we necessarily have that #{P_\DR=\ZZ(k)_\DR=\QQ}.
+    The Betti structure is
+
+    \subtree[minus-three-points-3.1.1k]{
+      \taxon{equation}
+      \number{3.1.1k}
+      ##{
+        \begin{gathered}
+          P_\BB
+          = u_\BB + (2\pi i)^k\ZZ \subset \PP_{\DR,\CC} = \CC
+        \\\text{with}\quad
+          u_\BB
+          = -(k-1)!\zeta(k)
+        \end{gathered}
+      \startverb\tag{3.1.1k}\stopverb
+      }
+    }
+
+    where #{\zeta} is the Riemann #{\zeta} function.
+  }
+
+  \p{
+    Let #{N} be an integer; we will describe #{P_{\ZZ{/}(N)}}.
+    For #{z\in\CC} with #{z\neq1}, let #{T_N(z)\coloneqq K(1-z)_{\ZZ{/}(N)}} be the #{\ZZ{/}N(1)}-torsor of #{N}-th roots of #{1-z}.
+    For #{z=1}, we set #{T_N(1)=K(1/N)_{\ZZ{/}(N)}}.
+    This convention ensures that the sum of the #{T_N(\alpha)} for #{\alpha^N=1} is trivialised: we have
+    ##{
+      \frac{1}{N}\prod(1-\alpha)
+      = 1.
+    }
+  }
+
+  \p{
+    Let #{\alpha} be an #{N}-th root of #{1}.
+    It defines #{\alpha\colon\ZZ{/}N\to\ZZ{/}N(1)} by #{a\mapsto a\cdot\alpha}.
+    We thus obtain #{\alpha^{\otimes(k-1)}\colon\ZZ{/}N(1)\to\ZZ{/}N(k)}.
+    Note that, for #{\alpha=1}, this is the zero map.
+    We denote by #{\alpha^{\otimes(k-1)}T(\alpha)} the #{\ZZ{/}N(k)}-torsor induced from #{T(\alpha)} by applying #{\alpha^{\otimes(k-1)}}.
+    We have
+
+    \subtree[minus-three-points-3.1.2k]{
+      \taxon{equation}
+      \number{3.1.2}
+      ##{
+        P_{\ZZ{/}(N)}
+        \coloneqq \sum_{\alpha^N=1} \alpha^{\otimes(k-1)}T_N(\alpha).
+      \startverb\tag{3.1.2k}\stopverb
+      }
+    }
+
+    \oldpage{113}
+    We can equivalently sum over the #{\alpha\neq1}.
+    This definition still makes sense in any algebraic closure #{\overline{k}} of #{\QQ}, and the action of #{\Gal(\bar{\QQ}/\QQ)} is given by transport of structure.
+  }
+
+  \p{
+    We now define the transition morphisms #{P_{\ZZ{/}(NM)}\to P_{\ZZ{/}(N)}}.
+    We have
+
+    \subtree[minus-three-points-3.1.3]{
+      \taxon{equation}
+      \number{3.1.3}
+      ##{
+        \prod_{u^M=z} (1-u)
+        = 1-z
+      \startverb\tag{3.1.3}\stopverb
+      }
+    }
+
+    whence, for #{z\neq0,1}, we obtain an isomorphism
+
+    \subtree[minus-three-points-3.1.4]{
+      \taxon{equation}
+      \number{3.1.4}
+      ##{
+        T_N(z)
+        = \prod_{u^M=z} T_N(u).
+      \startverb\tag{3.1.4}\stopverb
+      }
+    }
+
+    If #{\beta^N=1} and #{\alpha^M=\beta}, then the reduction #{\mod N} of #{\alpha\colon\ZZ{/}NM\to\ZZ{/}NM(1)} is #{\beta\colon\ZZ{/}N\to\ZZ{/}N(1)}, and that of #{T_{NM}(\alpha)} is #{T_N(\alpha)}.
+    From this, we obtain an isomorphism
+    ##{
+      \begin{aligned}
+        P_{\ZZ{/}(NM)}\mod N
+        &= \sum_{\beta^N=1} \sum_{\alpha^M=\beta} \alpha^{\otimes(k-1)}T_{NM}(\alpha) \mod N
+      \\&= \sum_{\beta^N=1} \beta^{\otimes(k-1)} \sum_{\alpha^M=\beta} T_N(\alpha)
+      \\&= \sum_{\beta^N=1} \beta^{\otimes(k-1)} T_N(\beta)
+      \\&= P_{\ZZ{/}(N)}.
+      \end{aligned}
+    }
+    This defines the desired transition morphism.
+  }
+
+  \p{
+    For non-real negative #{z}, we define the \em{principal determination} of #{z\mapsto z^{1/N}}, and denote by #{z^{1/N}}, that which takes the value of #{1} at #{1}.
+    The morphism of torsors #{\comp_{\ZZ{/}(N),\BB}} sends #{u_\BB} to the point #{u} of #{P_{\ZZ{/}(N)}} defined by the #{(1-\alpha)^{1/N}\in T(\alpha)}:
+    ##{
+      u_\BB
+      \mapsto u
+      = \sum \alpha^{\otimes(k-1)} ((1-\alpha)^{1/N}).
+    }
+  }
+
+  \p{
+    If #{z} is not real and #{\geqslant1}, then we have principal determinations
+
+    \subtree[minus-three-points-3.1.5]{
+      \taxon{equation}
+      \number{3.1.5}
+      ##{
+        \prod_{u^M=z} (1-u)^{1/N}
+        = (1-z)^{1/N}
+      \startverb\tag{3.1.5}\stopverb
+      }
+    }
+
+    as we verify by analytic continuation from #{z=0}, taking \ref{minus-three-points-3.1.3} into account.
+    It follows from \ref{minus-three-points-3.1.5} that the #{\comp_{\ZZ{/}(N),\BB}} are compatible with the transition morphisms.
+  }
+}
+
+\subtree[minus-three-points-3.2]{
+  \number{3.2}
+
+  \p{
+    \oldpage{114}
+    Some preliminaries, before defining #{\phi_p}.
+    The #{k}-logarithm is defined for #{|z|\leqslant1} by
+
+    \subtree[minus-three-points-3.2.1]{
+      \taxon{equation}
+      \number{3.2.1}
+      ##{
+        \ell_k(z)
+        = \sum z^n/n^k.
+      \startverb\tag{3.2.1}\stopverb
+      }
+    }
+
+    The #{\zeta(k)} in the formula giving #{P_\BB} appears in our approach as the value at #{1} of #{\ell_k}.
+    Let #{p} be a prime number and consider the formal series
+
+    \subtree[minus-three-points-3.2.2]{
+      \taxon{equation}
+      \number{3.2.2}
+      ##{
+        \ell_k^{(p)}
+        = \sum_{p\nmid n} z^n/n^k.
+      \startverb\tag{3.2.2}\stopverb
+      }
+    }
+
+    This is the Taylor series expansion of a rigid analytic function on the projective line over #{\QQ_p} with the open disc of radius #{1} centred at #{1} removed.
+    Indeed, we have
+
+    \subtree[minus-three-points-3.2.3]{
+      \taxon{equation}
+      \number{3.2.3}
+      ##{
+        \ell_k^{(p)}(z)
+        = \lim_N \frac{1}{1-z^{p^N}} \sum_{n=1, p\nmid n}^{p^N-1} z^n/n^k.
+      \startverb\tag{3.2.3}\stopverb
+      }
+    }
+
+    From \ref{minus-three-points-3.2.3} we get the identity
+
+    \subtree[minus-three-points-3.2.4]{
+      \taxon{equation}
+      \number{3.2.4}
+      ##{
+        \ell_k^{(p)}(1/z)
+        = -(-1)^k\ell_k^{(p)}(z).
+      \startverb\tag{3.2.4}\stopverb
+      }
+    }
+  }
+
+  \p{
+    A formal series calculation gives, for #{(N,p)=1},
+
+    \subtree[minus-three-points-3.2.5]{
+      \taxon{equation}
+      \number{3.2.5}
+      ##{
+        N^{k-1}\sum_{u^N=z} \ell_k^{(p)}(u)
+        = \ell_k^{(p)}(z).
+      \startverb\tag{3.2.5}\stopverb
+      }
+    }
+
+    This leads us to define the "principal value" at #{1}
+
+    \subtree[minus-three-points-3.2.6]{
+      \taxon{equation}
+      \number{3.2.6}
+      ##{
+        \vp\ell_k^{(p)}(1)
+        \coloneqq \frac{N^{k-1}}{1-N^{k-1}} \sum_{\alpha^N=1,\alpha\neq1} \ell_k^{(p)}(\alpha).
+      \startverb\tag{3.2.6}\stopverb
+      }
+    }
+
+    This number is independent of the choice of #{N} coprime to #{p}.
+    By \ref{minus-three-points-3.2.4}, it is zero for #{k} even.
+  }
+
+  \p{
+    With this notation, the crystalline Frobenius #{\phi_p} is given by
+
+    \subtree[minus-three-points-3.2.7k]{
+      \taxon{equation}
+      \number{3.2.7k}
+      ##{
+        \phi_p^{-1}(0)
+        = (k-1)!p^k\cdot\vp\ell_k^{(p)}(1).
+      \startverb\tag{3.2.7k}\stopverb
+      }
+    }
+  }
+}
+
+\subtree[minus-three-points-3.3]{
+  \taxon{remark}
+  \number{3.3}
+
+  \p{
+    \oldpage{115}
+    We have described the #{\ZZ{/}(N)(k)}-torsor #{P_{\ZZ{/}(N)}} as a sum of torsors indexed by the #{N}-th roots of #{1}.
+    If #{N} is a power of a prime number #{\ell}, say #{N=\ell^n}, then we can again, thanks to \ref{minus-three-points-3.1.4}, write it as a sum indexed by the set #{\mu(N)^\times} of primitive #{N}-th roots of #{1}.
+    Indeed, we have isomorphisms
+    ##{
+      \begin{aligned}
+        P_{\ZZ{/}(N)}
+        &= \sum_{\alpha^N=1}\ldots
+      \\&= \sum_{a=1}^n \sum_{\mu(\ell^a)^\times} \ldots
+      \\&= \sum_{a=1}^n \sum_{\alpha\in\mu(\ell^a)^\times}\alpha^{\otimes(k-1)} \sum_{\beta^{\ell^{n-a}}=\alpha} T_N(\beta).
+      \end{aligned}
+    }
+    In this sum, #{\beta} runs over, for each #{a}, all the primitive #{N}-th roots of #{1}, whence
+    ##{
+      \begin{aligned}
+        P_{\ZZ{/}(N)}
+        &= \sum_{\beta\in\mu(N)^\times}\beta^{\otimes(k-1)}T_N(\beta) \cdot \sum_{a=1}^n\ell^{(n-a)(k-1)}
+      \\&= \frac{1}{1-\ell^{k-1}} \sum_{\beta\in\mu(N)^\times}\beta^{\otimes(k-1)}T_N(\beta).
+      \end{aligned}
+    }
+    The cohomology class of #{P_{\ZZ{/}(N)}} (for #{N=\ell^n}) in #{\HH^1(\Spec(\QQ),\ZZ{/}(N)(k))} thus admits the following description.
+    Let #{\QQ(\zeta)} be the cyclotomic field generated by a primitive #{N}-th root of #{1}.
+    In #{\HH^1(\Spec(\QQ(\zeta)),\ZZ{/}N(1))}, let #{\delta(1-\zeta)} be the Kummer coboundary of #{1-\zeta}.
+    On #{\Spec(\QQ(\zeta))}, #{\zeta} identifies the #{\ZZ{/}N(a)} with one another, and we can think of #{\delta(1-\zeta)} as a class with values in #{\ZZ{/}N(k)}.
+    More precisely, we consider #{\zeta^{\otimes(k-1)}\cup\partial(1-\zeta)\in\HH^1(\Spec(\QQ(\zeta)),\ZZ{/}N(k))}.
+    We have
+    ##{
+      \cl(P_{\ZZ{/}\ell^n})
+      = \frac{1}{1-\ell^{k-1}} \Tr_{\QQ(\zeta)/\QQ}(\zeta^{\otimes(k-1)}\cup\partial(1-\zeta))
+    }
+    and the class of #{P_\ell} is the limit of these classes.
+  }
+}
+
+\subtree[minus-three-points-3.4]{
+  \taxon{remark}
+  \number{3.4}
+
+  \p{
+    We denote by #{\zeta^{(p)}(s)} the #{\zeta} function with its Eulerian factor at #{p} removed:
+    ##{
+      \zeta^{(p)}(s)
+      \coloneqq \sum_{p\nmid n} 1/n^s.
+    }
+    We know that the values of #{\zeta^{(p)}(s)} on the negative integers are rational and admit a #{p}-adic interpolation.
+    More precisely,
+
+    \olc{
+      \lic{a.}{
+        Let #{\CC_p} be the completion of an algebraic closure of #{\QQ_p}.
+        Then the characters #{\chi\colon\ZZ_p^\times\to\CC_p^\times} are the points of a rigid analytic space.
+      }
+      \lic{b.}{
+        \oldpage{116}
+        There exists exactly one rigid analytic function #{\zeta_p^{(p)}(\chi)}, with a simple pole at #{\chi=(x\mapsto x^{-1})}, such that
+        ##{
+          \zeta_p^{(p)}(x\mapsto x^{-1})
+          = \zeta^{(p)}(n)\in\QQ
+        }
+        for every integer #{n<0}.
+      }
+    }
+  }
+
+  \p{
+    We set, for #{n\in\ZZ} with #{n\neq1},
+    ##{
+      \zeta_p^{(p)}(n)
+      \coloneqq \zeta_p^{(p)}(x\mapsto x^{-1}).
+    }
+    This notation differs from that of [[C](C)] or [[Ko](Ko)]: our #{\zeta_p^{(p)}} is not a continuous #{p}-adic function of the \em{integer} #{n}.
+    Instead, it is a continuous function of the \em{character} #{x\mapsto x^n}, itself a continuous function of #{n} if and only if we restrict #{n} to an arithmetic progression of difference #{p-1}.
+    We have
+    ##{
+      \zeta_p^{(p)}(n)
+      = \lim_a \zeta^{(p)}(n-(p-1)p^a).
+    }
+    The trivial zeros of #{\zeta} force #{\zeta_p^{(p)}(n)=0} for even #{n}, i.e. for #{x\mapsto x^{-n}} an even character.
+    More generally, #{\zeta_p^{(p)}(\chi)=0} for even #{\chi}.
+  }
+
+  \p{
+    With this notation, we have (cf. [[C](C); [Ko](Ko)])
+    ##{
+      \vp \ell_k^{(p)}(1)
+      = \zeta_p^{(p)}(k)
+    }
+    and \ref{minus-three-points-3.2.7k} can be rewritten as
+
+    \subtree[minus-three-points-3.4.1k]{
+      \taxon{equation}
+      \number{3.4.1k}
+      ##{
+        \phi_p^{-1}(0)
+        = (k-1)! p^k\zeta_p^{(p)}(k).
+      \startverb\tag{3.4.1k}\stopverb
+      }
+    }
+  }
+}
+
+\subtree[minus-three-points-3.5]{
+  \taxon{proposition}
+  \number{3.5}
+
+  \p{
+    For #{k} even, the torsor #{P_{1,k}} is torsion, with order equal to the denominator of #{\frac{1}{2}\zeta(1-k)}.
+  }
+}
+
+\subtree[minus-three-points-3.6]{
+  \taxon{paraphrase}
+  \number{3.6}
+
+  \p{
+    Let #{P} be a torsor for a realisation system #{M} with integer coefficients.
+    The fact that #{P} is #{n}-torsion means more than "every realisation is #{n}-torsion".
+    Let #{\frac{1}{n}M} be the realisation system #{M\otimes\QQ}, endowed with the integer structure #{\frac{1}{n}M_\BB}.
+    It is isomorphic to #{M}, by an isomorphism that sends #{M\hookrightarrow\frac{1}{n}M} by #{n\colon M\to M}.
+    The fact that #{P} is #{n}-torsion thus implies that it becomes trivial under #{M\to\frac{1}{2}M}.
+    For #{M} of weight #{\leqslant-1}, this implies:
+
+    \olc{
+      \lic{a.}{
+        \oldpage{117}
+        #{P_\BB+\frac{1}{n}M_\BB\cap F^0 P_\DR\otimes\CC\neq\phi} (the intersection in #{P_\BB\otimes\CC\simto P_\DR\otimes\CC}).
+        The point of intersection #{x} is then unique, since #{M_\BB\cap F^0(M_\DR)\otimes\CC=0}.
+      }
+      \lic{b.}{
+        #{x\in F^0 P_{DR}}, i.e. is defined over #{\QQ} for the #{\QQ}-structure #{\DR}.
+      }
+      \lic{c.}{
+        The image of #{x} under #{\comp_{\AAf,B}} is fixed by Galois.
+      }
+      \lic{d.}{
+        The image of #{x} under #{\comp_{\crisp,\DR}} is fixed by #{\phi_p}.
+      }
+    }
+  }
+
+  \p{
+    Suppose that #{F^0 M_\DR=0}.
+    Then #{P_\DR=M_\DR}, and we can identify #{P_\BB} with a lateral class of #{M_\BB\subset M_\DR\otimes\CC}.
+    Condition (a) then becomes #{P_\BB\subset\frac{1}{n}M_\BB}.
+    We have #{x=0}, and (b) is automatic.
+    We can write (d) as #{\phi_p(0)=0}.
+    Let #{p\in P_\BB}.
+    Denote by #{p_M} its image in #{\frac{1}{n}M_\BB}, and set #{p^\wedge=\comp_{\hZZ,\BB}(p)\in P_{\hZZ}} and #{(p_M)^\wedge=\comp_{\AAf,\BB}(p_M)\in M_\AAf}.
+    Condition (c) can then be written as
+
+    \subtree[minus-three-points-3.6.1]{
+      \taxon{equation}
+      \number{3.6.1}
+      ##{
+        \sigma p^\wedge - p^\wedge
+        = (\sigma-1)(p_M)^\wedge.
+      \startverb\tag{3.6.1}\stopverb
+      }
+    }
+  }
+
+  \p{
+    Let #{M=\ZZ(k)} with #{k\geqslant1}.
+    Let #{\sigma\in\Gal(\bar{\QQ}/\QQ)} with image #{c} in #{\hZZ^\times}, i.e. #{\sigma(\zeta)=\zeta^c} for #{\zeta} a root of unity.
+    \ref{minus-three-points-3.6.1} can then be written as
+
+    \subtree[minus-three-points-3.6.2]{
+      \taxon{equation}
+      \number{3.6.2}
+      ##{
+        \sigma p^\wedge - p^\wedge
+        = (c^k-1)(p_M)^\wedge.
+      \startverb\tag{3.6.2}\stopverb
+      }
+    }
+
+    Modulo #{N}, we obtain: let #{c} be an integer coprime to #{Nn}, with #{\sigma} inducing #{\zeta\mapsto\zeta^c} on the #{(Nn)}-th roots of unity.
+    Then #{(c^k-1)p_M\in M_\BB}, and
+
+    \subtree[minus-three-points-3.6.3]{
+      \taxon{equation}
+      \number{3.6.3}
+      ##{
+        \comp_{\hZZ,\BB}((c^k-1)p_M)
+        \equiv \sigma p^\wedge - p^\wedge \mod{N}.
+      \startverb\tag{3.6.3}\stopverb
+      }
+    }
+  }
+
+  \p{
+    In \ref{minus-three-points-3.5}, #{k} is even, and we can take #{p=-(k-1)!\zeta(k)}, and \ref{minus-three-points-3.6.3} is a Galois formula for #{-(c^k-1)(k-1)!\zeta(k)} modulo #{N(2\pi i)^k\ZZ}.
+    We recover a known formula expressing #{\zeta} on the negative integers as an adelic integral.
+  }
+
+  \subtree{
+    \taxon{remark}
+    \p{
+      The above description shows that, if #{P} is of finite order, then its order can be read from its Hodge realisation.
+    }
+  }
+}
