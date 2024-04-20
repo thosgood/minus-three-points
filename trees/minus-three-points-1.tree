@@ -219,3 +219,154 @@
     the more general motives, considered here, are then called \em{mixed motives}
   }
 }
+
+\subtree[minus-three-points-1.4]{
+  \number{1.4}
+
+  \p{
+    If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the #{\HH^i(X)} taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
+    We will explain the case of motives over #{\QQ}:
+    a motive over #{\QQ} should give rise to a system \ref{minus-three-points-m1} to \ref{minus-three-points-m10} as below, satisfying axioms \fref{minus-three-points-am1} to \fref{minus-three-points-am5}.
+  }
+
+  \subtree{
+    \taxon{terminology}
+    \p{
+      all vector spaces are assumed to be of finite dimension;
+      \oldpage{93}
+      "\em{almost every} prime number" means "all, except for a finite number".
+    }
+  }
+
+  \subtree[minus-three-points-m1]{
+    \number{M1}
+    \p{
+      A vector space #{M_\BB} over #{\QQ} called the \em{Betti realisation}.
+    }
+  }
+
+  \subtree[minus-three-points-m2]{
+    \number{M2}
+    \p{
+      A vector space #{M_\DR} over #{\QQ} called the \em{de Rham realisation}.
+    }
+  }
+
+  \subtree[minus-three-points-m3]{
+    \number{M3}
+    \p{
+      A module #{M_\AAf} over #{\AAf} called the \em{étale cohomology realisation}, which is of finite type, by \ref{minus-three-points-m5}.
+    }
+  }
+
+  \subtree[minus-three-points-m4]{
+    \number{M4}
+    \p{
+      For almost every prime number #{p}, a vector space #{M_{\crisp}} over #{\QQ_p} called the \em{crystalline realisation} of the mod-#{p} reduction.
+    }
+  }
+
+  \subtree[minus-three-points-m5]{
+    \number{M5}
+    \p{
+      Comparison isomorphisms
+      ##{
+        \begin{aligned}
+          \comp_{\DR,\BB}\colon
+          &M_\BB\otimes\CC \simto M_\DR\otimes\CC
+        \\\comp_{\AAf,\BB}\colon
+          &M_\BB\otimes\AAf \simto M_\AAf
+        \\\comp_{\crisp,\DR}\colon
+          &M_\DR\otimes\QQ_p \simto M_{\crisp}
+        \end{aligned}
+      }
+    }
+  }
+
+  \subtree[minus-three-points-m6]{
+    \number{M6}
+    \p{
+      #{M_\BB}, #{M_\DR}, #{M_\AAf}, and #{M_{\crisp}} are endowed with a finite increasing filtration #{W} called the \em{weight filtration}.
+      We also denote by #{W} the filtrations that are induced by extension of scalars.
+      The comparison isomorphisms respect #{W}.
+    }
+  }
+
+  \subtree[minus-three-points-m7]{
+    \number{M7}
+    \p{
+      #{M_\BB} is endowed with an involution #{F_\infty} called the \em{Frobenius at infinity}, which respects #{W}.
+    }
+  }
+
+  \subtree[minus-three-points-m8]{
+    \number{M8}
+    \p{
+      #{M_\DR} is endowed with a finite decreasing filtration #{F} called the \em{Hodge filtration}.
+      We also denote by #{F} the filtrations that are induced by extension of scalars.
+    }
+  }
+
+  \subtree[minus-three-points-m9]{
+    \number{M9}
+    \p{
+      #{M_\AAf} is endowed with an action of #{\Gal(\bar{\QQ}/\QQ)} which respects #{W}.
+    }
+  }
+
+  \subtree[minus-three-points-m10]{
+    \number{M10}
+    \p{
+      #{M_{\crisp}} is endowed with an automorphism
+      ##{
+        \phi_p\colon M_{\crisp}\to M_{\crisp}
+      }
+      called the \em{crystalline Frobenius}, which respects #{W}.
+    }
+  }
+
+  \subtree[minus-three-points-am1]{
+    \number{AM1}
+    \p{
+      #{M_\BB}, endowed with #{W} and with the filtration #{F} of #{M_\BB\otimes\CC=M_\DR\otimes\CC}, is a mixed Hodge #{\QQ}-structure [[D2](D2), Definition 2.3.8].
+    }
+  }
+
+  \subtree[minus-three-points-am2]{
+    \number{AM2}
+    \p{
+      We have two real structures on #{M_\BB\otimes\CC} (identified with #{M_\DR\otimes\CC} by the comparison isomorphism), namely #{M_\BB\otimes\RR} and #{M_\DR\otimes\RR};
+      these define antilinear involutions #{c_\BB} and #{c_\DR}, of which #{M_\BB\otimes\RR} and #{M_\DR\otimes\RR} are (respectively) the fixed points.
+      These involutions, as well as the linear involution extending #{F_\infty}, all commute with one another, and satisfy
+      ##{
+        F_\infty
+        = c_\BB c_\DR.
+      }
+      \oldpage{94}
+      In other words, #{c_\DR} respects #{M_\BB\subset M_\BB\otimes\CC=M_\DR\otimes\CC}, and #{c_\DR|M_\BB=F_\infty}.
+    }
+  }
+
+  \subtree[minus-three-points-am3]{
+    \number{AM3}
+    \p{
+      For each prime number #{\ell}, let #{M_\ell} be given by extension of scalars of #{M_\AAf}, so that #{M_\AAf} is then a restricted product of the #{M_\ell}.
+      There exists a finite set #{S} of prime numbers such that, for each #{\ell}, the representation #{M_\ell} of #{\Gal(\bar{\QQ}/\QQ)} is unramified outside of #{S} and #{\ell}.
+    }
+  }
+
+  \subtree[minus-three-points-am4]{
+    \number{AM4}
+    \p{
+      For large enough #{S}, if #{p\not\in S}, then, for all #{\ell\neq p}, the eigenvalues of a geometric Frobenius at #{p} on the #{\Gr_n^W(M_\ell)}, and those of #{\phi_p} on the #{\Gr_n^W(M_{\crisp})}, are algebraic numbers whose complex conjugates are all of absolute value #{p^{n/2}}, and are #{\ell'}-adic units for #{\ell'\neq p}.
+    }
+  }
+
+  \subtree[minus-three-points-am5]{
+    \number{AM5}
+    \p{
+      Let #{c\in\Gal(\bar{\QQ}/\QQ)} be complex conjugation.
+      Then #{c} acts on #{M_\AAf} respecting #{M_\BB\subset M_\AAf}, and induces the involution #{F_\infty} on #{M_\BB}.
+    }
+  }
+}

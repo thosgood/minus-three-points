@@ -1,0 +1,15 @@
+\taxon{reference}
+
+\title{Poids dans la cohomologie des variétés algébriques}
+\author{P. Deligne}
+\date{1974}
+\meta{venue}{\em{Actes ICM Vancouver} pp. 79–85}
+
+\meta{bibtex}{\startverb
+@article{D5,
+  author = {Deligne, P.},
+  title = {{Poids dans la cohomologie des vari\'{e}t\'{e}es alg\'{e}briques}},
+  journal = {Actes ICM Vancouver},
+  year = {1974},
+  pages = {79--85},
+}\stopverb}

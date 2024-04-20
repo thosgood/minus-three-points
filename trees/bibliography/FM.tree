@@ -1,0 +1,11 @@
+\taxon{reference}
+
+\author{J.-M. Fontaine}
+\author{B. Messing}
+\meta{venue}{\em{to appear}}
+
+\meta{bibtex}{\startverb
+@article{FM,
+  author = {Fontaine, J.-M. and Messing, B.},
+  note = {to appear},
+}\stopverb}

@@ -1,0 +1,15 @@
+\taxon{reference}
+
+\title{Catégories tannakiennes}
+\author{P. Deligne}
+\date{1990}
+\meta{venue}{in "Grothendieck Festschrift vol. II" Birkhäuser \em{Prog. in Math.} \strong{87}}
+
+\meta{bibtex}{\startverb
+@incollection{D4,
+  author = {Deligne, P.},
+  title = {{Cat\'{e}gories tannakiennes}},
+  year = {1990}
+  booktitle = {{Grothendieck Festschrift II}},
+  publisher = {Birkh\"{a}user},
+}\stopverb}

@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Equations différentielles à points singuliers réguliers}
+\author{P. Deligne}
+\date{1970}
+\meta{venue}{Springer Verlag \em{Lecture Notes in Math.} \strong{163}}
+
+\meta{bibtex}{\startverb
+@book{D1,
+  author = {Deligne, P.},
+  title = {Equations diff\'{e}rentielles \`{a} points singuliers r\'{e}guliers},
+  series = {Lecture Notes in Math.},
+  volume = {163},
+  year = {1970},
+  publisher = {Springer Verlag},
+}\stopverb}

@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Théorie de Hodge III}
+\author{P. Deligne}
+\date{1974}
+\meta{venue}{\em{Publ. Math. IHÉS} \strong{44} pp. 5–77}
+
+\meta{bibtex}{\startverb
+@article{D3,
+  author = {Deligne, P.},
+  title = {Th\'{e}orie de {{Hodge}} {{III}}},
+  journal = {Publ. Math. IH\'{E}S},
+  volume = {44},
+  year = {1974},
+  pages = {5--77},
+}\stopverb}

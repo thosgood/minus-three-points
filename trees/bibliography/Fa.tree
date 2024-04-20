@@ -1,0 +1,15 @@
+\taxon{reference}
+
+\title{Crystalline cohomology and #{p}-adic Galois representations}
+\author{G. Faltings}
+\date{1998}
+\meta{venue}{\em{Proc. 1st JAMI-conference} pp. 25–81}
+
+\meta{bibtex}{\startverb
+@article{Fa,
+  author = {Faltings, G.},
+  title = {Crystalline cohomology and $p$-adic {{Galois}} representations},
+  year = {1998},
+  journal = {Proc. 1st JAMI-conference},
+  pages = {25--81}
+}\stopverb}

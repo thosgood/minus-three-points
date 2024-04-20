@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Profinite braid groups, Galois representations and complex multiplication}
+\author{Y. Ihara}
+\date{1986}
+\meta{venue}{\em{Ann. of Math.} \strong{123} pp. 3–106}
+
+\meta{bibtex}{\startverb
+@article{I,
+  author = {Ihara, Y.},
+  title = {Profinite braid groups, {{Galois}} representations and complex multiplication},
+  journal = {Ann. of Math.},
+  volume = {123},
+  year = {1986},
+  pages = {3--106},
+}\stopverb}

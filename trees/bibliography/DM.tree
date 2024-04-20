@@ -1,0 +1,19 @@
+\taxon{reference}
+
+\title{Tannakian categories}
+\author{P. Deligne}
+\author{J. Milne}
+\date{1982}
+\meta{venue}{in "Hodge cycles, motives and Shimura varieties" Springer Verlag \em{Lecture Notes in Math.} \strong{900} pp. 101–228}
+
+\meta{bibtex}{\startverb
+@incollection{DM,
+  author = {Deligne, P. and Milne, J.},
+  title = {{Tannakian categories}},
+  booktitle = {{{Hodge}} cycles, motives and {{Shimura}} varieties},
+  series = {Lecture Notes in Math.},
+  volume = {900},
+  year = {1982},
+  publisher = {Springer Verlag},
+  pages = {101--228},
+}\stopverb}
