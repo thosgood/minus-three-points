@@ -38,7 +38,7 @@ style="list-style-type: &quot; &quot;">
       <fr:link
 href="minus-three-points-introduction.xml"
 type="local"
-addr="minus-three-points-introduction"><fr:strong>Introduction</fr:strong></fr:link>
+addr="minus-three-points-introduction"><fr:strong>Introduction</fr:strong></fr:link> ✓
     </html:li>
 
     
@@ -47,7 +47,7 @@ style="list-style-type: &quot;0. &quot;">
       <fr:link
 href="minus-three-points-0.xml"
 type="local"
-addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link>
+addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link> ✓
     </html:li>
 
     
