@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>299</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D3</fr:addr><fr:route>D3.xml</fr:route><fr:title>Théorie de Hodge III</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>333</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D3</fr:addr><fr:route>D3.xml</fr:route><fr:title>Théorie de Hodge III</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>44</fr:strong> pp. 5–77</fr:meta><fr:meta
 name="bibtex">@article{D3,
   author = {Deligne, P.},
@@ -23,7 +23,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>298</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>332</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -114,8 +114,9 @@ display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _
     The category <fr:tex>\mathcal {M}(k)</fr:tex> should be an abelian category, with <fr:tex>\operatorname {Hom}</fr:tex> groups of finite dimension over <fr:tex>\mathbb {Q}</fr:tex>.
     It should be endowed with a tensor product <fr:tex>\otimes \colon \mathcal {M}(k) \times \mathcal {M}(k) \to \mathcal {M}(k)</fr:tex> and associativity and commutative data <fr:tex>(X \otimes  Y) \otimes  Z \xrightarrow { \sim }  X \otimes (Y \otimes  Z)</fr:tex> and <fr:tex>X \otimes  Y \to  Y \otimes  X</fr:tex> satisfying the usual properties
     — more precisely, making <fr:tex>\mathcal {M}(k)</fr:tex> into a Tannakian category [<fr:link
-href="Sa"
-type="external">Sa</fr:link>; <fr:link
+href="Sa.xml"
+type="local"
+addr="Sa">Sa</fr:link>; <fr:link
 href="DM.xml"
 type="local"
 addr="DM">DM</fr:link>; <fr:link

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>275</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>RSS</fr:addr><fr:route>RSS.xml</fr:route><fr:title>Beilinson's conjectures on special values of <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>M. Rapaport</fr:author><fr:author>P. Schneider</fr:author><fr:author>N. Schappacher</fr:author></fr:authors><fr:meta
+name="venue">Acad. Press <fr:em>Perspectives in Math.</fr:em> <fr:strong>4</fr:strong></fr:meta><fr:meta
+name="bibtex">@book{RSS,
+  title = {Beilinson's conjectures on special values of $L$-functions},
+  editor = {Rapaport, M. and Schneider, P. and Schappacher, N.},
+  series = {Perspectives in Math.},
+  volume = {4},
+  year = {1988},
+  publisher = {Acad. Press},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

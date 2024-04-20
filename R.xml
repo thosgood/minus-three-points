@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>R</fr:addr><fr:route>R.xml</fr:route><fr:title>Géométrie analytique rigid d'après Tate, Kiehl, ...</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>M. Raynaud</fr:author></fr:authors><fr:meta
+name="venue">in "Table ronde d'analyse non archimédienne (Paris 1972)" Bull. SMF pp. 319–327</fr:meta><fr:meta
+name="bibtex">@incollection{R,
+  author = {Raynaud, M.},
+  title = {{{G\'{e}om\'{e}trie analytique rigid d'apr\`{e}s Tate, Kiehl, \ldots}}},
+  booktitle = {Table ronde d'analyse non archim\'{e}dienne ({{Paris}} 1972)},
+  publisher = {Bull. SMF},
+  year = {1974},
+  pages = {319--327},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

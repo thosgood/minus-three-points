@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>IKY</fr:addr><fr:route>IKY.xml</fr:route><fr:title>On some properties of the universal power series for Jacobi sums</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author><fr:author>M. Kaneko</fr:author><fr:author>A. Yukinari</fr:author></fr:authors><fr:meta
+name="venue"><fr:em>Adv. Studies in Pure Math.</fr:em> <fr:strong>12</fr:strong> pp. 65–86</fr:meta><fr:meta
+name="bibtex">@article{IKY,
+  author = {Ihara, Y. and Kaneko, M. and Yukinari, A.},
+  title = {On some properties of the universal power series for {Jacobi} sums},
+  journal = {Adv. Studies in Pure Math.},
+  volume = {12},
+  year = {1987},
+  pages = {65--86},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Ki</fr:addr><fr:route>Ki.xml</fr:route><fr:title>Der Endlichkeitssatz für eigenliche Abbildungen in der nichtarchimedischen Funktionentheorie</fr:title><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author>R. Kiehl</fr:author></fr:authors><fr:meta
+name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>2</fr:strong> pp. 191–214</fr:meta><fr:meta
+name="bibtex">@article{Ki,
+  author = {Kiehl, R.},
+  title = {{{Der Endlichkeitssatz f\"{u}r eigenliche Abbildungen in der nichtarchimedischen Funktionentheorie}}},
+  journal = {Inv. Math.},
+  volume = {2},
+  year = {1967},
+  pages = {191--214},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

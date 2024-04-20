@@ -113,8 +113,9 @@ display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _
     The category <fr:tex>\mathcal {M}(k)</fr:tex> should be an abelian category, with <fr:tex>\operatorname {Hom}</fr:tex> groups of finite dimension over <fr:tex>\mathbb {Q}</fr:tex>.
     It should be endowed with a tensor product <fr:tex>\otimes \colon \mathcal {M}(k) \times \mathcal {M}(k) \to \mathcal {M}(k)</fr:tex> and associativity and commutative data <fr:tex>(X \otimes  Y) \otimes  Z \xrightarrow { \sim }  X \otimes (Y \otimes  Z)</fr:tex> and <fr:tex>X \otimes  Y \to  Y \otimes  X</fr:tex> satisfying the usual properties
     — more precisely, making <fr:tex>\mathcal {M}(k)</fr:tex> into a Tannakian category [<fr:link
-href="Sa"
-type="external">Sa</fr:link>; <fr:link
+href="Sa.xml"
+type="local"
+addr="Sa">Sa</fr:link>; <fr:link
 href="DM.xml"
 type="local"
 addr="DM">DM</fr:link>; <fr:link

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>434</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>480</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell .       \tag{1.1.2}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>433</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>479</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -106,8 +106,9 @@ display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _
     The category <fr:tex>\mathcal {M}(k)</fr:tex> should be an abelian category, with <fr:tex>\operatorname {Hom}</fr:tex> groups of finite dimension over <fr:tex>\mathbb {Q}</fr:tex>.
     It should be endowed with a tensor product <fr:tex>\otimes \colon \mathcal {M}(k) \times \mathcal {M}(k) \to \mathcal {M}(k)</fr:tex> and associativity and commutative data <fr:tex>(X \otimes  Y) \otimes  Z \xrightarrow { \sim }  X \otimes (Y \otimes  Z)</fr:tex> and <fr:tex>X \otimes  Y \to  Y \otimes  X</fr:tex> satisfying the usual properties
     — more precisely, making <fr:tex>\mathcal {M}(k)</fr:tex> into a Tannakian category [<fr:link
-href="Sa"
-type="external">Sa</fr:link>; <fr:link
+href="Sa.xml"
+type="local"
+addr="Sa">Sa</fr:link>; <fr:link
 href="DM.xml"
 type="local"
 addr="DM">DM</fr:link>; <fr:link
@@ -154,7 +155,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>432</fr:anchor><fr:addr>minus-three-points-1.3</fr:addr><fr:route>minus-three-points-1.3.xml</fr:route><fr:number>1.3</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>478</fr:anchor><fr:addr>minus-three-points-1.3</fr:addr><fr:route>minus-three-points-1.3.xml</fr:route><fr:number>1.3</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     In each of the known theories, the <fr:tex>\operatorname {H} ^i(X)</fr:tex> are endowed with an increasing filtration <fr:tex>W</fr:tex>, known as the <fr:em>weight filtration</fr:em> [<fr:link
 href="D5.xml"
 type="local"
@@ -203,8 +204,10 @@ style="list-style-type: &quot;c. &quot;">
 
 
     Often, pure motives (or direct sums of pure motives) are simply called <fr:em>motives</fr:em>, and their category admits the conjectural description [<fr:link
-href="Kl"
-type="external">Kl</fr:link>; <fr:link
-href="Man"
-type="external">Man</fr:link>];
+href="Kl.xml"
+type="local"
+addr="Kl">Kl</fr:link>; <fr:link
+href="Man.xml"
+type="local"
+addr="Man">Man</fr:link>];
     the more general motives, considered here, are then called <fr:em>mixed motives</fr:em></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

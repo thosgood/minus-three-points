@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>864</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>977</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>367</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote inductive limits and projective limits by <fr:tex>\operatorname {lim \, ind}</fr:tex> and <fr:tex>\operatorname {lim \, proj}</fr:tex>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -26,7 +26,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>317</fr:anchor><fr:addr>minus-three-points-0.2</fr:addr><fr:route>minus-three-points-0.2.xml</fr:route><fr:number>0.2</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>368</fr:anchor><fr:addr>minus-three-points-0.2</fr:addr><fr:route>minus-three-points-0.2.xml</fr:route><fr:number>0.2</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For a prime number <fr:tex>\ell</fr:tex>, we denote by <fr:tex>\mathbb {Z} _ \ell</fr:tex> and <fr:tex>\mathbb {Q} _ \ell</fr:tex> the completions of <fr:tex>\mathbb {Z}</fr:tex> and <fr:tex>\mathbb {Q}</fr:tex> for the <fr:tex>\ell</fr:tex>-adic topology:
     <fr:tex
 display="block">        \begin {aligned}          \mathbb {Z} _ \ell  &amp;=  \operatorname {lim \, proj}   \mathbb {Z} {/} \ell ^n \mathbb {Z} ,        \\ \mathbb {Q} _ \ell  &amp;=  \mathbb {Z} _ \ell \otimes \mathbb {Q} .        \end {aligned}     </fr:tex>
@@ -41,7 +41,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>318</fr:anchor><fr:addr>minus-three-points-0.3</fr:addr><fr:route>minus-three-points-0.3.xml</fr:route><fr:number>0.3</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>369</fr:anchor><fr:addr>minus-three-points-0.3</fr:addr><fr:route>minus-three-points-0.3.xml</fr:route><fr:number>0.3</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For an abstract group, algebraic group, profinite group, or Lie algebra <fr:tex>A</fr:tex>, we denote by <fr:tex>Z^i(A)</fr:tex> the descending central series.
     We use the numbering for which <fr:tex>A=Z^1(A)</fr:tex>.
     We denote by <fr:tex>A^{(N)}</fr:tex> the quotient of <fr:tex>A</fr:tex> by <fr:tex>Z^{N+1}(A)</fr:tex>.
@@ -53,7 +53,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>370</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>\otimes</fr:tex> an extension of scalars.
     For example, if <fr:tex>X</fr:tex> is a scheme over <fr:tex>k</fr:tex>, and <fr:tex>k'</fr:tex> is an extension of <fr:tex>k</fr:tex>, then we set
     <fr:tex
@@ -64,7 +64,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>320</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>371</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Given an affine scheme <fr:tex>f \colon  X \to  S</fr:tex> over <fr:tex>S</fr:tex>, the quasi-coherent sheaf of algebras <fr:tex>f_* \mathcal {O} _X</fr:tex> will be called the <fr:em>affine algebra</fr:em> of <fr:tex>X/S</fr:tex>, or simply of <fr:tex>X</fr:tex>, and <fr:tex>X</fr:tex> will be called its <fr:em>spectrum</fr:em>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -73,7 +73,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>373</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -92,7 +92,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>372</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
         We will write <fr:tex>{}_HP_G</fr:tex> to mean that <fr:tex>P</fr:tex> is an <fr:tex>(H,G)</fr:tex>-bitorsor.
       </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
     We will use the following operations on torsors and bitorsors.
@@ -120,7 +120,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>863</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>976</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -131,8 +131,7 @@ href="https://doi.org/10.1007/978-1-4613-9649-9_3"
 type="external">10.1007/978-1-4613-9649-9_3</fr:link>.
       <fr:link
 href="http://publications.ias.edu/node/407"
-type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: bibliography</fr:em></fr:strong></fr:li>
-  <fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
+type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
   The translator (<fr:link
 href="https://thosgood.com"
 type="external">Tim Hosgood</fr:link>) takes full responsibility for any errors introduced, and claims no rights to any of the mathematical content herein.
@@ -349,7 +348,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>862</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>975</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -360,8 +359,7 @@ href="https://doi.org/10.1007/978-1-4613-9649-9_3"
 type="external">10.1007/978-1-4613-9649-9_3</fr:link>.
       <fr:link
 href="http://publications.ias.edu/node/407"
-type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: bibliography</fr:em></fr:strong></fr:li>
-  <fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
+type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
   The translator (<fr:link
 href="https://thosgood.com"
 type="external">Tim Hosgood</fr:link>) takes full responsibility for any errors introduced, and claims no rights to any of the mathematical content herein.
