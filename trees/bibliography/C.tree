@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Dilogarithms, Regulators and #{p}-adic #{L}-functions}
+\author{R.F. Coleman}
+\date{1982}
+\meta{venue}{\em{Inv. Math.} \strong{69} pp. 171–208}
+
+\meta{bibtex}{\startverb
+@article{C,
+  author = {Coleman, R.F.},
+  title = {{{Dilogarithms}}, {{Regulators}} and $p$-adic $L$-functions},
+  journal = {Inv. Math.},
+  volume = {69},
+  year = {1982},
+  pages = {171--208},
+}\stopverb}

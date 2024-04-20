@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Torsion points on Fermat Jacobians, roots of circular units and relative singular homology}
+\author{G. Anderson}
+\date{1986}
+\meta{venue}{\em{Duke Math. J.} \strong{53} pp. 457–502}
+
+\meta{bibtex}{\startverb
+@article{A1,
+  author = {Anderson, G.},
+  title = {Torsion points on {{Fermat Jacobians}}, roots of circular units and relative singular homology},
+  journal = {Duke Math. J.},
+  volume = {53},
+  year = {1986},
+  pages = {457--502},
+}\stopverb}

@@ -1,0 +1,16 @@
+\taxon{reference}
+
+\title{Height pairing between algebraic cycles}
+\author{A.A. Beilinson}
+\date{1989}
+\meta{venue}{\em{Contemp. Math.} \strong{67} pp. 1–24}
+
+\meta{bibtex}{\startverb
+@article{B,
+  author = {Beilinson, A.A.},
+  title = {Height pairing between algebraic cycles},
+  journal = {Contemp. Math.},
+  volume = {67},
+  year = {1987},
+  pages = {1--24},
+}\stopverb}
