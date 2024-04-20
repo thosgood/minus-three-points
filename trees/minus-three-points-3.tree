@@ -4,4 +4,22 @@
 
 \import{macros}
 
+\put\transclude/numbered{false}
 
+\p{
+  \oldpage{112}
+  The study of the fundamental group of #{\PP^1\setminus\{0,1,\infty\}} reveals, for each #{k\geqslant2}, a torsor #{P_{1,k}} for #{\ZZ(k)} on #{\Spec(\ZZ)}.
+  We will describe these torsors in this section.
+  The relation with #{\pi_1} will be explained in \fref{minus-three-points-16} (see \fref{minus-three-points-16.23}) and the calculations to justify this will be given in \fref{minus-three-points-19}.
+  We will then describe the torsors #{P_{d,k}} for #{\ZZ(k)} on #{\Spec(\QQ(\sqrt[d]{1}))}, given by an analogous construction (\fref{minus-three-points-16.28}).
+}
+
+\p{
+  The sum of the #{P_{d,k}} and of #{(-1)^k} times its symmetry under #{\zeta\mapsto\zeta^{-1}} is torsion.
+  This is essentially equivalent to the adelic integral formulas for the value of the Dirichlet #{L} functions at negative integers: \fref{minus-three-points-3.6}, \fref{minus-three-points-3.8}, \fref{minus-three-points-3.9}, and \fref{minus-three-points-3.14}.
+  A geometric interpretation, which allows us to reprove these formulas, will be given in \fref{minus-three-points-18}.
+}
+
+\p{
+  A geometric interpretation of the relations of distributions (\fref{minus-three-points-3.13}) will be given in \fref{minus-three-points-17}.
+}

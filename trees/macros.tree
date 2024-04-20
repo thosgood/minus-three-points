@@ -31,6 +31,8 @@
   \tex{\usepackage{amsmath,tikz-cd}}{\begin{tikzcd}\body\end{tikzcd}}
 }
 
+\def\sqbrack[x]{#{[\x]}}
+
 \def\mot{#{\mathrm{mot}}}
 \def\PP{#{\mathbb{P}}}
 \def\ZZ{#{\mathbb{Z}}}
