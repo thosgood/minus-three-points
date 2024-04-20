@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>912</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>minus-three-points-bibliography</fr:addr><fr:route>minus-three-points-bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
+root="false"><fr:frontmatter><fr:anchor>982</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>minus-three-points-bibliography</fr:addr><fr:route>minus-three-points-bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
   <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
@@ -15,14 +15,14 @@ numbered="true"
 show-heading="false"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>911</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
+root="false"><fr:frontmatter><fr:anchor>981</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>846</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>916</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Proc. 1st JAMI-conference</fr:em> pp. 25–81</fr:meta><fr:meta
 name="bibtex">@article{Fa,
   author = {Faltings, G.},
@@ -37,7 +37,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>848</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D4</fr:addr><fr:route>D4.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1990</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>918</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D4</fr:addr><fr:route>D4.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1990</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue">in "Grothendieck Festschrift vol. II" Birkhäuser <fr:em>Prog. in Math.</fr:em> <fr:strong>87</fr:strong></fr:meta><fr:meta
 name="bibtex">@incollection{D4,
   author = {Deligne, P.},
@@ -52,7 +52,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>850</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>920</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Contemp. Math.</fr:em> <fr:strong>67</fr:strong> pp. 1–24</fr:meta><fr:meta
 name="bibtex">@article{B,
   author = {Beilinson, A.A.},
@@ -68,7 +68,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>852</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A2</fr:addr><fr:route>A2.xml</fr:route><fr:title>The hyperadelic gamma function</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>922</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A2</fr:addr><fr:route>A2.xml</fr:route><fr:title>The hyperadelic gamma function</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>95</fr:strong> pp. 63–131</fr:meta><fr:meta
 name="bibtex">@article{A2,
   author = {Anderson, G.},
@@ -84,7 +84,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>854</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>RSS</fr:addr><fr:route>RSS.xml</fr:route><fr:title>Beilinson's conjectures on special values of <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>M. Rapaport</fr:author><fr:author>P. Schneider</fr:author><fr:author>N. Schappacher</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>924</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>RSS</fr:addr><fr:route>RSS.xml</fr:route><fr:title>Beilinson's conjectures on special values of <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>M. Rapaport</fr:author><fr:author>P. Schneider</fr:author><fr:author>N. Schappacher</fr:author></fr:authors><fr:meta
 name="venue">Acad. Press <fr:em>Perspectives in Math.</fr:em> <fr:strong>4</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{RSS,
   title = {Beilinson's conjectures on special values of $L$-functions},
@@ -100,7 +100,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>858</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>J</fr:addr><fr:route>J.xml</fr:route><fr:title>Mixed motives and algebraic <fr:tex>K</fr:tex>-theory</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>U. Jannsen</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>928</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>J</fr:addr><fr:route>J.xml</fr:route><fr:title>Mixed motives and algebraic <fr:tex>K</fr:tex>-theory</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>U. Jannsen</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>preprint</fr:em> Universität Regensburg</fr:meta><fr:meta
 name="bibtex">@article{J,
   author = {Jannsen, U.},
@@ -114,7 +114,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>860</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>IKY</fr:addr><fr:route>IKY.xml</fr:route><fr:title>On some properties of the universal power series for Jacobi sums</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author><fr:author>M. Kaneko</fr:author><fr:author>A. Yukinari</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>930</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>IKY</fr:addr><fr:route>IKY.xml</fr:route><fr:title>On some properties of the universal power series for Jacobi sums</fr:title><fr:date><fr:year>1987</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author><fr:author>M. Kaneko</fr:author><fr:author>A. Yukinari</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Adv. Studies in Pure Math.</fr:em> <fr:strong>12</fr:strong> pp. 65–86</fr:meta><fr:meta
 name="bibtex">@article{IKY,
   author = {Ihara, Y. and Kaneko, M. and Yukinari, A.},
@@ -130,7 +130,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>864</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>I</fr:addr><fr:route>I.xml</fr:route><fr:title>Profinite braid groups, Galois representations and complex multiplication</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>934</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>I</fr:addr><fr:route>I.xml</fr:route><fr:title>Profinite braid groups, Galois representations and complex multiplication</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Ann. of Math.</fr:em> <fr:strong>123</fr:strong> pp. 3–106</fr:meta><fr:meta
 name="bibtex">@article{I,
   author = {Ihara, Y.},
@@ -146,7 +146,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>866</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A1</fr:addr><fr:route>A1.xml</fr:route><fr:title>Torsion points on Fermat Jacobians, roots of circular units and relative singular homology</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>936</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A1</fr:addr><fr:route>A1.xml</fr:route><fr:title>Torsion points on Fermat Jacobians, roots of circular units and relative singular homology</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Duke Math. J.</fr:em> <fr:strong>53</fr:strong> pp. 457–502</fr:meta><fr:meta
 name="bibtex">@article{A1,
   author = {Anderson, G.},
@@ -162,7 +162,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>868</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>SZ</fr:addr><fr:route>SZ.xml</fr:route><fr:title>Variations of mixed Hodge structures I</fr:title><fr:date><fr:year>1985</fr:year></fr:date><fr:authors><fr:author>J. Steenbrink</fr:author><fr:author>S. Zucker</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>938</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>SZ</fr:addr><fr:route>SZ.xml</fr:route><fr:title>Variations of mixed Hodge structures I</fr:title><fr:date><fr:year>1985</fr:year></fr:date><fr:authors><fr:author>J. Steenbrink</fr:author><fr:author>S. Zucker</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>80</fr:strong> pp. 489–542</fr:meta><fr:meta
 name="bibtex">@article{SZ,
   author = {J. Steenbrink and S. Zucker},
@@ -178,7 +178,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>871</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FL</fr:addr><fr:route>FL.xml</fr:route><fr:title>Construction de représentations <fr:tex>p</fr:tex>-adiques</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>G. Laffaille</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>941</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FL</fr:addr><fr:route>FL.xml</fr:route><fr:title>Construction de représentations <fr:tex>p</fr:tex>-adiques</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>G. Laffaille</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Ann. Sci. ENS</fr:em> <fr:strong>15</fr:strong> pp. 547–608</fr:meta><fr:meta
 name="bibtex">@article{FL,
   author = {Fontaine, J.-M. and Laffaille, G.},
@@ -194,7 +194,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>874</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>944</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>69</fr:strong> pp. 171–208</fr:meta><fr:meta
 name="bibtex">@article{C,
   author = {Coleman, R.F.},
@@ -210,7 +210,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>876</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>946</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
 name="venue">in "Hodge cycles, motives and Shimura varieties" Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>900</fr:strong> pp. 101–228</fr:meta><fr:meta
 name="bibtex">@incollection{DM,
   author = {Deligne, P. and Milne, J.},
@@ -228,7 +228,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>879</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Ko</fr:addr><fr:route>Ko.xml</fr:route><fr:title>A new proof of certain formulas for <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1979</fr:year></fr:date><fr:authors><fr:author>N. Koblitz</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>949</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Ko</fr:addr><fr:route>Ko.xml</fr:route><fr:title>A new proof of certain formulas for <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1979</fr:year></fr:date><fr:authors><fr:author>N. Koblitz</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Duke Math. J.</fr:em> <fr:strong>462</fr:strong> pp. 455–468</fr:meta><fr:meta
 name="bibtex">@article{Ko,
   author = {Koblitz, N.},
@@ -244,7 +244,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>881</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mo</fr:addr><fr:route>Mo.xml</fr:route><fr:title>The algebraic topology of smooth algebraic varieties</fr:title><fr:date><fr:year>1978</fr:year></fr:date><fr:authors><fr:author>J. Morgan</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>951</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mo</fr:addr><fr:route>Mo.xml</fr:route><fr:title>The algebraic topology of smooth algebraic varieties</fr:title><fr:date><fr:year>1978</fr:year></fr:date><fr:authors><fr:author>J. Morgan</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>48</fr:strong> pp. 137–204</fr:meta><fr:meta
 name="bibtex">@article{Mo,
   author = {Morgan, J.},
@@ -260,7 +260,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>883</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Su</fr:addr><fr:route>Su.xml</fr:route><fr:title>Infinitesimal computations in topology</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>D. Sullivan</fr:author><fr:author>S. Zucker</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>953</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Su</fr:addr><fr:route>Su.xml</fr:route><fr:title>Infinitesimal computations in topology</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>D. Sullivan</fr:author><fr:author>S. Zucker</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>47</fr:strong> pp. 269–332</fr:meta><fr:meta
 name="bibtex">@article{Su,
   author = {Sullivan, D.},
@@ -276,7 +276,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>886</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>R</fr:addr><fr:route>R.xml</fr:route><fr:title>Géométrie analytique rigid d'après Tate, Kiehl, ...</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>M. Raynaud</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>956</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>R</fr:addr><fr:route>R.xml</fr:route><fr:title>Géométrie analytique rigid d'après Tate, Kiehl, ...</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>M. Raynaud</fr:author></fr:authors><fr:meta
 name="venue">in "Table ronde d'analyse non archimédienne (Paris 1972)" Bull. SMF pp. 319–327</fr:meta><fr:meta
 name="bibtex">@incollection{R,
   author = {Raynaud, M.},
@@ -292,7 +292,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>888</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D5</fr:addr><fr:route>D5.xml</fr:route><fr:title>Poids dans la cohomologie des variétés algébriques</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>958</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D5</fr:addr><fr:route>D5.xml</fr:route><fr:title>Poids dans la cohomologie des variétés algébriques</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Actes ICM Vancouver</fr:em> pp. 79–85</fr:meta><fr:meta
 name="bibtex">@article{D5,
   author = {Deligne, P.},
@@ -307,7 +307,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>890</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D3</fr:addr><fr:route>D3.xml</fr:route><fr:title>Théorie de Hodge III</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>960</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D3</fr:addr><fr:route>D3.xml</fr:route><fr:title>Théorie de Hodge III</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>44</fr:strong> pp. 5–77</fr:meta><fr:meta
 name="bibtex">@article{D3,
   author = {Deligne, P.},
@@ -323,7 +323,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>892</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Sa</fr:addr><fr:route>Sa.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1972</fr:year></fr:date><fr:authors><fr:author>N. Saavedra</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>962</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Sa</fr:addr><fr:route>Sa.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1972</fr:year></fr:date><fr:authors><fr:author>N. Saavedra</fr:author></fr:authors><fr:meta
 name="venue">Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>265</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{Sa,
   author = {Saavedra, N.},
@@ -339,7 +339,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>894</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Kl</fr:addr><fr:route>Kl.xml</fr:route><fr:title>Motives</fr:title><fr:date><fr:year>1972</fr:year></fr:date><fr:authors><fr:author>S. Kleiman</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>964</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Kl</fr:addr><fr:route>Kl.xml</fr:route><fr:title>Motives</fr:title><fr:date><fr:year>1972</fr:year></fr:date><fr:authors><fr:author>S. Kleiman</fr:author></fr:authors><fr:meta
 name="venue">in "Proc. 5th Nordic Summer School, Oslo 1970" Wolters–Nordhoff</fr:meta><fr:meta
 name="bibtex">@incollection{Kl,
   author = {Kleiman, S.},
@@ -354,7 +354,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>896</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>966</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>40</fr:strong> pp. 5–58</fr:meta><fr:meta
 name="bibtex">@article{D2,
   author = {Deligne, P.},
@@ -370,7 +370,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>898</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D1</fr:addr><fr:route>D1.xml</fr:route><fr:title>Equations différentielles à points singuliers réguliers</fr:title><fr:date><fr:year>1970</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>968</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D1</fr:addr><fr:route>D1.xml</fr:route><fr:title>Equations différentielles à points singuliers réguliers</fr:title><fr:date><fr:year>1970</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue">Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>163</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{D1,
   author = {Deligne, P.},
@@ -386,7 +386,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>900</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Man</fr:addr><fr:route>Man.xml</fr:route><fr:title>Correspondences, motives and monoïdal transformations</fr:title><fr:date><fr:year>1968</fr:year></fr:date><fr:authors><fr:author>Y. Manin</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>970</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Man</fr:addr><fr:route>Man.xml</fr:route><fr:title>Correspondences, motives and monoïdal transformations</fr:title><fr:date><fr:year>1968</fr:year></fr:date><fr:authors><fr:author>Y. Manin</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Math. USSE-Sb.</fr:em> <fr:strong>6</fr:strong> pp. 439–470</fr:meta><fr:meta
 name="bibtex">@article{Man,
   author = {Manin, Y.},
@@ -403,7 +403,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>902</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Ki</fr:addr><fr:route>Ki.xml</fr:route><fr:title>Der Endlichkeitssatz für eigenliche Abbildungen in der nichtarchimedischen Funktionentheorie</fr:title><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author>R. Kiehl</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>972</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Ki</fr:addr><fr:route>Ki.xml</fr:route><fr:title>Der Endlichkeitssatz für eigenliche Abbildungen in der nichtarchimedischen Funktionentheorie</fr:title><fr:date><fr:year>1967</fr:year></fr:date><fr:authors><fr:author>R. Kiehl</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>2</fr:strong> pp. 191–214</fr:meta><fr:meta
 name="bibtex">@article{Ki,
   author = {Kiehl, R.},
@@ -419,7 +419,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>904</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>G</fr:addr><fr:route>G.xml</fr:route><fr:title>On the de Rham cohomology of algebraic varieties</fr:title><fr:date><fr:year>1966</fr:year></fr:date><fr:authors><fr:author>A. Grothendieck</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>974</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>G</fr:addr><fr:route>G.xml</fr:route><fr:title>On the de Rham cohomology of algebraic varieties</fr:title><fr:date><fr:year>1966</fr:year></fr:date><fr:authors><fr:author>A. Grothendieck</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>29</fr:strong> pp. 95–103</fr:meta><fr:meta
 name="bibtex">@article{G,
   author = {Grothendieck, A.},
@@ -435,7 +435,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>906</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mal</fr:addr><fr:route>Mal.xml</fr:route><fr:title>Nilpotent torsion free groups</fr:title><fr:date><fr:year>1949</fr:year></fr:date><fr:authors><fr:author>A.I. Malcev</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>976</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mal</fr:addr><fr:route>Mal.xml</fr:route><fr:title>Nilpotent torsion free groups</fr:title><fr:date><fr:year>1949</fr:year></fr:date><fr:authors><fr:author>A.I. Malcev</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Izv. Akad. Nauk.</fr:em> <fr:strong>13</fr:strong> pp. 201–212</fr:meta><fr:meta
 name="bibtex">@article{Mal,
   author = {Malcev, A.I.},
@@ -451,7 +451,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>908</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FM</fr:addr><fr:route>FM.xml</fr:route><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>B. Messing</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>978</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FM</fr:addr><fr:route>FM.xml</fr:route><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>B. Messing</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>to appear</fr:em></fr:meta><fr:meta
 name="bibtex">@article{FM,
   author = {Fontaine, J.-M. and Messing, B.},
@@ -464,7 +464,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>845</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>915</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -475,7 +475,7 @@ href="https://doi.org/10.1007/978-1-4613-9649-9_3"
 type="external">10.1007/978-1-4613-9649-9_3</fr:link>.
       <fr:link
 href="http://publications.ias.edu/node/407"
-type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
+type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:p><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:p><fr:p>
   The translator (<fr:link
 href="https://thosgood.com"
 type="external">Tim Hosgood</fr:link>) takes full responsibility for any errors introduced, and claims no rights to any of the mathematical content herein.
@@ -483,196 +483,200 @@ type="external">Tim Hosgood</fr:link>) takes full responsibility for any errors 
 href="https://github.com/thosgood/minus-three-points"
 type="external">GitHub repository</fr:link>.
   Corrections and comments welcome.
-</fr:p><fr:p><fr:strong>[PDF version coming soon]</fr:strong></fr:p><fr:p><fr:strong>Table of contents</fr:strong>
-
-  
+</fr:p>
  <html:ol
 xmlns:html="http://www.w3.org/1999/xhtml">
-    
+  
  <html:li
 style="list-style-type: &quot; &quot;">
-      <fr:link
+    <fr:link
 href="minus-three-points-introduction.xml"
 type="local"
 addr="minus-three-points-introduction"><fr:strong>Introduction</fr:strong></fr:link> ✓
-    </html:li>
+  </html:li>
 
-    
+  
  <html:li
 style="list-style-type: &quot;0. &quot;">
-      <fr:link
+    <fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link> ✓
-    </html:li>
+  </html:li>
 
-    
+  
  <html:li
 style="list-style-type: &quot;1. &quot;">
-      <fr:link
+    <fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link> ✓
-    </html:li>
+  </html:li>
 
-    
+  
  <html:li
 style="list-style-type: &quot;2. &quot;">
-      <fr:link
+    <fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
-    </html:li>
+  </html:li>
 
-    
+  
  <html:li
 style="list-style-type: &quot;3. &quot;">
-      <fr:link
+    <fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;4. &quot;">
-      <fr:link
-href="minus-three-points-4"
-type="external"><fr:strong>Reminders on Ind-objects</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;5. &quot;">
-      <fr:link
-href="minus-three-points-5"
-type="external"><fr:strong>Algebraic geometry in a Tannakian category</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;6. &quot;">
-      <fr:link
-href="minus-three-points-6"
-type="external"><fr:strong>The fundamental group of a Tannakian category</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;7. &quot;">
-      <fr:link
-href="minus-three-points-7"
-type="external"><fr:strong>Algebraic geometry in the Tannakian category of realisation systems: interpretations</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;8. &quot;">
-      <fr:link
-href="minus-three-points-8"
-type="external"><fr:strong>Iterated extensions of Tate motives</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;9. &quot;">
-      <fr:link
-href="minus-three-points-9"
-type="external"><fr:strong>Reminders on unipotent groups</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;10. &quot;">
-      <fr:link
-href="minus-three-points-10"
-type="external"><fr:strong>Theories of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;11. &quot;">
-      <fr:link
-href="minus-three-points-11"
-type="external"><fr:strong>The crystalline structure of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;12. &quot;">
-      <fr:link
-href="minus-three-points-12"
-type="external"><fr:strong>The Hodge filtration of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;13. &quot;">
-      <fr:link
-href="minus-three-points-13"
-type="external"><fr:strong>The motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;14. &quot;">
-      <fr:link
-href="minus-three-points-14"
-type="external"><fr:strong>Example: the motivic <fr:tex>\pi _1</fr:tex> of <fr:tex>\mathbb {G}_ \mathrm {m}</fr:tex></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;15. &quot;">
-      <fr:link
-href="minus-three-points-15"
-type="external"><fr:strong>Basepoints at infinity</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;16. &quot;">
-      <fr:link
-href="minus-three-points-16"
-type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a quotient of the motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;17. &quot;">
-      <fr:link
-href="minus-three-points-17"
-type="external"><fr:strong></fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;18. &quot;">
-      <fr:link
-href="minus-three-points-18"
-type="external"><fr:strong>The torsor <fr:tex>P_{d,k}+(-1)^kP_{d,k}</fr:tex> is of finite order: geometric approach</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot;19. &quot;">
-      <fr:link
-href="minus-three-points-19"
-type="external"><fr:strong>Comparison of the <fr:tex>\mathbb {Z}(k)</fr:tex>-torsors from sections 3 and 16</fr:strong></fr:link>
-    </html:li>
-
-    
- <html:li
-style="list-style-type: &quot; &quot;">
-      <fr:link
-href="minus-three-points-bibliography.xml"
-type="local"
-addr="minus-three-points-bibliography"><fr:strong>Bibliography</fr:strong></fr:link>
-    </html:li>
-
-  </html:ol></fr:p><fr:p><fr:strong>Leitfaden</fr:strong>
+  </html:li>
 
   
+ <html:li
+style="list-style-type: &quot;4. &quot;">
+    <fr:link
+href="minus-three-points-4"
+type="external"><fr:strong>Reminders on Ind-objects</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;5. &quot;">
+    <fr:link
+href="minus-three-points-5"
+type="external"><fr:strong>Algebraic geometry in a Tannakian category</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;6. &quot;">
+    <fr:link
+href="minus-three-points-6"
+type="external"><fr:strong>The fundamental group of a Tannakian category</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;7. &quot;">
+    <fr:link
+href="minus-three-points-7"
+type="external"><fr:strong>Algebraic geometry in the Tannakian category of realisation systems: interpretations</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;8. &quot;">
+    <fr:link
+href="minus-three-points-8"
+type="external"><fr:strong>Iterated extensions of Tate motives</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;9. &quot;">
+    <fr:link
+href="minus-three-points-9"
+type="external"><fr:strong>Reminders on unipotent groups</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;10. &quot;">
+    <fr:link
+href="minus-three-points-10"
+type="external"><fr:strong>Theories of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;11. &quot;">
+    <fr:link
+href="minus-three-points-11"
+type="external"><fr:strong>The crystalline structure of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;12. &quot;">
+    <fr:link
+href="minus-three-points-12"
+type="external"><fr:strong>The Hodge filtration of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;13. &quot;">
+    <fr:link
+href="minus-three-points-13"
+type="external"><fr:strong>The motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;14. &quot;">
+    <fr:link
+href="minus-three-points-14"
+type="external"><fr:strong>Example: the motivic <fr:tex>\pi _1</fr:tex> of <fr:tex>\mathbb {G}_ \mathrm {m}</fr:tex></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;15. &quot;">
+    <fr:link
+href="minus-three-points-15"
+type="external"><fr:strong>Basepoints at infinity</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;16. &quot;">
+    <fr:link
+href="minus-three-points-16"
+type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a quotient of the motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;17. &quot;">
+    <fr:link
+href="minus-three-points-17"
+type="external"><fr:strong></fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;18. &quot;">
+    <fr:link
+href="minus-three-points-18"
+type="external"><fr:strong>The torsor <fr:tex>P_{d,k}+(-1)^kP_{d,k}</fr:tex> is of finite order: geometric approach</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot;19. &quot;">
+    <fr:link
+href="minus-three-points-19"
+type="external"><fr:strong>Comparison of the <fr:tex>\mathbb {Z}(k)</fr:tex>-torsors from sections 3 and 16</fr:strong></fr:link>
+  </html:li>
+
+  
+ <html:li
+style="list-style-type: &quot; &quot;">
+    <fr:link
+href="minus-three-points-bibliography.xml"
+type="local"
+addr="minus-three-points-bibliography"><fr:strong>Bibliography</fr:strong></fr:link> ✓
+  </html:li>
+
+</html:ol>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>748</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;
@@ -685,4 +689,5 @@ hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {a
    \\  &amp; &amp; &amp; 16  \ar [d, no head]  \ar [dr, no head]  \ar [ddl, no head] &amp;
    \\  &amp; &amp; &amp; 17  \ar [dl, no head, dashed] &amp; 18
    \\  &amp; &amp; 19 &amp; &amp;
-   \end {tikzcd}</fr:embedded-tex-body></fr:embedded-tex></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+   \end {tikzcd}</fr:embedded-tex-body></fr:embedded-tex>
+</fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

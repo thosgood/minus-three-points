@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>778</fr:anchor><fr:addr>minus-three-points-mp2s</fr:addr><fr:route>minus-three-points-mp2s.xml</fr:route><fr:number>M'2S</fr:number><fr:parent>minus-three-points-1.21</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>845</fr:anchor><fr:addr>minus-three-points-mp2s</fr:addr><fr:route>minus-three-points-mp2s.xml</fr:route><fr:number>M'2S</fr:number><fr:parent>minus-three-points-1.21</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       A vector bundle <fr:tex>M_ { \mathrm {DR}}</fr:tex> with integrable connection on <fr:tex>S_ \mathbb {Q}</fr:tex>, assumed to be regularly singular at infinity.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>777</fr:anchor><fr:addr>minus-three-points-1.21</fr:addr><fr:route>minus-three-points-1.21.xml</fr:route><fr:number>1.21</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>844</fr:anchor><fr:addr>minus-three-points-1.21</fr:addr><fr:route>minus-three-points-1.21.xml</fr:route><fr:number>1.21</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>S</fr:tex> be smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
     Here is a provisional definition of smooth realisation systems over <fr:tex>S</fr:tex>, inspired by <fr:ref
 addr="minus-three-points-1.18"

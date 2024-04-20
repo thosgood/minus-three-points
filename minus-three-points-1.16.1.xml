@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>553</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>561</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">         A \otimes  A \to  A       \tag{1.16.1}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>552</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>minus-three-points-1.16</fr:addr><fr:route>minus-three-points-1.16.xml</fr:route><fr:number>1.16</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>560</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>minus-three-points-1.16</fr:addr><fr:route>minus-three-points-1.16.xml</fr:route><fr:number>1.16</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     (The motivic <fr:tex>\operatorname {H} ^0</fr:tex> of the spectrum of a number field).
   </fr:p><fr:p>
     Let <fr:tex>E</fr:tex> be a finite extension of <fr:tex>\mathbb {Q}</fr:tex>, unramified outside of a finite set <fr:tex>P</fr:tex> of prime numbers.
@@ -55,7 +55,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>449</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>454</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">         A \otimes  A \to  A       \tag{1.16.1}       </fr:tex></fr:mainmatter></fr:tree>
 
     namely the cup product, which makes <fr:tex>A</fr:tex> a commutative ring with unit in the Tannakian category of motives (cf. [minus-three-points-5.3]).

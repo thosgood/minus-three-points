@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>724</fr:anchor><fr:taxon>Equations</fr:taxon><fr:addr>minus-three-points-2.4.1</fr:addr><fr:route>minus-three-points-2.4.1.xml</fr:route><fr:number>2.4.1</fr:number><fr:parent>minus-three-points-2.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \Gamma (S, \mathcal {O} _S^ \times )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0), \mathbb {Z} (1)).       \tag{2.4.1}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>723</fr:anchor><fr:addr>minus-three-points-2.4</fr:addr><fr:route>minus-three-points-2.4.xml</fr:route><fr:number>2.4</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    I conjecture that the set of motives with integer coefficients of the form <fr:tex>T(X)</fr:tex> for some <fr:tex>1</fr:tex>-motive <fr:tex>X</fr:tex> is stable under extensions.
+    If <fr:tex>T'</fr:tex> is a motive with integer coefficients, with <fr:tex>T' \otimes \mathbb {Q} \xrightarrow { \sim }  T(X) \otimes \mathbb {Q}</fr:tex>, then <fr:tex>T'</fr:tex> is of the form <fr:tex>T(X')</fr:tex> with <fr:tex>X'</fr:tex> isogenous to <fr:tex>X</fr:tex>.
+    The conjecture is thus equivalent to the claim that the set of motives <fr:tex>T(X) \otimes \mathbb {Q}</fr:tex>, for <fr:tex>1</fr:tex>-motives <fr:tex>X</fr:tex>, is stable under extensions.
+    The word "conjecture" is an abuse of terminology, since the statement itself is not precise.
+    What is conjectured is that every realisation system <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref> (or <fr:ref
+addr="minus-three-points-1.24"
+href="minus-three-points-1.24.xml"
+number="1.24"></fr:ref>, over <fr:tex>S</fr:tex>) that is an extension <fr:tex>T(X)</fr:tex> by <fr:tex>T(Y)</fr:tex> (for <fr:tex>1</fr:tex>-motives <fr:tex>X</fr:tex> and <fr:tex>Y</fr:tex>), and "natural", "coming from geometry", is isomorphic to that defined by a <fr:tex>1</fr:tex>-motive <fr:tex>Z</fr:tex> that is an extension of <fr:tex>X</fr:tex> by <fr:tex>Y</fr:tex>.
+  </fr:p><fr:p>
+    A point <fr:tex>a</fr:tex> of an abelian variety <fr:tex>A</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex> defines a <fr:tex>1</fr:tex>-motive <fr:tex>[ \mathbb {Z} \xrightarrow {u}A]</fr:tex> with <fr:tex>u(1)=a</fr:tex>.
+    The motive <fr:tex>T([ \mathbb {Z} \xrightarrow {u}A])</fr:tex> is an extension of <fr:tex>\mathbb {Z} (0)</fr:tex> by <fr:tex>T(A)</fr:tex>, and the conjecture, applied to <fr:tex>\mathbb {Z} (0)</fr:tex> and <fr:tex>T(A)</fr:tex>, implies that
+    <fr:tex
+display="block">       A( \mathbb {Q} )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0),T(A))     </fr:tex>
+    or, equivalently,
+    <fr:tex
+display="block">       A( \mathbb {Q} ) \otimes \mathbb {Q}   \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Q} (0),T(A) \otimes \mathbb {Q} )     </fr:tex>
+    (where <fr:tex>\operatorname {Ext} ^1</fr:tex> is in the abelian category of motives).
+  </fr:p><fr:p>
+    More generally, if <fr:tex>E</fr:tex> is an extension of an abelian variety by a torus, we want
+    <fr:tex
+display="block">       E( \mathbb {Q} )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0),T(E))     </fr:tex>
+    and similarly for more general bases that <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+  </fr:p><fr:p>
+    The case <fr:tex>E= \mathbb {G}_ \mathrm {m}</fr:tex> is particularly interesting: for every smooth scheme <fr:tex>S</fr:tex> over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>, we want, in the category of motives with integer coefficients over <fr:tex>S</fr:tex>,
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>612</fr:anchor><fr:taxon>Equations</fr:taxon><fr:addr>minus-three-points-2.4.1</fr:addr><fr:route>minus-three-points-2.4.1.xml</fr:route><fr:number>2.4.1</fr:number><fr:parent>minus-three-points-2.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \Gamma (S, \mathcal {O} _S^ \times )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0), \mathbb {Z} (1)).       \tag{2.4.1}       </fr:tex></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

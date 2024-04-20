@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>713</fr:anchor><fr:addr>minus-three-points-2.2</fr:addr><fr:route>minus-three-points-2.2.xml</fr:route><fr:number>2.2</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    For an abelian variety <fr:tex>A</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, we denote by <fr:tex>T(A) \otimes \mathbb {Q}</fr:tex> the motive <fr:tex>\operatorname {H} _1^ \mathrm {mot} (A)</fr:tex> that is dual to <fr:tex>\operatorname {H} _ \mathrm {mot} ^1(A)</fr:tex>, and by <fr:tex>T(A)</fr:tex> the motive with integer coefficients defined by the integer structure <fr:tex>\operatorname {H} _1(A( \mathbb {C} ), \mathbb {Z} ) \subset \operatorname {H} _1(A( \mathbb {C} ), \mathbb {Q} )=(T(A) \otimes \mathbb {Q} )_ { \mathrm {B}}</fr:tex>.
+    The functor <fr:tex>A \mapsto  T(A)</fr:tex> is fully faithful: from <fr:tex>T(A)</fr:tex> we can recover <fr:tex>\operatorname {Lie} (A)=T(A)_ { \mathrm {DR}} {/}F^0</fr:tex> and the complex torus
+    <fr:tex
+display="block">       A( \mathbb {C} )       = T(A)_ { \mathrm {B}} \setminus \operatorname {Lie} (A)       = T(A)_ { \mathrm {B}} \setminus  T(A)_ { \mathrm {DR}} \otimes \mathbb {C} {/}F^0.     </fr:tex>
+    The complex torus <fr:tex>A( \mathbb {C} )</fr:tex> determines the abelian variety <fr:tex>A_ \mathbb {C}</fr:tex> over <fr:tex>\mathbb {C}</fr:tex> induced by <fr:tex>A</fr:tex>, and the <fr:tex>\mathbb {Q}</fr:tex>-structure is uniquely determined by that of the Lie algebra.
+  </fr:p><fr:p>
+    An abelian scheme <fr:tex>A</fr:tex> over <fr:tex>S</fr:tex> similarly defines a smooth motive with integer coefficients <fr:tex>T(A)</fr:tex> over <fr:tex>S</fr:tex>.
+  </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>712</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+href="index.xml"
+type="local"
+addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>705</fr:anchor><fr:addr>minus-three-points-2.1</fr:addr><fr:route>minus-three-points-2.1.xml</fr:route><fr:number>2.1</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    The <fr:em>Tate motive</fr:em> <fr:tex>\mathbb {Z} (1)</fr:tex> is a motive over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex> (<fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>) with integer coefficients (<fr:ref
+addr="minus-three-points-1.23"
+href="minus-three-points-1.23.xml"
+taxon="Definition"
+number="1.23"></fr:ref>).
+    Here is its description as a realisation system, in the language of <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref> and <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref> (along with <fr:ref
+addr="minus-three-points-1.25"
+href="minus-three-points-1.25.xml"
+number="1.25"></fr:ref>):
+  </fr:p><fr:ul><fr:li><fr:link
+href="minus-three-points-m1.xml"
+type="local"
+addr="minus-three-points-m1">(M1)</fr:link> and <fr:link
+href="minus-three-points-m7.xml"
+type="local"
+addr="minus-three-points-m7">(M7)</fr:link>: <fr:tex>\mathbb {Z} (1)_ { \mathrm {B}} =2 \pi  i \mathbb {Z} \subset \mathbb {C}</fr:tex> and <fr:tex>F_ \infty =-1</fr:tex>.
+    </fr:li>
+
+    <fr:li><fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link>: <fr:tex>\mathbb {Z} (1)_ { \mathrm {B}} (C)=2 \pi  i \mathbb {Z} \subset  C</fr:tex>.
+    </fr:li>
+
+    <fr:li><fr:link
+href="minus-three-points-m2.xml"
+type="local"
+addr="minus-three-points-m2">(M2)</fr:link> and <fr:link
+href="minus-three-points-mp2.xml"
+type="local"
+addr="minus-three-points-mp2">(M'2)</fr:link>: <fr:tex>\mathbb {Z} (1)_ { \mathrm {DR}} = \mathbb {Q} (1)_ { \mathrm {DR}} = \mathbb {Q}</fr:tex>.
+    </fr:li>
+
+    <fr:li><fr:p><fr:link
+href="minus-three-points-m3.xml"
+type="local"
+addr="minus-three-points-m3">(M3)</fr:link> and <fr:link
+href="minus-three-points-m9.xml"
+type="local"
+addr="minus-three-points-m9">(M9)</fr:link>: <fr:tex>\mathbb {Z} (1)_{ \mathbb {Z} {/}n}</fr:tex> is the group <fr:tex>\mu _n \subset \mathbb {C} ^ \times</fr:tex> of <fr:tex>n</fr:tex>-th roots of unity.
+        The transition morphisms are the <fr:tex>\mu _n \to \mu _m \colon  x \mapsto  x^{n/m}</fr:tex> for <fr:tex>m \mid  n</fr:tex>.
+        The action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> is its action on the <fr:tex>\mu _n</fr:tex>.
+        In the variant <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>, we have <fr:tex>\mathbb {Z} (1)_{ \mathbb {Z} {/}n}( \bar {k})= \mu _n( \bar {k})</fr:tex>.
+      </fr:p>
+      <fr:p>
+        We thus have that <fr:tex>\mathbb {Z} (1)_ \ell = \operatorname {lim \, proj} \mu _{ \ell ^n}( \mathbb {C} )</fr:tex>.
+      </fr:p></fr:li>
+
+    <fr:li><fr:link
+href="minus-three-points-m4.xml"
+type="local"
+addr="minus-three-points-m4">(M4)</fr:link>, <fr:link
+href="minus-three-points-m10.xml"
+type="local"
+addr="minus-three-points-m10">(M10)</fr:link>, and <fr:link
+href="minus-three-points-mp4.xml"
+type="local"
+addr="minus-three-points-mp4">(M'4)</fr:link>: <fr:tex>\mathbb {Z} (1)_ { { \mathrm {cris}} \, \, p} = \mathbb {Q} _p</fr:tex> and <fr:tex>\phi _p=1/p</fr:tex>.
+    </fr:li>
+
+    <fr:li><fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link>: The canonical comparison isomorphism <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }</fr:tex> is induced by the inclusions <fr:tex>\mathbb {Z} (1)_ { \mathrm {B}} =2 \pi  i \mathbb {Z} \subset \mathbb {C}</fr:tex> and <fr:tex>\mathbb {Z} (1)_ { \mathrm {DR}} = \mathbb {Q} \subset \mathbb {C}</fr:tex>, i.e.
+      <fr:tex
+display="block">          \mathbb {Z} (1)_ { \mathrm {B}} \otimes \mathbb {C}   \xrightarrow { \sim }   \mathbb {C}   \xleftarrow { \sim }   \mathbb {Z} (1)_ { \mathrm {DR}} \otimes \mathbb {C} .       </fr:tex>
+      The isomorphism <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}n, { \mathrm {B}} }</fr:tex> <fr:ref
+addr="minus-three-points-1.25"
+href="minus-three-points-1.25.xml"
+number="1.25"></fr:ref> is induced by
+      <fr:tex
+display="block">          \exp (x/n) \colon   \mathbb {Z} (1)_ { \mathrm {B}}   \to   \mathbb {Z} {/}n(1) \subset \mathbb {C} ^ \times .       </fr:tex>
+      The isomorphism <fr:tex>\operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }</fr:tex> is induced by the inclusion <fr:tex>\mathbb {Q} \subset \mathbb {Q} _p</fr:tex>.
+    </fr:li>
+
+    <fr:li><fr:link
+href="minus-three-points-mp5.xml"
+type="local"
+addr="minus-three-points-mp5">(M'5)</fr:link>: Replace <fr:tex>\mathbb {C}</fr:tex> by <fr:tex>C</fr:tex> in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link>.
+    </fr:li>
+
+    <fr:li><fr:link
+href="minus-three-points-m6.xml"
+type="local"
+addr="minus-three-points-m6">(M6)</fr:link> and <fr:link
+href="minus-three-points-m8.xml"
+type="local"
+addr="minus-three-points-m8">(M8)</fr:link>: <fr:tex>\mathbb {Z} (1)</fr:tex> is of pure weight <fr:tex>-2</fr:tex>, and <fr:tex>\mathbb {Z} (1)_ { \mathrm {DR}}</fr:tex> is of pure Hodge filtration <fr:tex>-1</fr:tex>: the Hodge type is <fr:tex>(-1,-1)</fr:tex>.
+    </fr:li></fr:ul><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>520</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-2.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>\mathbb {Z} (n) \coloneqq \mathbb {Z} (1)^{ \otimes  n}</fr:tex>, <fr:tex>\mathbb {Q} (n) \coloneqq \mathbb {Z} (n) \otimes \mathbb {Q}</fr:tex>, and, for any motive <fr:tex>M</fr:tex>, <fr:tex>M(n) \coloneqq  M \otimes \mathbb {Z} (n)</fr:tex>.
+      Depending on the context, we also denote by <fr:tex>(n)</fr:tex> taking the tensor product with a realisation of <fr:tex>\mathbb {Z} (n)</fr:tex>.
+    </fr:p><fr:p>
+      If <fr:tex>X</fr:tex> is smooth and projective over <fr:tex>k</fr:tex>, and absolutely irreducible of dimension <fr:tex>n</fr:tex>, then <fr:tex>\operatorname {H} _ \mathrm {mot} ^{2n}(X)</fr:tex> is the motive over <fr:tex>k</fr:tex> induced from <fr:tex>\mathbb {Q} (-n)</fr:tex> by change of base from <fr:tex>\mathbb {Q}</fr:tex> to <fr:tex>k</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>706</fr:anchor><fr:addr>minus-three-points-2.2</fr:addr><fr:route>minus-three-points-2.2.xml</fr:route><fr:number>2.2</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    For an abelian variety <fr:tex>A</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, we denote by <fr:tex>T(A) \otimes \mathbb {Q}</fr:tex> the motive <fr:tex>\operatorname {H} _1^ \mathrm {mot} (A)</fr:tex> that is dual to <fr:tex>\operatorname {H} _ \mathrm {mot} ^1(A)</fr:tex>, and by <fr:tex>T(A)</fr:tex> the motive with integer coefficients defined by the integer structure <fr:tex>\operatorname {H} _1(A( \mathbb {C} ), \mathbb {Z} ) \subset \operatorname {H} _1(A( \mathbb {C} ), \mathbb {Q} )=(T(A) \otimes \mathbb {Q} )_ { \mathrm {B}}</fr:tex>.
+    The functor <fr:tex>A \mapsto  T(A)</fr:tex> is fully faithful: from <fr:tex>T(A)</fr:tex> we can recover <fr:tex>\operatorname {Lie} (A)=T(A)_ { \mathrm {DR}} {/}F^0</fr:tex> and the complex torus
+    <fr:tex
+display="block">       A( \mathbb {C} )       = T(A)_ { \mathrm {B}} \setminus \operatorname {Lie} (A)       = T(A)_ { \mathrm {B}} \setminus  T(A)_ { \mathrm {DR}} \otimes \mathbb {C} {/}F^0.     </fr:tex>
+    The complex torus <fr:tex>A( \mathbb {C} )</fr:tex> determines the abelian variety <fr:tex>A_ \mathbb {C}</fr:tex> over <fr:tex>\mathbb {C}</fr:tex> induced by <fr:tex>A</fr:tex>, and the <fr:tex>\mathbb {Q}</fr:tex>-structure is uniquely determined by that of the Lie algebra.
+  </fr:p><fr:p>
+    An abelian scheme <fr:tex>A</fr:tex> over <fr:tex>S</fr:tex> similarly defines a smooth motive with integer coefficients <fr:tex>T(A)</fr:tex> over <fr:tex>S</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>707</fr:anchor><fr:addr>minus-three-points-2.3</fr:addr><fr:route>minus-three-points-2.3.xml</fr:route><fr:number>2.3</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Recall that a <fr:em>smooth <fr:tex>1</fr:tex>-motive</fr:em> <fr:tex>X</fr:tex> over a scheme <fr:tex>S</fr:tex> consists of
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        a group scheme <fr:tex>L</fr:tex> over <fr:tex>S</fr:tex> that, locally, for the étale topology, is a constant group scheme defined by a free <fr:tex>\mathbb {Z}</fr:tex>-module of finite type;
+        an abelian scheme <fr:tex>A</fr:tex> over <fr:tex>S</fr:tex>, and a torus <fr:tex>T</fr:tex> over <fr:tex>S</fr:tex>;
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        an extension <fr:tex>E</fr:tex> of <fr:tex>A</fr:tex> by <fr:tex>T</fr:tex>, and a morphism <fr:tex>\bar {u} \colon  L \to  A</fr:tex>;
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        a morphism <fr:tex>u \colon  L \to  E</fr:tex> lifting <fr:tex>\bar {u}</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    We write <fr:tex>X=[L \xrightarrow {u}E]</fr:tex>.
+  </fr:p><fr:p>
+    A <fr:tex>1</fr:tex>-motive <fr:tex>X</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex> defines a motive over <fr:tex>\mathbb {Q}</fr:tex> with integer coefficients <fr:tex>T(X)</fr:tex> (cf. [<fr:link
+href="D3.xml"
+type="local"
+addr="D3">D3</fr:link>, Section 10, but the crystalline aspect is missing]), and the functor <fr:tex>X \mapsto  T(X)</fr:tex> is fully faithful (cf. [<fr:link
+href="D3.xml"
+type="local"
+addr="D3">D3</fr:link>, both 10.1.3 and 2.2]).
+  </fr:p><fr:p>
+    For <fr:tex>X=[ \mathbb {Z} \to0 ]</fr:tex>, <fr:tex>T(X)</fr:tex> is the unit motive <fr:tex>\mathbb {Z} (0)</fr:tex>.
+    For <fr:tex>X=[0 \to \mathbb {G}_ \mathrm {m} ]</fr:tex>, <fr:tex>T(X)</fr:tex> is the Tate motive <fr:tex>\mathbb {Z} (1)</fr:tex>.
+    For an abelian variety <fr:tex>A</fr:tex> and <fr:tex>X=[0 \to  A]</fr:tex>, <fr:tex>T(X)=T(A)</fr:tex>.
+    Of course, here, as in <fr:ref
+addr="minus-three-points-2.2"
+href="minus-three-points-2.2.xml"
+number="2.2"></fr:ref>, we can take more general bases than <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>708</fr:anchor><fr:addr>minus-three-points-2.4</fr:addr><fr:route>minus-three-points-2.4.xml</fr:route><fr:number>2.4</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    I conjecture that the set of motives with integer coefficients of the form <fr:tex>T(X)</fr:tex> for some <fr:tex>1</fr:tex>-motive <fr:tex>X</fr:tex> is stable under extensions.
+    If <fr:tex>T'</fr:tex> is a motive with integer coefficients, with <fr:tex>T' \otimes \mathbb {Q} \xrightarrow { \sim }  T(X) \otimes \mathbb {Q}</fr:tex>, then <fr:tex>T'</fr:tex> is of the form <fr:tex>T(X')</fr:tex> with <fr:tex>X'</fr:tex> isogenous to <fr:tex>X</fr:tex>.
+    The conjecture is thus equivalent to the claim that the set of motives <fr:tex>T(X) \otimes \mathbb {Q}</fr:tex>, for <fr:tex>1</fr:tex>-motives <fr:tex>X</fr:tex>, is stable under extensions.
+    The word "conjecture" is an abuse of terminology, since the statement itself is not precise.
+    What is conjectured is that every realisation system <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref> (or <fr:ref
+addr="minus-three-points-1.24"
+href="minus-three-points-1.24.xml"
+number="1.24"></fr:ref>, over <fr:tex>S</fr:tex>) that is an extension <fr:tex>T(X)</fr:tex> by <fr:tex>T(Y)</fr:tex> (for <fr:tex>1</fr:tex>-motives <fr:tex>X</fr:tex> and <fr:tex>Y</fr:tex>), and "natural", "coming from geometry", is isomorphic to that defined by a <fr:tex>1</fr:tex>-motive <fr:tex>Z</fr:tex> that is an extension of <fr:tex>X</fr:tex> by <fr:tex>Y</fr:tex>.
+  </fr:p><fr:p>
+    A point <fr:tex>a</fr:tex> of an abelian variety <fr:tex>A</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex> defines a <fr:tex>1</fr:tex>-motive <fr:tex>[ \mathbb {Z} \xrightarrow {u}A]</fr:tex> with <fr:tex>u(1)=a</fr:tex>.
+    The motive <fr:tex>T([ \mathbb {Z} \xrightarrow {u}A])</fr:tex> is an extension of <fr:tex>\mathbb {Z} (0)</fr:tex> by <fr:tex>T(A)</fr:tex>, and the conjecture, applied to <fr:tex>\mathbb {Z} (0)</fr:tex> and <fr:tex>T(A)</fr:tex>, implies that
+    <fr:tex
+display="block">       A( \mathbb {Q} )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0),T(A))     </fr:tex>
+    or, equivalently,
+    <fr:tex
+display="block">       A( \mathbb {Q} ) \otimes \mathbb {Q}   \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Q} (0),T(A) \otimes \mathbb {Q} )     </fr:tex>
+    (where <fr:tex>\operatorname {Ext} ^1</fr:tex> is in the abelian category of motives).
+  </fr:p><fr:p>
+    More generally, if <fr:tex>E</fr:tex> is an extension of an abelian variety by a torus, we want
+    <fr:tex
+display="block">       E( \mathbb {Q} )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0),T(E))     </fr:tex>
+    and similarly for more general bases that <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+  </fr:p><fr:p>
+    The case <fr:tex>E= \mathbb {G}_ \mathrm {m}</fr:tex> is particularly interesting: for every smooth scheme <fr:tex>S</fr:tex> over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>, we want, in the category of motives with integer coefficients over <fr:tex>S</fr:tex>,
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>612</fr:anchor><fr:taxon>Equations</fr:taxon><fr:addr>minus-three-points-2.4.1</fr:addr><fr:route>minus-three-points-2.4.1.xml</fr:route><fr:number>2.4.1</fr:number><fr:parent>minus-three-points-2.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \Gamma (S, \mathcal {O} _S^ \times )  \xrightarrow { \sim }   \operatorname {Ext} ^1( \mathbb {Z} (0), \mathbb {Z} (1)).       \tag{2.4.1}       </fr:tex></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>711</fr:anchor><fr:addr>minus-three-points-2.3</fr:addr><fr:route>minus-three-points-2.3.xml</fr:route><fr:number>2.3</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Recall that a <fr:em>smooth <fr:tex>1</fr:tex>-motive</fr:em> <fr:tex>X</fr:tex> over a scheme <fr:tex>S</fr:tex> consists of
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        a group scheme <fr:tex>L</fr:tex> over <fr:tex>S</fr:tex> that, locally, for the étale topology, is a constant group scheme defined by a free <fr:tex>\mathbb {Z}</fr:tex>-module of finite type;
+        an abelian scheme <fr:tex>A</fr:tex> over <fr:tex>S</fr:tex>, and a torus <fr:tex>T</fr:tex> over <fr:tex>S</fr:tex>;
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        an extension <fr:tex>E</fr:tex> of <fr:tex>A</fr:tex> by <fr:tex>T</fr:tex>, and a morphism <fr:tex>\bar {u} \colon  L \to  A</fr:tex>;
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        a morphism <fr:tex>u \colon  L \to  E</fr:tex> lifting <fr:tex>\bar {u}</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    We write <fr:tex>X=[L \xrightarrow {u}E]</fr:tex>.
+  </fr:p><fr:p>
+    A <fr:tex>1</fr:tex>-motive <fr:tex>X</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex> defines a motive over <fr:tex>\mathbb {Q}</fr:tex> with integer coefficients <fr:tex>T(X)</fr:tex> (cf. [<fr:link
+href="D3.xml"
+type="local"
+addr="D3">D3</fr:link>, Section 10, but the crystalline aspect is missing]), and the functor <fr:tex>X \mapsto  T(X)</fr:tex> is fully faithful (cf. [<fr:link
+href="D3.xml"
+type="local"
+addr="D3">D3</fr:link>, both 10.1.3 and 2.2]).
+  </fr:p><fr:p>
+    For <fr:tex>X=[ \mathbb {Z} \to0 ]</fr:tex>, <fr:tex>T(X)</fr:tex> is the unit motive <fr:tex>\mathbb {Z} (0)</fr:tex>.
+    For <fr:tex>X=[0 \to \mathbb {G}_ \mathrm {m} ]</fr:tex>, <fr:tex>T(X)</fr:tex> is the Tate motive <fr:tex>\mathbb {Z} (1)</fr:tex>.
+    For an abelian variety <fr:tex>A</fr:tex> and <fr:tex>X=[0 \to  A]</fr:tex>, <fr:tex>T(X)=T(A)</fr:tex>.
+    Of course, here, as in <fr:ref
+addr="minus-three-points-2.2"
+href="minus-three-points-2.2.xml"
+number="2.2"></fr:ref>, we can take more general bases than <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

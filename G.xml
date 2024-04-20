@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>G</fr:addr><fr:route>G.xml</fr:route><fr:title>On the de Rham cohomology of algebraic varieties</fr:title><fr:date><fr:year>1966</fr:year></fr:date><fr:authors><fr:author>A. Grothendieck</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>362</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>G</fr:addr><fr:route>G.xml</fr:route><fr:title>On the de Rham cohomology of algebraic varieties</fr:title><fr:date><fr:year>1966</fr:year></fr:date><fr:authors><fr:author>A. Grothendieck</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>29</fr:strong> pp. 95–103</fr:meta><fr:meta
 name="bibtex">@article{G,
   author = {Grothendieck, A.},
@@ -23,7 +23,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>356</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>361</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
