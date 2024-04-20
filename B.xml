@@ -64,7 +64,7 @@ show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"><fr:frontmatter><fr:anchor>259</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
-      For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3 <fr:strong>(?)</fr:strong>].
+      For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3].
     </fr:p></fr:mainmatter></fr:tree>
 
   The theory of Malcev [<fr:link
@@ -78,7 +78,7 @@ type="external">Mal</fr:link>] attaches a nilpotent Lie algebra over <fr:tex>\ma
   Let <fr:tex>k</fr:tex> be a number field.
   If <fr:tex>X</fr:tex> is an algebraic variety over <fr:tex>k</fr:tex>, then we have a whole series of parallel cohomology theories for <fr:tex>X</fr:tex>: the classical cohomology of <fr:tex>X( \mathbb {C} )</fr:tex> (for each complex embedding of <fr:tex>k</fr:tex>), crystalline cohomology (which is equal to de Rham cohomology if <fr:tex>X</fr:tex> is smooth), <fr:tex>\ell</fr:tex>-adic cohomology, ...
   The groups thus obtained are endowed with various additional structures (mixed Hodge, Galois action, ...) and are linked by comparison isomorphism.
-  In [minus-three-points-1 <fr:strong>(?)</fr:strong>], we axiomatise the situation by defining "realisation systems over <fr:tex>k</fr:tex>".
+  In [minus-three-points-1], we axiomatise the situation by defining "realisation systems over <fr:tex>k</fr:tex>".
   The exact definition is not to be taken seriously: considering the applications — and what we are capable of doing — it could be wise to either add or remove data as much as axioms.
   The essential, for us, is that
 
@@ -114,7 +114,7 @@ type="external">J</fr:link>], U. Jannsen defines (mixed) motives over <fr:tex>k<
   This article owes much to an unpublished work of Z. Wojtkoviak.
   For <fr:tex>X= \mathbb {P} ^1 \setminus \{ 0,1, \infty \}</fr:tex> and <fr:tex>x \in  X( \mathbb {C} )</fr:tex>, I proposed to him a definition of the mixed Hodge structure of <fr:tex>\operatorname {Lie} \pi _1(X( \mathbb {C} ),x)^{[N]}</fr:tex>.
   He calculated it in part, for small <fr:tex>N</fr:tex>, and, to my extreme surprise, show that, for <fr:tex>N=4</fr:tex>, its description involves <fr:tex>\zeta (3)</fr:tex>.
-  A decanted form of the calculations appear in [minus-three-points-19 <fr:strong>(?)</fr:strong>].
+  A decanted form of the calculations appear in [minus-three-points-19].
   In fact, the whole article originates from my desire to understand the result of Z. Wojtkoviak.
   
   I have also been helped by the answer by O. Gabber to my question "How can we construct an extension of <fr:tex>\mathbb {Z} _ \ell</fr:tex> by <fr:tex>\mathbb {Z} _ \ell (3)</fr:tex>, uniformly in <fr:tex>\ell</fr:tex>?": "By a class in <fr:tex>K_5( \mathbb {Q} )</fr:tex>", as well as by the conjectures of A. Beilinson on the values of <fr:tex>L</fr:tex>-functions.
@@ -142,7 +142,7 @@ addr="B">B</fr:link>, §5].
 </fr:p><fr:p>
   We now go through this article, pointing out several shortcuts.
 </fr:p><fr:p>
-  In [minus-three-points-1 <fr:strong>(?)</fr:strong>], we describe the category of realisation systems over a base <fr:tex>S</fr:tex>.
+  In [minus-three-points-1], we describe the category of realisation systems over a base <fr:tex>S</fr:tex>.
   The base <fr:tex>S</fr:tex> can be: <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>, <fr:tex>\operatorname {Spec} ( \mathbb {F} )</fr:tex> for <fr:tex>\mathbb {F}</fr:tex> a number field, an open subset of the spectrum of the ring of integers of a number field, or smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
   In this category, the <fr:tex>\operatorname {Hom}</fr:tex> are <fr:tex>\mathbb {Q}</fr:tex>-vector spaces.
   We also define a notion of integer structure;
@@ -154,7 +154,7 @@ href="J"
 type="external">J</fr:link>].
   The crystalline aspect will be neglected in the rest of the introduction.
 </fr:p><fr:p>
-  In [minus-three-points-2 <fr:strong>(?)</fr:strong>] we give examples.
+  In [minus-three-points-2] we give examples.
   We also explain what an extension of the unit realisation system <fr:tex>\mathbb {Z}</fr:tex> by a realisation system <fr:tex>M</fr:tex> with integer coefficients is.
 
   <fr:tree
@@ -177,13 +177,13 @@ expanded="true"
 root="false"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       the Kummer <fr:tex>\mathbb {Z} (1)</fr:tex>-torsor, where <fr:tex>\mathbb {Z} (1)</fr:tex> is the Tate motive.
     </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
-  In [minus-three-points-3 <fr:strong>(?)</fr:strong>] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
-  [minus-three-points-16 <fr:strong>(?)</fr:strong>] explains how these torsors naturally appear in the study of <fr:tex>\pi _1</fr:tex> of <fr:tex>\mathbb {P} ^1 \setminus \{ 0,1, \infty \}</fr:tex>.
+  In [minus-three-points-3] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
+  [minus-three-points-16] explains how these torsors naturally appear in the study of <fr:tex>\pi _1</fr:tex> of <fr:tex>\mathbb {P} ^1 \setminus \{ 0,1, \infty \}</fr:tex>.
   The description here is direct, but unmotivated.
-  The claim that some of these torsors are of finite order ([minus-three-points-3.5 <fr:strong>(?)</fr:strong>], [minus-three-points-3.14 <fr:strong>(?)</fr:strong>]) lets us recover the known formulas expressing the Dirichlet <fr:tex>L</fr:tex>-functions in negative integers as integrals of distributions over <fr:tex>\widehat { \mathbb {Z}}</fr:tex> with values in <fr:tex>\widehat { \mathbb {Z}}</fr:tex>: a version of Kummer congruences.
-  In [minus-three-points-18 <fr:strong>(?)</fr:strong>], we prove [minus-three-points-3.5 <fr:strong>(?)</fr:strong>] and [minus-three-points-3.14 <fr:strong>(?)</fr:strong>] using the geometric interpretation of [minus-three-points-16 <fr:strong>(?)</fr:strong>].
-  In [minus-three-points-3 <fr:strong>(?)</fr:strong>], we give a direct proof, by using the known formulas for <fr:tex>L( \chi ,1-k)</fr:tex>.
-</fr:p><fr:p>[minus-three-points-4 <fr:strong>(?)</fr:strong>] is a pot-pourri of reminders on Ind-objects and pro-objects.
+  The claim that some of these torsors are of finite order ([minus-three-points-3.5], [minus-three-points-3.14]) lets us recover the known formulas expressing the Dirichlet <fr:tex>L</fr:tex>-functions in negative integers as integrals of distributions over <fr:tex>\widehat { \mathbb {Z}}</fr:tex> with values in <fr:tex>\widehat { \mathbb {Z}}</fr:tex>: a version of Kummer congruences.
+  In [minus-three-points-18], we prove [minus-three-points-3.5] and [minus-three-points-3.14] using the geometric interpretation of [minus-three-points-16].
+  In [minus-three-points-3], we give a direct proof, by using the known formulas for <fr:tex>L( \chi ,1-k)</fr:tex>.
+</fr:p><fr:p>[minus-three-points-4] is a pot-pourri of reminders on Ind-objects and pro-objects.
   The reader is invited to consult this only when needed.
 </fr:p><fr:p>
   We want to give a motivic meaning to an assertion like the following: the fundamental group of <fr:tex>\mathbb {P} ^1( \mathbb {C} ) \setminus \{ 0,1, \infty \}</fr:tex> (at the base point <fr:tex>b</fr:tex>) is freely generated by the following loops:
@@ -211,7 +211,7 @@ hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {t
        \draw [thick] (0,-0.125) to (2.69,0.61);
      \end {tikzpicture}</fr:embedded-tex-body></fr:embedded-tex>
 </fr:mainmatter></fr:tree></fr:p><fr:p>
-  The purpose of [minus-three-points-5 <fr:strong>(?)</fr:strong>], [minus-three-points-7 <fr:strong>(?)</fr:strong>], and [minus-three-points-15 <fr:strong>(?)</fr:strong>] is to construct the language which allows us to do this.
+  The purpose of [minus-three-points-5], [minus-three-points-7], and [minus-three-points-15] is to construct the language which allows us to do this.
   This consists of
 
   
@@ -247,10 +247,10 @@ style="list-style-type: &quot;c. &quot;">
   There is an analogous definition for torsors for a group.
   We separately define a notion of "integer" structures.
   This definition has the advantage that the standard constructions in algebraic geometry (decreasing central series, quotients, pushing forward a <fr:tex>G</fr:tex>-torsor by <fr:tex>G \to  H</fr:tex>, twisting by a torsor, ...) all translate automatically to the motivic case.
-  This, in an arbitrary Tannakian category, is explained in [minus-three-points-5 <fr:strong>(?)</fr:strong>].
+  This, in an arbitrary Tannakian category, is explained in [minus-three-points-5].
 </fr:p><fr:p>
-  In [minus-three-points-7 <fr:strong>(?)</fr:strong>], we reinterpret these definitions in a language that is closer to that of our applications.
-  The reader who is displeased by the general nonsense of [minus-three-points-5 <fr:strong>(?)</fr:strong>] and [minus-three-points-7 <fr:strong>(?)</fr:strong>] can take the interpretations given in [minus-three-points-7 <fr:strong>(?)</fr:strong>] as the definition of groups, torsors, ... in realisation systems.
+  In [minus-three-points-7], we reinterpret these definitions in a language that is closer to that of our applications.
+  The reader who is displeased by the general nonsense of [minus-three-points-5] and [minus-three-points-7] can take the interpretations given in [minus-three-points-7] as the definition of groups, torsors, ... in realisation systems.
   Drawback: every standard construction must be redefined in this case.
 </fr:p><fr:p>
   In the classical definition of <fr:tex>\pi _1</fr:tex>, the role of the base point <fr:tex>b</fr:tex> can be played by a contractible subset <fr:tex>B</fr:tex>.
@@ -274,7 +274,7 @@ hash="4c81549d37f6f2ff8942bad2db7cd714"><fr:embedded-tex-preamble>\usepackage {t
 </fr:p><fr:p>
   The same phenomenon occurs in the profinite theory of <fr:tex>\pi _1</fr:tex>, and in the "de Rham" theory.
   Be aware that <fr:tex>\mathcal {B}(v)= \mathcal {B}( \lambda  v)</fr:tex> for real <fr:tex>\lambda &gt;0</fr:tex>, but that this fact has no analogue in the other theories.
-  There constructions are explained in [minus-three-points-15 <fr:strong>(?)</fr:strong>].
+  There constructions are explained in [minus-three-points-15].
   
   They allow us, in the definition of the motivic <fr:tex>\pi _1</fr:tex> of <fr:tex>X</fr:tex>, to take a base point "at infinity", like the tangent vector <fr:tex>v</fr:tex> at <fr:tex>s</fr:tex>.
 </fr:p><fr:p>
@@ -287,19 +287,19 @@ display="block">      \mathbb {Z} (1)  \to   \pi _1(X,b)_ \mathrm {mot} .   </fr
 </fr:p><fr:p>
   We take the base point to be the tangent vector <fr:tex>1</fr:tex> at <fr:tex>0</fr:tex>.
   We have a good reduction <fr:tex>\mod  p</fr:tex> for every <fr:tex>p</fr:tex>, and <fr:tex>\pi _1(X,b)_ \mathrm {mot} ^{(N)}</fr:tex> is a linear group in the Tannakian category of motives over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex> that are iterated extensions of Tate motives.
-  [minus-three-points-8 <fr:strong>(?)</fr:strong>] states a conjecture on the <fr:tex>\operatorname {Ext} ^1( \mathbb {Q} , \mathbb {Q} (k))</fr:tex> in this category, as well as some consequences.
-  At the end of [minus-three-points-16 <fr:strong>(?)</fr:strong>], we make these explicit in the case of <fr:tex>\pi _1(X,b)_ \mathrm {mot} ^{(N)}</fr:tex>.
+  [minus-three-points-8] states a conjecture on the <fr:tex>\operatorname {Ext} ^1( \mathbb {Q} , \mathbb {Q} (k))</fr:tex> in this category, as well as some consequences.
+  At the end of [minus-three-points-16], we make these explicit in the case of <fr:tex>\pi _1(X,b)_ \mathrm {mot} ^{(N)}</fr:tex>.
   I hope that this places the <fr:tex>\zeta (3)</fr:tex> discovered by Z. Wojtkoviak in its natural setting.
-  [minus-three-points-6 <fr:strong>(?)</fr:strong>] is preliminary.
-  For the essential idea, see [minus-three-points-6.2 <fr:strong>(?)</fr:strong>].
+  [minus-three-points-6] is preliminary.
+  For the essential idea, see [minus-three-points-6.2].
 </fr:p><fr:p>
-  To define the motivic <fr:tex>\pi _1</fr:tex>, we need to patch together the various theories of <fr:tex>\pi _1</fr:tex> that we have at our disposal, guided by the goal of constructing a motivic group in the sense of [minus-three-points-5 <fr:strong>(?)</fr:strong>], explained in [minus-three-points-7 <fr:strong>(?)</fr:strong>].
-  This is done in [minus-three-points-10 <fr:strong>(?)</fr:strong>] to [minus-three-points-13 <fr:strong>(?)</fr:strong>], after a reminder ([minus-three-points-9 <fr:strong>(?)</fr:strong>]) on the Malčev theory of nilpotent groups and their Lie algebras.
+  To define the motivic <fr:tex>\pi _1</fr:tex>, we need to patch together the various theories of <fr:tex>\pi _1</fr:tex> that we have at our disposal, guided by the goal of constructing a motivic group in the sense of [minus-three-points-5], explained in [minus-three-points-7].
+  This is done in [minus-three-points-10] to [minus-three-points-13], after a reminder ([minus-three-points-9]) on the Malčev theory of nilpotent groups and their Lie algebras.
   The result leaves much to be desired.
   It is only completely studied for smooth algebraic varieties whose smooth compactifications <fr:tex>\overline {X}</fr:tex> satisfy <fr:tex>H^1( \overline {X}, \mathcal {O} )=0</fr:tex>.
   Another complaint: I sometimes only sketch the definition of structures that will be used in future calculations.
 </fr:p><fr:p>
-  In [minus-three-points-16 <fr:strong>(?)</fr:strong>], we finally explain what the <fr:tex>\mathbb {Z} (k)</fr:tex>-torsors from [minus-three-points-3 <fr:strong>(?)</fr:strong>] have to do with the <fr:tex>\pi _1</fr:tex> of the projective line minus three points.
-  The justifying calculations are given in [minus-three-points-19 <fr:strong>(?)</fr:strong>].
-  We give, in [minus-three-points-17 <fr:strong>(?)</fr:strong>] and [minus-three-points-18 <fr:strong>(?)</fr:strong>], a geometric explanation of some of their properties.
+  In [minus-three-points-16], we finally explain what the <fr:tex>\mathbb {Z} (k)</fr:tex>-torsors from [minus-three-points-3] have to do with the <fr:tex>\pi _1</fr:tex> of the projective line minus three points.
+  The justifying calculations are given in [minus-three-points-19].
+  We give, in [minus-three-points-17] and [minus-three-points-18], a geometric explanation of some of their properties.
 </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

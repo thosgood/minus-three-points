@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>461</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>496</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -186,7 +186,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>460</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>495</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Mixed motives</fr:title><fr:number>1</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -922,7 +922,7 @@ style="list-style-type: &quot;iii. &quot;">
         More precisely, there should exist, for all <fr:tex>n</fr:tex>, a morphism of realisation systems
         <fr:tex
 display="block">            \operatorname {Gr} _n^W(M) \otimes \operatorname {Gr} _n^W(M)  \to   \mathbb {Q} (-n)         </fr:tex>
-        (see [minus-three-points-2.1 <fr:strong>(?)</fr:strong>] for the definition of <fr:tex>\mathbb {Q} (-n)</fr:tex>) that induces a polarisation of the weight-<fr:tex>n</fr:tex> Hodge structure <fr:tex>\operatorname {Gr} _n^W(M_ { \mathrm {B}} )= \operatorname {Gr} _n^W(M_ { \mathrm {B}} )</fr:tex>.
+        (see [minus-three-points-2.1] for the definition of <fr:tex>\mathbb {Q} (-n)</fr:tex>) that induces a polarisation of the weight-<fr:tex>n</fr:tex> Hodge structure <fr:tex>\operatorname {Gr} _n^W(M_ { \mathrm {B}} )= \operatorname {Gr} _n^W(M_ { \mathrm {B}} )</fr:tex>.
         Here, neither reason (a) nor reason (b) apply.
       </html:li>
 
@@ -939,7 +939,7 @@ root="false"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:taxon>Remark</fr:taxo
 addr="minus-three-points-1.7"
 href="minus-three-points-1.7.xml"
 number="1.7"></fr:ref>, for the want of verifying their existence in the case of Lie algebras of <fr:tex>\pi _1</fr:tex> that interest us.
-    I have nevertheless included the data of <fr:tex>\phi _p</fr:tex>, despite its appearance as a bizarre addition, because the calculations in [minus-three-points-19 <fr:strong>(?)</fr:strong>] give an interesting result.
+    I have nevertheless included the data of <fr:tex>\phi _p</fr:tex>, despite its appearance as a bizarre addition, because the calculations in [minus-three-points-19] give an interesting result.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -1130,6 +1130,167 @@ type="local"
 addr="minus-three-points-am3">(AM3)</fr:link> implies that <fr:tex>M_ \ell</fr:tex> comes from a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  S \setminus \{ \ell \}</fr:tex>.
     The language of sheaves makes it clear that, for all <fr:tex>p</fr:tex>, <fr:tex>M_ \ell</fr:tex> defines a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Q} _p)</fr:tex> (cf. the analogous case of <fr:tex>\mathbb {R}</fr:tex> below).
     The choice of a decomposition group is not required.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>395</fr:anchor><fr:taxon>Variant</fr:taxon><fr:addr>minus-three-points-1.15</fr:addr><fr:route>minus-three-points-1.15.xml</fr:route><fr:number>1.15</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Let <fr:tex>P</fr:tex> be a finite set of prime numbers.
+    The category of <fr:em>smooth realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex></fr:em> is defined as in <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref>, taking <fr:tex>P</fr:tex> to be the exceptional set <fr:tex>S</fr:tex> in <fr:link
+href="minus-three-points-am3.xml"
+type="local"
+addr="minus-three-points-am3">(AM3)</fr:link>, and replacing "almost all <fr:tex>p</fr:tex>" in <fr:link
+href="minus-three-points-m4.xml"
+type="local"
+addr="minus-three-points-m4">(M4)</fr:link> and <fr:link
+href="minus-three-points-am4.xml"
+type="local"
+addr="minus-three-points-am4">(AM4)</fr:link> by "all <fr:tex>p \not \in  P</fr:tex>".
+    This treatment of crystalline structures is not satisfying, cf. <fr:ref
+addr="minus-three-points-1.7"
+href="minus-three-points-1.7.xml"
+number="1.7"></fr:ref>.
+    The category (<fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref>) of realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex> is the inductive limit of these categories for <fr:tex>P</fr:tex> growing larger and larger.
+  </fr:p><fr:p>
+    Instead of saying "smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>", we also say "of good reduction outside of <fr:tex>P</fr:tex>".
+    This terminology is erroneous in that the categories in question are not subcategories of the category of realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex> (cf. <fr:ref
+addr="minus-three-points-1.7"
+href="minus-three-points-1.7.xml"
+number="1.7"></fr:ref> again).
+  </fr:p><fr:p>
+    In the language of <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref>, in <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link> we need to give <fr:tex>M_ \ell</fr:tex> as a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Z} [1/ \ell ]) \setminus  P</fr:tex> instead of on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>, and we need to modify <fr:link
+href="minus-three-points-mp4.xml"
+type="local"
+addr="minus-three-points-mp4">(M'4)</fr:link> like <fr:link
+href="minus-three-points-m4.xml"
+type="local"
+addr="minus-three-points-m4">(M4)</fr:link>.
+  </fr:p><fr:p>
+    The objects (<fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>) belonging to the subcategory generated by the objects of geometric origin (cf. <fr:ref
+addr="minus-three-points-1.11"
+href="minus-three-points-1.11.xml"
+taxon="Definition"
+number="1.11"></fr:ref>) will be called <fr:em>smooth (mixed) motives on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex></fr:em>.
+    We hope that this gives a full subcategory of the category of motives on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+  </fr:p><fr:p>
+    We would like to have a notion of smooth motive on <fr:tex>S</fr:tex> for more general base spaces than <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>.
+    Our methods, where the Betti realisation plays a central role, require that <fr:tex>S_ \mathbb {Q}</fr:tex> be dense in <fr:tex>S</fr:tex>.
+    We will outline a provisional definition of smooth realisation systems on <fr:tex>S</fr:tex>, for <fr:tex>S</fr:tex> smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
+    The case where <fr:tex>S</fr:tex> is open in the spectrum of the ring of integers of a number field can be dealt with using natural modifications of <fr:ref
+addr="minus-three-points-1.4"
+href="minus-three-points-1.4.xml"
+number="1.4"></fr:ref> and <fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>.
+    For <fr:tex>S</fr:tex> finite and étale over an open of <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>, we can also reduce to <fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>: see [minus-three-points-1.17].
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>minus-three-points-1.16</fr:addr><fr:route>minus-three-points-1.16.xml</fr:route><fr:number>1.16</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    (The motivic <fr:tex>\operatorname {H} ^0</fr:tex> of the spectrum of a number field).
+  </fr:p><fr:p>
+    Let <fr:tex>E</fr:tex> be a finite extension of <fr:tex>\mathbb {Q}</fr:tex>, unramified outside of a finite set <fr:tex>P</fr:tex> of prime numbers.
+    We are going to expand on <fr:link
+href="#chunk-1.6"
+type="external">(1.6)</fr:link> for <fr:tex>\operatorname {Spec} (E)</fr:tex> and, more precisely, define a realisation system <fr:tex>A \coloneqq \operatorname {H} _ \mathrm {mot} ^0( \operatorname {Spec} (E))</fr:tex> that is smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>.
+    The motive <fr:tex>A</fr:tex> is of Hodge type <fr:tex>(0,0)</fr:tex>.
+    This determines <fr:tex>W</fr:tex> and <fr:tex>F</fr:tex>.
+    We have that <fr:tex>A_ { \mathrm {DR}} =E</fr:tex>, viewed as a vector space over <fr:tex>\mathbb {Q}</fr:tex>.
+  </fr:p><fr:p>
+    Let <fr:tex>\operatorname {Hom} (E, \mathbb {C} )= \operatorname {Spec} (E)( \mathbb {C} )</fr:tex> be the set of homomorphisms (which are automatically embeddings) from <fr:tex>E</fr:tex> to <fr:tex>\mathbb {C}</fr:tex>.
+    We have that <fr:tex>A_ { \mathrm {B}} = \mathbb {Q} ^{ \operatorname {Hom} (E, \mathbb {C} )}</fr:tex>, with <fr:tex>F_ \infty</fr:tex> induced by the complex conjugation of <fr:tex>\mathbb {C}</fr:tex>.
+    The comparison isomorphism <fr:tex>{ \mathrm {DR}} {/} { \mathrm {B}}</fr:tex> from <fr:tex>A_ { \mathrm {B}} \otimes \mathbb {C} = \mathbb {C} ^{ \operatorname {Hom} (E, \mathbb {C} )}</fr:tex> to <fr:tex>A_ { \mathrm {DR}} \otimes \mathbb {C} =E \otimes \mathbb {C}</fr:tex> is the <fr:tex>\mathbb {C}</fr:tex>-linear extension of the map
+    <fr:tex
+display="block">        \begin {aligned}         E &amp; \longrightarrow   \mathbb {C} ^{ \operatorname {Hom} (E, \mathbb {C} )}        \\ e &amp; \longmapsto  ( \sigma \mapsto \sigma (e)).        \end {aligned}     </fr:tex></fr:p><fr:p>
+    Since every embedding of <fr:tex>E</fr:tex> into <fr:tex>\mathbb {C}</fr:tex> factors through <fr:tex>\bar { \mathbb {Q} }</fr:tex>, <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> acts on <fr:tex>\operatorname {Hom} (E, \mathbb {C} )</fr:tex>,
+    This action induces the Galois action on <fr:tex>A_ \mathbb {A} ^ \mathrm {f} \coloneqq  A_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f}</fr:tex> (cf. (ii) of <fr:ref
+addr="minus-three-points-1.5"
+href="minus-three-points-1.5.xml"
+taxon="Remarks"
+number="1.5"></fr:ref>).
+  </fr:p><fr:p>
+    For <fr:tex>p \not \in  P</fr:tex>, and <fr:tex>v</fr:tex> running over the places of <fr:tex>E</fr:tex> over <fr:tex>p</fr:tex>, we have that <fr:tex>E \otimes \mathbb {Q} _p= \prod  E_v</fr:tex>, and <fr:tex>\phi _p</fr:tex> is the automorphism of <fr:tex>E \otimes \mathbb {Q} _p</fr:tex> that induces on each <fr:tex>E_v</fr:tex> the unique lift of the Frobenius <fr:tex>x \mapsto  x^p</fr:tex> of the residue field (cf. (iii) of <fr:ref
+addr="minus-three-points-1.5"
+href="minus-three-points-1.5.xml"
+taxon="Remarks"
+number="1.5"></fr:ref>).
+
+    
+    The motive <fr:tex>A</fr:tex> is endowed with a product
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>396</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         A \otimes  A \to  A       \tag{1.16.1}       </fr:tex></fr:mainmatter></fr:tree>
+
+    namely the cup product, which makes <fr:tex>A</fr:tex> a commutative ring with unit in the Tannakian category of motives (cf. [minus-three-points-5.3]).
+    On <fr:tex>A_ { \mathrm {DR}} =E</fr:tex>, it is the product.
+    On <fr:tex>A_ { \mathrm {B}}</fr:tex>, it is given by <fr:tex>(q_1( \sigma ))(q_2( \sigma ))=(q_1( \sigma )q_2( \sigma ))</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>398</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>minus-three-points-1.17</fr:addr><fr:route>minus-three-points-1.17.xml</fr:route><fr:number>1.17</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Let <fr:tex>\mathcal {O}</fr:tex> be the ring of <fr:tex>P</fr:tex>-integers of <fr:tex>E</fr:tex>.
+    With the above notation, a <fr:em>smooth realisation system on <fr:tex>\operatorname {Spec} ( \mathcal {O} )</fr:tex></fr:em> is a realisation system <fr:tex>N</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex> (cf. <fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>) endowed with the structure of an <fr:tex>A</fr:tex>-module <fr:tex>A \otimes  N \to  N</fr:tex> (cf. [minus-three-points-5.3]) over <fr:tex>A \coloneqq \operatorname {H} _ \mathrm {mot} ^0( \operatorname {Spec} (E))</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree><fr:p>
+  Similarly for "motive" and "over <fr:tex>\operatorname {Spec} (E)</fr:tex>" (taking the limit over <fr:tex>P</fr:tex>).
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>399</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We will now show how a realisation system <fr:tex>N</fr:tex>, smooth over <fr:tex>S= \operatorname {Spec} ( \mathcal {O} )</fr:tex> (as in <fr:ref
+addr="minus-three-points-1.17"
+href="minus-three-points-1.17.xml"
+taxon="Definition"
+number="1.17"></fr:ref>), can be described in terms of a <fr:em>realisation system over <fr:tex>E</fr:tex></fr:em>, of the following type.
   </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -1137,7 +1298,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>455</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>489</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Here is a variant of the statement of <fr:ref
 addr="minus-three-points-1.4"
 href="minus-three-points-1.4.xml"
@@ -1327,7 +1488,87 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>456</fr:anchor><fr:taxon>Remarks</fr:taxon><fr:addr>minus-three-points-1.5</fr:addr><fr:route>minus-three-points-1.5.xml</fr:route><fr:number>1.5</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>490</fr:anchor><fr:taxon>Variant</fr:taxon><fr:addr>minus-three-points-1.15</fr:addr><fr:route>minus-three-points-1.15.xml</fr:route><fr:number>1.15</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Let <fr:tex>P</fr:tex> be a finite set of prime numbers.
+    The category of <fr:em>smooth realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex></fr:em> is defined as in <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref>, taking <fr:tex>P</fr:tex> to be the exceptional set <fr:tex>S</fr:tex> in <fr:link
+href="minus-three-points-am3.xml"
+type="local"
+addr="minus-three-points-am3">(AM3)</fr:link>, and replacing "almost all <fr:tex>p</fr:tex>" in <fr:link
+href="minus-three-points-m4.xml"
+type="local"
+addr="minus-three-points-m4">(M4)</fr:link> and <fr:link
+href="minus-three-points-am4.xml"
+type="local"
+addr="minus-three-points-am4">(AM4)</fr:link> by "all <fr:tex>p \not \in  P</fr:tex>".
+    This treatment of crystalline structures is not satisfying, cf. <fr:ref
+addr="minus-three-points-1.7"
+href="minus-three-points-1.7.xml"
+number="1.7"></fr:ref>.
+    The category (<fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref>) of realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex> is the inductive limit of these categories for <fr:tex>P</fr:tex> growing larger and larger.
+  </fr:p><fr:p>
+    Instead of saying "smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>", we also say "of good reduction outside of <fr:tex>P</fr:tex>".
+    This terminology is erroneous in that the categories in question are not subcategories of the category of realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex> (cf. <fr:ref
+addr="minus-three-points-1.7"
+href="minus-three-points-1.7.xml"
+number="1.7"></fr:ref> again).
+  </fr:p><fr:p>
+    In the language of <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref>, in <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link> we need to give <fr:tex>M_ \ell</fr:tex> as a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Z} [1/ \ell ]) \setminus  P</fr:tex> instead of on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>, and we need to modify <fr:link
+href="minus-three-points-mp4.xml"
+type="local"
+addr="minus-three-points-mp4">(M'4)</fr:link> like <fr:link
+href="minus-three-points-m4.xml"
+type="local"
+addr="minus-three-points-m4">(M4)</fr:link>.
+  </fr:p><fr:p>
+    The objects (<fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>) belonging to the subcategory generated by the objects of geometric origin (cf. <fr:ref
+addr="minus-three-points-1.11"
+href="minus-three-points-1.11.xml"
+taxon="Definition"
+number="1.11"></fr:ref>) will be called <fr:em>smooth (mixed) motives on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex></fr:em>.
+    We hope that this gives a full subcategory of the category of motives on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+  </fr:p><fr:p>
+    We would like to have a notion of smooth motive on <fr:tex>S</fr:tex> for more general base spaces than <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>.
+    Our methods, where the Betti realisation plays a central role, require that <fr:tex>S_ \mathbb {Q}</fr:tex> be dense in <fr:tex>S</fr:tex>.
+    We will outline a provisional definition of smooth realisation systems on <fr:tex>S</fr:tex>, for <fr:tex>S</fr:tex> smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
+    The case where <fr:tex>S</fr:tex> is open in the spectrum of the ring of integers of a number field can be dealt with using natural modifications of <fr:ref
+addr="minus-three-points-1.4"
+href="minus-three-points-1.4.xml"
+number="1.4"></fr:ref> and <fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>.
+    For <fr:tex>S</fr:tex> finite and étale over an open of <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>, we can also reduce to <fr:ref
+addr="minus-three-points-1.15"
+href="minus-three-points-1.15.xml"
+taxon="Variant"
+number="1.15"></fr:ref>: see [minus-three-points-1.17].
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>491</fr:anchor><fr:taxon>Remarks</fr:taxon><fr:addr>minus-three-points-1.5</fr:addr><fr:route>minus-three-points-1.5.xml</fr:route><fr:number>1.5</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter>
  <html:ol
 xmlns:html="http://www.w3.org/1999/xhtml">
     
@@ -1385,7 +1626,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>457</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>492</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     A scheme <fr:tex>X</fr:tex> of finite type over <fr:tex>\mathbb {Q}</fr:tex> should define, for each <fr:tex>i</fr:tex>, a motive <fr:tex>M \coloneqq   \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>.
     
     In this section, we will partially describe the system <fr:link
@@ -1454,7 +1695,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>458</fr:anchor><fr:taxon>Variant</fr:taxon><fr:addr>minus-three-points-1.8</fr:addr><fr:route>minus-three-points-1.8.xml</fr:route><fr:number>1.8</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>493</fr:anchor><fr:taxon>Variant</fr:taxon><fr:addr>minus-three-points-1.8</fr:addr><fr:route>minus-three-points-1.8.xml</fr:route><fr:number>1.8</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We should also have <fr:link
 href="minus-three-points-1.4.xml"
 type="local"
@@ -1472,7 +1713,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>459</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>minus-three-points-1.9</fr:addr><fr:route>minus-three-points-1.9.xml</fr:route><fr:number>1.9</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>494</fr:anchor><fr:taxon>Definition</fr:taxon><fr:addr>minus-three-points-1.9</fr:addr><fr:route>minus-three-points-1.9.xml</fr:route><fr:number>1.9</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     A <fr:em>realisation system</fr:em> is a system <fr:link
 href="minus-three-points-1.4.xml"
 type="local"
@@ -1487,7 +1728,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>453</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>487</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>40</fr:strong> pp. 5–58</fr:meta><fr:meta
 name="bibtex">@article{D2,
   author = {Deligne, P.},

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>512</fr:anchor><fr:addr>minus-three-points-am2</fr:addr><fr:route>minus-three-points-am2.xml</fr:route><fr:number>AM2</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>550</fr:anchor><fr:addr>minus-three-points-am2</fr:addr><fr:route>minus-three-points-am2.xml</fr:route><fr:number>AM2</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       We have two real structures on <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {C}</fr:tex> (identified with <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex> by the comparison isomorphism), namely <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {R}</fr:tex> and <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {R}</fr:tex>;
       these define antilinear involutions <fr:tex>c_ { \mathrm {B}}</fr:tex> and <fr:tex>c_ { \mathrm {DR}}</fr:tex>, of which <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {R}</fr:tex> and <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {R}</fr:tex> are (respectively) the fixed points.
       These involutions, as well as the linear involution extending <fr:tex>F_ \infty</fr:tex>, all commute with one another, and satisfy
@@ -22,7 +22,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>511</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>549</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -201,7 +201,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>509</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>547</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Here is a variant of the statement of <fr:ref
 addr="minus-three-points-1.4"
 href="minus-three-points-1.4.xml"
@@ -391,7 +391,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>510</fr:anchor><fr:addr>minus-three-points-mp5</fr:addr><fr:route>minus-three-points-mp5.xml</fr:route><fr:number>M'5</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>548</fr:anchor><fr:addr>minus-three-points-mp5</fr:addr><fr:route>minus-three-points-mp5.xml</fr:route><fr:number>M'5</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Comparison isomorphisms
       <fr:tex
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes  C  \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes  C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} }_C)          \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }&amp; \colon  M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, p}           \end {aligned}       </fr:tex>
