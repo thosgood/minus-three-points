@@ -35,12 +35,24 @@
   \strong{Table of contents}
 
   \olc{
-    \lic{}{[\strong{Introduction}](introduction)}
-    \lic{0.}{[\strong{Terminology and notation}](minus-three-points-0)}
-    \lic{1.}{[\strong{Mixed motives}](minus-three-points-1)}
-    \lic{2.}{[\strong{Examples}](minus-three-points-2)}
-    \lic{3.}{[\strong{#{\mathbb{Z}(n)}-torsors}](minus-three-points-3)}
-    \lic{}{[\strong{Bibliography}](bibliography)}
+    \lic{}{
+      [\strong{Introduction}](minus-three-points-introduction)
+    }
+    \lic{0.}{
+      [\strong{Terminology and notation}](minus-three-points-0)
+    }
+    \lic{1.}{
+      [\strong{Mixed motives}](minus-three-points-1)
+    }
+    \lic{2.}{
+      [\strong{Examples}](minus-three-points-2)
+    }
+    \lic{3.}{
+      [\strong{#{\mathbb{Z}(n)}-torsors}](minus-three-points-3)
+    }
+    \lic{}{
+      [\strong{Bibliography}](minus-three-points-bibliography)
+    }
   }
 }
 
