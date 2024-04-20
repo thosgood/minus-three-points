@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>692</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>751</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -293,7 +293,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>690</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>749</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -340,7 +340,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>691</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>750</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -441,7 +441,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>689</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>748</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -542,7 +542,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>687</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>746</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Contemp. Math.</fr:em> <fr:strong>67</fr:strong> pp. 1–24</fr:meta><fr:meta
 name="bibtex">@article{B,
   author = {Beilinson, A.A.},

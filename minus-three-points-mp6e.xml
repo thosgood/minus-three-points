@@ -7,8 +7,20 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>644</fr:anchor><fr:addr>minus-three-points-mp1e</fr:addr><fr:route>minus-three-points-mp1e.xml</fr:route><fr:number>M'1E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
-      For each embedding of <fr:tex>E</fr:tex> into an algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex>, a vector space <fr:tex>M_ \sigma</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, functorial in <fr:tex>C</fr:tex>.
+root="false"><fr:frontmatter><fr:anchor>688</fr:anchor><fr:addr>minus-three-points-mp6e</fr:addr><fr:route>minus-three-points-mp6e.xml</fr:route><fr:number>M'6E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      A filtration <fr:tex>W</fr:tex> of the objects <fr:link
+href="minus-three-points-mp1e.xml"
+type="local"
+addr="minus-three-points-mp1e">(M'1)E</fr:link>, <fr:link
+href="minus-three-points-mp2e.xml"
+type="local"
+addr="minus-three-points-mp2e">(M'2)E</fr:link>, <fr:link
+href="minus-three-points-mp3e.xml"
+type="local"
+addr="minus-three-points-mp3e">(M'3)E</fr:link>, and <fr:link
+href="minus-three-points-mp4e.xml"
+type="local"
+addr="minus-three-points-mp4e">(M'4)E</fr:link>, respected by the comparison isomorphisms.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -16,7 +28,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>643</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>687</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We will now show how a realisation system <fr:tex>N</fr:tex>, smooth over <fr:tex>S= \operatorname {Spec} ( \mathcal {O} )</fr:tex> (as in <fr:ref
 addr="minus-three-points-1.17"
 href="minus-three-points-1.17.xml"
@@ -160,25 +172,51 @@ addr="minus-three-points-am4">(AM4)</fr:link>, which remain to be imposed, into 
 addr="minus-three-points-1.14"
 href="minus-three-points-1.14.xml"
 number="1.14"></fr:ref>).
-  </fr:p></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+  </fr:p></fr:mainmatter></fr:tree></fr:context><fr:related><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>642</fr:anchor><fr:addr>minus-three-points-mp6e</fr:addr><fr:route>minus-three-points-mp6e.xml</fr:route><fr:number>M'6E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
-      A filtration <fr:tex>W</fr:tex> of the objects <fr:link
-href="minus-three-points-mp1e.xml"
+root="false"><fr:frontmatter><fr:anchor>683</fr:anchor><fr:addr>minus-three-points-mp1e</fr:addr><fr:route>minus-three-points-mp1e.xml</fr:route><fr:number>M'1E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For each embedding of <fr:tex>E</fr:tex> into an algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex>, a vector space <fr:tex>M_ \sigma</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, functorial in <fr:tex>C</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>684</fr:anchor><fr:addr>minus-three-points-mp2e</fr:addr><fr:route>minus-three-points-mp2e.xml</fr:route><fr:number>M'2E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      An <fr:tex>E</fr:tex>-vector space <fr:tex>M_ { \mathrm {DR}}</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>685</fr:anchor><fr:addr>minus-three-points-mp3e</fr:addr><fr:route>minus-three-points-mp3e.xml</fr:route><fr:number>M'3E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      (cf. <fr:link
+href="minus-three-points-m3.xml"
 type="local"
-addr="minus-three-points-mp1e">(M'1)E</fr:link>, <fr:link
-href="minus-three-points-mp2e.xml"
+addr="minus-three-points-m3">(M3)</fr:link>, <fr:link
+href="minus-three-points-m9.xml"
 type="local"
-addr="minus-three-points-mp2e">(M'2)E</fr:link>, <fr:link
-href="minus-three-points-mp3e.xml"
-type="local"
-addr="minus-three-points-mp3e">(M'3)E</fr:link>, and <fr:link
-href="minus-three-points-mp4e.xml"
-type="local"
-addr="minus-three-points-mp4e">(M'4)E</fr:link>, respected by the comparison isomorphisms.
-    </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+addr="minus-three-points-m9">(M9)</fr:link>) An <fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex>-sheaf <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> on <fr:tex>\operatorname {Spec} (E)</fr:tex> (cf. <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref>).
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>686</fr:anchor><fr:addr>minus-three-points-mp4e</fr:addr><fr:route>minus-three-points-mp4e.xml</fr:route><fr:number>M'4E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For each place <fr:tex>v</fr:tex> of <fr:tex>E</fr:tex> over <fr:tex>p \not \in  P</fr:tex>, a vector space <fr:tex>M_ { { \mathrm {cris}} \, \, v}</fr:tex> over the completion <fr:tex>E_v</fr:tex> of <fr:tex>E</fr:tex> at <fr:tex>v</fr:tex>.
+      Let <fr:tex>F_v^*</fr:tex> be the automorphism of <fr:tex>E_v</fr:tex> that induces <fr:tex>x \mapsto  x^p</fr:tex> on the residue field.
+      We give an <fr:tex>F_v^*</fr:tex>-linear <fr:tex>\phi _v \colon  M_ { { \mathrm {cris}} \, \, v} \mapsto  M_ { { \mathrm {cris}} \, \, v}</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

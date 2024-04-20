@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>561</fr:anchor><fr:addr>minus-three-points-am3</fr:addr><fr:route>minus-three-points-am3.xml</fr:route><fr:number>AM3</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>595</fr:anchor><fr:addr>minus-three-points-am3</fr:addr><fr:route>minus-three-points-am3.xml</fr:route><fr:number>AM3</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For each prime number <fr:tex>\ell</fr:tex>, let <fr:tex>M_ \ell</fr:tex> be given by extension of scalars of <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>, so that <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> is then a restricted product of the <fr:tex>M_ \ell</fr:tex>.
       There exists a finite set <fr:tex>S</fr:tex> of prime numbers such that, for each <fr:tex>\ell</fr:tex>, the representation <fr:tex>M_ \ell</fr:tex> of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> is unramified outside of <fr:tex>S</fr:tex> and <fr:tex>\ell</fr:tex>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>560</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>594</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -196,7 +196,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>558</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>590</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Here is a variant of the statement of <fr:ref
 addr="minus-three-points-1.4"
 href="minus-three-points-1.4.xml"
@@ -386,7 +386,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>559</fr:anchor><fr:taxon>Variant</fr:taxon><fr:addr>minus-three-points-1.15</fr:addr><fr:route>minus-three-points-1.15.xml</fr:route><fr:number>1.15</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>591</fr:anchor><fr:taxon>Variant</fr:taxon><fr:addr>minus-three-points-1.15</fr:addr><fr:route>minus-three-points-1.15.xml</fr:route><fr:number>1.15</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>P</fr:tex> be a finite set of prime numbers.
     The category of <fr:em>smooth realisation systems on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex></fr:em> is defined as in <fr:ref
 addr="minus-three-points-1.9"
@@ -459,4 +459,184 @@ addr="minus-three-points-1.15"
 href="minus-three-points-1.15.xml"
 taxon="Variant"
 number="1.15"></fr:ref>: see [minus-three-points-1.17].
-  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>592</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We will now show how a realisation system <fr:tex>N</fr:tex>, smooth over <fr:tex>S= \operatorname {Spec} ( \mathcal {O} )</fr:tex> (as in <fr:ref
+addr="minus-three-points-1.17"
+href="minus-three-points-1.17.xml"
+taxon="Definition"
+number="1.17"></fr:ref>), can be described in terms of a <fr:em>realisation system over <fr:tex>E</fr:tex></fr:em>, of the following type.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>399</fr:anchor><fr:addr>minus-three-points-m1e</fr:addr><fr:route>minus-three-points-m1e.xml</fr:route><fr:number>M1E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For each embedding <fr:tex>\sigma</fr:tex> of <fr:tex>E</fr:tex> into <fr:tex>\mathbb {C}</fr:tex>, a vector space <fr:tex>M_ \sigma</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, the Betti realisation with respect to <fr:tex>\sigma</fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>400</fr:anchor><fr:addr>minus-three-points-m7e</fr:addr><fr:route>minus-three-points-m7e.xml</fr:route><fr:number>M7E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For each embedding <fr:tex>\sigma</fr:tex> of <fr:tex>E</fr:tex> into <fr:tex>\mathbb {C}</fr:tex>, an involutive system of isomorphisms <fr:tex>F_ \infty \colon  M_ \sigma \xrightarrow { \sim }  M_{ \bar { \sigma }}</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    We have <fr:tex>N_ { \mathrm {B}} = \bigoplus  M_ \sigma</fr:tex>, with the evident structure of a module over <fr:tex>A_ { \mathrm {B}} = \mathbb {Q} ^{ \operatorname {Hom} (E, \mathbb {C} )}</fr:tex>, and <fr:tex>F_ \infty</fr:tex> is the sum of the <fr:tex>F_ \infty</fr:tex>.
+    As in <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref>, we have a variant:
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>401</fr:anchor><fr:addr>minus-three-points-mp1e</fr:addr><fr:route>minus-three-points-mp1e.xml</fr:route><fr:number>M'1E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For each embedding of <fr:tex>E</fr:tex> into an algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex>, a vector space <fr:tex>M_ \sigma</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, functorial in <fr:tex>C</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>402</fr:anchor><fr:addr>minus-three-points-mp2e</fr:addr><fr:route>minus-three-points-mp2e.xml</fr:route><fr:number>M'2E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      An <fr:tex>E</fr:tex>-vector space <fr:tex>M_ { \mathrm {DR}}</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>403</fr:anchor><fr:addr>minus-three-points-mp8e</fr:addr><fr:route>minus-three-points-mp8e.xml</fr:route><fr:number>M'8E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      A filtration <fr:tex>F</fr:tex> of <fr:tex>M_ { \mathrm {DR}}</fr:tex>, the Hodge filtration.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    We have <fr:tex>N_ { \mathrm {DR}} =M_ { \mathrm {DR}}</fr:tex>, with the structure of an <fr:tex>A_ { \mathrm {DR}}</fr:tex>-module given by that of the vector space over <fr:tex>E</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>404</fr:anchor><fr:addr>minus-three-points-mp3e</fr:addr><fr:route>minus-three-points-mp3e.xml</fr:route><fr:number>M'3E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      (cf. <fr:link
+href="minus-three-points-m3.xml"
+type="local"
+addr="minus-three-points-m3">(M3)</fr:link>, <fr:link
+href="minus-three-points-m9.xml"
+type="local"
+addr="minus-three-points-m9">(M9)</fr:link>) An <fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex>-sheaf <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> on <fr:tex>\operatorname {Spec} (E)</fr:tex> (cf. <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref>).
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    We define <fr:tex>N_ \mathbb {A} ^ \mathrm {f}</fr:tex> as its direct image over <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>: <fr:tex>N_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} })</fr:tex> is the sum over the <fr:tex>\sigma \colon  E \to \bar { \mathbb {Q} }</fr:tex> of the <fr:tex>M_AAf( \bar { \mathbb {Q} })</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>405</fr:anchor><fr:addr>minus-three-points-mp4e</fr:addr><fr:route>minus-three-points-mp4e.xml</fr:route><fr:number>M'4E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For each place <fr:tex>v</fr:tex> of <fr:tex>E</fr:tex> over <fr:tex>p \not \in  P</fr:tex>, a vector space <fr:tex>M_ { { \mathrm {cris}} \, \, v}</fr:tex> over the completion <fr:tex>E_v</fr:tex> of <fr:tex>E</fr:tex> at <fr:tex>v</fr:tex>.
+      Let <fr:tex>F_v^*</fr:tex> be the automorphism of <fr:tex>E_v</fr:tex> that induces <fr:tex>x \mapsto  x^p</fr:tex> on the residue field.
+      We give an <fr:tex>F_v^*</fr:tex>-linear <fr:tex>\phi _v \colon  M_ { { \mathrm {cris}} \, \, v} \mapsto  M_ { { \mathrm {cris}} \, \, v}</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    We have <fr:tex>E \otimes \mathbb {Q} _p= \bigoplus _{v \mid  p}E_v</fr:tex>, and <fr:tex>N_ { { \mathrm {cris}} \, \, p}</fr:tex> is the sum of the <fr:tex>M_ { { \mathrm {cris}} \, \, v}</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>406</fr:anchor><fr:addr>minus-three-points-mp5e</fr:addr><fr:route>minus-three-points-mp5e.xml</fr:route><fr:number>M'5E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      Comparison isomorphisms
+      <fr:tex
+display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , \sigma } \colon  M_ \sigma (C) \otimes  C           &amp; \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes _{E, \sigma }C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , \sigma } \colon  M_{ \sigma } \otimes \mathbb {A} ^ \mathrm {f}            &amp; \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar {E}_C)          \end {aligned}       </fr:tex>
+      both functorial in <fr:tex>C</fr:tex> (where <fr:tex>\bar {E}_C</fr:tex> is the algebraic closure of <fr:tex>E</fr:tex> in <fr:tex>C</fr:tex>, with respect to <fr:tex>\sigma</fr:tex>), as well as
+      <fr:tex
+display="block">          \operatorname {comp} _{ { { \mathrm {cris}} \, \, v} , { \mathrm {DR}} } \colon  M_ { \mathrm {DR}} \otimes _E E_v  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, v} .       </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:p>
+    By summing over <fr:tex>\sigma</fr:tex> (resp. <fr:tex>v</fr:tex>), these give <fr:link
+href="minus-three-points-mp5.xml"
+type="local"
+addr="minus-three-points-mp5">(M'5)</fr:link>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>407</fr:anchor><fr:addr>minus-three-points-mp6e</fr:addr><fr:route>minus-three-points-mp6e.xml</fr:route><fr:number>M'6E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      A filtration <fr:tex>W</fr:tex> of the objects <fr:link
+href="minus-three-points-mp1e.xml"
+type="local"
+addr="minus-three-points-mp1e">(M'1)E</fr:link>, <fr:link
+href="minus-three-points-mp2e.xml"
+type="local"
+addr="minus-three-points-mp2e">(M'2)E</fr:link>, <fr:link
+href="minus-three-points-mp3e.xml"
+type="local"
+addr="minus-three-points-mp3e">(M'3)E</fr:link>, and <fr:link
+href="minus-three-points-mp4e.xml"
+type="local"
+addr="minus-three-points-mp4e">(M'4)E</fr:link>, respected by the comparison isomorphisms.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    We leave to the reader the task of translating axioms <fr:link
+href="minus-three-points-am1.xml"
+type="local"
+addr="minus-three-points-am1">(AM1)</fr:link>, <fr:link
+href="minus-three-points-am3.xml"
+type="local"
+addr="minus-three-points-am3">(AM3)</fr:link>, and <fr:link
+href="minus-three-points-am4.xml"
+type="local"
+addr="minus-three-points-am4">(AM4)</fr:link>, which remain to be imposed, into this language (cf. <fr:ref
+addr="minus-three-points-1.14"
+href="minus-three-points-1.14.xml"
+number="1.14"></fr:ref>).
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>593</fr:anchor><fr:addr>minus-three-points-1.20</fr:addr><fr:route>minus-three-points-1.20.xml</fr:route><fr:number>1.20</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    If <fr:tex>S</fr:tex> is an open of the spectrum of the ring of integers of a finite extension <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>, then we can modify the description in <fr:ref
+addr="minus-three-points-1.18"
+href="minus-three-points-1.18.xml"
+number="1.18"></fr:ref> as follows to define smooth realisation systems over <fr:tex>S</fr:tex>.
+
+    <fr:ul><fr:li>
+        In <fr:link
+href="minus-three-points-am3.xml"
+type="local"
+addr="minus-three-points-am3">(AM3)</fr:link>, we ask for each <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf <fr:tex>M_ \ell</fr:tex> induced by <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> to come from a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>S[1/ \ell ]</fr:tex>.
+      </fr:li>
+      <fr:li>
+        In <fr:link
+href="minus-three-points-mp4e.xml"
+type="local"
+addr="minus-three-points-mp4e">(M'4)E</fr:link>, for each residue field <fr:tex>k(v)</fr:tex> of <fr:tex>S</fr:tex>, we ask for <fr:tex>M_ { { \mathrm {cris}} \, \, v}</fr:tex> over the field of fractions <fr:tex>K_v</fr:tex> of Witt vectors over <fr:tex>k(v)</fr:tex>, endowed with a semi-linear <fr:tex>\phi _v</fr:tex>.
+        The crystalline comparison isomorphism of <fr:link
+href="minus-three-points-mp5e.xml"
+type="local"
+addr="minus-three-points-mp5e">(M'5)E</fr:link> then becomes
+        <fr:tex
+display="block">           M_ { \mathrm {DR}} \otimes  E_v  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, v} \otimes _{K_v}E_v.         </fr:tex></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

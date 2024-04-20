@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>409</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>416</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.1}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>408</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>415</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -154,7 +154,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>407</fr:anchor><fr:addr>minus-three-points-1.3</fr:addr><fr:route>minus-three-points-1.3.xml</fr:route><fr:number>1.3</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>414</fr:anchor><fr:addr>minus-three-points-1.3</fr:addr><fr:route>minus-three-points-1.3.xml</fr:route><fr:number>1.3</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     In each of the known theories, the <fr:tex>\operatorname {H} ^i(X)</fr:tex> are endowed with an increasing filtration <fr:tex>W</fr:tex>, known as the <fr:em>weight filtration</fr:em> [<fr:link
 href="D5.xml"
 type="local"

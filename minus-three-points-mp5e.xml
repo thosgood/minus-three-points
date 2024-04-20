@@ -7,16 +7,20 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>644</fr:anchor><fr:addr>minus-three-points-mp1e</fr:addr><fr:route>minus-three-points-mp1e.xml</fr:route><fr:number>M'1E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
-      For each embedding of <fr:tex>E</fr:tex> into an algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex>, a vector space <fr:tex>M_ \sigma</fr:tex> over <fr:tex>\mathbb {Q}</fr:tex>, functorial in <fr:tex>C</fr:tex>.
-    </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+root="false"><fr:frontmatter><fr:anchor>677</fr:anchor><fr:addr>minus-three-points-mp5e</fr:addr><fr:route>minus-three-points-mp5e.xml</fr:route><fr:number>M'5E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      Comparison isomorphisms
+      <fr:tex
+display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , \sigma } \colon  M_ \sigma (C) \otimes  C           &amp; \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes _{E, \sigma }C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , \sigma } \colon  M_{ \sigma } \otimes \mathbb {A} ^ \mathrm {f}            &amp; \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar {E}_C)          \end {aligned}       </fr:tex>
+      both functorial in <fr:tex>C</fr:tex> (where <fr:tex>\bar {E}_C</fr:tex> is the algebraic closure of <fr:tex>E</fr:tex> in <fr:tex>C</fr:tex>, with respect to <fr:tex>\sigma</fr:tex>), as well as
+      <fr:tex
+display="block">          \operatorname {comp} _{ { { \mathrm {cris}} \, \, v} , { \mathrm {DR}} } \colon  M_ { \mathrm {DR}} \otimes _E E_v  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, v} .       </fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>643</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>676</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We will now show how a realisation system <fr:tex>N</fr:tex>, smooth over <fr:tex>S= \operatorname {Spec} ( \mathcal {O} )</fr:tex> (as in <fr:ref
 addr="minus-three-points-1.17"
 href="minus-three-points-1.17.xml"
@@ -167,18 +171,26 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>642</fr:anchor><fr:addr>minus-three-points-mp6e</fr:addr><fr:route>minus-three-points-mp6e.xml</fr:route><fr:number>M'6E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
-      A filtration <fr:tex>W</fr:tex> of the objects <fr:link
-href="minus-three-points-mp1e.xml"
+root="false"><fr:frontmatter><fr:anchor>675</fr:anchor><fr:addr>minus-three-points-1.20</fr:addr><fr:route>minus-three-points-1.20.xml</fr:route><fr:number>1.20</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    If <fr:tex>S</fr:tex> is an open of the spectrum of the ring of integers of a finite extension <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>, then we can modify the description in <fr:ref
+addr="minus-three-points-1.18"
+href="minus-three-points-1.18.xml"
+number="1.18"></fr:ref> as follows to define smooth realisation systems over <fr:tex>S</fr:tex>.
+
+    <fr:ul><fr:li>
+        In <fr:link
+href="minus-three-points-am3.xml"
 type="local"
-addr="minus-three-points-mp1e">(M'1)E</fr:link>, <fr:link
-href="minus-three-points-mp2e.xml"
-type="local"
-addr="minus-three-points-mp2e">(M'2)E</fr:link>, <fr:link
-href="minus-three-points-mp3e.xml"
-type="local"
-addr="minus-three-points-mp3e">(M'3)E</fr:link>, and <fr:link
+addr="minus-three-points-am3">(AM3)</fr:link>, we ask for each <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf <fr:tex>M_ \ell</fr:tex> induced by <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> to come from a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>S[1/ \ell ]</fr:tex>.
+      </fr:li>
+      <fr:li>
+        In <fr:link
 href="minus-three-points-mp4e.xml"
 type="local"
-addr="minus-three-points-mp4e">(M'4)E</fr:link>, respected by the comparison isomorphisms.
-    </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+addr="minus-three-points-mp4e">(M'4)E</fr:link>, for each residue field <fr:tex>k(v)</fr:tex> of <fr:tex>S</fr:tex>, we ask for <fr:tex>M_ { { \mathrm {cris}} \, \, v}</fr:tex> over the field of fractions <fr:tex>K_v</fr:tex> of Witt vectors over <fr:tex>k(v)</fr:tex>, endowed with a semi-linear <fr:tex>\phi _v</fr:tex>.
+        The crystalline comparison isomorphism of <fr:link
+href="minus-three-points-mp5e.xml"
+type="local"
+addr="minus-three-points-mp5e">(M'5)E</fr:link> then becomes
+        <fr:tex
+display="block">           M_ { \mathrm {DR}} \otimes  E_v  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, v} \otimes _{K_v}E_v.         </fr:tex></fr:li></fr:ul></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

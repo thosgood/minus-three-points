@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>477</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>486</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.16.1</fr:addr><fr:route>minus-three-points-1.16.1.xml</fr:route><fr:number>1.16.1</fr:number><fr:parent>minus-three-points-1.16</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">         A \otimes  A \to  A       \tag{1.16.1}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,13 +15,14 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>476</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>minus-three-points-1.16</fr:addr><fr:route>minus-three-points-1.16.xml</fr:route><fr:number>1.16</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>485</fr:anchor><fr:taxon>Example</fr:taxon><fr:addr>minus-three-points-1.16</fr:addr><fr:route>minus-three-points-1.16.xml</fr:route><fr:number>1.16</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     (The motivic <fr:tex>\operatorname {H} ^0</fr:tex> of the spectrum of a number field).
   </fr:p><fr:p>
     Let <fr:tex>E</fr:tex> be a finite extension of <fr:tex>\mathbb {Q}</fr:tex>, unramified outside of a finite set <fr:tex>P</fr:tex> of prime numbers.
-    We are going to expand on <fr:link
-href="#chunk-1.6"
-type="external">(1.6)</fr:link> for <fr:tex>\operatorname {Spec} (E)</fr:tex> and, more precisely, define a realisation system <fr:tex>A \coloneqq \operatorname {H} _ \mathrm {mot} ^0( \operatorname {Spec} (E))</fr:tex> that is smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>.
+    We are going to expand on <fr:ref
+addr="minus-three-points-1.6"
+href="minus-three-points-1.6.xml"
+number="1.6"></fr:ref> for <fr:tex>\operatorname {Spec} (E)</fr:tex> and, more precisely, define a realisation system <fr:tex>A \coloneqq \operatorname {H} _ \mathrm {mot} ^0( \operatorname {Spec} (E))</fr:tex> that is smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  P</fr:tex>.
     The motive <fr:tex>A</fr:tex> is of Hodge type <fr:tex>(0,0)</fr:tex>.
     This determines <fr:tex>W</fr:tex> and <fr:tex>F</fr:tex>.
     We have that <fr:tex>A_ { \mathrm {DR}} =E</fr:tex>, viewed as a vector space over <fr:tex>\mathbb {Q}</fr:tex>.
