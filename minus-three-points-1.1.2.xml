@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"><fr:frontmatter><fr:anchor>283</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell .       \tag{1.1.2}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    For algebraic varieties, we have various parallel cohomology theories.
+    The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
+  </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
+      Let <fr:tex>k</fr:tex> be a field of characteristic <fr:tex>0</fr:tex>, and <fr:tex>X</fr:tex> an algebraic variety over <fr:tex>k</fr:tex>.
+      Suppose that <fr:tex>X</fr:tex> is smooth.
+      The de Rham cohomology groups <fr:tex>\operatorname {H} _ { \mathrm {DR}} ^i(X)</fr:tex> are the hypercohomology groups of the de Rham complex:
+      <fr:tex
+display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)          \coloneqq   \mathbb {H} ^i(X, \Omega _{X/k}^ \bullet )       </fr:tex>
+      cf. [@G].
+      These are vector spaces over <fr:tex>k</fr:tex>.
+      If <fr:tex>k'</fr:tex> is an extension of <fr:tex>k</fr:tex>, and <fr:tex>X'</fr:tex> over <fr:tex>k'</fr:tex> is given by extension of scalars of <fr:tex>X</fr:tex>, then
+      <fr:tex
+display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X')         =  \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _k k'.       </fr:tex>
+      If <fr:tex>X</fr:tex> is not smooth, then the de Rham complex no longer gives a reasonable theory.
+      We can define the <fr:tex>\operatorname {H} _ { \mathrm {DR}} ^i(X)</fr:tex> by reduction to the smooth case, by the methods of [@D3], or, if <fr:tex>X</fr:tex> admits an embedding into a smooth variety <fr:tex>Z</fr:tex>, as the hypercohomology of the de Rham complex of the formal completion of <fr:tex>Z</fr:tex> along <fr:tex>X</fr:tex> (R. Hartshorne, <fr:em>On the de Rham cohomology of algebraic varieties</fr:em>, Publ. Math. IHÉS <fr:strong>45</fr:strong> (1975), p. 5–99);
+      more intrinsically, it is the crystalline cohomology of <fr:tex>X</fr:tex> (A. Grothendieck, <fr:em>Crystals and the de Rham cohomology of schemes</fr:em>, Notes by J. Coates and O. Jussila, in: "Dix exposés sur la cohomologie des schémas", North Holland (1968)).
+    </fr:li>
+
+    <fr:li><fr:strong><fr:tex>\ell</fr:tex>-adic cohomology.</fr:strong>
+      Let <fr:tex>\ell</fr:tex> be a prime number;
+      if <fr:tex>k</fr:tex> is an algebraically closed field of characteristic <fr:tex>\neq \ell</fr:tex>, then we have the <fr:tex>\ell</fr:tex>-adic theory <fr:tex>X \mapsto \operatorname {H} ^i(X, \mathbb {Q} _ \ell )</fr:tex> that associates, to <fr:tex>X</fr:tex> over <fr:tex>k</fr:tex>, cohomology groups which are vector spaces over <fr:tex>\mathbb {Q} _ \ell</fr:tex> (cf. SGA 5, VI).
+      They are defined from the cohomology groups with coefficients in <fr:tex>\mathbb {Z} {/}( \ell ^n)</fr:tex>, and we allow ourselves to give, as reference for a theorem in <fr:tex>\ell</fr:tex>-adic cohomology, the place where its <fr:tex>\mathbb {Z} {/}( \ell ^n)</fr:tex> analogue is proved.
+      The <fr:tex>\operatorname {H} ^i(X, \mathbb {Q} _ \ell )</fr:tex> depend only on <fr:tex>X</fr:tex>.
+      In particular, if <fr:tex>k</fr:tex> is the algebraic closure of <fr:tex>k_0</fr:tex>, and if <fr:tex>X</fr:tex> is given by extension of scalars of some <fr:tex>X_0</fr:tex> over <fr:tex>k_0</fr:tex>, then <fr:tex>\operatorname {Gal} (k/k_0)</fr:tex> acts (semi-<fr:tex>k</fr:tex>-linearly) on <fr:tex>X</fr:tex>, and thus acts on the <fr:tex>\operatorname {H} ^i(X, \mathbb {Q} _ \ell )</fr:tex>.
+      This action is continuous.
+      If <fr:tex>k'</fr:tex> is an algebraically closed extension of <fr:tex>k</fr:tex>, and if <fr:tex>X'</fr:tex> is given by extension of scalars of <fr:tex>X</fr:tex>, then <fr:tex>\operatorname {H} ^i(X, \mathbb {Q} _ \ell ) \xrightarrow { \sim } \operatorname {H} ^i(X', \mathbb {Q} _ \ell )</fr:tex>.
+      
+      This follows by passing to the limit in the base change theorem for a smooth morphism [SGA 4, XVI, 1.2]: <fr:tex>k'</fr:tex> is the filtrant inductive limit of the <fr:tex>k</fr:tex>-algebras <fr:tex>A</fr:tex> with <fr:tex>\operatorname {Spec} (A)</fr:tex> smooth over <fr:tex>k</fr:tex>.
+    </fr:li></fr:ul><fr:p>
+    If <fr:tex>k= \mathbb {C}</fr:tex>, then we have the topological space <fr:tex>X( \mathbb {C} )</fr:tex> of points of <fr:tex>X</fr:tex>, as well as its rational cohomology <fr:tex>\operatorname {H} ^ \bullet (X( \mathbb {C} ), \mathbb {Q} )</fr:tex>.
+    We have canonical isomorphisms from [@G] and [SGA4, XVI, 4.1]:
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.1}       </fr:tex></fr:mainmatter></fr:tree>
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"><fr:frontmatter><fr:anchor>273</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell .       \tag{1.1.2}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    If <fr:tex>k</fr:tex> is a field of characteristic <fr:tex>0</fr:tex>, and <fr:tex>\sigma \colon  k \to \mathbb {C}</fr:tex> a complex embedding, with <fr:tex>\bar {k}</fr:tex> the algebraic closure of <fr:tex>k</fr:tex> in <fr:tex>\mathbb {C}</fr:tex> via <fr:tex>\sigma</fr:tex>, then we obtain the isomorphisms
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k, \sigma } \mathbb {C}          =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.3}       </fr:tex></fr:mainmatter></fr:tree>
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"><fr:frontmatter><fr:anchor>275</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell        \tag{1.1.4}       </fr:tex></fr:mainmatter></fr:tree>
+
+    where <fr:tex>X( \mathbb {C} )</fr:tex> is the topological space of points of the complex algebraic variety given by the extension of scalars via <fr:tex>\sigma</fr:tex> of <fr:tex>X</fr:tex>.
+  </fr:p><fr:p>
+    The existence of parallel cohomology theories lead A. Grothendieck to conjecture the existence, for all base fields <fr:tex>k</fr:tex>, of a motivic theory <fr:tex>X \mapsto \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, defined on algebraic varieties (i.e. schemes of finite type) over <fr:tex>k</fr:tex> and with values in a category <fr:tex>\mathcal {M}(k)</fr:tex> (to be defined) of motives over <fr:tex>k</fr:tex>.
+    The known theories would then be deduced from the motivic theory by applying <fr:em>realisation</fr:em> functors.
+  </fr:p><fr:p>
+    The category <fr:tex>\mathcal {M}(k)</fr:tex> should be an abelian category, with <fr:tex>\operatorname {Hom}</fr:tex> groups of finite dimension over <fr:tex>\mathbb {Q}</fr:tex>.
+    It should be endowed with a tensor product <fr:tex>\otimes \colon \mathcal {M}(k) \times \mathcal {M}(k) \to \mathcal {M}(k)</fr:tex> and associativity and commutative data <fr:tex>(X \otimes  Y) \otimes  Z \xrightarrow { \sim }  X \otimes (Y \otimes  Z)</fr:tex> and <fr:tex>X \otimes  Y \to  Y \otimes  X</fr:tex> satisfying the usual properties
+    — more precisely, making <fr:tex>\mathcal {M}(k)</fr:tex> into a Tannakian category [@Sa; @DM; @D4].
+    By the theory of Tannakian categories, <fr:tex>\mathcal {M}(k)</fr:tex> would be the category of representations of a gerbe whose band is affine over <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+    For <fr:tex>k</fr:tex> of characteristic <fr:tex>0</fr:tex>, the category <fr:tex>\mathcal {M}(k)</fr:tex> with its tensor product should be equivalent to the category of representations of an scheme in affine groups (i.e. a pro-algebraically affine group) over <fr:tex>\mathbb {Q}</fr:tex>.
+  </fr:p><fr:p>
+    Each <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> would be a contravariant functor in <fr:tex>X</fr:tex>.
+    We should also have Künneth isomorphisms
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
+    
+    
+    giving rise to commutative diagrams
+    <fr:tex
+display="block">        \begin {CD}          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y) @&gt; \longleftarrow &gt;&gt;  \operatorname {H} _ \mathrm {mot} ^i(Y \times  X)        \\ @VVV @VVV        \\ \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y) @&gt;&gt;{(-i)^{jk}}&gt;  \operatorname {H} _ \mathrm {mot} ^k(Y) \otimes \operatorname {H} _ \mathrm {mot} ^j(X)        \end {CD}     </fr:tex>
+    <fr:tex
+display="block">        \begin {CD}          \operatorname {H} _ \mathrm {mot} ^i((X \times  Y) \times  Z) @&gt; \longleftarrow &gt;&gt;  \operatorname {H} _ \mathrm {mot} ^i(X \times (Y \times  X))        \\ @VVV @VVV        \\ ( \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)) \otimes \operatorname {H} _ \mathrm {mot} ^ \ell (Z) @&gt;&gt; \longleftarrow &gt;  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes ( \operatorname {H} _ \mathrm {mot} ^k(Y) \otimes \operatorname {H} _ \mathrm {mot} ^ \ell (Z)).        \end {CD}     </fr:tex></fr:p><fr:p>
+    Each of the known cohomological theories should give rise to a "realisation" functor, compatible with the tensor product.
+    For example, for <fr:tex>k</fr:tex> of characteristic <fr:tex>0</fr:tex>, we would have
+    <fr:tex
+display="block">        \operatorname {real} _ { \mathrm {DR}} \colon \mathcal {M}(k)        \to   \text {vector spaces over }k     </fr:tex>
+    and, for <fr:tex>X</fr:tex> an algebraic variety over <fr:tex>k</fr:tex>, a functorial isomorphism
+    <fr:tex
+display="block">        \operatorname {H} _ { \mathrm {DR}} ^i(X)       =  \operatorname {real} _ { \mathrm {DR}} \operatorname {H} _ \mathrm {mot} ^i(X)     </fr:tex>
+    compatible with the Künneth isomorphisms.
+  </fr:p><fr:p>
+    The subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> <fr:em>generated</fr:em> by a set <fr:tex>\mathcal {M}</fr:tex> of motives is defined to be the smallest full subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> containing <fr:tex>\mathcal {M}</fr:tex> that is stable under <fr:tex>\oplus</fr:tex>, <fr:tex>\otimes</fr:tex>, taking the dual, and sub-quotients.
+    If we only consider certain algebraic varieties <fr:tex>X</fr:tex> over <fr:tex>k</fr:tex>, then it can be useful to consider, instead of <fr:tex>\mathcal {M}(k)</fr:tex>, the subcategory generated by the <fr:tex>\operatorname {H} ^i(X)</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
