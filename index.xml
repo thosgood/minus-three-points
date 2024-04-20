@@ -34,45 +34,57 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; &quot;"><fr:link
-href="introduction.xml"
+style="list-style-type: &quot; &quot;">
+      <fr:link
+href="minus-three-points-introduction.xml"
 type="local"
-addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
+addr="minus-three-points-introduction"><fr:strong>Introduction</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;0. &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;">
+      <fr:link
 href="minus-three-points-0.xml"
 type="local"
-addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
+addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;1. &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;">
+      <fr:link
 href="minus-three-points-1.xml"
 type="local"
-addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
+addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;2. &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;">
+      <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;3. &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;">
+      <fr:link
 href="minus-three-points-3.xml"
 type="local"
-addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
+addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot; &quot;"><fr:link
-href="bibliography.xml"
+style="list-style-type: &quot; &quot;">
+      <fr:link
+href="minus-three-points-bibliography.xml"
 type="local"
-addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
+addr="minus-three-points-bibliography"><fr:strong>Bibliography</fr:strong></fr:link>
+    </html:li>
 
   </html:ol></fr:p><fr:p><fr:strong>Leitfaden</fr:strong>
 
@@ -106,7 +118,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>333</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>bibliography</fr:addr><fr:route>bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
+root="false"><fr:frontmatter><fr:anchor>333</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>minus-three-points-bibliography</fr:addr><fr:route>minus-three-points-bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
   <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
@@ -148,7 +160,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>335</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>335</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -184,7 +196,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3 <fr:strong>(?)</fr:strong>].
     </fr:p></fr:mainmatter></fr:tree>
 
@@ -274,7 +286,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
+root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree>
 
   <fr:tree
@@ -284,7 +296,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       the Kummer <fr:tex>\mathbb {Z} (1)</fr:tex>-torsor, where <fr:tex>\mathbb {Z} (1)</fr:tex> is the Tate motive.
     </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
   In [minus-three-points-3 <fr:strong>(?)</fr:strong>] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
@@ -305,7 +317,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {tikz}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzpicture} 
        \node [label=below:{$b$}] at (0,0) {$ \bullet $};
@@ -751,7 +763,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -787,7 +799,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3 <fr:strong>(?)</fr:strong>].
     </fr:p></fr:mainmatter></fr:tree>
 
@@ -877,7 +889,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
+root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree>
 
   <fr:tree
@@ -887,7 +899,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       the Kummer <fr:tex>\mathbb {Z} (1)</fr:tex>-torsor, where <fr:tex>\mathbb {Z} (1)</fr:tex> is the Tate motive.
     </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
   In [minus-three-points-3 <fr:strong>(?)</fr:strong>] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
@@ -908,7 +920,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>minus-three-points-introduction</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {tikz}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzpicture} 
        \node [label=below:{$b$}] at (0,0) {$ \bullet $};

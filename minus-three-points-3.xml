@@ -44,45 +44,57 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; &quot;"><fr:link
-href="introduction.xml"
+style="list-style-type: &quot; &quot;">
+      <fr:link
+href="minus-three-points-introduction.xml"
 type="local"
-addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
+addr="minus-three-points-introduction"><fr:strong>Introduction</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;0. &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;">
+      <fr:link
 href="minus-three-points-0.xml"
 type="local"
-addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
+addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;1. &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;">
+      <fr:link
 href="minus-three-points-1.xml"
 type="local"
-addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
+addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;2. &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;">
+      <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;3. &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;">
+      <fr:link
 href="minus-three-points-3.xml"
 type="local"
-addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
+addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot; &quot;"><fr:link
-href="bibliography.xml"
+style="list-style-type: &quot; &quot;">
+      <fr:link
+href="minus-three-points-bibliography.xml"
 type="local"
-addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
+addr="minus-three-points-bibliography"><fr:strong>Bibliography</fr:strong></fr:link>
+    </html:li>
 
   </html:ol></fr:p><fr:p><fr:strong>Leitfaden</fr:strong>
 
@@ -133,45 +145,57 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; &quot;"><fr:link
-href="introduction.xml"
+style="list-style-type: &quot; &quot;">
+      <fr:link
+href="minus-three-points-introduction.xml"
 type="local"
-addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
+addr="minus-three-points-introduction"><fr:strong>Introduction</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;0. &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;">
+      <fr:link
 href="minus-three-points-0.xml"
 type="local"
-addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
+addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;1. &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;">
+      <fr:link
 href="minus-three-points-1.xml"
 type="local"
-addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
+addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;2. &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;">
+      <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot;3. &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;">
+      <fr:link
 href="minus-three-points-3.xml"
 type="local"
-addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
+addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link>
+    </html:li>
 
     
  <html:li
-style="list-style-type: &quot; &quot;"><fr:link
-href="bibliography.xml"
+style="list-style-type: &quot; &quot;">
+      <fr:link
+href="minus-three-points-bibliography.xml"
 type="local"
-addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
+addr="minus-three-points-bibliography"><fr:strong>Bibliography</fr:strong></fr:link>
+    </html:li>
 
   </html:ol></fr:p><fr:p><fr:strong>Leitfaden</fr:strong>
 
