@@ -10,7 +10,7 @@
 \def\footnote[x]{(\x)}
 \def\note[x]{ \footnote{\em{[Trans.] \x}}}
 \def\todo[x]{\strong{\em{TO-DO: \x}}}
-\def\fref[x]{[\x \strong{(?)}]}
+\def\fref[x]{[\x]}
 \def\oldpage[x]{}
 
 \def\proof[body]{
