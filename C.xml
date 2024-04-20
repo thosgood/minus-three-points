@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
+name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>69</fr:strong> pp. 171–208</fr:meta><fr:meta
+name="bibtex">@article{C,
+  author = {Coleman, R.F.},
+  title = {{{Dilogarithms}}, {{Regulators}} and $p$-adic $L$-functions},
+  journal = {Inv. Math.},
+  volume = {69},
+  year = {1982},
+  pages = {171--208},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

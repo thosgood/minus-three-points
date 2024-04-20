@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>260</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A2</fr:addr><fr:route>A2.xml</fr:route><fr:title>The hyperadelic gamma function</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
+name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>95</fr:strong> pp. 63–131</fr:meta><fr:meta
+name="bibtex">@article{A2,
+  author = {Anderson, G.},
+  title = {The hyperadelic gamma function},
+  journal = {Inv. Math.},
+  volume = {95},
+  year = {1989},
+  pages = {63--131},
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
