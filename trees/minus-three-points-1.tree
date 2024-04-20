@@ -4,6 +4,8 @@
 
 \import{macros}
 
+\put\transclude/numbered{false}
+
 \subtree[minus-three-points-1.1]{
   \number{1.1}
 
@@ -126,7 +128,7 @@
       \startverb\tag{1.1.5}\stopverb
       }
     }
-    
+
     \oldpage{91}
     giving rise to commutative diagrams
     ##{
@@ -601,5 +603,133 @@
         Here, neither reason (a) nor reason (b) apply.
       }
     }
+  }
+}
+
+\subtree[minus-three-points-1.13]{
+  \taxon{remark}
+  \number{1.13}
+
+  \p{
+    \oldpage{98}
+    The treatment of crystalline structures is not satisfying.
+    In the definition of realisation systems, I have not included the data  given in \ref{minus-three-points-1.7}, for the want of verifying their existence in the case of Lie algebras of #{\pi_1} that interest us.
+    I have nevertheless included the data of #{\phi_p}, despite its appearance as a bizarre addition, because the calculations in \fref{minus-three-points-19} give an interesting result.
+  }
+}
+
+\subtree[minus-three-points-1.14]{
+  \number{1.14}
+
+  \p{
+    Here is a variant of the statement of \ref{minus-three-points-1.4}.
+    This formulation, which is less elementary, highlights the role of #{F_\infty}.
+  }
+
+  \subtree[minus-three-points-mp1]{
+    \number{M'1}
+    \p{
+      To every algebraic closure #{C} of #{\RR} is attached, in a functorial way, #{M_\BB(C)}.
+    }
+  }
+
+  \p{
+    From [(M'1)](minus-three-points-mp1) we deduce the data of [(M1)](minus-three-points-m1) and [(M7)](minus-three-points-m7) by setting #{M_\BB\coloneqq M_\BB(\CC)}, and the taking #{F_\infty} induced by #{z\mapsto\bar{z}\colon\CC\to\CC}.
+    For #{M=\HH_\mot^i(X)}, we will have #{M_\BB(C)=\HH^i(X(C),\QQ)}.
+  }
+
+  \subtree[minus-three-points-mp2]{
+    \number{M'2}
+    \p{
+      The same as [(M2)](minus-three-points-m2).
+    }
+  }
+
+  \subtree[minus-three-points-mp8]{
+    \number{M'8}
+    \p{
+      The same as [(M8)](minus-three-points-m8).
+    }
+  }
+
+  \subtree[minus-three-points-mp3]{
+    \number{M'3}
+    \p{
+      An #{\AAf}-sheaf #{M_\AAf} on #{\Spec(\QQ)}.
+    }
+  }
+
+  \p{
+    By "#{\AAf}-sheaf" we mean the data, for all #{\ell}, of a #{\QQ_\ell}-sheaf #{\mathcal{F}_\ell}, and, for almost all #{\ell}, of a #{\ZZ_\ell}-sheaf #{\mathcal{F}_{\ZZ_\ell}\subset\mathcal{F}_\ell} which generates #{\mathcal{F}_\ell}: the germ of the system of the #{\mathcal{F}_{\ZZ_\ell}} is given.
+    On the spectrum of a field #{k}, the data of #{\mathcal{F}_\ell} (resp. #{\mathcal{F}_{\ZZ_\ell}}) is equivalent to that of, for every algebraic closure #{\bar{k}} of #{k}, a #{\QQ_\ell}-vector space #{\mathcal{F}_\ell(\bar{k})} (resp. a #{\ZZ_\ell}-module #{\mathcal{F}_{\ZZ_\ell}(\bar{k})} of finite type), functorially in #{\bar{k}}, and such that the action of #{\Gal(\bar{k}/k)} is continuous.
+    Note that #{\mathcal{F}_\AAf(\bar{k})} is the restricted product of the #{\mathcal{F}_\ell(\bar{k})} with respect to the #{\mathcal{F}_{\ZZ_\ell}(\bar{k})}.
+  }
+
+  \p{
+    From [(M'3)](minus-three-points-mp3), we deduce the data of [(M3)](minus-three-points-m3) and [(M9)](minus-three-points-m9) by setting #{M_\AAf\coloneqq(M_\AAf)_\AAf(\bar{\QQ})}.
+
+    \subtree{
+      \taxon{notation}
+      \p{
+        We write #{M_\ell} (resp. #{M_{\ZZ_\ell}}, #{M_\AAf}) for #{(M_\AAf)_\ell} (resp. #{(M_\AAf)_{\ZZ_\ell}}, #{(M_\AAf)_\AAf}).
+      }
+    }
+  }
+
+  \p{
+    If #{M=\HH_\mot^i(X)}, and #{a} is the morphism #{X\to\Spec(\QQ)}, then #{M_\ell=\RR^ia_*\QQ_\ell}, and #{M_{\ZZ_\ell}} is equal to the image of #{\RR^ia_*\ZZ_\ell} in #{M_\ell}.
+    We have that #{\RR^ia_*\ZZ_\ell(\bar{k})=\HH^i(X\otimes_\QQ\bar{k},\ZZ_\ell)}.
+  }
+
+  \subtree[minus-three-points-mp4]{
+    \number{M'4}
+    \p{
+      For almost all primes #{p}, an #{F}-isocrystal #{M_\crisp} on #{\FF_p}, i.e. a vector space #{M_\crisp} over #{\QQ_p} endowed with an automorphism #{\phi_p}.
+    }
+  }
+
+  \subtree[minus-three-points-mp5]{
+    \number{M'5}
+    \p{
+      \oldpage{99}
+      Comparison isomorphisms
+      ##{
+        \begin{aligned}
+          \comp_{\DR,\BB}&\colon M_\BB(C)\otimes C \simto M_\DR\otimes C
+        \\\comp_{\AAf,\BB}&\colon M_\BB(C)\otimes\AAf \simto M_\AAf(\bar{\QQ}_C)
+        \\\comp_{\crisp,\DR}&\colon M_\DR\otimes\QQ_p \simto M_\crisp
+        \end{aligned}
+      }
+      that are functorial in #{C}, where #{\bar{\QQ}_C} is the algebraic closure of #{\QQ} in #{C}.
+      The first is equivalent to the data of #{\comp_{\DR,\BB}} as in [(M5)](minus-three-points-m5) satisfying [(AM2)](minus-three-points-am2);
+      the second is equivalent to the data of #{\comp_{\AAf,\BB}} as in [(M5)](minus-three-points-m5) satisfying [(AM5)](minus-three-points-am5).
+    }
+  }
+
+  \p{
+    In [(M'3)](minus-three-points-mp3), instead of giving the #{M_\AAf}, we could have given only the #{\QQ_\ell}-sheaves #{M_\ell}, replacing #{\comp_{\AAf,\BB}} by the #{\comp_{\ell,\BB}\colon M_B(C)\otimes\QQ_\ell\simto M_\ell(\bar{\QQ}_C)} and requiring the existence of an integer lattice #{L\subset M_B(\CC)} such that the #{\comp_{\ell,\BB}(L\otimes\ZZ_\ell)} be stable under #{\Gal(\bar{\QQ}/\QQ)}.
+    They define the #{M_{\ZZ_\ell}} of [(M'3)](minus-three-points-mp3).
+  }
+
+  \subtree[minus-three-points-mp6]{
+    \number{M'6}
+    \p{
+      #{W} is a filtration of the objects of [(M'1)](minus-three-points-mp1) to [(M'4)](minus-three-points-mp4), respected by the comparison isomorphisms.
+    }
+  }
+
+  \p{
+    A definition essentially equivalent to \ref{minus-three-points-1.9} is then the following: a \em{realisation system} is a system [(M'1)](minus-three-points-mp1) to [(M'6)](minus-three-points-mp6), and [(M'8)](minus-three-points-mp8), satisfying axioms [(AM1)](minus-three-points-am1), [(AM2)](minus-three-points-am2), and [(AM4)](minus-three-points-am4) (suitably modified in the evident way).
+  }
+
+  \p{
+    The data of [(M'1)](minus-three-points-mp1) is equivalent to a sheaf of #{\QQ}-vector spaces on the étale site of #{\Spec\RR}.
+    From this point of view, #{\comp_{\ell,\BB}} is an isomorphism to #{\Spec(\RR)_\et} between the inverse image of #{M_\ell} and the #{\QQ_\ell}-sheaf induced by #{M_\BB}.
+  }
+
+  \p{
+    In the language of sheaves, [(AM3)](minus-three-points-am3) implies that #{M_\ell} comes from a smooth #{\QQ_\ell}-sheaf on #{\Spec(\ZZ)\setminus S\setminus\{\ell\}}.
+    The language of sheaves makes it clear that, for all #{p}, #{M_\ell} defines a #{\QQ_\ell}-sheaf on #{\Spec(\QQ_p)} (cf. the analogous case of #{\RR} below).
+    The choice of a decomposition group is not required.
   }
 }
