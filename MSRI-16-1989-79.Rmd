@@ -1,24 +1,3 @@
-    ::: {.trmenv #M17E title="(M1,7)E" latex="{(M1,7)\textsubscript{E}}"}
-    For each embedding $\sigma$ of $E$ into $\CC$, a vector space $M_\sigma$ over $\QQ$, the Betti realisation with respect to $\sigma$, and an involutive system of isomorphisms $F_\infty\colon M_\sigma\simto M_{\bar{\sigma}}$.
-    :::
-
-    We have $N_\BB=\bigoplus M_\sigma$, with the evident structure of a module over $A_\BB=\QQ^{\Hom(E,\CC)}$, and $F_\infty$ is the sum of the $F_\infty$.
-    As in \ref{minus-three-points-chunk-1.14}, we have a variant:
-
-    ::: {.trmenv #Mp1E title="(M'1)E" latex="{(M'1)\textsubscript{E}}"}
-    For each embedding of $E$ into an algebraic closure $C$ of $\RR$, a vector space $M_\sigma$ over $\QQ$, functorial in $C$.
-    :::
-
-    ::: {.trmenv #Mp2E title="(M'2)E" latex="{(M'2)\textsubscript{E}}"}
-    An $E$-vector space $M_\DR$.
-    :::
-
-    ::: {.trmenv #Mp8E title="(M'8)E" latex="{(M'8)\textsubscript{E}}"}
-    A filtration $F$ of $M_\DR$, the Hodge filtration.
-    :::
-
-    We have $N_\DR=M_\DR$, with the structure of an $A_\DR$-module given by that of the vector space over $E$.
-
     ::: {.trmenv #Mp3E title="(M'3)E" latex="{(M'3)\textsubscript{E}}"}
     (cf. [(M3)](minus-three-points-m3), [(M9)](minus-three-points-m9)) An $\AAf$-sheaf $M_\AAf$ on $\Spec(E)$ (cf. \ref{minus-three-points-chunk-1.14}).
     :::
@@ -31,7 +10,8 @@
     We give an $F_v^*$-linear $\phi_v\colon M_\crisv\mapsto M_\crisv$.
     :::
 
-    \oldpage{102}We have $E\otimes\QQ_p=\bigoplus_{v\mid p}E_v$, and $N_\crisp$ is the sum of the $M_\crisv$.
+    \oldpage{102}
+    We have $E\otimes\QQ_p=\bigoplus_{v\mid p}E_v$, and $N_\crisp$ is the sum of the $M_\crisv$.
 
     ::: {.trmenv #Mp5E title="(M'5)E" latex="{(M'5)\textsubscript{E}}"}
     Comparison isomorphisms
@@ -52,24 +32,30 @@
     By summing over $\sigma$ (resp. $v$), these give [(M'5)](minus-three-points-mp5).
 
     ::: {.trmenv #Mp6E title="(M'6)E" latex="{(M'6)\textsubscript{E}}"}
-    A filtration $W$ of the objects [(M'1)E](#Mp1E), [(M'2)E](#Mp2E), [(M'3)E](#Mp3E), and [(M'4)E](#Mp4E), respected by the comparison isomorphisms.
+    A filtration $W$ of the objects [(M'1)E](minus-three-points-mp1e), [(M'2)E](minus-three-points-mp2e), [(M'3)E](minus-three-points-mp3e), and [(M'4)E](minus-three-points-mp4e), respected by the comparison isomorphisms.
     :::
 
     We leave to the reader the task of translating axioms [(AM1)](minus-three-points-am1), [(AM3)](minus-three-points-am3), and [(AM4)](minus-three-points-am4), which remain to be imposed, into this language (cf. \ref{minus-three-points-chunk-1.14}).
 ::::
 
+
+
+
+
+
+
 ::: {.rmenv #chunk-1.19 title="1.19" latex="{1.19}"}
-    With the definition \ref{minus-three-points-1.17} of smooth realisation systems over $S=\Spec(\OO)$, the functor given by forgetting the $A$-module structure, which takes values in smooth realisation systems over $\Spec(\ZZ)\setminus P$, is called the "*direct image of $S$ in $\Spec(\ZZ)\setminus P$*".
-    In the various realisations of [(1.18)](#chunk-1.18), it corresponds to the direct image.
-    Its left adjoint, $M\mapsto A\otimes M$ (cf. \fref{minus-three-points-5.3}), is the *inverse image*.
+    With the definition \ref{minus-three-points-1.17} of smooth realisation systems over $S=\Spec(\OO)$, the functor given by forgetting the $A$-module structure, which takes values in smooth realisation systems over $\Spec(\ZZ)\setminus P$, is called the "\em{direct image of $S$ in $\Spec(\ZZ)\setminus P$}".
+    In the various realisations of \ref{minus-three-points-1.18}, it corresponds to the direct image.
+    Its left adjoint, $M\mapsto A\otimes M$ (cf. \fref{minus-three-points-5.3}), is the \em{inverse image}.
 :::
 
 ::: {.rmenv #chunk-1.20 title="1.20" latex="{1.20}"}
-    If $S$ is an open of the spectrum of the ring of integers of a finite extension $E$ of $\QQ$, then we can modify the description in [(1.18)](#chunk-1.18) as follows to define smooth realisation systems over $S$.
+    If $S$ is an open of the spectrum of the ring of integers of a finite extension $E$ of $\QQ$, then we can modify the description in \ref{minus-three-points-1.18} as follows to define smooth realisation systems over $S$.
 
     - In [(AM3)](minus-three-points-am3), we ask for each $\QQ_\ell$-sheaf $M_\ell$ induced by $M_\AAf$ to come from a smooth $\QQ_\ell$-sheaf on $S[1/\ell]$.
-    - In [(M'4)E](#Mp4E), for each residue field $k(v)$ of $S$, we ask for $M_\crisv$ over the field of fractions $K_v$ of Witt vectors over $k(v)$, endowed with a semi-linear $\phi_v$.
-      The crystalline comparison isomorphism of [(M'5)E](#Mp5E) then becomes
+    - In [(M'4)E](minus-three-points-mp4e), for each residue field $k(v)$ of $S$, we ask for $M_\crisv$ over the field of fractions $K_v$ of Witt vectors over $k(v)$, endowed with a semi-linear $\phi_v$.
+      The crystalline comparison isomorphism of [(M'5)E](minus-three-points-mp5e) then becomes
       $$
         M_\DR\otimes E_v \simto M_\crisv\otimes_{K_v}E_v.
       $$
@@ -77,7 +63,7 @@
 
 :::: {.rmenv #chunk-1.21 title="1.21" latex="{1.21}"}
     Let $S$ be smooth over $\Spec(\ZZ)$.
-    Here is a provisional definition of smooth realisation systems over $S$, inspired by [(1.18)](#chunk-1.18).
+    Here is a provisional definition of smooth realisation systems over $S$, inspired by \ref{minus-three-points-1.18}.
     The data is as follows:
 
     ::: {.trmenv #Mp1S title="(M'1)S" latex="{(M'1)\textsubscript{S}}"}
@@ -86,11 +72,12 @@
     :::
 
     ::: {.trmenv #Mp2S title="(M'2)S" latex="{(M'2)\textsubscript{S}}"}
-    \oldpage{103}A vector bundle $M_\DR$ with integrable connection on $S_\QQ$, assumed to be regularly singular at infinity.
+    \oldpage{103}
+    A vector bundle $M_\DR$ with integrable connection on $S_\QQ$, assumed to be regularly singular at infinity.
     :::
 
     ::: {.trmenv #Mp8S title="(M'8)S" latex="{(M'8)\textsubscript{S}}"}
-    A filtration $F$ of $M_\DR$ by vector subbundles: the Hodge filtration.
+    A filtration $F$ of $M_\DR$ by vector sub-bundles: the Hodge filtration.
     We assume "transversality":
     $$
       \nabla F^p \subset \Omega^1\otimes F^{p-1}.
@@ -116,14 +103,14 @@
       \end{aligned}
     $$
     that are functorial in $C$, where we denote by $M_\DR\otimes C$ the inverse image of $M_\DR$ on $S_C$, and by $(-)\nabla$ the sheaf of its horizontal sections on $S(C)$.
-    Instead of giving $M_\AAf$ in [(M'3)S](#Mp3S), we can only give the $\QQ_\ell$ sheaves $M_\ell$ that are deduced from it, along with the comparison isomorphisms $\comp_{\ell,\BB}$ from $M_\BB\otimes\QQ_\ell$ to the inverse image of $M_\ell$, and impose the existence of a lattice $L$ in $M_\BB(C)$ such that $L\otimes\ZZ_\ell$ corresponds to a $\ZZ_\ell$-sheaf $L_\ell$ with $L_\ell\otimes\QQ_\ell\simto M_\ell$, cf. \ref{minus-three-points-chunk-1.14}.
+    Instead of giving $M_\AAf$ in [(M'3)S](minus-three-points-mp3s), we can only give the $\QQ_\ell$ sheaves $M_\ell$ that are deduced from it, along with the comparison isomorphisms $\comp_{\ell,\BB}$ from $M_\BB\otimes\QQ_\ell$ to the inverse image of $M_\ell$, and impose the existence of a lattice $L$ in $M_\BB(C)$ such that $L\otimes\ZZ_\ell$ corresponds to a $\ZZ_\ell$-sheaf $L_\ell$ with $L_\ell\otimes\QQ_\ell\simto M_\ell$, cf. \ref{minus-three-points-chunk-1.14}.
 
     As for $\comp_{\crisp,\DR}$, let $S_{(p)}^\an$ be the rigid analytic space that is the general fibre of the formal scheme over $\ZZ_p$ given by the formal completion of $S$ along $S_p$;
     we want an isomorphism between bundles with connection on $S_{(p)}^\an$ induced by $M_\DR$ and $M_\crisp$.
     :::
 
     ::: {.trmenv #Mp6S title="(M'6)S" latex="{(M'6)\textsubscript{S}}"}
-    A filtration $W$ of the objects [(M'1)S](#Mp1S) to [(M'4)S](#Mp4S), respected by the comparison isomorphisms.
+    A filtration $W$ of the objects [(M'1)S](minus-three-points-mp1s) to [(M'4)S](minus-three-points-mp4s), respected by the comparison isomorphisms.
     :::
 
     The axioms are modified as follows.
@@ -151,7 +138,7 @@ For motives with integer coefficients, I propose the following definitions.
 :::: {.rmenv #chunk-1.24 title="1.24" latex="{1.24}"}
     On a more general base $S$, a realisation system *with integer coefficients* is a realisation system $M\otimes\QQ$ endowed with a local system of torsion-free $\ZZ$-modules $M_\BB\subset(M\otimes\QQ)_\BB$ satisfying $M_\BB\otimes\QQ\simto(M\otimes\QQ)_\BB$ (a "lattice") and such that the $\ZZ_\ell$-sheaf $M_\BB\otimes\ZZ_\ell$ on $S(\CC)$ corresponds, under $\comp_{\ell,\BB}$, to a smooth $\ZZ_\ell$-sheaf $M_\ell\subset(M\otimes\QQ)_\ell$ on $S[1/\ell]$.
 
-    This causes us to modify [(M'1)S](#Mp1S), [(M'3)S](#Mp3S), and [(M'5)S](#Mp5S) as follows.
+    This causes us to modify [(M'1)S](minus-three-points-mp1s), [(M'3)S](minus-three-points-mp3s), and [(M'5)S](minus-three-points-mp5s) as follows.
 
     ::: {.trmenv #Mp1SZ title="(M'1)SZ" latex="{(M'1)\textsubscript{SZ}}"}
     $M_\BB(C)$ is a local system of free $\ZZ$-modules.

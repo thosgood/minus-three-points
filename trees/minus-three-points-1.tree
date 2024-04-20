@@ -843,4 +843,48 @@
   \p{
     We will now show how a realisation system #{N}, smooth over #{S=\Spec(\OO)} (as in \ref{minus-three-points-1.17}), can be described in terms of a \em{realisation system over #{E}}, of the following type.
   }
+
+  \subtree[minus-three-points-m1e]{
+    \number{M1E}
+    \p{
+      For each embedding #{\sigma} of #{E} into #{\CC}, a vector space #{M_\sigma} over #{\QQ}, the Betti realisation with respect to #{\sigma}
+    }
+  }
+
+  \subtree[minus-three-points-m7e]{
+    \number{M7E}
+    \p{
+      For each embedding #{\sigma} of #{E} into #{\CC}, an involutive system of isomorphisms #{F_\infty\colon M_\sigma\simto M_{\bar{\sigma}}}.
+    }
+  }
+
+  \p{
+    We have #{N_\BB=\bigoplus M_\sigma}, with the evident structure of a module over #{A_\BB=\QQ^{\Hom(E,\CC)}}, and #{F_\infty} is the sum of the #{F_\infty}.
+    As in \ref{minus-three-points-1.14}, we have a variant:
+  }
+
+  \subtree[minus-three-points-mp1e]{
+    \number{M'1E}
+    \p{
+      For each embedding of #{E} into an algebraic closure #{C} of #{\RR}, a vector space #{M_\sigma} over #{\QQ}, functorial in #{C}.
+    }
+  }
+
+  \subtree[minus-three-points-mp2e]{
+    \number{M'2E}
+    \p{
+      An #{E}-vector space #{M_\DR}.
+    }
+  }
+
+  \subtree[minus-three-points-mp8e]{
+    \number{M'8E}
+    \p{
+      A filtration #{F} of #{M_\DR}, the Hodge filtration.
+    }
+  }
+
+  \p{
+    We have #{N_\DR=M_\DR}, with the structure of an #{A_\DR}-module given by that of the vector space over #{E}.
+  }
 }
