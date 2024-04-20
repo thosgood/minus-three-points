@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>342</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Sa</fr:addr><fr:route>Sa.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1972</fr:year></fr:date><fr:authors><fr:author>N. Saavedra</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>348</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Sa</fr:addr><fr:route>Sa.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1972</fr:year></fr:date><fr:authors><fr:author>N. Saavedra</fr:author></fr:authors><fr:meta
 name="venue">Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>265</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{Sa,
   author = {Saavedra, N.},
@@ -23,7 +23,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>340</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>346</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -163,7 +163,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>341</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-1.10</fr:addr><fr:route>minus-three-points-1.10.xml</fr:route><fr:number>1.10</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>347</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-1.10</fr:addr><fr:route>minus-three-points-1.10.xml</fr:route><fr:number>1.10</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Realisation systems form a Tannakian category.
   </fr:p>
   

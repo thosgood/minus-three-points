@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>900</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-3.5</fr:addr><fr:route>minus-three-points-3.5.xml</fr:route><fr:number>3.5</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    For <fr:tex>k</fr:tex> even, the torsor <fr:tex>P_{1,k}</fr:tex> is torsion, with order equal to the denominator of <fr:tex>\frac {1}{2} \zeta (1-k)</fr:tex>.
+  </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>899</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
+href="index.xml"
+type="local"
+addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+  The study of the fundamental group of <fr:tex>\mathbb {P} ^1 \setminus \{ 0,1, \infty \}</fr:tex> reveals, for each <fr:tex>k \geqslant2</fr:tex>, a torsor <fr:tex>P_{1,k}</fr:tex> for <fr:tex>\mathbb {Z} (k)</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
+  We will describe these torsors in this section.
+  The relation with <fr:tex>\pi _1</fr:tex> will be explained in [minus-three-points-16] (see [minus-three-points-16.23]) and the calculations to justify this will be given in [minus-three-points-19].
+  We will then describe the torsors <fr:tex>P_{d,k}</fr:tex> for <fr:tex>\mathbb {Z} (k)</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Q} ( \sqrt [d]{1}))</fr:tex>, given by an analogous construction ([minus-three-points-16.28]).
+</fr:p><fr:p>
+  The sum of the <fr:tex>P_{d,k}</fr:tex> and of <fr:tex>(-1)^k</fr:tex> times its symmetry under <fr:tex>\zeta \mapsto \zeta ^{-1}</fr:tex> is torsion.
+  This is essentially equivalent to the adelic integral formulas for the value of the Dirichlet <fr:tex>L</fr:tex> functions at negative integers: [minus-three-points-3.6], [minus-three-points-3.8], [minus-three-points-3.9], and [minus-three-points-3.14].
+  A geometric interpretation, which allows us to reprove these formulas, will be given in [minus-three-points-18].
+</fr:p><fr:p>
+  A geometric interpretation of the relations of distributions ([minus-three-points-3.13]) will be given in [minus-three-points-17].
+</fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>825</fr:anchor><fr:addr>minus-three-points-3.1</fr:addr><fr:route>minus-three-points-3.1.xml</fr:route><fr:number>3.1</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We denote by <fr:tex>P</fr:tex> the torsor <fr:tex>P_{1,k}</fr:tex> that we are going to define.
+    At the same time, we will define a trivialisation <fr:tex>u_ { \mathrm {B}} \in  P_ { \mathrm {B}}</fr:tex> of its Betti realisation.
+    Since <fr:tex>F^0 \mathbb {Z} (k)_ { \mathrm {DR}} =0</fr:tex>, we necessarily have that <fr:tex>P_ { \mathrm {DR}} = \mathbb {Z} (k)_ { \mathrm {DR}} = \mathbb {Q}</fr:tex>.
+    The Betti structure is
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>820</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.1k</fr:addr><fr:route>minus-three-points-3.1.1k.xml</fr:route><fr:number>3.1.1k</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \begin {gathered}           P_ { \mathrm {B}}            = u_ { \mathrm {B}}  + (2 \pi  i)^k \mathbb {Z}   \subset   \mathbb {P} _{ { \mathrm {DR}} , \mathbb {C} } =  \mathbb {C}           \\ \text {with} \quad            u_ { \mathrm {B}}            = -(k-1)! \zeta (k)          \end {gathered}       \tag{3.1.1k}       </fr:tex></fr:mainmatter></fr:tree>
+
+    where <fr:tex>\zeta</fr:tex> is the Riemann <fr:tex>\zeta</fr:tex> function.
+  </fr:p><fr:p>
+    Let <fr:tex>N</fr:tex> be an integer; we will describe <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    For <fr:tex>z \in \mathbb {C}</fr:tex> with <fr:tex>z \neq1</fr:tex>, let <fr:tex>T_N(z) \coloneqq  K(1-z)_{ \mathbb {Z} {/}(N)}</fr:tex> be the <fr:tex>\mathbb {Z} {/}N(1)</fr:tex>-torsor of <fr:tex>N</fr:tex>-th roots of <fr:tex>1-z</fr:tex>.
+    For <fr:tex>z=1</fr:tex>, we set <fr:tex>T_N(1)=K(1/N)_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    This convention ensures that the sum of the <fr:tex>T_N( \alpha )</fr:tex> for <fr:tex>\alpha ^N=1</fr:tex> is trivialised: we have
+    <fr:tex
+display="block">        \frac {1}{N} \prod (1- \alpha )       = 1.     </fr:tex></fr:p><fr:p>
+    Let <fr:tex>\alpha</fr:tex> be an <fr:tex>N</fr:tex>-th root of <fr:tex>1</fr:tex>.
+    It defines <fr:tex>\alpha \colon \mathbb {Z} {/}N \to \mathbb {Z} {/}N(1)</fr:tex> by <fr:tex>a \mapsto  a \cdot \alpha</fr:tex>.
+    We thus obtain <fr:tex>\alpha ^{ \otimes (k-1)} \colon \mathbb {Z} {/}N(1) \to \mathbb {Z} {/}N(k)</fr:tex>.
+    Note that, for <fr:tex>\alpha =1</fr:tex>, this is the zero map.
+    We denote by <fr:tex>\alpha ^{ \otimes (k-1)}T( \alpha )</fr:tex> the <fr:tex>\mathbb {Z} {/}N(k)</fr:tex>-torsor induced from <fr:tex>T( \alpha )</fr:tex> by applying <fr:tex>\alpha ^{ \otimes (k-1)}</fr:tex>.
+    We have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>821</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.2k</fr:addr><fr:route>minus-three-points-3.1.2k.xml</fr:route><fr:number>3.1.2</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         P_{ \mathbb {Z} {/}(N)}          \coloneqq   \sum _{ \alpha ^N=1}  \alpha ^{ \otimes (k-1)}T_N( \alpha ).       \tag{3.1.2k}       </fr:tex></fr:mainmatter></fr:tree>
+
+    
+    We can equivalently sum over the <fr:tex>\alpha \neq1</fr:tex>.
+    This definition still makes sense in any algebraic closure <fr:tex>\overline {k}</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>, and the action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> is given by transport of structure.
+  </fr:p><fr:p>
+    We now define the transition morphisms <fr:tex>P_{ \mathbb {Z} {/}(NM)} \to  P_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    We have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>822</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.3</fr:addr><fr:route>minus-three-points-3.1.3.xml</fr:route><fr:number>3.1.3</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)         = 1-z       \tag{3.1.3}       </fr:tex></fr:mainmatter></fr:tree>
+
+    whence, for <fr:tex>z \neq0 ,1</fr:tex>, we obtain an isomorphism
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>823</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.4</fr:addr><fr:route>minus-three-points-3.1.4.xml</fr:route><fr:number>3.1.4</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         T_N(z)         =  \prod _{u^M=z} T_N(u).       \tag{3.1.4}       </fr:tex></fr:mainmatter></fr:tree>
+
+    If <fr:tex>\beta ^N=1</fr:tex> and <fr:tex>\alpha ^M= \beta</fr:tex>, then the reduction <fr:tex>\mod  N</fr:tex> of <fr:tex>\alpha \colon \mathbb {Z} {/}NM \to \mathbb {Z} {/}NM(1)</fr:tex> is <fr:tex>\beta \colon \mathbb {Z} {/}N \to \mathbb {Z} {/}N(1)</fr:tex>, and that of <fr:tex>T_{NM}( \alpha )</fr:tex> is <fr:tex>T_N( \alpha )</fr:tex>.
+    From this, we obtain an isomorphism
+    <fr:tex
+display="block">        \begin {aligned}         P_{ \mathbb {Z} {/}(NM)} \mod  N         &amp;=  \sum _{ \beta ^N=1}  \sum _{ \alpha ^M= \beta }  \alpha ^{ \otimes (k-1)}T_{NM}( \alpha )  \mod  N        \\ &amp;=  \sum _{ \beta ^N=1}  \beta ^{ \otimes (k-1)}  \sum _{ \alpha ^M= \beta } T_N( \alpha )        \\ &amp;=  \sum _{ \beta ^N=1}  \beta ^{ \otimes (k-1)} T_N( \beta )        \\ &amp;= P_{ \mathbb {Z} {/}(N)}.        \end {aligned}     </fr:tex>
+    This defines the desired transition morphism.
+  </fr:p><fr:p>
+    For non-real negative <fr:tex>z</fr:tex>, we define the <fr:em>principal determination</fr:em> of <fr:tex>z \mapsto  z^{1/N}</fr:tex>, and denote by <fr:tex>z^{1/N}</fr:tex>, that which takes the value of <fr:tex>1</fr:tex> at <fr:tex>1</fr:tex>.
+    The morphism of torsors <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}(N), { \mathrm {B}} }</fr:tex> sends <fr:tex>u_ { \mathrm {B}}</fr:tex> to the point <fr:tex>u</fr:tex> of <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex> defined by the <fr:tex>(1- \alpha )^{1/N} \in  T( \alpha )</fr:tex>:
+    <fr:tex
+display="block">       u_ { \mathrm {B}}         \mapsto  u       =  \sum   \alpha ^{ \otimes (k-1)} ((1- \alpha )^{1/N}).     </fr:tex></fr:p><fr:p>
+    If <fr:tex>z</fr:tex> is not real and <fr:tex>\geqslant1</fr:tex>, then we have principal determinations
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>824</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.5</fr:addr><fr:route>minus-three-points-3.1.5.xml</fr:route><fr:number>3.1.5</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)^{1/N}         = (1-z)^{1/N}       \tag{3.1.5}       </fr:tex></fr:mainmatter></fr:tree>
+
+    as we verify by analytic continuation from <fr:tex>z=0</fr:tex>, taking <fr:ref
+addr="minus-three-points-3.1.3"
+href="minus-three-points-3.1.3.xml"
+taxon="Equation"
+number="3.1.3"></fr:ref> into account.
+    It follows from <fr:ref
+addr="minus-three-points-3.1.5"
+href="minus-three-points-3.1.5.xml"
+taxon="Equation"
+number="3.1.5"></fr:ref> that the <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}(N), { \mathrm {B}} }</fr:tex> are compatible with the transition morphisms.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>833</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Some preliminaries, before defining <fr:tex>\phi _p</fr:tex>.
+    The <fr:tex>k</fr:tex>-logarithm is defined for <fr:tex>|z| \leqslant1</fr:tex> by
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>826</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.1</fr:addr><fr:route>minus-three-points-3.2.1.xml</fr:route><fr:number>3.2.1</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k(z)         =  \sum  z^n/n^k.       \tag{3.2.1}       </fr:tex></fr:mainmatter></fr:tree>
+
+    The <fr:tex>\zeta (k)</fr:tex> in the formula giving <fr:tex>P_ { \mathrm {B}}</fr:tex> appears in our approach as the value at <fr:tex>1</fr:tex> of <fr:tex>\ell _k</fr:tex>.
+    Let <fr:tex>p</fr:tex> be a prime number and consider the formal series
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>827</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.2</fr:addr><fr:route>minus-three-points-3.2.2.xml</fr:route><fr:number>3.2.2</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}         =  \sum _{p \nmid  n} z^n/n^k.       \tag{3.2.2}       </fr:tex></fr:mainmatter></fr:tree>
+
+    This is the Taylor series expansion of a rigid analytic function on the projective line over <fr:tex>\mathbb {Q} _p</fr:tex> with the open disc of radius <fr:tex>1</fr:tex> centred at <fr:tex>1</fr:tex> removed.
+    Indeed, we have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>828</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.3</fr:addr><fr:route>minus-three-points-3.2.3.xml</fr:route><fr:number>3.2.3</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}(z)         =  \lim _N  \frac {1}{1-z^{p^N}}  \sum _{n=1, p \nmid  n}^{p^N-1} z^n/n^k.       \tag{3.2.3}       </fr:tex></fr:mainmatter></fr:tree>
+
+    From <fr:ref
+addr="minus-three-points-3.2.3"
+href="minus-three-points-3.2.3.xml"
+taxon="Equation"
+number="3.2.3"></fr:ref> we get the identity
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>829</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.4</fr:addr><fr:route>minus-three-points-3.2.4.xml</fr:route><fr:number>3.2.4</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}(1/z)         = -(-1)^k \ell _k^{(p)}(z).       \tag{3.2.4}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    A formal series calculation gives, for <fr:tex>(N,p)=1</fr:tex>,
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>830</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.5</fr:addr><fr:route>minus-three-points-3.2.5.xml</fr:route><fr:number>3.2.5</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         N^{k-1} \sum _{u^N=z}  \ell _k^{(p)}(u)         =  \ell _k^{(p)}(z).       \tag{3.2.5}       </fr:tex></fr:mainmatter></fr:tree>
+
+    This leads us to define the "principal value" at <fr:tex>1</fr:tex>
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>831</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.6</fr:addr><fr:route>minus-three-points-3.2.6.xml</fr:route><fr:number>3.2.6</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {vp} \ell _k^{(p)}(1)          \coloneqq   \frac {N^{k-1}}{1-N^{k-1}}  \sum _{ \alpha ^N=1, \alpha \neq1 }  \ell _k^{(p)}( \alpha ).       \tag{3.2.6}       </fr:tex></fr:mainmatter></fr:tree>
+
+    This number is independent of the choice of <fr:tex>N</fr:tex> coprime to <fr:tex>p</fr:tex>.
+    By <fr:ref
+addr="minus-three-points-3.2.4"
+href="minus-three-points-3.2.4.xml"
+taxon="Equation"
+number="3.2.4"></fr:ref>, it is zero for <fr:tex>k</fr:tex> even.
+  </fr:p><fr:p>
+    With this notation, the crystalline Frobenius <fr:tex>\phi _p</fr:tex> is given by
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>832</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.7k</fr:addr><fr:route>minus-three-points-3.2.7k.xml</fr:route><fr:number>3.2.7k</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \phi _p^{-1}(0)         = (k-1)!p^k \cdot \operatorname {vp} \ell _k^{(p)}(1).       \tag{3.2.7k}       </fr:tex></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>834</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.3</fr:addr><fr:route>minus-three-points-3.3.xml</fr:route><fr:number>3.3</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We have described the <fr:tex>\mathbb {Z} {/}(N)(k)</fr:tex>-torsor <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex> as a sum of torsors indexed by the <fr:tex>N</fr:tex>-th roots of <fr:tex>1</fr:tex>.
+    If <fr:tex>N</fr:tex> is a power of a prime number <fr:tex>\ell</fr:tex>, say <fr:tex>N= \ell ^n</fr:tex>, then we can again, thanks to <fr:ref
+addr="minus-three-points-3.1.4"
+href="minus-three-points-3.1.4.xml"
+taxon="Equation"
+number="3.1.4"></fr:ref>, write it as a sum indexed by the set <fr:tex>\mu (N)^ \times</fr:tex> of primitive <fr:tex>N</fr:tex>-th roots of <fr:tex>1</fr:tex>.
+    Indeed, we have isomorphisms
+    <fr:tex
+display="block">        \begin {aligned}         P_{ \mathbb {Z} {/}(N)}         &amp;=  \sum _{ \alpha ^N=1} \ldots         \\ &amp;=  \sum _{a=1}^n  \sum _{ \mu ( \ell ^a)^ \times }  \ldots         \\ &amp;=  \sum _{a=1}^n  \sum _{ \alpha \in \mu ( \ell ^a)^ \times } \alpha ^{ \otimes (k-1)}  \sum _{ \beta ^{ \ell ^{n-a}}= \alpha } T_N( \beta ).        \end {aligned}     </fr:tex>
+    In this sum, <fr:tex>\beta</fr:tex> runs over, for each <fr:tex>a</fr:tex>, all the primitive <fr:tex>N</fr:tex>-th roots of <fr:tex>1</fr:tex>, whence
+    <fr:tex
+display="block">        \begin {aligned}         P_{ \mathbb {Z} {/}(N)}         &amp;=  \sum _{ \beta \in \mu (N)^ \times } \beta ^{ \otimes (k-1)}T_N( \beta )  \cdot   \sum _{a=1}^n \ell ^{(n-a)(k-1)}        \\ &amp;=  \frac {1}{1- \ell ^{k-1}}  \sum _{ \beta \in \mu (N)^ \times } \beta ^{ \otimes (k-1)}T_N( \beta ).        \end {aligned}     </fr:tex>
+    The cohomology class of <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex> (for <fr:tex>N= \ell ^n</fr:tex>) in <fr:tex>\operatorname {H} ^1( \operatorname {Spec} ( \mathbb {Q} ), \mathbb {Z} {/}(N)(k))</fr:tex> thus admits the following description.
+    Let <fr:tex>\mathbb {Q} ( \zeta )</fr:tex> be the cyclotomic field generated by a primitive <fr:tex>N</fr:tex>-th root of <fr:tex>1</fr:tex>.
+    In <fr:tex>\operatorname {H} ^1( \operatorname {Spec} ( \mathbb {Q} ( \zeta )), \mathbb {Z} {/}N(1))</fr:tex>, let <fr:tex>\delta (1- \zeta )</fr:tex> be the Kummer coboundary of <fr:tex>1- \zeta</fr:tex>.
+    On <fr:tex>\operatorname {Spec} ( \mathbb {Q} ( \zeta ))</fr:tex>, <fr:tex>\zeta</fr:tex> identifies the <fr:tex>\mathbb {Z} {/}N(a)</fr:tex> with one another, and we can think of <fr:tex>\delta (1- \zeta )</fr:tex> as a class with values in <fr:tex>\mathbb {Z} {/}N(k)</fr:tex>.
+    More precisely, we consider <fr:tex>\zeta ^{ \otimes (k-1)} \cup \partial (1- \zeta ) \in \operatorname {H} ^1( \operatorname {Spec} ( \mathbb {Q} ( \zeta )), \mathbb {Z} {/}N(k))</fr:tex>.
+    We have
+    <fr:tex
+display="block">        \operatorname {cl} (P_{ \mathbb {Z} {/} \ell ^n})       =  \frac {1}{1- \ell ^{k-1}}  \operatorname {Tr} _{ \mathbb {Q} ( \zeta )/ \mathbb {Q} }( \zeta ^{ \otimes (k-1)} \cup \partial (1- \zeta ))     </fr:tex>
+    and the class of <fr:tex>P_ \ell</fr:tex> is the limit of these classes.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>835</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.4</fr:addr><fr:route>minus-three-points-3.4.xml</fr:route><fr:number>3.4</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We denote by <fr:tex>\zeta ^{(p)}(s)</fr:tex> the <fr:tex>\zeta</fr:tex> function with its Eulerian factor at <fr:tex>p</fr:tex> removed:
+    <fr:tex
+display="block">        \zeta ^{(p)}(s)        \coloneqq   \sum _{p \nmid  n} 1/n^s.     </fr:tex>
+    We know that the values of <fr:tex>\zeta ^{(p)}(s)</fr:tex> on the negative integers are rational and admit a <fr:tex>p</fr:tex>-adic interpolation.
+    More precisely,
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        Let <fr:tex>\mathbb {C} _p</fr:tex> be the completion of an algebraic closure of <fr:tex>\mathbb {Q} _p</fr:tex>.
+        Then the characters <fr:tex>\chi \colon \mathbb {Z} _p^ \times \to \mathbb {C} _p^ \times</fr:tex> are the points of a rigid analytic space.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        
+        There exists exactly one rigid analytic function <fr:tex>\zeta _p^{(p)}( \chi )</fr:tex>, with a simple pole at <fr:tex>\chi =(x \mapsto  x^{-1})</fr:tex>, such that
+        <fr:tex
+display="block">            \zeta _p^{(p)}(x \mapsto  x^{-1})           =  \zeta ^{(p)}(n) \in \mathbb {Q}          </fr:tex>
+        for every integer <fr:tex>n&lt;0</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    We set, for <fr:tex>n \in \mathbb {Z}</fr:tex> with <fr:tex>n \neq1</fr:tex>,
+    <fr:tex
+display="block">        \zeta _p^{(p)}(n)        \coloneqq   \zeta _p^{(p)}(x \mapsto  x^{-1}).     </fr:tex>
+    This notation differs from that of [<fr:link
+href="C.xml"
+type="local"
+addr="C">C</fr:link>] or [<fr:link
+href="Ko.xml"
+type="local"
+addr="Ko">Ko</fr:link>]: our <fr:tex>\zeta _p^{(p)}</fr:tex> is not a continuous <fr:tex>p</fr:tex>-adic function of the <fr:em>integer</fr:em> <fr:tex>n</fr:tex>.
+    Instead, it is a continuous function of the <fr:em>character</fr:em> <fr:tex>x \mapsto  x^n</fr:tex>, itself a continuous function of <fr:tex>n</fr:tex> if and only if we restrict <fr:tex>n</fr:tex> to an arithmetic progression of difference <fr:tex>p-1</fr:tex>.
+    We have
+    <fr:tex
+display="block">        \zeta _p^{(p)}(n)       =  \lim _a  \zeta ^{(p)}(n-(p-1)p^a).     </fr:tex>
+    The trivial zeros of <fr:tex>\zeta</fr:tex> force <fr:tex>\zeta _p^{(p)}(n)=0</fr:tex> for even <fr:tex>n</fr:tex>, i.e. for <fr:tex>x \mapsto  x^{-n}</fr:tex> an even character.
+    More generally, <fr:tex>\zeta _p^{(p)}( \chi )=0</fr:tex> for even <fr:tex>\chi</fr:tex>.
+  </fr:p><fr:p>
+    With this notation, we have (cf. [<fr:link
+href="C.xml"
+type="local"
+addr="C">C</fr:link>; <fr:link
+href="Ko.xml"
+type="local"
+addr="Ko">Ko</fr:link>])
+    <fr:tex
+display="block">        \operatorname {vp}   \ell _k^{(p)}(1)       =  \zeta _p^{(p)}(k)     </fr:tex>
+    and <fr:ref
+addr="minus-three-points-3.2.7k"
+href="minus-three-points-3.2.7k.xml"
+taxon="Equation"
+number="3.2.7k"></fr:ref> can be rewritten as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>309</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.4.1k</fr:addr><fr:route>minus-three-points-3.4.1k.xml</fr:route><fr:number>3.4.1k</fr:number><fr:parent>minus-three-points-3.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \phi _p^{-1}(0)         = (k-1)! p^k \zeta _p^{(p)}(k).       \tag{3.4.1k}       </fr:tex></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>836</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-3.5</fr:addr><fr:route>minus-three-points-3.5.xml</fr:route><fr:number>3.5</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    For <fr:tex>k</fr:tex> even, the torsor <fr:tex>P_{1,k}</fr:tex> is torsion, with order equal to the denominator of <fr:tex>\frac {1}{2} \zeta (1-k)</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>846</fr:anchor><fr:taxon>Paraphrase</fr:taxon><fr:addr>minus-three-points-3.6</fr:addr><fr:route>minus-three-points-3.6.xml</fr:route><fr:number>3.6</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Let <fr:tex>P</fr:tex> be a torsor for a realisation system <fr:tex>M</fr:tex> with integer coefficients.
+    The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion means more than "every realisation is <fr:tex>n</fr:tex>-torsion".
+    Let <fr:tex>\frac {1}{n}M</fr:tex> be the realisation system <fr:tex>M \otimes \mathbb {Q}</fr:tex>, endowed with the integer structure <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>.
+    It is isomorphic to <fr:tex>M</fr:tex>, by an isomorphism that sends <fr:tex>M \hookrightarrow \frac {1}{n}M</fr:tex> by <fr:tex>n \colon  M \to  M</fr:tex>.
+    The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion thus implies that it becomes trivial under <fr:tex>M \to \frac {1}{2}M</fr:tex>.
+    For <fr:tex>M</fr:tex> of weight <fr:tex>\leqslant-1</fr:tex>, this implies:
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        
+        <fr:tex>P_ { \mathrm {B}} + \frac {1}{n}M_ { \mathrm {B}} \cap  F^0 P_ { \mathrm {DR}} \otimes \mathbb {C} \neq \phi</fr:tex> (the intersection in <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {C} \xrightarrow { \sim }  P_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>).
+        The point of intersection <fr:tex>x</fr:tex> is then unique, since <fr:tex>M_ { \mathrm {B}} \cap  F^0(M_ { \mathrm {DR}} ) \otimes \mathbb {C} =0</fr:tex>.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        <fr:tex>x \in  F^0 P_{DR}</fr:tex>, i.e. is defined over <fr:tex>\mathbb {Q}</fr:tex> for the <fr:tex>\mathbb {Q}</fr:tex>-structure <fr:tex>{ \mathrm {DR}}</fr:tex>.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        The image of <fr:tex>x</fr:tex> under <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} ,B}</fr:tex> is fixed by Galois.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;d. &quot;">
+        The image of <fr:tex>x</fr:tex> under <fr:tex>\operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }</fr:tex> is fixed by <fr:tex>\phi _p</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    Suppose that <fr:tex>F^0 M_ { \mathrm {DR}} =0</fr:tex>.
+    Then <fr:tex>P_ { \mathrm {DR}} =M_ { \mathrm {DR}}</fr:tex>, and we can identify <fr:tex>P_ { \mathrm {B}}</fr:tex> with a lateral class of <fr:tex>M_ { \mathrm {B}} \subset  M_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>.
+    Condition (a) then becomes <fr:tex>P_ { \mathrm {B}} \subset \frac {1}{n}M_ { \mathrm {B}}</fr:tex>.
+    We have <fr:tex>x=0</fr:tex>, and (b) is automatic.
+    We can write (d) as <fr:tex>\phi _p(0)=0</fr:tex>.
+    Let <fr:tex>p \in  P_ { \mathrm {B}}</fr:tex>.
+    Denote by <fr:tex>p_M</fr:tex> its image in <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>, and set <fr:tex>p^ \wedge = \operatorname {comp} _{ \widehat { \mathbb {Z}} , { \mathrm {B}} }(p) \in  P_{ \widehat { \mathbb {Z}} }</fr:tex> and <fr:tex>(p_M)^ \wedge = \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }(p_M) \in  M_ \mathbb {A} ^ \mathrm {f}</fr:tex>.
+    Condition (c) can then be written as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>842</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.1</fr:addr><fr:route>minus-three-points-3.6.1.xml</fr:route><fr:number>3.6.1</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = ( \sigma-1 )(p_M)^ \wedge .       \tag{3.6.1}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    Let <fr:tex>M= \mathbb {Z} (k)</fr:tex> with <fr:tex>k \geqslant1</fr:tex>.
+    Let <fr:tex>\sigma \in \operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> with image <fr:tex>c</fr:tex> in <fr:tex>\widehat { \mathbb {Z}} ^ \times</fr:tex>, i.e. <fr:tex>\sigma ( \zeta )= \zeta ^c</fr:tex> for <fr:tex>\zeta</fr:tex> a root of unity.
+    <fr:ref
+addr="minus-three-points-3.6.1"
+href="minus-three-points-3.6.1.xml"
+taxon="Equation"
+number="3.6.1"></fr:ref> can then be written as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>843</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.2</fr:addr><fr:route>minus-three-points-3.6.2.xml</fr:route><fr:number>3.6.2</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = (c^k-1)(p_M)^ \wedge .       \tag{3.6.2}       </fr:tex></fr:mainmatter></fr:tree>
+
+    Modulo <fr:tex>N</fr:tex>, we obtain: let <fr:tex>c</fr:tex> be an integer coprime to <fr:tex>Nn</fr:tex>, with <fr:tex>\sigma</fr:tex> inducing <fr:tex>\zeta \mapsto \zeta ^c</fr:tex> on the <fr:tex>(Nn)</fr:tex>-th roots of unity.
+    Then <fr:tex>(c^k-1)p_M \in  M_ { \mathrm {B}}</fr:tex>, and
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>844</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.3</fr:addr><fr:route>minus-three-points-3.6.3.xml</fr:route><fr:number>3.6.3</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {comp} _{ \widehat { \mathbb {Z}} , { \mathrm {B}} }((c^k-1)p_M)          \equiv   \sigma  p^ \wedge  - p^ \wedge   \mod {N}.       \tag{3.6.3}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    In <fr:ref
+addr="minus-three-points-3.5"
+href="minus-three-points-3.5.xml"
+taxon="Proposition"
+number="3.5"></fr:ref>, <fr:tex>k</fr:tex> is even, and we can take <fr:tex>p=-(k-1)! \zeta (k)</fr:tex>, and <fr:ref
+addr="minus-three-points-3.6.3"
+href="minus-three-points-3.6.3.xml"
+taxon="Equation"
+number="3.6.3"></fr:ref> is a Galois formula for <fr:tex>-(c^k-1)(k-1)! \zeta (k)</fr:tex> modulo <fr:tex>N(2 \pi  i)^k \mathbb {Z}</fr:tex>.
+    We recover a known formula expressing <fr:tex>\zeta</fr:tex> on the negative integers as an adelic integral.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>845</fr:anchor><fr:taxon>Remark</fr:taxon><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The above description shows that, if <fr:tex>P</fr:tex> is of finite order, then its order can be read from its Hodge realisation.
+    </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>898</fr:anchor><fr:taxon>Paraphrase</fr:taxon><fr:addr>minus-three-points-3.6</fr:addr><fr:route>minus-three-points-3.6.xml</fr:route><fr:number>3.6</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Let <fr:tex>P</fr:tex> be a torsor for a realisation system <fr:tex>M</fr:tex> with integer coefficients.
+    The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion means more than "every realisation is <fr:tex>n</fr:tex>-torsion".
+    Let <fr:tex>\frac {1}{n}M</fr:tex> be the realisation system <fr:tex>M \otimes \mathbb {Q}</fr:tex>, endowed with the integer structure <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>.
+    It is isomorphic to <fr:tex>M</fr:tex>, by an isomorphism that sends <fr:tex>M \hookrightarrow \frac {1}{n}M</fr:tex> by <fr:tex>n \colon  M \to  M</fr:tex>.
+    The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion thus implies that it becomes trivial under <fr:tex>M \to \frac {1}{2}M</fr:tex>.
+    For <fr:tex>M</fr:tex> of weight <fr:tex>\leqslant-1</fr:tex>, this implies:
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        
+        <fr:tex>P_ { \mathrm {B}} + \frac {1}{n}M_ { \mathrm {B}} \cap  F^0 P_ { \mathrm {DR}} \otimes \mathbb {C} \neq \phi</fr:tex> (the intersection in <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {C} \xrightarrow { \sim }  P_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>).
+        The point of intersection <fr:tex>x</fr:tex> is then unique, since <fr:tex>M_ { \mathrm {B}} \cap  F^0(M_ { \mathrm {DR}} ) \otimes \mathbb {C} =0</fr:tex>.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        <fr:tex>x \in  F^0 P_{DR}</fr:tex>, i.e. is defined over <fr:tex>\mathbb {Q}</fr:tex> for the <fr:tex>\mathbb {Q}</fr:tex>-structure <fr:tex>{ \mathrm {DR}}</fr:tex>.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        The image of <fr:tex>x</fr:tex> under <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} ,B}</fr:tex> is fixed by Galois.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;d. &quot;">
+        The image of <fr:tex>x</fr:tex> under <fr:tex>\operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }</fr:tex> is fixed by <fr:tex>\phi _p</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    Suppose that <fr:tex>F^0 M_ { \mathrm {DR}} =0</fr:tex>.
+    Then <fr:tex>P_ { \mathrm {DR}} =M_ { \mathrm {DR}}</fr:tex>, and we can identify <fr:tex>P_ { \mathrm {B}}</fr:tex> with a lateral class of <fr:tex>M_ { \mathrm {B}} \subset  M_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>.
+    Condition (a) then becomes <fr:tex>P_ { \mathrm {B}} \subset \frac {1}{n}M_ { \mathrm {B}}</fr:tex>.
+    We have <fr:tex>x=0</fr:tex>, and (b) is automatic.
+    We can write (d) as <fr:tex>\phi _p(0)=0</fr:tex>.
+    Let <fr:tex>p \in  P_ { \mathrm {B}}</fr:tex>.
+    Denote by <fr:tex>p_M</fr:tex> its image in <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>, and set <fr:tex>p^ \wedge = \operatorname {comp} _{ \widehat { \mathbb {Z}} , { \mathrm {B}} }(p) \in  P_{ \widehat { \mathbb {Z}} }</fr:tex> and <fr:tex>(p_M)^ \wedge = \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }(p_M) \in  M_ \mathbb {A} ^ \mathrm {f}</fr:tex>.
+    Condition (c) can then be written as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>842</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.1</fr:addr><fr:route>minus-three-points-3.6.1.xml</fr:route><fr:number>3.6.1</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = ( \sigma-1 )(p_M)^ \wedge .       \tag{3.6.1}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    Let <fr:tex>M= \mathbb {Z} (k)</fr:tex> with <fr:tex>k \geqslant1</fr:tex>.
+    Let <fr:tex>\sigma \in \operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> with image <fr:tex>c</fr:tex> in <fr:tex>\widehat { \mathbb {Z}} ^ \times</fr:tex>, i.e. <fr:tex>\sigma ( \zeta )= \zeta ^c</fr:tex> for <fr:tex>\zeta</fr:tex> a root of unity.
+    <fr:ref
+addr="minus-three-points-3.6.1"
+href="minus-three-points-3.6.1.xml"
+taxon="Equation"
+number="3.6.1"></fr:ref> can then be written as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>843</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.2</fr:addr><fr:route>minus-three-points-3.6.2.xml</fr:route><fr:number>3.6.2</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = (c^k-1)(p_M)^ \wedge .       \tag{3.6.2}       </fr:tex></fr:mainmatter></fr:tree>
+
+    Modulo <fr:tex>N</fr:tex>, we obtain: let <fr:tex>c</fr:tex> be an integer coprime to <fr:tex>Nn</fr:tex>, with <fr:tex>\sigma</fr:tex> inducing <fr:tex>\zeta \mapsto \zeta ^c</fr:tex> on the <fr:tex>(Nn)</fr:tex>-th roots of unity.
+    Then <fr:tex>(c^k-1)p_M \in  M_ { \mathrm {B}}</fr:tex>, and
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>844</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.3</fr:addr><fr:route>minus-three-points-3.6.3.xml</fr:route><fr:number>3.6.3</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {comp} _{ \widehat { \mathbb {Z}} , { \mathrm {B}} }((c^k-1)p_M)          \equiv   \sigma  p^ \wedge  - p^ \wedge   \mod {N}.       \tag{3.6.3}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    In <fr:ref
+addr="minus-three-points-3.5"
+href="minus-three-points-3.5.xml"
+taxon="Proposition"
+number="3.5"></fr:ref>, <fr:tex>k</fr:tex> is even, and we can take <fr:tex>p=-(k-1)! \zeta (k)</fr:tex>, and <fr:ref
+addr="minus-three-points-3.6.3"
+href="minus-three-points-3.6.3.xml"
+taxon="Equation"
+number="3.6.3"></fr:ref> is a Galois formula for <fr:tex>-(c^k-1)(k-1)! \zeta (k)</fr:tex> modulo <fr:tex>N(2 \pi  i)^k \mathbb {Z}</fr:tex>.
+    We recover a known formula expressing <fr:tex>\zeta</fr:tex> on the negative integers as an adelic integral.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>845</fr:anchor><fr:taxon>Remark</fr:taxon><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The above description shows that, if <fr:tex>P</fr:tex> is of finite order, then its order can be read from its Hodge realisation.
+    </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

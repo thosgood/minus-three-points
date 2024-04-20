@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1112</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>1215</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -299,7 +299,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1110</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1213</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -318,7 +318,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>377</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>383</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
         We will write <fr:tex>{}_HP_G</fr:tex> to mean that <fr:tex>P</fr:tex> is an <fr:tex>(H,G)</fr:tex>-bitorsor.
       </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
     We will use the following operations on torsors and bitorsors.
@@ -346,7 +346,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>1111</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>1214</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -558,7 +558,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>817</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;
@@ -579,7 +579,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>1109</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>1212</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -791,7 +791,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>817</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;
@@ -812,7 +812,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1098</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1201</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Contemp. Math.</fr:em> <fr:strong>67</fr:strong> pp. 1–24</fr:meta><fr:meta
 name="bibtex">@article{B,
   author = {Beilinson, A.A.},
@@ -828,7 +828,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1100</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>J</fr:addr><fr:route>J.xml</fr:route><fr:title>Mixed motives and algebraic <fr:tex>K</fr:tex>-theory</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>U. Jannsen</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1203</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>J</fr:addr><fr:route>J.xml</fr:route><fr:title>Mixed motives and algebraic <fr:tex>K</fr:tex>-theory</fr:title><fr:date><fr:year>1988</fr:year></fr:date><fr:authors><fr:author>U. Jannsen</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>preprint</fr:em> Universität Regensburg</fr:meta><fr:meta
 name="bibtex">@article{J,
   author = {Jannsen, U.},
@@ -842,7 +842,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1102</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mo</fr:addr><fr:route>Mo.xml</fr:route><fr:title>The algebraic topology of smooth algebraic varieties</fr:title><fr:date><fr:year>1978</fr:year></fr:date><fr:authors><fr:author>J. Morgan</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1205</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mo</fr:addr><fr:route>Mo.xml</fr:route><fr:title>The algebraic topology of smooth algebraic varieties</fr:title><fr:date><fr:year>1978</fr:year></fr:date><fr:authors><fr:author>J. Morgan</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>48</fr:strong> pp. 137–204</fr:meta><fr:meta
 name="bibtex">@article{Mo,
   author = {Morgan, J.},
@@ -858,7 +858,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1104</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Su</fr:addr><fr:route>Su.xml</fr:route><fr:title>Infinitesimal computations in topology</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>D. Sullivan</fr:author><fr:author>S. Zucker</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1207</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Su</fr:addr><fr:route>Su.xml</fr:route><fr:title>Infinitesimal computations in topology</fr:title><fr:date><fr:year>1977</fr:year></fr:date><fr:authors><fr:author>D. Sullivan</fr:author><fr:author>S. Zucker</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>47</fr:strong> pp. 269–332</fr:meta><fr:meta
 name="bibtex">@article{Su,
   author = {Sullivan, D.},
@@ -874,7 +874,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1107</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mal</fr:addr><fr:route>Mal.xml</fr:route><fr:title>Nilpotent torsion free groups</fr:title><fr:date><fr:year>1949</fr:year></fr:date><fr:authors><fr:author>A.I. Malcev</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>1210</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Mal</fr:addr><fr:route>Mal.xml</fr:route><fr:title>Nilpotent torsion free groups</fr:title><fr:date><fr:year>1949</fr:year></fr:date><fr:authors><fr:author>A.I. Malcev</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Izv. Akad. Nauk.</fr:em> <fr:strong>13</fr:strong> pp. 201–212</fr:meta><fr:meta
 name="bibtex">@article{Mal,
   author = {Malcev, A.I.},

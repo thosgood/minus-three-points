@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>910</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.2</fr:addr><fr:route>minus-three-points-3.6.2.xml</fr:route><fr:number>3.6.2</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = (c^k-1)(p_M)^ \wedge .       \tag{3.6.2}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>909</fr:anchor><fr:taxon>Paraphrase</fr:taxon><fr:addr>minus-three-points-3.6</fr:addr><fr:route>minus-three-points-3.6.xml</fr:route><fr:number>3.6</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Let <fr:tex>P</fr:tex> be a torsor for a realisation system <fr:tex>M</fr:tex> with integer coefficients.
+    The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion means more than "every realisation is <fr:tex>n</fr:tex>-torsion".
+    Let <fr:tex>\frac {1}{n}M</fr:tex> be the realisation system <fr:tex>M \otimes \mathbb {Q}</fr:tex>, endowed with the integer structure <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>.
+    It is isomorphic to <fr:tex>M</fr:tex>, by an isomorphism that sends <fr:tex>M \hookrightarrow \frac {1}{n}M</fr:tex> by <fr:tex>n \colon  M \to  M</fr:tex>.
+    The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion thus implies that it becomes trivial under <fr:tex>M \to \frac {1}{2}M</fr:tex>.
+    For <fr:tex>M</fr:tex> of weight <fr:tex>\leqslant-1</fr:tex>, this implies:
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        
+        <fr:tex>P_ { \mathrm {B}} + \frac {1}{n}M_ { \mathrm {B}} \cap  F^0 P_ { \mathrm {DR}} \otimes \mathbb {C} \neq \phi</fr:tex> (the intersection in <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {C} \xrightarrow { \sim }  P_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>).
+        The point of intersection <fr:tex>x</fr:tex> is then unique, since <fr:tex>M_ { \mathrm {B}} \cap  F^0(M_ { \mathrm {DR}} ) \otimes \mathbb {C} =0</fr:tex>.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        <fr:tex>x \in  F^0 P_{DR}</fr:tex>, i.e. is defined over <fr:tex>\mathbb {Q}</fr:tex> for the <fr:tex>\mathbb {Q}</fr:tex>-structure <fr:tex>{ \mathrm {DR}}</fr:tex>.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        The image of <fr:tex>x</fr:tex> under <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} ,B}</fr:tex> is fixed by Galois.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;d. &quot;">
+        The image of <fr:tex>x</fr:tex> under <fr:tex>\operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }</fr:tex> is fixed by <fr:tex>\phi _p</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    Suppose that <fr:tex>F^0 M_ { \mathrm {DR}} =0</fr:tex>.
+    Then <fr:tex>P_ { \mathrm {DR}} =M_ { \mathrm {DR}}</fr:tex>, and we can identify <fr:tex>P_ { \mathrm {B}}</fr:tex> with a lateral class of <fr:tex>M_ { \mathrm {B}} \subset  M_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>.
+    Condition (a) then becomes <fr:tex>P_ { \mathrm {B}} \subset \frac {1}{n}M_ { \mathrm {B}}</fr:tex>.
+    We have <fr:tex>x=0</fr:tex>, and (b) is automatic.
+    We can write (d) as <fr:tex>\phi _p(0)=0</fr:tex>.
+    Let <fr:tex>p \in  P_ { \mathrm {B}}</fr:tex>.
+    Denote by <fr:tex>p_M</fr:tex> its image in <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>, and set <fr:tex>p^ \wedge = \operatorname {comp} _{ \widehat { \mathbb {Z}} , { \mathrm {B}} }(p) \in  P_{ \widehat { \mathbb {Z}} }</fr:tex> and <fr:tex>(p_M)^ \wedge = \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }(p_M) \in  M_ \mathbb {A} ^ \mathrm {f}</fr:tex>.
+    Condition (c) can then be written as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>842</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.1</fr:addr><fr:route>minus-three-points-3.6.1.xml</fr:route><fr:number>3.6.1</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = ( \sigma-1 )(p_M)^ \wedge .       \tag{3.6.1}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    Let <fr:tex>M= \mathbb {Z} (k)</fr:tex> with <fr:tex>k \geqslant1</fr:tex>.
+    Let <fr:tex>\sigma \in \operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> with image <fr:tex>c</fr:tex> in <fr:tex>\widehat { \mathbb {Z}} ^ \times</fr:tex>, i.e. <fr:tex>\sigma ( \zeta )= \zeta ^c</fr:tex> for <fr:tex>\zeta</fr:tex> a root of unity.
+    <fr:ref
+addr="minus-three-points-3.6.1"
+href="minus-three-points-3.6.1.xml"
+taxon="Equation"
+number="3.6.1"></fr:ref> can then be written as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>843</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.2</fr:addr><fr:route>minus-three-points-3.6.2.xml</fr:route><fr:number>3.6.2</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \sigma  p^ \wedge  - p^ \wedge          = (c^k-1)(p_M)^ \wedge .       \tag{3.6.2}       </fr:tex></fr:mainmatter></fr:tree>
+
+    Modulo <fr:tex>N</fr:tex>, we obtain: let <fr:tex>c</fr:tex> be an integer coprime to <fr:tex>Nn</fr:tex>, with <fr:tex>\sigma</fr:tex> inducing <fr:tex>\zeta \mapsto \zeta ^c</fr:tex> on the <fr:tex>(Nn)</fr:tex>-th roots of unity.
+    Then <fr:tex>(c^k-1)p_M \in  M_ { \mathrm {B}}</fr:tex>, and
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>844</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.3</fr:addr><fr:route>minus-three-points-3.6.3.xml</fr:route><fr:number>3.6.3</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {comp} _{ \widehat { \mathbb {Z}} , { \mathrm {B}} }((c^k-1)p_M)          \equiv   \sigma  p^ \wedge  - p^ \wedge   \mod {N}.       \tag{3.6.3}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    In <fr:ref
+addr="minus-three-points-3.5"
+href="minus-three-points-3.5.xml"
+taxon="Proposition"
+number="3.5"></fr:ref>, <fr:tex>k</fr:tex> is even, and we can take <fr:tex>p=-(k-1)! \zeta (k)</fr:tex>, and <fr:ref
+addr="minus-three-points-3.6.3"
+href="minus-three-points-3.6.3.xml"
+taxon="Equation"
+number="3.6.3"></fr:ref> is a Galois formula for <fr:tex>-(c^k-1)(k-1)! \zeta (k)</fr:tex> modulo <fr:tex>N(2 \pi  i)^k \mathbb {Z}</fr:tex>.
+    We recover a known formula expressing <fr:tex>\zeta</fr:tex> on the negative integers as an adelic integral.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>845</fr:anchor><fr:taxon>Remark</fr:taxon><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The above description shows that, if <fr:tex>P</fr:tex> is of finite order, then its order can be read from its Hodge realisation.
+    </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

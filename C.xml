@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>311</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>69</fr:strong> pp. 171–208</fr:meta><fr:meta
 name="bibtex">@article{C,
   author = {Coleman, R.F.},
@@ -16,4 +16,79 @@ name="bibtex">@article{C,
   volume = {69},
   year = {1982},
   pages = {171--208},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.4</fr:addr><fr:route>minus-three-points-3.4.xml</fr:route><fr:number>3.4</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We denote by <fr:tex>\zeta ^{(p)}(s)</fr:tex> the <fr:tex>\zeta</fr:tex> function with its Eulerian factor at <fr:tex>p</fr:tex> removed:
+    <fr:tex
+display="block">        \zeta ^{(p)}(s)        \coloneqq   \sum _{p \nmid  n} 1/n^s.     </fr:tex>
+    We know that the values of <fr:tex>\zeta ^{(p)}(s)</fr:tex> on the negative integers are rational and admit a <fr:tex>p</fr:tex>-adic interpolation.
+    More precisely,
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        Let <fr:tex>\mathbb {C} _p</fr:tex> be the completion of an algebraic closure of <fr:tex>\mathbb {Q} _p</fr:tex>.
+        Then the characters <fr:tex>\chi \colon \mathbb {Z} _p^ \times \to \mathbb {C} _p^ \times</fr:tex> are the points of a rigid analytic space.
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        
+        There exists exactly one rigid analytic function <fr:tex>\zeta _p^{(p)}( \chi )</fr:tex>, with a simple pole at <fr:tex>\chi =(x \mapsto  x^{-1})</fr:tex>, such that
+        <fr:tex
+display="block">            \zeta _p^{(p)}(x \mapsto  x^{-1})           =  \zeta ^{(p)}(n) \in \mathbb {Q}          </fr:tex>
+        for every integer <fr:tex>n&lt;0</fr:tex>.
+      </html:li>
+
+    </html:ol></fr:p><fr:p>
+    We set, for <fr:tex>n \in \mathbb {Z}</fr:tex> with <fr:tex>n \neq1</fr:tex>,
+    <fr:tex
+display="block">        \zeta _p^{(p)}(n)        \coloneqq   \zeta _p^{(p)}(x \mapsto  x^{-1}).     </fr:tex>
+    This notation differs from that of [<fr:link
+href="C.xml"
+type="local"
+addr="C">C</fr:link>] or [<fr:link
+href="Ko.xml"
+type="local"
+addr="Ko">Ko</fr:link>]: our <fr:tex>\zeta _p^{(p)}</fr:tex> is not a continuous <fr:tex>p</fr:tex>-adic function of the <fr:em>integer</fr:em> <fr:tex>n</fr:tex>.
+    Instead, it is a continuous function of the <fr:em>character</fr:em> <fr:tex>x \mapsto  x^n</fr:tex>, itself a continuous function of <fr:tex>n</fr:tex> if and only if we restrict <fr:tex>n</fr:tex> to an arithmetic progression of difference <fr:tex>p-1</fr:tex>.
+    We have
+    <fr:tex
+display="block">        \zeta _p^{(p)}(n)       =  \lim _a  \zeta ^{(p)}(n-(p-1)p^a).     </fr:tex>
+    The trivial zeros of <fr:tex>\zeta</fr:tex> force <fr:tex>\zeta _p^{(p)}(n)=0</fr:tex> for even <fr:tex>n</fr:tex>, i.e. for <fr:tex>x \mapsto  x^{-n}</fr:tex> an even character.
+    More generally, <fr:tex>\zeta _p^{(p)}( \chi )=0</fr:tex> for even <fr:tex>\chi</fr:tex>.
+  </fr:p><fr:p>
+    With this notation, we have (cf. [<fr:link
+href="C.xml"
+type="local"
+addr="C">C</fr:link>; <fr:link
+href="Ko.xml"
+type="local"
+addr="Ko">Ko</fr:link>])
+    <fr:tex
+display="block">        \operatorname {vp}   \ell _k^{(p)}(1)       =  \zeta _p^{(p)}(k)     </fr:tex>
+    and <fr:ref
+addr="minus-three-points-3.2.7k"
+href="minus-three-points-3.2.7k.xml"
+taxon="Equation"
+number="3.2.7k"></fr:ref> can be rewritten as
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>309</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.4.1k</fr:addr><fr:route>minus-three-points-3.4.1k.xml</fr:route><fr:number>3.4.1k</fr:number><fr:parent>minus-three-points-3.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \phi _p^{-1}(0)         = (k-1)! p^k \zeta _p^{(p)}(k).       \tag{3.4.1k}       </fr:tex></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

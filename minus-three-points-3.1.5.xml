@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>864</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.5</fr:addr><fr:route>minus-three-points-3.1.5.xml</fr:route><fr:number>3.1.5</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)^{1/N}         = (1-z)^{1/N}       \tag{3.1.5}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>863</fr:anchor><fr:addr>minus-three-points-3.1</fr:addr><fr:route>minus-three-points-3.1.xml</fr:route><fr:number>3.1</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We denote by <fr:tex>P</fr:tex> the torsor <fr:tex>P_{1,k}</fr:tex> that we are going to define.
+    At the same time, we will define a trivialisation <fr:tex>u_ { \mathrm {B}} \in  P_ { \mathrm {B}}</fr:tex> of its Betti realisation.
+    Since <fr:tex>F^0 \mathbb {Z} (k)_ { \mathrm {DR}} =0</fr:tex>, we necessarily have that <fr:tex>P_ { \mathrm {DR}} = \mathbb {Z} (k)_ { \mathrm {DR}} = \mathbb {Q}</fr:tex>.
+    The Betti structure is
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>820</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.1k</fr:addr><fr:route>minus-three-points-3.1.1k.xml</fr:route><fr:number>3.1.1k</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \begin {gathered}           P_ { \mathrm {B}}            = u_ { \mathrm {B}}  + (2 \pi  i)^k \mathbb {Z}   \subset   \mathbb {P} _{ { \mathrm {DR}} , \mathbb {C} } =  \mathbb {C}           \\ \text {with} \quad            u_ { \mathrm {B}}            = -(k-1)! \zeta (k)          \end {gathered}       \tag{3.1.1k}       </fr:tex></fr:mainmatter></fr:tree>
+
+    where <fr:tex>\zeta</fr:tex> is the Riemann <fr:tex>\zeta</fr:tex> function.
+  </fr:p><fr:p>
+    Let <fr:tex>N</fr:tex> be an integer; we will describe <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    For <fr:tex>z \in \mathbb {C}</fr:tex> with <fr:tex>z \neq1</fr:tex>, let <fr:tex>T_N(z) \coloneqq  K(1-z)_{ \mathbb {Z} {/}(N)}</fr:tex> be the <fr:tex>\mathbb {Z} {/}N(1)</fr:tex>-torsor of <fr:tex>N</fr:tex>-th roots of <fr:tex>1-z</fr:tex>.
+    For <fr:tex>z=1</fr:tex>, we set <fr:tex>T_N(1)=K(1/N)_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    This convention ensures that the sum of the <fr:tex>T_N( \alpha )</fr:tex> for <fr:tex>\alpha ^N=1</fr:tex> is trivialised: we have
+    <fr:tex
+display="block">        \frac {1}{N} \prod (1- \alpha )       = 1.     </fr:tex></fr:p><fr:p>
+    Let <fr:tex>\alpha</fr:tex> be an <fr:tex>N</fr:tex>-th root of <fr:tex>1</fr:tex>.
+    It defines <fr:tex>\alpha \colon \mathbb {Z} {/}N \to \mathbb {Z} {/}N(1)</fr:tex> by <fr:tex>a \mapsto  a \cdot \alpha</fr:tex>.
+    We thus obtain <fr:tex>\alpha ^{ \otimes (k-1)} \colon \mathbb {Z} {/}N(1) \to \mathbb {Z} {/}N(k)</fr:tex>.
+    Note that, for <fr:tex>\alpha =1</fr:tex>, this is the zero map.
+    We denote by <fr:tex>\alpha ^{ \otimes (k-1)}T( \alpha )</fr:tex> the <fr:tex>\mathbb {Z} {/}N(k)</fr:tex>-torsor induced from <fr:tex>T( \alpha )</fr:tex> by applying <fr:tex>\alpha ^{ \otimes (k-1)}</fr:tex>.
+    We have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>821</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.2k</fr:addr><fr:route>minus-three-points-3.1.2k.xml</fr:route><fr:number>3.1.2</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         P_{ \mathbb {Z} {/}(N)}          \coloneqq   \sum _{ \alpha ^N=1}  \alpha ^{ \otimes (k-1)}T_N( \alpha ).       \tag{3.1.2k}       </fr:tex></fr:mainmatter></fr:tree>
+
+    
+    We can equivalently sum over the <fr:tex>\alpha \neq1</fr:tex>.
+    This definition still makes sense in any algebraic closure <fr:tex>\overline {k}</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>, and the action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> is given by transport of structure.
+  </fr:p><fr:p>
+    We now define the transition morphisms <fr:tex>P_{ \mathbb {Z} {/}(NM)} \to  P_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    We have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>822</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.3</fr:addr><fr:route>minus-three-points-3.1.3.xml</fr:route><fr:number>3.1.3</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)         = 1-z       \tag{3.1.3}       </fr:tex></fr:mainmatter></fr:tree>
+
+    whence, for <fr:tex>z \neq0 ,1</fr:tex>, we obtain an isomorphism
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>823</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.4</fr:addr><fr:route>minus-three-points-3.1.4.xml</fr:route><fr:number>3.1.4</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         T_N(z)         =  \prod _{u^M=z} T_N(u).       \tag{3.1.4}       </fr:tex></fr:mainmatter></fr:tree>
+
+    If <fr:tex>\beta ^N=1</fr:tex> and <fr:tex>\alpha ^M= \beta</fr:tex>, then the reduction <fr:tex>\mod  N</fr:tex> of <fr:tex>\alpha \colon \mathbb {Z} {/}NM \to \mathbb {Z} {/}NM(1)</fr:tex> is <fr:tex>\beta \colon \mathbb {Z} {/}N \to \mathbb {Z} {/}N(1)</fr:tex>, and that of <fr:tex>T_{NM}( \alpha )</fr:tex> is <fr:tex>T_N( \alpha )</fr:tex>.
+    From this, we obtain an isomorphism
+    <fr:tex
+display="block">        \begin {aligned}         P_{ \mathbb {Z} {/}(NM)} \mod  N         &amp;=  \sum _{ \beta ^N=1}  \sum _{ \alpha ^M= \beta }  \alpha ^{ \otimes (k-1)}T_{NM}( \alpha )  \mod  N        \\ &amp;=  \sum _{ \beta ^N=1}  \beta ^{ \otimes (k-1)}  \sum _{ \alpha ^M= \beta } T_N( \alpha )        \\ &amp;=  \sum _{ \beta ^N=1}  \beta ^{ \otimes (k-1)} T_N( \beta )        \\ &amp;= P_{ \mathbb {Z} {/}(N)}.        \end {aligned}     </fr:tex>
+    This defines the desired transition morphism.
+  </fr:p><fr:p>
+    For non-real negative <fr:tex>z</fr:tex>, we define the <fr:em>principal determination</fr:em> of <fr:tex>z \mapsto  z^{1/N}</fr:tex>, and denote by <fr:tex>z^{1/N}</fr:tex>, that which takes the value of <fr:tex>1</fr:tex> at <fr:tex>1</fr:tex>.
+    The morphism of torsors <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}(N), { \mathrm {B}} }</fr:tex> sends <fr:tex>u_ { \mathrm {B}}</fr:tex> to the point <fr:tex>u</fr:tex> of <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex> defined by the <fr:tex>(1- \alpha )^{1/N} \in  T( \alpha )</fr:tex>:
+    <fr:tex
+display="block">       u_ { \mathrm {B}}         \mapsto  u       =  \sum   \alpha ^{ \otimes (k-1)} ((1- \alpha )^{1/N}).     </fr:tex></fr:p><fr:p>
+    If <fr:tex>z</fr:tex> is not real and <fr:tex>\geqslant1</fr:tex>, then we have principal determinations
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>824</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.5</fr:addr><fr:route>minus-three-points-3.1.5.xml</fr:route><fr:number>3.1.5</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)^{1/N}         = (1-z)^{1/N}       \tag{3.1.5}       </fr:tex></fr:mainmatter></fr:tree>
+
+    as we verify by analytic continuation from <fr:tex>z=0</fr:tex>, taking <fr:ref
+addr="minus-three-points-3.1.3"
+href="minus-three-points-3.1.3.xml"
+taxon="Equation"
+number="3.1.3"></fr:ref> into account.
+    It follows from <fr:ref
+addr="minus-three-points-3.1.5"
+href="minus-three-points-3.1.5.xml"
+taxon="Equation"
+number="3.1.5"></fr:ref> that the <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}(N), { \mathrm {B}} }</fr:tex> are compatible with the transition morphisms.
+  </fr:p></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>862</fr:anchor><fr:addr>minus-three-points-3.1</fr:addr><fr:route>minus-three-points-3.1.xml</fr:route><fr:number>3.1</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We denote by <fr:tex>P</fr:tex> the torsor <fr:tex>P_{1,k}</fr:tex> that we are going to define.
+    At the same time, we will define a trivialisation <fr:tex>u_ { \mathrm {B}} \in  P_ { \mathrm {B}}</fr:tex> of its Betti realisation.
+    Since <fr:tex>F^0 \mathbb {Z} (k)_ { \mathrm {DR}} =0</fr:tex>, we necessarily have that <fr:tex>P_ { \mathrm {DR}} = \mathbb {Z} (k)_ { \mathrm {DR}} = \mathbb {Q}</fr:tex>.
+    The Betti structure is
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>820</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.1k</fr:addr><fr:route>minus-three-points-3.1.1k.xml</fr:route><fr:number>3.1.1k</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \begin {gathered}           P_ { \mathrm {B}}            = u_ { \mathrm {B}}  + (2 \pi  i)^k \mathbb {Z}   \subset   \mathbb {P} _{ { \mathrm {DR}} , \mathbb {C} } =  \mathbb {C}           \\ \text {with} \quad            u_ { \mathrm {B}}            = -(k-1)! \zeta (k)          \end {gathered}       \tag{3.1.1k}       </fr:tex></fr:mainmatter></fr:tree>
+
+    where <fr:tex>\zeta</fr:tex> is the Riemann <fr:tex>\zeta</fr:tex> function.
+  </fr:p><fr:p>
+    Let <fr:tex>N</fr:tex> be an integer; we will describe <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    For <fr:tex>z \in \mathbb {C}</fr:tex> with <fr:tex>z \neq1</fr:tex>, let <fr:tex>T_N(z) \coloneqq  K(1-z)_{ \mathbb {Z} {/}(N)}</fr:tex> be the <fr:tex>\mathbb {Z} {/}N(1)</fr:tex>-torsor of <fr:tex>N</fr:tex>-th roots of <fr:tex>1-z</fr:tex>.
+    For <fr:tex>z=1</fr:tex>, we set <fr:tex>T_N(1)=K(1/N)_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    This convention ensures that the sum of the <fr:tex>T_N( \alpha )</fr:tex> for <fr:tex>\alpha ^N=1</fr:tex> is trivialised: we have
+    <fr:tex
+display="block">        \frac {1}{N} \prod (1- \alpha )       = 1.     </fr:tex></fr:p><fr:p>
+    Let <fr:tex>\alpha</fr:tex> be an <fr:tex>N</fr:tex>-th root of <fr:tex>1</fr:tex>.
+    It defines <fr:tex>\alpha \colon \mathbb {Z} {/}N \to \mathbb {Z} {/}N(1)</fr:tex> by <fr:tex>a \mapsto  a \cdot \alpha</fr:tex>.
+    We thus obtain <fr:tex>\alpha ^{ \otimes (k-1)} \colon \mathbb {Z} {/}N(1) \to \mathbb {Z} {/}N(k)</fr:tex>.
+    Note that, for <fr:tex>\alpha =1</fr:tex>, this is the zero map.
+    We denote by <fr:tex>\alpha ^{ \otimes (k-1)}T( \alpha )</fr:tex> the <fr:tex>\mathbb {Z} {/}N(k)</fr:tex>-torsor induced from <fr:tex>T( \alpha )</fr:tex> by applying <fr:tex>\alpha ^{ \otimes (k-1)}</fr:tex>.
+    We have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>821</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.2k</fr:addr><fr:route>minus-three-points-3.1.2k.xml</fr:route><fr:number>3.1.2</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         P_{ \mathbb {Z} {/}(N)}          \coloneqq   \sum _{ \alpha ^N=1}  \alpha ^{ \otimes (k-1)}T_N( \alpha ).       \tag{3.1.2k}       </fr:tex></fr:mainmatter></fr:tree>
+
+    
+    We can equivalently sum over the <fr:tex>\alpha \neq1</fr:tex>.
+    This definition still makes sense in any algebraic closure <fr:tex>\overline {k}</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>, and the action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> is given by transport of structure.
+  </fr:p><fr:p>
+    We now define the transition morphisms <fr:tex>P_{ \mathbb {Z} {/}(NM)} \to  P_{ \mathbb {Z} {/}(N)}</fr:tex>.
+    We have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>822</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.3</fr:addr><fr:route>minus-three-points-3.1.3.xml</fr:route><fr:number>3.1.3</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)         = 1-z       \tag{3.1.3}       </fr:tex></fr:mainmatter></fr:tree>
+
+    whence, for <fr:tex>z \neq0 ,1</fr:tex>, we obtain an isomorphism
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>823</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.4</fr:addr><fr:route>minus-three-points-3.1.4.xml</fr:route><fr:number>3.1.4</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         T_N(z)         =  \prod _{u^M=z} T_N(u).       \tag{3.1.4}       </fr:tex></fr:mainmatter></fr:tree>
+
+    If <fr:tex>\beta ^N=1</fr:tex> and <fr:tex>\alpha ^M= \beta</fr:tex>, then the reduction <fr:tex>\mod  N</fr:tex> of <fr:tex>\alpha \colon \mathbb {Z} {/}NM \to \mathbb {Z} {/}NM(1)</fr:tex> is <fr:tex>\beta \colon \mathbb {Z} {/}N \to \mathbb {Z} {/}N(1)</fr:tex>, and that of <fr:tex>T_{NM}( \alpha )</fr:tex> is <fr:tex>T_N( \alpha )</fr:tex>.
+    From this, we obtain an isomorphism
+    <fr:tex
+display="block">        \begin {aligned}         P_{ \mathbb {Z} {/}(NM)} \mod  N         &amp;=  \sum _{ \beta ^N=1}  \sum _{ \alpha ^M= \beta }  \alpha ^{ \otimes (k-1)}T_{NM}( \alpha )  \mod  N        \\ &amp;=  \sum _{ \beta ^N=1}  \beta ^{ \otimes (k-1)}  \sum _{ \alpha ^M= \beta } T_N( \alpha )        \\ &amp;=  \sum _{ \beta ^N=1}  \beta ^{ \otimes (k-1)} T_N( \beta )        \\ &amp;= P_{ \mathbb {Z} {/}(N)}.        \end {aligned}     </fr:tex>
+    This defines the desired transition morphism.
+  </fr:p><fr:p>
+    For non-real negative <fr:tex>z</fr:tex>, we define the <fr:em>principal determination</fr:em> of <fr:tex>z \mapsto  z^{1/N}</fr:tex>, and denote by <fr:tex>z^{1/N}</fr:tex>, that which takes the value of <fr:tex>1</fr:tex> at <fr:tex>1</fr:tex>.
+    The morphism of torsors <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}(N), { \mathrm {B}} }</fr:tex> sends <fr:tex>u_ { \mathrm {B}}</fr:tex> to the point <fr:tex>u</fr:tex> of <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex> defined by the <fr:tex>(1- \alpha )^{1/N} \in  T( \alpha )</fr:tex>:
+    <fr:tex
+display="block">       u_ { \mathrm {B}}         \mapsto  u       =  \sum   \alpha ^{ \otimes (k-1)} ((1- \alpha )^{1/N}).     </fr:tex></fr:p><fr:p>
+    If <fr:tex>z</fr:tex> is not real and <fr:tex>\geqslant1</fr:tex>, then we have principal determinations
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>824</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.5</fr:addr><fr:route>minus-three-points-3.1.5.xml</fr:route><fr:number>3.1.5</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \prod _{u^M=z} (1-u)^{1/N}         = (1-z)^{1/N}       \tag{3.1.5}       </fr:tex></fr:mainmatter></fr:tree>
+
+    as we verify by analytic continuation from <fr:tex>z=0</fr:tex>, taking <fr:ref
+addr="minus-three-points-3.1.3"
+href="minus-three-points-3.1.3.xml"
+taxon="Equation"
+number="3.1.3"></fr:ref> into account.
+    It follows from <fr:ref
+addr="minus-three-points-3.1.5"
+href="minus-three-points-3.1.5.xml"
+taxon="Equation"
+number="3.1.5"></fr:ref> that the <fr:tex>\operatorname {comp} _{ \mathbb {Z} {/}(N), { \mathrm {B}} }</fr:tex> are compatible with the transition morphisms.
+  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

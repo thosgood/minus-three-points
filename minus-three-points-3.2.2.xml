@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>872</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.2</fr:addr><fr:route>minus-three-points-3.2.2.xml</fr:route><fr:number>3.2.2</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}         =  \sum _{p \nmid  n} z^n/n^k.       \tag{3.2.2}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>871</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Some preliminaries, before defining <fr:tex>\phi _p</fr:tex>.
+    The <fr:tex>k</fr:tex>-logarithm is defined for <fr:tex>|z| \leqslant1</fr:tex> by
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>826</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.1</fr:addr><fr:route>minus-three-points-3.2.1.xml</fr:route><fr:number>3.2.1</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k(z)         =  \sum  z^n/n^k.       \tag{3.2.1}       </fr:tex></fr:mainmatter></fr:tree>
+
+    The <fr:tex>\zeta (k)</fr:tex> in the formula giving <fr:tex>P_ { \mathrm {B}}</fr:tex> appears in our approach as the value at <fr:tex>1</fr:tex> of <fr:tex>\ell _k</fr:tex>.
+    Let <fr:tex>p</fr:tex> be a prime number and consider the formal series
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>827</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.2</fr:addr><fr:route>minus-three-points-3.2.2.xml</fr:route><fr:number>3.2.2</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}         =  \sum _{p \nmid  n} z^n/n^k.       \tag{3.2.2}       </fr:tex></fr:mainmatter></fr:tree>
+
+    This is the Taylor series expansion of a rigid analytic function on the projective line over <fr:tex>\mathbb {Q} _p</fr:tex> with the open disc of radius <fr:tex>1</fr:tex> centred at <fr:tex>1</fr:tex> removed.
+    Indeed, we have
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>828</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.3</fr:addr><fr:route>minus-three-points-3.2.3.xml</fr:route><fr:number>3.2.3</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}(z)         =  \lim _N  \frac {1}{1-z^{p^N}}  \sum _{n=1, p \nmid  n}^{p^N-1} z^n/n^k.       \tag{3.2.3}       </fr:tex></fr:mainmatter></fr:tree>
+
+    From <fr:ref
+addr="minus-three-points-3.2.3"
+href="minus-three-points-3.2.3.xml"
+taxon="Equation"
+number="3.2.3"></fr:ref> we get the identity
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>829</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.4</fr:addr><fr:route>minus-three-points-3.2.4.xml</fr:route><fr:number>3.2.4</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \ell _k^{(p)}(1/z)         = -(-1)^k \ell _k^{(p)}(z).       \tag{3.2.4}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
+    A formal series calculation gives, for <fr:tex>(N,p)=1</fr:tex>,
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>830</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.5</fr:addr><fr:route>minus-three-points-3.2.5.xml</fr:route><fr:number>3.2.5</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">         N^{k-1} \sum _{u^N=z}  \ell _k^{(p)}(u)         =  \ell _k^{(p)}(z).       \tag{3.2.5}       </fr:tex></fr:mainmatter></fr:tree>
+
+    This leads us to define the "principal value" at <fr:tex>1</fr:tex>
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>831</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.6</fr:addr><fr:route>minus-three-points-3.2.6.xml</fr:route><fr:number>3.2.6</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \operatorname {vp} \ell _k^{(p)}(1)          \coloneqq   \frac {N^{k-1}}{1-N^{k-1}}  \sum _{ \alpha ^N=1, \alpha \neq1 }  \ell _k^{(p)}( \alpha ).       \tag{3.2.6}       </fr:tex></fr:mainmatter></fr:tree>
+
+    This number is independent of the choice of <fr:tex>N</fr:tex> coprime to <fr:tex>p</fr:tex>.
+    By <fr:ref
+addr="minus-three-points-3.2.4"
+href="minus-three-points-3.2.4.xml"
+taxon="Equation"
+number="3.2.4"></fr:ref>, it is zero for <fr:tex>k</fr:tex> even.
+  </fr:p><fr:p>
+    With this notation, the crystalline Frobenius <fr:tex>\phi _p</fr:tex> is given by
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>832</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.7k</fr:addr><fr:route>minus-three-points-3.2.7k.xml</fr:route><fr:number>3.2.7k</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+display="block">          \phi _p^{-1}(0)         = (k-1)!p^k \cdot \operatorname {vp} \ell _k^{(p)}(1).       \tag{3.2.7k}       </fr:tex></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

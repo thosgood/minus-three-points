@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
 name="venue">in "Hodge cycles, motives and Shimura varieties" Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>900</fr:strong> pp. 101–228</fr:meta><fr:meta
 name="bibtex">@incollection{DM,
   author = {Deligne, P. and Milne, J.},
@@ -25,7 +25,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>308</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>313</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -165,7 +165,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>309</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-1.10</fr:addr><fr:route>minus-three-points-1.10.xml</fr:route><fr:number>1.10</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-1.10</fr:addr><fr:route>minus-three-points-1.10.xml</fr:route><fr:number>1.10</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Realisation systems form a Tannakian category.
   </fr:p>
   

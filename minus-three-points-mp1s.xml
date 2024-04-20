@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>932</fr:anchor><fr:addr>minus-three-points-mp1s</fr:addr><fr:route>minus-three-points-mp1s.xml</fr:route><fr:number>M'1S</fr:number><fr:parent>minus-three-points-1.21</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1035</fr:anchor><fr:addr>minus-three-points-mp1s</fr:addr><fr:route>minus-three-points-mp1s.xml</fr:route><fr:number>M'1S</fr:number><fr:parent>minus-three-points-1.21</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For <fr:tex>C</fr:tex> an algebraic closure of <fr:tex>\mathbb {R}</fr:tex>, a locally constant sheaf <fr:tex>M_ { \mathrm {B}} (C)</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>-vector spaces on <fr:tex>S(C)</fr:tex>, functorial in <fr:tex>C</fr:tex>.
       We set <fr:tex>M_ { \mathrm {B}} \coloneqq  M_ { \mathrm {B}} ( \mathbb {C} )</fr:tex>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>931</fr:anchor><fr:addr>minus-three-points-1.21</fr:addr><fr:route>minus-three-points-1.21.xml</fr:route><fr:number>1.21</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1034</fr:anchor><fr:addr>minus-three-points-1.21</fr:addr><fr:route>minus-three-points-1.21.xml</fr:route><fr:number>1.21</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>S</fr:tex> be smooth over <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
     Here is a provisional definition of smooth realisation systems over <fr:tex>S</fr:tex>, inspired by <fr:ref
 addr="minus-three-points-1.18"
@@ -140,7 +140,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>929</fr:anchor><fr:addr>minus-three-points-1.24</fr:addr><fr:route>minus-three-points-1.24.xml</fr:route><fr:number>1.24</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1032</fr:anchor><fr:addr>minus-three-points-1.24</fr:addr><fr:route>minus-three-points-1.24.xml</fr:route><fr:number>1.24</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     On a more general base <fr:tex>S</fr:tex>, a realisation system <fr:em>with integer coefficients</fr:em> is a realisation system <fr:tex>M \otimes \mathbb {Q}</fr:tex> endowed with a local system of torsion-free <fr:tex>\mathbb {Z}</fr:tex>-modules <fr:tex>M_ { \mathrm {B}} \subset (M \otimes \mathbb {Q} )_ { \mathrm {B}}</fr:tex> satisfying <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {Q} \xrightarrow { \sim } (M \otimes \mathbb {Q} )_ { \mathrm {B}}</fr:tex> (a "lattice") and such that the <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {Z} _ \ell</fr:tex> on <fr:tex>S( \mathbb {C} )</fr:tex> corresponds, under <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }</fr:tex>, to a smooth <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>M_ \ell \subset (M \otimes \mathbb {Q} )_ \ell</fr:tex> on <fr:tex>S[1/ \ell ]</fr:tex>.
   </fr:p><fr:p>
     This causes us to modify <fr:link
@@ -160,7 +160,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>474</fr:anchor><fr:addr>minus-three-points-mp1sz</fr:addr><fr:route>minus-three-points-mp1sz.xml</fr:route><fr:number>M'1SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M_ { \mathrm {B}} (C)</fr:tex> is a local system of free <fr:tex>\mathbb {Z}</fr:tex>-modules.
+root="false"><fr:frontmatter><fr:anchor>480</fr:anchor><fr:addr>minus-three-points-mp1sz</fr:addr><fr:route>minus-three-points-mp1sz.xml</fr:route><fr:number>M'1SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M_ { \mathrm {B}} (C)</fr:tex> is a local system of free <fr:tex>\mathbb {Z}</fr:tex>-modules.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -168,7 +168,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>475</fr:anchor><fr:addr>minus-three-points-mp3sz</fr:addr><fr:route>minus-three-points-mp3sz.xml</fr:route><fr:number>M'3SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>481</fr:anchor><fr:addr>minus-three-points-mp3sz</fr:addr><fr:route>minus-three-points-mp3sz.xml</fr:route><fr:number>M'3SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of a <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>M_ \ell</fr:tex> on <fr:tex>S[1/ \ell ]</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -177,7 +177,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>476</fr:anchor><fr:addr>minus-three-points-mp5sz</fr:addr><fr:route>minus-three-points-mp5sz.xml</fr:route><fr:number>M'5SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>482</fr:anchor><fr:addr>minus-three-points-mp5sz</fr:addr><fr:route>minus-three-points-mp5sz.xml</fr:route><fr:number>M'5SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Replace <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }</fr:tex> by isomorphisms <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }</fr:tex> from <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {Z} _ \ell</fr:tex> to the inverse image of <fr:tex>M_ \ell</fr:tex> on <fr:tex>S(C)</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -186,7 +186,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>930</fr:anchor><fr:addr>minus-three-points-mp6s</fr:addr><fr:route>minus-three-points-mp6s.xml</fr:route><fr:number>M'6S</fr:number><fr:parent>minus-three-points-1.21</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1033</fr:anchor><fr:addr>minus-three-points-mp6s</fr:addr><fr:route>minus-three-points-mp6s.xml</fr:route><fr:number>M'6S</fr:number><fr:parent>minus-three-points-1.21</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       A filtration <fr:tex>W</fr:tex> of the objects <fr:link
 href="minus-three-points-mp1s.xml"
 type="local"

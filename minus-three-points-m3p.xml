@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>874</fr:anchor><fr:addr>minus-three-points-m3p</fr:addr><fr:route>minus-three-points-m3p.xml</fr:route><fr:number>M3P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>977</fr:anchor><fr:addr>minus-three-points-m3p</fr:addr><fr:route>minus-three-points-m3p.xml</fr:route><fr:number>M3P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of <fr:tex>E_ \mathbb {A} ^ \mathrm {f}</fr:tex> is equivalent to that of a torsor <fr:tex>P_ \mathbb {A} ^ \mathrm {f}</fr:tex> for <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>873</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>976</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>M</fr:tex> be a realisation system <fr:ref
 addr="minus-three-points-1.9"
 href="minus-three-points-1.9.xml"
@@ -30,7 +30,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>524</fr:anchor><fr:addr>minus-three-points-m1p</fr:addr><fr:route>minus-three-points-m1p.xml</fr:route><fr:number>M1P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>E_ { \mathrm {B}}</fr:tex> is an extension <fr:tex>M_ { \mathrm {B}} \to  E_ { \mathrm {B}} \xrightarrow {u} \mathbb {Q}</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex> by <fr:tex>M_ { \mathrm {B}}</fr:tex>.
+root="false"><fr:frontmatter><fr:anchor>530</fr:anchor><fr:addr>minus-three-points-m1p</fr:addr><fr:route>minus-three-points-m1p.xml</fr:route><fr:number>M1P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>E_ { \mathrm {B}}</fr:tex> is an extension <fr:tex>M_ { \mathrm {B}} \to  E_ { \mathrm {B}} \xrightarrow {u} \mathbb {Q}</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex> by <fr:tex>M_ { \mathrm {B}}</fr:tex>.
       Its data is equivalent to that of <fr:tex>P_ { \mathrm {B}} \coloneqq  u^{-1}(1)</fr:tex>, endowed with its structure as a torsor (principal homogeneous space) for <fr:tex>M_ { \mathrm {B}}</fr:tex>, i.e. <fr:tex>m \in  M_ { \mathrm {B}}</fr:tex> acts on <fr:tex>P_ { \mathrm {B}}</fr:tex> via <fr:tex>p \mapsto  p+m</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -39,7 +39,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>525</fr:anchor><fr:addr>minus-three-points-m2p</fr:addr><fr:route>minus-three-points-m2p.xml</fr:route><fr:number>M2P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>531</fr:anchor><fr:addr>minus-three-points-m2p</fr:addr><fr:route>minus-three-points-m2p.xml</fr:route><fr:number>M2P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of <fr:tex>E_ { \mathrm {DR}}</fr:tex> is equivalent to that of a torsor <fr:tex>P_ { \mathrm {DR}}</fr:tex> for <fr:tex>M_ { \mathrm {DR}}</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -48,7 +48,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>526</fr:anchor><fr:addr>minus-three-points-m3p</fr:addr><fr:route>minus-three-points-m3p.xml</fr:route><fr:number>M3P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>532</fr:anchor><fr:addr>minus-three-points-m3p</fr:addr><fr:route>minus-three-points-m3p.xml</fr:route><fr:number>M3P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of <fr:tex>E_ \mathbb {A} ^ \mathrm {f}</fr:tex> is equivalent to that of a torsor <fr:tex>P_ \mathbb {A} ^ \mathrm {f}</fr:tex> for <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -57,7 +57,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>527</fr:anchor><fr:addr>minus-three-points-m4p</fr:addr><fr:route>minus-three-points-m4p.xml</fr:route><fr:number>M4P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>533</fr:anchor><fr:addr>minus-three-points-m4p</fr:addr><fr:route>minus-three-points-m4p.xml</fr:route><fr:number>M4P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of <fr:tex>E_ { { \mathrm {cris}} \, \, p}</fr:tex> is equivalent to that of a torsor <fr:tex>P_ { { \mathrm {cris}} \, \, p}</fr:tex> for <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -66,7 +66,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>528</fr:anchor><fr:addr>minus-three-points-m5p</fr:addr><fr:route>minus-three-points-m5p.xml</fr:route><fr:number>M5P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>534</fr:anchor><fr:addr>minus-three-points-m5p</fr:addr><fr:route>minus-three-points-m5p.xml</fr:route><fr:number>M5P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The comparison morphisms for <fr:tex>E</fr:tex> can be identified with comparison morphisms <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {C} \xrightarrow { \sim }  P_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>, <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f} \xrightarrow { \sim }  P_ \mathbb {A} ^ \mathrm {f}</fr:tex>, and <fr:tex>P_ { \mathrm {DR}} \otimes \mathbb {Q} _p \xrightarrow { \sim }  P_ { { \mathrm {cris}} \, \, p}</fr:tex> that are compatible with the analogous morphisms for <fr:tex>M</fr:tex>.
 
       <fr:tree
@@ -76,7 +76,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>386</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-m5p</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>\otimes</fr:tex>, see <fr:ref
+root="false"><fr:frontmatter><fr:anchor>392</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-m5p</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>\otimes</fr:tex>, see <fr:ref
 addr="minus-three-points-0.4"
 href="minus-three-points-0.4.xml"
 number="0.4"></fr:ref>.
@@ -87,7 +87,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>529</fr:anchor><fr:addr>minus-three-points-m6p</fr:addr><fr:route>minus-three-points-m6p.xml</fr:route><fr:number>M6P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>535</fr:anchor><fr:addr>minus-three-points-m6p</fr:addr><fr:route>minus-three-points-m6p.xml</fr:route><fr:number>M6P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Since <fr:tex>M</fr:tex> is, by hypothesis, of weight <fr:tex>\leqslant-1</fr:tex>, and <fr:tex>\mathbb {Q} (0)</fr:tex> is of pure weight <fr:tex>0</fr:tex>, the weight filtration of <fr:tex>E</fr:tex> is determined by that of <fr:tex>M</fr:tex>, i.e. <fr:tex>W_0(E)=E</fr:tex>, and <fr:tex>W_i(E)=W_i(E)</fr:tex> for <fr:tex>i&lt;0</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -96,7 +96,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>530</fr:anchor><fr:addr>minus-three-points-m7p</fr:addr><fr:route>minus-three-points-m7p.xml</fr:route><fr:number>M7P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>536</fr:anchor><fr:addr>minus-three-points-m7p</fr:addr><fr:route>minus-three-points-m7p.xml</fr:route><fr:number>M7P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of <fr:tex>F_ \infty</fr:tex> for <fr:tex>E</fr:tex> is equivalent to that of an involution of <fr:tex>P_ { \mathrm {B}}</fr:tex> that is compatible with that of <fr:tex>M_ { \mathrm {B}}</fr:tex>.
       Axiom <fr:link
 href="minus-three-points-am2.xml"
@@ -109,7 +109,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>531</fr:anchor><fr:addr>minus-three-points-m8p</fr:addr><fr:route>minus-three-points-m8p.xml</fr:route><fr:number>M8P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>537</fr:anchor><fr:addr>minus-three-points-m8p</fr:addr><fr:route>minus-three-points-m8p.xml</fr:route><fr:number>M8P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of the Hodge filtration of <fr:tex>E_ { \mathrm {DR}}</fr:tex> is equivalent to that of the intersection <fr:tex>F^0P_ { \mathrm {DR}}</fr:tex> of <fr:tex>F^0E_ { \mathrm {DR}}</fr:tex> over <fr:tex>P_ { \mathrm {DR}}</fr:tex>, which is a torsor for <fr:tex>F^0M_ { \mathrm {DR}}</fr:tex>: for <fr:tex>p&gt;0</fr:tex>, <fr:tex>F^pE_ { \mathrm {DR}} =F^pM_ { \mathrm {DR}}</fr:tex>; for <fr:tex>p=0</fr:tex>, <fr:tex>F^0E_ { \mathrm {DR}}</fr:tex> is generated by <fr:tex>F^0P_ { \mathrm {DR}}</fr:tex>; and for <fr:tex>p&lt;0</fr:tex>, <fr:tex>F^pE_ { \mathrm {DR}}</fr:tex> is the sum of <fr:tex>F^0E_ { \mathrm {DR}}</fr:tex> and <fr:tex>F^pM_ { \mathrm {DR}}</fr:tex>.
       In other words, the data <fr:link
 href="minus-three-points-m8.xml"
@@ -133,7 +133,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>532</fr:anchor><fr:addr>minus-three-points-m9p</fr:addr><fr:route>minus-three-points-m9p.xml</fr:route><fr:number>M9P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>538</fr:anchor><fr:addr>minus-three-points-m9p</fr:addr><fr:route>minus-three-points-m9p.xml</fr:route><fr:number>M9P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of the action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> on <fr:tex>E_ \mathbb {A} ^ \mathrm {f}</fr:tex> is equivalent to that of an action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> on <fr:tex>P_ \mathbb {A} ^ \mathrm {f}</fr:tex>, which makes <fr:tex>P_ \mathbb {A} ^ \mathrm {f}</fr:tex> an equivariant <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>-torsor.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -142,7 +142,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>533</fr:anchor><fr:addr>minus-three-points-m10p</fr:addr><fr:route>minus-three-points-m10p.xml</fr:route><fr:number>M10P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>539</fr:anchor><fr:addr>minus-three-points-m10p</fr:addr><fr:route>minus-three-points-m10p.xml</fr:route><fr:number>M10P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Similarly, the automorphism <fr:tex>\phi _p</fr:tex> of <fr:tex>E_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex> corresponds to an automorphism <fr:tex>\phi _p</fr:tex> of <fr:tex>P_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex> such that
       <fr:tex
 display="block">          \phi _p(x+m)         =  \phi _p(x) +  \phi _p(m).       </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:p>
