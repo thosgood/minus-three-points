@@ -7,17 +7,28 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>751</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>810</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
-addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
+addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+  The study of the fundamental group of <fr:tex>\mathbb {P} ^1 \setminus \{ 0,1, \infty \}</fr:tex> reveals, for each <fr:tex>k \geqslant2</fr:tex>, a torsor <fr:tex>P_{1,k}</fr:tex> for <fr:tex>\mathbb {Z} (k)</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Z} )</fr:tex>.
+  We will describe these torsors in this section.
+  The relation with <fr:tex>\pi _1</fr:tex> will be explained in [minus-three-points-16] (see [minus-three-points-16.23]) and the calculations to justify this will be given in [minus-three-points-19].
+  We will then describe the torsors <fr:tex>P_{d,k}</fr:tex> for <fr:tex>\mathbb {Z} (k)</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Q} ( \sqrt [d]{1}))</fr:tex>, given by an analogous construction ([minus-three-points-16.28]).
+</fr:p><fr:p>
+  The sum of the <fr:tex>P_{d,k}</fr:tex> and of <fr:tex>(-1)^k</fr:tex> times its symmetry under <fr:tex>\zeta \mapsto \zeta ^{-1}</fr:tex> is torsion.
+  This is essentially equivalent to the adelic integral formulas for the value of the Dirichlet <fr:tex>L</fr:tex> functions at negative integers: [minus-three-points-3.6], [minus-three-points-3.8], [minus-three-points-3.9], and [minus-three-points-3.14].
+  A geometric interpretation, which allows us to reprove these formulas, will be given in [minus-three-points-18].
+</fr:p><fr:p>
+  A geometric interpretation of the relations of distributions ([minus-three-points-3.13]) will be given in [minus-three-points-17].
+</fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>750</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>809</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -72,7 +83,7 @@ style="list-style-type: &quot;2. &quot;">
     <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link> ✓
   </html:li>
 
   
@@ -193,7 +204,7 @@ type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a 
 style="list-style-type: &quot;17. &quot;">
     <fr:link
 href="minus-three-points-17"
-type="external"><fr:strong></fr:strong></fr:link>
+type="external"><fr:strong>Distribution relations: geometric approach</fr:strong></fr:link>
   </html:li>
 
   
@@ -229,7 +240,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>748</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;
@@ -250,7 +261,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>749</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>808</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -305,7 +316,7 @@ style="list-style-type: &quot;2. &quot;">
     <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link> ✓
   </html:li>
 
   
@@ -426,7 +437,7 @@ type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a 
 style="list-style-type: &quot;17. &quot;">
     <fr:link
 href="minus-three-points-17"
-type="external"><fr:strong></fr:strong></fr:link>
+type="external"><fr:strong>Distribution relations: geometric approach</fr:strong></fr:link>
   </html:li>
 
   
@@ -462,7 +473,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>748</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;

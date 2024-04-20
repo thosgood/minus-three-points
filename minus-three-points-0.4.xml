@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>387</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>389</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>\otimes</fr:tex> an extension of scalars.
     For example, if <fr:tex>X</fr:tex> is a scheme over <fr:tex>k</fr:tex>, and <fr:tex>k'</fr:tex> is an extension of <fr:tex>k</fr:tex>, then we set
     <fr:tex
@@ -18,7 +18,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>386</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>388</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -193,4 +193,25 @@ addr="D2">D2</fr:link>, Section 3.2].
 href="D5.xml"
 type="local"
 addr="D5">D5</fr:link>].
-  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>387</fr:anchor><fr:addr>minus-three-points-m5p</fr:addr><fr:route>minus-three-points-m5p.xml</fr:route><fr:number>M5P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The comparison morphisms for <fr:tex>E</fr:tex> can be identified with comparison morphisms <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {C} \xrightarrow { \sim }  P_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>, <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f} \xrightarrow { \sim }  P_ \mathbb {A} ^ \mathrm {f}</fr:tex>, and <fr:tex>P_ { \mathrm {DR}} \otimes \mathbb {Q} _p \xrightarrow { \sim }  P_ { { \mathrm {cris}} \, \, p}</fr:tex> that are compatible with the analogous morphisms for <fr:tex>M</fr:tex>.
+
+      <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>386</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-m5p</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>\otimes</fr:tex>, see <fr:ref
+addr="minus-three-points-0.4"
+href="minus-three-points-0.4.xml"
+number="0.4"></fr:ref>.
+        </fr:p></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

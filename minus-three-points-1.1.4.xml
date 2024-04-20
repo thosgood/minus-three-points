@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>491</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>493</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell        \tag{1.1.4}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>490</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>492</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -155,7 +155,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>489</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>491</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     A scheme <fr:tex>X</fr:tex> of finite type over <fr:tex>\mathbb {Q}</fr:tex> should define, for each <fr:tex>i</fr:tex>, a motive <fr:tex>M \coloneqq   \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>.
     
     In this section, we will partially describe the system <fr:link

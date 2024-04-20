@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>392</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>394</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -54,7 +54,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>391</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>393</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -167,7 +167,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>390</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>392</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>

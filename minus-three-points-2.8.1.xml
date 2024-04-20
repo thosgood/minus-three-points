@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="default.xsl"?>
+<fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>779</fr:anchor><fr:addr>minus-three-points-2.8.1</fr:addr><fr:route>minus-three-points-2.8.1.xml</fr:route><fr:number>2.8.1</fr:number><fr:parent>minus-three-points-2.8</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+        For a local section <fr:tex>p</fr:tex> of <fr:tex>F^0P_ { \mathrm {DR}}</fr:tex>, <fr:tex>\nabla  p \in \Omega ^1 \otimes  F^{-1}(M_ { \mathrm {DR}} )</fr:tex>.
+      </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>778</fr:anchor><fr:addr>minus-three-points-2.8</fr:addr><fr:route>minus-three-points-2.8.xml</fr:route><fr:number>2.8</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    We leave to the reader the task of understanding the constructions with bases <fr:tex>S</fr:tex> more general than <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+    We note only that, in the de Rham realisation, <fr:tex>P_ { \mathrm {DR}}</fr:tex> is an <fr:tex>M_ { \mathrm {DR}}</fr:tex>-torsor on <fr:tex>S_ \mathbb {Q}</fr:tex>.
+    It is endowed with a restriction of the structure group <fr:tex>F^0P_ { \mathrm {DR}} \subset  P_ { \mathrm {DR}}</fr:tex> to <fr:tex>F^0M_ { \mathrm {DR}}</fr:tex>.
+    It is also endowed with an integrable connection <fr:tex>\nabla</fr:tex>.
+    Along each section <fr:tex>p</fr:tex> of <fr:tex>P_ { \mathrm {DR}}</fr:tex>, the vertical tangent space can be identified with <fr:tex>M_ { \mathrm {DR}}</fr:tex>;
+    the connection <fr:tex>\nabla</fr:tex> is thus a morphism
+    <fr:tex
+display="block">        \nabla \colon  P_ { \mathrm {DR}} \to \Omega ^1 \otimes  M_ { \mathrm {DR}} .     </fr:tex>
+    It satisfies <fr:tex>\nabla (p+m)= \nabla  p+ \nabla  m</fr:tex>.
+    Transversality becomes the following:
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>734</fr:anchor><fr:addr>minus-three-points-2.8.1</fr:addr><fr:route>minus-three-points-2.8.1.xml</fr:route><fr:number>2.8.1</fr:number><fr:parent>minus-three-points-2.8</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+        For a local section <fr:tex>p</fr:tex> of <fr:tex>F^0P_ { \mathrm {DR}}</fr:tex>, <fr:tex>\nabla  p \in \Omega ^1 \otimes  F^{-1}(M_ { \mathrm {DR}} )</fr:tex>.
+      </fr:p></fr:mainmatter></fr:tree></fr:p></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

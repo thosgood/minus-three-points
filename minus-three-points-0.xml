@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1049</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>1147</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -120,7 +120,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>1048</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>1146</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -175,7 +175,7 @@ style="list-style-type: &quot;2. &quot;">
     <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link> ✓
   </html:li>
 
   
@@ -296,7 +296,7 @@ type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a 
 style="list-style-type: &quot;17. &quot;">
     <fr:link
 href="minus-three-points-17"
-type="external"><fr:strong></fr:strong></fr:link>
+type="external"><fr:strong>Distribution relations: geometric approach</fr:strong></fr:link>
   </html:li>
 
   
@@ -332,7 +332,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>748</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;
@@ -353,7 +353,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>1047</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>1145</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -408,7 +408,7 @@ style="list-style-type: &quot;2. &quot;">
     <fr:link
 href="minus-three-points-2.xml"
 type="local"
-addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link>
+addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link> ✓
   </html:li>
 
   
@@ -529,7 +529,7 @@ type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a 
 style="list-style-type: &quot;17. &quot;">
     <fr:link
 href="minus-three-points-17"
-type="external"><fr:strong></fr:strong></fr:link>
+type="external"><fr:strong>Distribution relations: geometric approach</fr:strong></fr:link>
   </html:li>
 
   
@@ -565,7 +565,7 @@ numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>748</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
+root="false"><fr:frontmatter><fr:anchor>807</fr:anchor><fr:taxon>Leitfaden</fr:taxon><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="44b7303602dca5cee397811da222885d"><fr:embedded-tex-preamble>\usepackage {amsmath,tikz-cd}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzcd} 
     1  \ar [dd, no head] &amp; 4  \ar [d, no head] &amp; &amp; 9  \ar [d, no head] &amp;

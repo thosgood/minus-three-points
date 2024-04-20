@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>389</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>391</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Given an affine scheme <fr:tex>f \colon  X \to  S</fr:tex> over <fr:tex>S</fr:tex>, the quasi-coherent sheaf of algebras <fr:tex>f_* \mathcal {O} _X</fr:tex> will be called the <fr:em>affine algebra</fr:em> of <fr:tex>X/S</fr:tex>, or simply of <fr:tex>X</fr:tex>, and <fr:tex>X</fr:tex> will be called its <fr:em>spectrum</fr:em>.
   </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>388</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>390</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
