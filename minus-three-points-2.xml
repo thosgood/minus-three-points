@@ -6,7 +6,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>341</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
@@ -15,7 +16,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>318</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>340</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -42,42 +44,42 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="introduction.xml"
 type="local"
 addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 0.  &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;"><fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 1.  &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;"><fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 2.  &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;"><fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 3.  &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;"><fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="bibliography.xml"
 type="local"
 addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
@@ -103,7 +105,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>317</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>339</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -130,42 +133,42 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="introduction.xml"
 type="local"
 addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 0.  &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;"><fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 1.  &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;"><fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 2.  &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;"><fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 3.  &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;"><fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="bibliography.xml"
 type="local"
 addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>

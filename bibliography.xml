@@ -6,20 +6,23 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>304</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>bibliography</fr:addr><fr:route>bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>326</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>bibliography</fr:addr><fr:route>bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
   <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
 numbered="true"
 show-heading="false"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>303</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>325</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="false"><fr:frontmatter><fr:anchor>301</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>W1958</fr:addr><fr:route>W1958.xml</fr:route><fr:title>Introduction à L'Étude des Variétés Kählériennes</fr:title><fr:date><fr:year>1958</fr:year></fr:date><fr:authors><fr:author>A. Weil</fr:author></fr:authors><fr:meta
+expanded="false"
+root="false"><fr:frontmatter><fr:anchor>323</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>W1958</fr:addr><fr:route>W1958.xml</fr:route><fr:title>Introduction à L'Étude des Variétés Kählériennes</fr:title><fr:date><fr:year>1958</fr:year></fr:date><fr:authors><fr:author>A. Weil</fr:author></fr:authors><fr:meta
 name="venue">Hermann <fr:em>Act. Sci. et Ind.</fr:em> <fr:strong>1267</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{W1958,
   author = {Weil, A},
@@ -35,7 +38,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>300</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -62,42 +66,42 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="introduction.xml"
 type="local"
 addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 0.  &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;"><fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 1.  &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;"><fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 2.  &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;"><fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 3.  &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;"><fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="bibliography.xml"
 type="local"
 addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>

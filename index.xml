@@ -6,7 +6,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>338</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -33,42 +34,42 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="introduction.xml"
 type="local"
 addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 0.  &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;"><fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 1.  &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;"><fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 2.  &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;"><fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 3.  &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;"><fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="bibliography.xml"
 type="local"
 addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
@@ -94,7 +95,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>310</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>332</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -103,20 +105,23 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>311</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>bibliography</fr:addr><fr:route>bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>333</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>bibliography</fr:addr><fr:route>bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
   <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
 numbered="true"
 show-heading="false"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>303</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>325</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="false"><fr:frontmatter><fr:anchor>301</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>W1958</fr:addr><fr:route>W1958.xml</fr:route><fr:title>Introduction à L'Étude des Variétés Kählériennes</fr:title><fr:date><fr:year>1958</fr:year></fr:date><fr:authors><fr:author>A. Weil</fr:author></fr:authors><fr:meta
+expanded="false"
+root="false"><fr:frontmatter><fr:anchor>323</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>W1958</fr:addr><fr:route>W1958.xml</fr:route><fr:title>Introduction à L'Étude des Variétés Kählériennes</fr:title><fr:date><fr:year>1958</fr:year></fr:date><fr:authors><fr:author>A. Weil</fr:author></fr:authors><fr:meta
 name="venue">Hermann <fr:em>Act. Sci. et Ind.</fr:em> <fr:strong>1267</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{W1958,
   author = {Weil, A},
@@ -132,7 +137,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>334</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -141,7 +147,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>313</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>335</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -176,7 +183,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3 <fr:strong>(?)</fr:strong>].
     </fr:p></fr:mainmatter></fr:tree>
 
@@ -198,13 +206,13 @@ expanded="true"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:taxon>Notation</fr
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; i.  &quot;">
+style="list-style-type: &quot;i. &quot;">
       The category of realisation systems is endowed with a <fr:tex>\otimes</fr:tex> satisfying the usual properties: it is a Tannakian category over <fr:tex>\mathbb {Q}</fr:tex>.
     </html:li>
 
     
  <html:li
-style="list-style-type: &quot; ii.  &quot;">
+style="list-style-type: &quot;ii. &quot;">
       ii. Conjecturally, the category of motives is a full subcategory of the category of realisation systems.
     </html:li>
 
@@ -265,7 +273,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree>
 
   <fr:tree
@@ -274,7 +283,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       the Kummer <fr:tex>\mathbb {Z} (1)</fr:tex>-torsor, where <fr:tex>\mathbb {Z} (1)</fr:tex> is the Tate motive.
     </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
   In [minus-three-points-3 <fr:strong>(?)</fr:strong>] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
@@ -294,7 +304,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {tikz}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzpicture} 
        \node [label=below:{$b$}] at (0,0) {$ \bullet $};
@@ -318,13 +329,13 @@ hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {t
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; a.  &quot;">
+style="list-style-type: &quot;a. &quot;">
       giving a motivic meaning to <fr:tex>\pi _1(X,x)^{(N)}</fr:tex>, not only to its Lie algebra;
     </html:li>
 
     
  <html:li
-style="list-style-type: &quot; b.  &quot;">
+style="list-style-type: &quot;b. &quot;">
       giving a motivic meaning to the torsor (<fr:ref
 addr="minus-three-points-0.6"
 href="minus-three-points-0.6.xml"
@@ -333,7 +344,7 @@ number="0.6"></fr:ref>) of homotopy classes of paths from <fr:tex>b_1</fr:tex> t
 
     
  <html:li
-style="list-style-type: &quot; c.  &quot;">
+style="list-style-type: &quot;c. &quot;">
       in Figure 1 above, the "monodromy around <fr:tex>0</fr:tex>" loop is only unambiguously determined for <fr:tex>b</fr:tex> "close to <fr:tex>0</fr:tex>"; we must define what it means for a base point to be "close to <fr:tex>0</fr:tex>".
     </html:li>
 
@@ -407,7 +418,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>314</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>336</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Mixed motives</fr:title><fr:number>1</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -416,7 +428,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>277</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>285</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -455,7 +468,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.1}       </fr:tex></fr:mainmatter></fr:tree>
 
     <fr:tree
@@ -464,7 +478,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>273</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>281</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell .       \tag{1.1.2}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
     If <fr:tex>k</fr:tex> is a field of characteristic <fr:tex>0</fr:tex>, and <fr:tex>\sigma \colon  k \to \mathbb {C}</fr:tex> a complex embedding, with <fr:tex>\bar {k}</fr:tex> the algebraic closure of <fr:tex>k</fr:tex> in <fr:tex>\mathbb {C}</fr:tex> via <fr:tex>\sigma</fr:tex>, then we obtain the isomorphisms
 
@@ -474,7 +489,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k, \sigma } \mathbb {C}          =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.3}       </fr:tex></fr:mainmatter></fr:tree>
 
     <fr:tree
@@ -483,7 +499,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>275</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>283</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell        \tag{1.1.4}       </fr:tex></fr:mainmatter></fr:tree>
 
     where <fr:tex>X( \mathbb {C} )</fr:tex> is the topological space of points of the complex algebraic variety given by the extension of scalars via <fr:tex>\sigma</fr:tex> of <fr:tex>X</fr:tex>.
@@ -506,7 +523,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
     
     
@@ -526,13 +544,81 @@ display="block">        \operatorname {H} _ { \mathrm {DR}} ^i(X)       =  \oper
   </fr:p><fr:p>
     The subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> <fr:em>generated</fr:em> by a set <fr:tex>\mathcal {M}</fr:tex> of motives is defined to be the smallest full subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> containing <fr:tex>\mathcal {M}</fr:tex> that is stable under <fr:tex>\oplus</fr:tex>, <fr:tex>\otimes</fr:tex>, taking the dual, and sub-quotients.
     If we only consider certain algebraic varieties <fr:tex>X</fr:tex> over <fr:tex>k</fr:tex>, then it can be useful to consider, instead of <fr:tex>\mathcal {M}(k)</fr:tex>, the subcategory generated by the <fr:tex>\operatorname {H} ^i(X)</fr:tex>.
-  </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>286</fr:anchor><fr:addr>minus-three-points-1.2</fr:addr><fr:route>minus-three-points-1.2.xml</fr:route><fr:number>1.2</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    If we only consider smooth and projective varieties over a field <fr:tex>k</fr:tex>, and we assume the "standard" conjectures on algebraic cycles, then Grothendieck has shown how to define the category of motives generated by the <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> (cf. [@Kl; @Man]);
+    it is a semi-simple abelian category.
+  </fr:p><fr:p>
+    If we do not restrict ourselves to the category generated by the <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> for <fr:tex>X</fr:tex> smooth and projective over <fr:tex>k</fr:tex>, then we no longer have even a conjectural definition of what the category of motives over <fr:tex>k</fr:tex> should be.
+    However, the philosophy of motives is not made any less useful by this fact:
+    it organises known facts, poses questions, and suggests precise conjectures.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr>minus-three-points-1.3</fr:addr><fr:route>minus-three-points-1.3.xml</fr:route><fr:number>1.3</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    In each of the known theories, the <fr:tex>\operatorname {H} ^i(X)</fr:tex> are endowed with an increasing filtration <fr:tex>W</fr:tex>, known as the <fr:em>weight filtration</fr:em> [@D5], as well as comparison isomorphisms such that <fr:ref
+addr="minus-three-points-1.1.1"
+href="minus-three-points-1.1.1.xml"
+taxon="Equation"
+number="1.1.1"></fr:ref> and <fr:ref
+addr="minus-three-points-1.1.2"
+href="minus-three-points-1.1.2.xml"
+taxon="Equation"
+number="1.1.2"></fr:ref> are compatible with <fr:tex>W</fr:tex>.
+    Furthermore, every natural map is strictly compatible with <fr:tex>W</fr:tex>.
+    From this, we get a new requirement for the category of motives:
+    every motive is endowed with a weight filtration <fr:tex>W</fr:tex>, compatible with the tensor product, and strictly compatible with every morphism <fr:tex>f \colon  M \to  N</fr:tex>, i.e.
+    <fr:tex
+display="block">       f(M) \cap  W_i(N)       = f(W_i(M)).     </fr:tex></fr:p><fr:p>
+    We say that a motive <fr:tex>M</fr:tex> is <fr:em>pure of weight <fr:tex>i</fr:tex></fr:em> if <fr:tex>W_i(M)=M</fr:tex> and <fr:tex>W_{i-1}(M)=0</fr:tex>.
+    For <fr:tex>X</fr:tex> smooth and projective, <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> is pure of weight <fr:tex>i</fr:tex>.
+    We want for the <fr:tex>\otimes</fr:tex>-category generated by the <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, for <fr:tex>X</fr:tex> smooth and projective over <fr:tex>k</fr:tex>, to be the sum of pure motives.
+    In terms of pure motives, the properties of <fr:tex>W</fr:tex> can be written as follows:
+    every motive is the iterated extension of pure motives, and, for <fr:tex>M</fr:tex> and <fr:tex>N</fr:tex> pure of weights <fr:tex>m</fr:tex> and <fr:tex>n</fr:tex> (respectively),
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        <fr:tex>M \otimes  N</fr:tex> is pure of weight <fr:tex>m+n</fr:tex>;
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        for <fr:tex>m \neq  n</fr:tex>, <fr:tex>\operatorname {Hom} (M,N)=0</fr:tex>; and
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        for <fr:tex>m \leqslant  n</fr:tex>, <fr:tex>\operatorname {Ext} ^1(M,N)=0</fr:tex>.
+      </html:li>
+
+    </html:ol>
+
+
+    Often, pure motives (or direct sums of pure motives) are simply called <fr:em>motives</fr:em>, and their category admits the conjectural description [@Kl; @Man];
+    the more general motives, considered here, are then called <fr:em>mixed motives</fr:em></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>315</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>337</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -541,7 +627,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote inductive limits and projective limits by <fr:tex>\operatorname {lim \, ind}</fr:tex> and <fr:tex>\operatorname {lim \, proj}</fr:tex>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -549,7 +636,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>minus-three-points-0.2</fr:addr><fr:route>minus-three-points-0.2.xml</fr:route><fr:number>0.2</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>250</fr:anchor><fr:addr>minus-three-points-0.2</fr:addr><fr:route>minus-three-points-0.2.xml</fr:route><fr:number>0.2</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For a prime number <fr:tex>\ell</fr:tex>, we denote by <fr:tex>\mathbb {Z} _ \ell</fr:tex> and <fr:tex>\mathbb {Q} _ \ell</fr:tex> the completions of <fr:tex>\mathbb {Z}</fr:tex> and <fr:tex>\mathbb {Q}</fr:tex> for the <fr:tex>\ell</fr:tex>-adic topology:
     <fr:tex
 display="block">        \begin {aligned}          \mathbb {Z} _ \ell  &amp;=  \operatorname {lim \, proj}   \mathbb {Z} {/} \ell ^n \mathbb {Z} ,        \\ \mathbb {Q} _ \ell  &amp;=  \mathbb {Z} _ \ell \otimes \mathbb {Q} .        \end {aligned}     </fr:tex>
@@ -563,7 +651,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>minus-three-points-0.3</fr:addr><fr:route>minus-three-points-0.3.xml</fr:route><fr:number>0.3</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>251</fr:anchor><fr:addr>minus-three-points-0.3</fr:addr><fr:route>minus-three-points-0.3.xml</fr:route><fr:number>0.3</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For an abstract group, algebraic group, profinite group, or Lie algebra <fr:tex>A</fr:tex>, we denote by <fr:tex>Z^i(A)</fr:tex> the descending central series.
     We use the numbering for which <fr:tex>A=Z^1(A)</fr:tex>.
     We denote by <fr:tex>A^{(N)}</fr:tex> the quotient of <fr:tex>A</fr:tex> by <fr:tex>Z^{N+1}(A)</fr:tex>.
@@ -574,7 +663,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>252</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>\otimes</fr:tex> an extension of scalars.
     For example, if <fr:tex>X</fr:tex> is a scheme over <fr:tex>k</fr:tex>, and <fr:tex>k'</fr:tex> is an extension of <fr:tex>k</fr:tex>, then we set
     <fr:tex
@@ -584,7 +674,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>253</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Given an affine scheme <fr:tex>f \colon  X \to  S</fr:tex> over <fr:tex>S</fr:tex>, the quasi-coherent sheaf of algebras <fr:tex>f_* \mathcal {O} _X</fr:tex> will be called the <fr:em>affine algebra</fr:em> of <fr:tex>X/S</fr:tex>, or simply of <fr:tex>X</fr:tex>, and <fr:tex>X</fr:tex> will be called its <fr:em>spectrum</fr:em>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -592,7 +683,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -610,7 +702,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
         We will write <fr:tex>{}_HP_G</fr:tex> to mean that <fr:tex>P</fr:tex> is an <fr:tex>(H,G)</fr:tex>-bitorsor.
       </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
     We will use the following operations on torsors and bitorsors.
@@ -637,7 +730,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>305</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>327</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -646,7 +740,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>328</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -655,7 +750,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>307</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>329</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -690,7 +786,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3 <fr:strong>(?)</fr:strong>].
     </fr:p></fr:mainmatter></fr:tree>
 
@@ -712,13 +809,13 @@ expanded="true"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:taxon>Notation</fr
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; i.  &quot;">
+style="list-style-type: &quot;i. &quot;">
       The category of realisation systems is endowed with a <fr:tex>\otimes</fr:tex> satisfying the usual properties: it is a Tannakian category over <fr:tex>\mathbb {Q}</fr:tex>.
     </html:li>
 
     
  <html:li
-style="list-style-type: &quot; ii.  &quot;">
+style="list-style-type: &quot;ii. &quot;">
       ii. Conjecturally, the category of motives is a full subcategory of the category of realisation systems.
     </html:li>
 
@@ -779,7 +876,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree>
 
   <fr:tree
@@ -788,7 +886,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       the Kummer <fr:tex>\mathbb {Z} (1)</fr:tex>-torsor, where <fr:tex>\mathbb {Z} (1)</fr:tex> is the Tate motive.
     </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
   In [minus-three-points-3 <fr:strong>(?)</fr:strong>] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
@@ -808,7 +907,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {tikz}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzpicture} 
        \node [label=below:{$b$}] at (0,0) {$ \bullet $};
@@ -832,13 +932,13 @@ hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {t
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; a.  &quot;">
+style="list-style-type: &quot;a. &quot;">
       giving a motivic meaning to <fr:tex>\pi _1(X,x)^{(N)}</fr:tex>, not only to its Lie algebra;
     </html:li>
 
     
  <html:li
-style="list-style-type: &quot; b.  &quot;">
+style="list-style-type: &quot;b. &quot;">
       giving a motivic meaning to the torsor (<fr:ref
 addr="minus-three-points-0.6"
 href="minus-three-points-0.6.xml"
@@ -847,7 +947,7 @@ number="0.6"></fr:ref>) of homotopy classes of paths from <fr:tex>b_1</fr:tex> t
 
     
  <html:li
-style="list-style-type: &quot; c.  &quot;">
+style="list-style-type: &quot;c. &quot;">
       in Figure 1 above, the "monodromy around <fr:tex>0</fr:tex>" loop is only unambiguously determined for <fr:tex>b</fr:tex> "close to <fr:tex>0</fr:tex>"; we must define what it means for a base point to be "close to <fr:tex>0</fr:tex>".
     </html:li>
 
@@ -921,7 +1021,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>308</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>330</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Mixed motives</fr:title><fr:number>1</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -930,7 +1031,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>277</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>285</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -969,7 +1071,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>280</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.1}       </fr:tex></fr:mainmatter></fr:tree>
 
     <fr:tree
@@ -978,7 +1081,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>273</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>281</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell .       \tag{1.1.2}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
     If <fr:tex>k</fr:tex> is a field of characteristic <fr:tex>0</fr:tex>, and <fr:tex>\sigma \colon  k \to \mathbb {C}</fr:tex> a complex embedding, with <fr:tex>\bar {k}</fr:tex> the algebraic closure of <fr:tex>k</fr:tex> in <fr:tex>\mathbb {C}</fr:tex> via <fr:tex>\sigma</fr:tex>, then we obtain the isomorphisms
 
@@ -988,7 +1092,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>274</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k, \sigma } \mathbb {C}          =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.3}       </fr:tex></fr:mainmatter></fr:tree>
 
     <fr:tree
@@ -997,7 +1102,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>275</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>283</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell        \tag{1.1.4}       </fr:tex></fr:mainmatter></fr:tree>
 
     where <fr:tex>X( \mathbb {C} )</fr:tex> is the topological space of points of the complex algebraic variety given by the extension of scalars via <fr:tex>\sigma</fr:tex> of <fr:tex>X</fr:tex>.
@@ -1020,7 +1126,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>276</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
     
     
@@ -1040,13 +1147,81 @@ display="block">        \operatorname {H} _ { \mathrm {DR}} ^i(X)       =  \oper
   </fr:p><fr:p>
     The subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> <fr:em>generated</fr:em> by a set <fr:tex>\mathcal {M}</fr:tex> of motives is defined to be the smallest full subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> containing <fr:tex>\mathcal {M}</fr:tex> that is stable under <fr:tex>\oplus</fr:tex>, <fr:tex>\otimes</fr:tex>, taking the dual, and sub-quotients.
     If we only consider certain algebraic varieties <fr:tex>X</fr:tex> over <fr:tex>k</fr:tex>, then it can be useful to consider, instead of <fr:tex>\mathcal {M}(k)</fr:tex>, the subcategory generated by the <fr:tex>\operatorname {H} ^i(X)</fr:tex>.
-  </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>286</fr:anchor><fr:addr>minus-three-points-1.2</fr:addr><fr:route>minus-three-points-1.2.xml</fr:route><fr:number>1.2</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    If we only consider smooth and projective varieties over a field <fr:tex>k</fr:tex>, and we assume the "standard" conjectures on algebraic cycles, then Grothendieck has shown how to define the category of motives generated by the <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> (cf. [@Kl; @Man]);
+    it is a semi-simple abelian category.
+  </fr:p><fr:p>
+    If we do not restrict ourselves to the category generated by the <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> for <fr:tex>X</fr:tex> smooth and projective over <fr:tex>k</fr:tex>, then we no longer have even a conjectural definition of what the category of motives over <fr:tex>k</fr:tex> should be.
+    However, the philosophy of motives is not made any less useful by this fact:
+    it organises known facts, poses questions, and suggests precise conjectures.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr>minus-three-points-1.3</fr:addr><fr:route>minus-three-points-1.3.xml</fr:route><fr:number>1.3</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    In each of the known theories, the <fr:tex>\operatorname {H} ^i(X)</fr:tex> are endowed with an increasing filtration <fr:tex>W</fr:tex>, known as the <fr:em>weight filtration</fr:em> [@D5], as well as comparison isomorphisms such that <fr:ref
+addr="minus-three-points-1.1.1"
+href="minus-three-points-1.1.1.xml"
+taxon="Equation"
+number="1.1.1"></fr:ref> and <fr:ref
+addr="minus-three-points-1.1.2"
+href="minus-three-points-1.1.2.xml"
+taxon="Equation"
+number="1.1.2"></fr:ref> are compatible with <fr:tex>W</fr:tex>.
+    Furthermore, every natural map is strictly compatible with <fr:tex>W</fr:tex>.
+    From this, we get a new requirement for the category of motives:
+    every motive is endowed with a weight filtration <fr:tex>W</fr:tex>, compatible with the tensor product, and strictly compatible with every morphism <fr:tex>f \colon  M \to  N</fr:tex>, i.e.
+    <fr:tex
+display="block">       f(M) \cap  W_i(N)       = f(W_i(M)).     </fr:tex></fr:p><fr:p>
+    We say that a motive <fr:tex>M</fr:tex> is <fr:em>pure of weight <fr:tex>i</fr:tex></fr:em> if <fr:tex>W_i(M)=M</fr:tex> and <fr:tex>W_{i-1}(M)=0</fr:tex>.
+    For <fr:tex>X</fr:tex> smooth and projective, <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> is pure of weight <fr:tex>i</fr:tex>.
+    We want for the <fr:tex>\otimes</fr:tex>-category generated by the <fr:tex>\operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, for <fr:tex>X</fr:tex> smooth and projective over <fr:tex>k</fr:tex>, to be the sum of pure motives.
+    In terms of pure motives, the properties of <fr:tex>W</fr:tex> can be written as follows:
+    every motive is the iterated extension of pure motives, and, for <fr:tex>M</fr:tex> and <fr:tex>N</fr:tex> pure of weights <fr:tex>m</fr:tex> and <fr:tex>n</fr:tex> (respectively),
+
+    
+ <html:ol
+xmlns:html="http://www.w3.org/1999/xhtml">
+      
+ <html:li
+style="list-style-type: &quot;a. &quot;">
+        <fr:tex>M \otimes  N</fr:tex> is pure of weight <fr:tex>m+n</fr:tex>;
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;b. &quot;">
+        for <fr:tex>m \neq  n</fr:tex>, <fr:tex>\operatorname {Hom} (M,N)=0</fr:tex>; and
+      </html:li>
+
+      
+ <html:li
+style="list-style-type: &quot;c. &quot;">
+        for <fr:tex>m \leqslant  n</fr:tex>, <fr:tex>\operatorname {Ext} ^1(M,N)=0</fr:tex>.
+      </html:li>
+
+    </html:ol>
+
+
+    Often, pure motives (or direct sums of pure motives) are simply called <fr:em>motives</fr:em>, and their category admits the conjectural description [@Kl; @Man];
+    the more general motives, considered here, are then called <fr:em>mixed motives</fr:em></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>309</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>331</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -1055,7 +1230,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>241</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote inductive limits and projective limits by <fr:tex>\operatorname {lim \, ind}</fr:tex> and <fr:tex>\operatorname {lim \, proj}</fr:tex>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -1063,7 +1239,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>242</fr:anchor><fr:addr>minus-three-points-0.2</fr:addr><fr:route>minus-three-points-0.2.xml</fr:route><fr:number>0.2</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>250</fr:anchor><fr:addr>minus-three-points-0.2</fr:addr><fr:route>minus-three-points-0.2.xml</fr:route><fr:number>0.2</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For a prime number <fr:tex>\ell</fr:tex>, we denote by <fr:tex>\mathbb {Z} _ \ell</fr:tex> and <fr:tex>\mathbb {Q} _ \ell</fr:tex> the completions of <fr:tex>\mathbb {Z}</fr:tex> and <fr:tex>\mathbb {Q}</fr:tex> for the <fr:tex>\ell</fr:tex>-adic topology:
     <fr:tex
 display="block">        \begin {aligned}          \mathbb {Z} _ \ell  &amp;=  \operatorname {lim \, proj}   \mathbb {Z} {/} \ell ^n \mathbb {Z} ,        \\ \mathbb {Q} _ \ell  &amp;=  \mathbb {Z} _ \ell \otimes \mathbb {Q} .        \end {aligned}     </fr:tex>
@@ -1077,7 +1254,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>243</fr:anchor><fr:addr>minus-three-points-0.3</fr:addr><fr:route>minus-three-points-0.3.xml</fr:route><fr:number>0.3</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>251</fr:anchor><fr:addr>minus-three-points-0.3</fr:addr><fr:route>minus-three-points-0.3.xml</fr:route><fr:number>0.3</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For an abstract group, algebraic group, profinite group, or Lie algebra <fr:tex>A</fr:tex>, we denote by <fr:tex>Z^i(A)</fr:tex> the descending central series.
     We use the numbering for which <fr:tex>A=Z^1(A)</fr:tex>.
     We denote by <fr:tex>A^{(N)}</fr:tex> the quotient of <fr:tex>A</fr:tex> by <fr:tex>Z^{N+1}(A)</fr:tex>.
@@ -1088,7 +1266,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>244</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>252</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>\otimes</fr:tex> an extension of scalars.
     For example, if <fr:tex>X</fr:tex> is a scheme over <fr:tex>k</fr:tex>, and <fr:tex>k'</fr:tex> is an extension of <fr:tex>k</fr:tex>, then we set
     <fr:tex
@@ -1098,7 +1277,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>253</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Given an affine scheme <fr:tex>f \colon  X \to  S</fr:tex> over <fr:tex>S</fr:tex>, the quasi-coherent sheaf of algebras <fr:tex>f_* \mathcal {O} _X</fr:tex> will be called the <fr:em>affine algebra</fr:em> of <fr:tex>X/S</fr:tex>, or simply of <fr:tex>X</fr:tex>, and <fr:tex>X</fr:tex> will be called its <fr:em>spectrum</fr:em>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -1106,7 +1286,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -1124,7 +1305,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
         We will write <fr:tex>{}_HP_G</fr:tex> to mean that <fr:tex>P</fr:tex> is an <fr:tex>(H,G)</fr:tex>-bitorsor.
       </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
     We will use the following operations on torsors and bitorsors.

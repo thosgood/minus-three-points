@@ -6,7 +6,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>323</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>345</fr:anchor><fr:addr>introduction</fr:addr><fr:route>introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -41,7 +42,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>266</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       For <fr:tex>\Gamma</fr:tex> a finitely generated group, let <fr:tex>Z^i \Gamma</fr:tex> be the decreasing central series, let <fr:tex>\Gamma ^{(N)}= \Gamma {/}Z^{N+1} \Gamma</fr:tex>, and let <fr:tex>\Gamma ^{[N]}= \Gamma ^{(N)}/ \mathrm {torsion}</fr:tex> [minus-three-points-9.3 <fr:strong>(?)</fr:strong>].
     </fr:p></fr:mainmatter></fr:tree>
 
@@ -63,13 +65,13 @@ expanded="true"><fr:frontmatter><fr:anchor>258</fr:anchor><fr:taxon>Notation</fr
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; i.  &quot;">
+style="list-style-type: &quot;i. &quot;">
       The category of realisation systems is endowed with a <fr:tex>\otimes</fr:tex> satisfying the usual properties: it is a Tannakian category over <fr:tex>\mathbb {Q}</fr:tex>.
     </html:li>
 
     
  <html:li
-style="list-style-type: &quot; ii.  &quot;">
+style="list-style-type: &quot;ii. &quot;">
       ii. Conjecturally, the category of motives is a full subcategory of the category of realisation systems.
     </html:li>
 
@@ -130,7 +132,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>262</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>270</fr:anchor><fr:taxon>Terminology</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M</fr:tex>-torsor, or torsor under <fr:tex>M</fr:tex>.
     </fr:p></fr:mainmatter></fr:tree>
 
   <fr:tree
@@ -139,7 +142,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>263</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>271</fr:anchor><fr:taxon>Example</fr:taxon><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       the Kummer <fr:tex>\mathbb {Z} (1)</fr:tex>-torsor, where <fr:tex>\mathbb {Z} (1)</fr:tex> is the Tate motive.
     </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
   In [minus-three-points-3 <fr:strong>(?)</fr:strong>] we describe certain remarkable torsors, which can be said to be cyclotomic, for the Tate motive <fr:tex>\mathbb {Z} (k)</fr:tex>.
@@ -159,7 +163,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>264</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>272</fr:anchor><fr:taxon>Figure</fr:taxon><fr:number>1</fr:number><fr:parent>introduction</fr:parent></fr:frontmatter><fr:mainmatter>
   <fr:embedded-tex
 hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {tikz}</fr:embedded-tex-preamble><fr:embedded-tex-body>\begin {tikzpicture} 
        \node [label=below:{$b$}] at (0,0) {$ \bullet $};
@@ -183,13 +188,13 @@ hash="ed735291b9640a90622c0ca55f8b1da5"><fr:embedded-tex-preamble>\usepackage {t
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot; a.  &quot;">
+style="list-style-type: &quot;a. &quot;">
       giving a motivic meaning to <fr:tex>\pi _1(X,x)^{(N)}</fr:tex>, not only to its Lie algebra;
     </html:li>
 
     
  <html:li
-style="list-style-type: &quot; b.  &quot;">
+style="list-style-type: &quot;b. &quot;">
       giving a motivic meaning to the torsor (<fr:ref
 addr="minus-three-points-0.6"
 href="minus-three-points-0.6.xml"
@@ -198,7 +203,7 @@ number="0.6"></fr:ref>) of homotopy classes of paths from <fr:tex>b_1</fr:tex> t
 
     
  <html:li
-style="list-style-type: &quot; c.  &quot;">
+style="list-style-type: &quot;c. &quot;">
       in Figure 1 above, the "monodromy around <fr:tex>0</fr:tex>" loop is only unambiguously determined for <fr:tex>b</fr:tex> "close to <fr:tex>0</fr:tex>"; we must define what it means for a base point to be "close to <fr:tex>0</fr:tex>".
     </html:li>
 
@@ -272,7 +277,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>321</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>343</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -290,7 +296,8 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
         We will write <fr:tex>{}_HP_G</fr:tex> to mean that <fr:tex>P</fr:tex> is an <fr:tex>(H,G)</fr:tex>-bitorsor.
       </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
     We will use the following operations on torsors and bitorsors.
@@ -317,7 +324,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>344</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -344,42 +352,42 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="introduction.xml"
 type="local"
 addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 0.  &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;"><fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 1.  &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;"><fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 2.  &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;"><fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 3.  &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;"><fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="bibliography.xml"
 type="local"
 addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
@@ -405,7 +413,8 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>320</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"
+root="true"><fr:frontmatter><fr:anchor>342</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -432,42 +441,42 @@ type="external">GitHub repository</fr:link>.
 xmlns:html="http://www.w3.org/1999/xhtml">
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="introduction.xml"
 type="local"
 addr="introduction"><fr:strong>Introduction</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 0.  &quot;"><fr:link
+style="list-style-type: &quot;0. &quot;"><fr:link
 href="minus-three-points-0.xml"
 type="local"
 addr="minus-three-points-0"><fr:strong>Terminology and notation</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 1.  &quot;"><fr:link
+style="list-style-type: &quot;1. &quot;"><fr:link
 href="minus-three-points-1.xml"
 type="local"
 addr="minus-three-points-1"><fr:strong>Mixed motives</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 2.  &quot;"><fr:link
+style="list-style-type: &quot;2. &quot;"><fr:link
 href="minus-three-points-2.xml"
 type="local"
 addr="minus-three-points-2"><fr:strong>Examples</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot; 3.  &quot;"><fr:link
+style="list-style-type: &quot;3. &quot;"><fr:link
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link></html:li>
 
     
  <html:li
-style="list-style-type: &quot;  &quot;"><fr:link
+style="list-style-type: &quot; &quot;"><fr:link
 href="bibliography.xml"
 type="local"
 addr="bibliography"><fr:strong>Bibliography</fr:strong></fr:link></html:li>
