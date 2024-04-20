@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Proc. 1st JAMI-conference</fr:em> pp. 25–81</fr:meta><fr:meta
 name="bibtex">@article{Fa,
   author = {Faltings, G.},
@@ -15,4 +15,107 @@ name="bibtex">@article{Fa,
   year = {1998},
   journal = {Proc. 1st JAMI-conference},
   pages = {25--81}
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    A scheme <fr:tex>X</fr:tex> of finite type over <fr:tex>\mathbb {Q}</fr:tex> should define, for each <fr:tex>i</fr:tex>, a motive <fr:tex>M \coloneqq   \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>.
+    
+    In this section, we will partially describe the system <fr:link
+href="minus-three-points-1.4.xml"
+type="local"
+addr="minus-three-points-1.4">(M1)–(M10)</fr:link> of realisations of <fr:tex>M</fr:tex> in the case where <fr:tex>X</fr:tex> is separated and smooth over <fr:tex>\mathbb {Q}</fr:tex>.
+  </fr:p><fr:p>
+    We have <fr:tex>M_ { \mathrm {B}} = \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} )</fr:tex>, and <fr:tex>F_ \infty</fr:tex> is induced by the complex conjugation of <fr:tex>X( \mathbb {C} )</fr:tex>;
+    <fr:tex>M_ { \mathrm {DR}} = \operatorname {H} _ { \mathrm {DR}} ^i(X) \coloneqq \mathbb {H} ^i(X, \Omega _X^ \bullet )</fr:tex>, and the Hodge filtration that that of the mixed Hodge theory [<fr:link
+href="D2.xml"
+type="local"
+addr="D2">D2</fr:link>, Section 3.2];
+    <fr:tex>M_ \ell = \operatorname {H} ^i(X \otimes \bar { \mathbb {Q} }, \mathbb {Q} _ \ell )</fr:tex> is the <fr:tex>\ell</fr:tex>-adic étale cohomology of the scheme over <fr:tex>\bar { \mathbb {Q} }</fr:tex> induced from <fr:tex>X</fr:tex> by extension of scalars, and the action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }, \mathbb {Q} )</fr:tex> is given by structure transport.
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-1.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>X \otimes \bar { \mathbb {Q} }</fr:tex>, cf. <fr:ref
+addr="minus-three-points-0.4"
+href="minus-three-points-0.4.xml"
+number="0.4"></fr:ref>.
+      </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
+    Suppose that <fr:tex>X</fr:tex> is smooth and proper, and let <fr:tex>S</fr:tex> be a finite set of prime numbers such that <fr:tex>X</fr:tex> is the general fibre of <fr:tex>X^ \sim</fr:tex>, which is smooth and proper over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  S</fr:tex>.
+    For <fr:tex>p \not \in  S</fr:tex>, <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex> is the crystalline cohomology of the reduction <fr:tex>X^ \sim \otimes \mathbb {F} _p</fr:tex> of <fr:tex>X</fr:tex> modulo <fr:tex>p</fr:tex>, tensored over <fr:tex>\mathbb {Z} _p</fr:tex> with <fr:tex>\mathbb {Q} _p</fr:tex>.
+    The crystalline Frobenius <fr:tex>\phi _p</fr:tex> is induced by the inverse image morphism of the Frobenius <fr:tex>\operatorname {Fr} \colon  X^ \sim \otimes \mathbb {F} _p \to  X^ \sim \otimes \mathbb {F} _p</fr:tex>.
+  </fr:p><fr:p>
+    More generally, suppose that we have some smooth and proper <fr:tex>\overline {X}</fr:tex> over <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  S</fr:tex>, as well as a relative normal crossing divisor <fr:tex>D</fr:tex>;
+    let <fr:tex>X</fr:tex> be the general fibre of <fr:tex>\overline {X} \setminus  D</fr:tex>.
+    Then the realisation <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex> is defined for <fr:tex>p \not \in  S</fr:tex>;
+    its most natural definition is given by the generalisation of the crystalline theory, considered by Faltings in [<fr:link
+href="Fa.xml"
+type="local"
+addr="Fa">Fa</fr:link>, IV], to the "logarithmic poles" case.
+  </fr:p><fr:p>
+    The comparison isomorphism <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }</fr:tex> is <fr:ref
+addr="minus-three-points-1.1.3"
+href="minus-three-points-1.1.3.xml"
+taxon="Equation"
+number="1.1.3"></fr:ref>, and the comparison isomorphism <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }</fr:tex> is <fr:ref
+addr="minus-three-points-1.1.4"
+href="minus-three-points-1.1.4.xml"
+taxon="Equation"
+number="1.1.4"></fr:ref>.
+  </fr:p><fr:p>
+    In the smooth and proper case, the comparison isomorphism <fr:tex>\operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }</fr:tex> comes from §7.26 of [P. Berthelot and A. Ogus, <fr:em>Notes on crystalline cohomology</fr:em>, Princeton University Press and Tokyo University Press, 1978].
+    For the general case, see [<fr:link
+href="Fa.xml"
+type="local"
+addr="Fa">Fa</fr:link>, IV].
+    Finally, the weight filtration <fr:tex>W</fr:tex> is that of the mixed Hodge theory from [<fr:link
+href="D2.xml"
+type="local"
+addr="D2">D2</fr:link>, Section 3.2].
+    See also [<fr:link
+href="D5.xml"
+type="local"
+addr="D5">D5</fr:link>].
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:addr>minus-three-points-1.7</fr:addr><fr:route>minus-three-points-1.7.xml</fr:route><fr:number>1.7</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    An additional data that we have on the cohomology <fr:tex>M \coloneqq \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> when <fr:tex>X</fr:tex> is smooth over <fr:tex>\mathbb {Q}</fr:tex> is that of a comparison isomorphism, for almost all <fr:tex>p</fr:tex>, in the sense of Fontaine–Messing (cf. [<fr:link
+href="FM.xml"
+type="local"
+addr="FM">FM</fr:link>; <fr:link
+href="Fa.xml"
+type="local"
+addr="Fa">Fa</fr:link>]), relating <fr:tex>M_p</fr:tex>, endowed with the action of a decomposition group of <fr:tex>p</fr:tex>, to <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex>, endowed with its Hodge filtration and its crystalline Frobenius.
+  </fr:p><fr:p>
+    For all <fr:tex>p</fr:tex>, we should also have a "crystalline" structure of the following type.
+
+    <fr:ul><fr:li><fr:strong>Semi-stable case.</fr:strong>
+        Let <fr:tex>T_p</fr:tex> be the Zariski tangent space of <fr:tex>\operatorname {Spec} ( \mathbb {Z} _p)</fr:tex> at its closed point.
+        
+        We complete it to a projective line <fr:tex>\overline {T}_p</fr:tex> over <fr:tex>\mathbb {F} _p</fr:tex>, and we can lift <fr:tex>( \overline {T}_p,0, \infty )</fr:tex> to a projective line endowed with two marked points over <fr:tex>\mathbb {Z} _p</fr:tex>: <fr:tex>( \overline {T}_p^ \sim ,0, \infty )</fr:tex>.
+        We want an <fr:tex>F</fr:tex>-isocrystal with logarithmic poles on <fr:tex>( \overline {T}_p,0, \infty )</fr:tex> (cf. [<fr:link
+href="Fa.xml"
+type="local"
+addr="Fa">Fa</fr:link>]).
+        Such an object induces, on <fr:tex>\overline {T}_p^ \sim \otimes \mathbb {Q} _p</fr:tex>, a module with connection <fr:tex>\mathcal {V}</fr:tex> with logarithmic poles at <fr:tex>0</fr:tex> and at <fr:tex>\infty</fr:tex>, and we want for the residue of the connection at <fr:tex>0</fr:tex> and at <fr:tex>\infty</fr:tex> to be nilpotent.
+        If <fr:tex>\varphi</fr:tex> is a section of <fr:tex>\overline {T}_p^ \sim</fr:tex>, over <fr:tex>\operatorname {Spec} ( \mathbb {Z} _p)</fr:tex>, with derivative equal to <fr:tex>1</fr:tex> at the closed point, then <fr:tex>\varphi ^* \mathcal {V}</fr:tex> is independent of the choice of <fr:tex>\varphi</fr:tex>, and <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { { \mathrm {cris}} \, \, p} }</fr:tex> should then be identified with the de Rham realisation <fr:tex>\otimes \mathbb {Q} _p</fr:tex>.
+      </fr:li>
+
+      <fr:li><fr:strong>General case.</fr:strong>
+        The data of the previous type, over a large-enough finite Galois extension <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Q} _p</fr:tex> that is <fr:tex>\operatorname {Gal} (E/ \mathbb {Q} _p)</fr:tex>-equivariant.
+      </fr:li></fr:ul></fr:p><fr:p>
+    A Fontaine–Messing comparison isomorphism should again link this object and <fr:tex>M_p</fr:tex> endowed with the action of a decomposition group of <fr:tex>p</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

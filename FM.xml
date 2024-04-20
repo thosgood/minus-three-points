@@ -7,9 +7,43 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>303</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FM</fr:addr><fr:route>FM.xml</fr:route><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>B. Messing</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>312</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FM</fr:addr><fr:route>FM.xml</fr:route><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>B. Messing</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>to appear</fr:em></fr:meta><fr:meta
 name="bibtex">@article{FM,
   author = {Fontaine, J.-M. and Messing, B.},
   note = {to appear},
-}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+}</fr:meta></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>311</fr:anchor><fr:addr>minus-three-points-1.7</fr:addr><fr:route>minus-three-points-1.7.xml</fr:route><fr:number>1.7</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    An additional data that we have on the cohomology <fr:tex>M \coloneqq \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex> when <fr:tex>X</fr:tex> is smooth over <fr:tex>\mathbb {Q}</fr:tex> is that of a comparison isomorphism, for almost all <fr:tex>p</fr:tex>, in the sense of Fontaine–Messing (cf. [<fr:link
+href="FM.xml"
+type="local"
+addr="FM">FM</fr:link>; <fr:link
+href="Fa.xml"
+type="local"
+addr="Fa">Fa</fr:link>]), relating <fr:tex>M_p</fr:tex>, endowed with the action of a decomposition group of <fr:tex>p</fr:tex>, to <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex>, endowed with its Hodge filtration and its crystalline Frobenius.
+  </fr:p><fr:p>
+    For all <fr:tex>p</fr:tex>, we should also have a "crystalline" structure of the following type.
+
+    <fr:ul><fr:li><fr:strong>Semi-stable case.</fr:strong>
+        Let <fr:tex>T_p</fr:tex> be the Zariski tangent space of <fr:tex>\operatorname {Spec} ( \mathbb {Z} _p)</fr:tex> at its closed point.
+        
+        We complete it to a projective line <fr:tex>\overline {T}_p</fr:tex> over <fr:tex>\mathbb {F} _p</fr:tex>, and we can lift <fr:tex>( \overline {T}_p,0, \infty )</fr:tex> to a projective line endowed with two marked points over <fr:tex>\mathbb {Z} _p</fr:tex>: <fr:tex>( \overline {T}_p^ \sim ,0, \infty )</fr:tex>.
+        We want an <fr:tex>F</fr:tex>-isocrystal with logarithmic poles on <fr:tex>( \overline {T}_p,0, \infty )</fr:tex> (cf. [<fr:link
+href="Fa.xml"
+type="local"
+addr="Fa">Fa</fr:link>]).
+        Such an object induces, on <fr:tex>\overline {T}_p^ \sim \otimes \mathbb {Q} _p</fr:tex>, a module with connection <fr:tex>\mathcal {V}</fr:tex> with logarithmic poles at <fr:tex>0</fr:tex> and at <fr:tex>\infty</fr:tex>, and we want for the residue of the connection at <fr:tex>0</fr:tex> and at <fr:tex>\infty</fr:tex> to be nilpotent.
+        If <fr:tex>\varphi</fr:tex> is a section of <fr:tex>\overline {T}_p^ \sim</fr:tex>, over <fr:tex>\operatorname {Spec} ( \mathbb {Z} _p)</fr:tex>, with derivative equal to <fr:tex>1</fr:tex> at the closed point, then <fr:tex>\varphi ^* \mathcal {V}</fr:tex> is independent of the choice of <fr:tex>\varphi</fr:tex>, and <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { { \mathrm {cris}} \, \, p} }</fr:tex> should then be identified with the de Rham realisation <fr:tex>\otimes \mathbb {Q} _p</fr:tex>.
+      </fr:li>
+
+      <fr:li><fr:strong>General case.</fr:strong>
+        The data of the previous type, over a large-enough finite Galois extension <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Q} _p</fr:tex> that is <fr:tex>\operatorname {Gal} (E/ \mathbb {Q} _p)</fr:tex>-equivariant.
+      </fr:li></fr:ul></fr:p><fr:p>
+    A Fontaine–Messing comparison isomorphism should again link this object and <fr:tex>M_p</fr:tex> endowed with the action of a decomposition group of <fr:tex>p</fr:tex>.
+  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>

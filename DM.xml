@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>282</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>287</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
 name="venue">in "Hodge cycles, motives and Shimura varieties" Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>900</fr:strong> pp. 101–228</fr:meta><fr:meta
 name="bibtex">@incollection{DM,
   author = {Deligne, P. and Milne, J.},
@@ -25,7 +25,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>281</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>284</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -74,7 +74,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>251</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.1</fr:addr><fr:route>minus-three-points-1.1.1.xml</fr:route><fr:number>1.1.1</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.1}       </fr:tex></fr:mainmatter></fr:tree>
 
     <fr:tree
@@ -84,7 +84,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>252</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.2</fr:addr><fr:route>minus-three-points-1.1.2.xml</fr:route><fr:number>1.1.2</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell .       \tag{1.1.2}       </fr:tex></fr:mainmatter></fr:tree></fr:p><fr:p>
     If <fr:tex>k</fr:tex> is a field of characteristic <fr:tex>0</fr:tex>, and <fr:tex>\sigma \colon  k \to \mathbb {C}</fr:tex> a complex embedding, with <fr:tex>\bar {k}</fr:tex> the algebraic closure of <fr:tex>k</fr:tex> in <fr:tex>\mathbb {C}</fr:tex> via <fr:tex>\sigma</fr:tex>, then we obtain the isomorphisms
 
@@ -95,7 +95,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>250</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>253</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.3</fr:addr><fr:route>minus-three-points-1.1.3.xml</fr:route><fr:number>1.1.3</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k, \sigma } \mathbb {C}          =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {C}        \tag{1.1.3}       </fr:tex></fr:mainmatter></fr:tree>
 
     <fr:tree
@@ -105,7 +105,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>251</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>254</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell        \tag{1.1.4}       </fr:tex></fr:mainmatter></fr:tree>
 
     where <fr:tex>X( \mathbb {C} )</fr:tex> is the topological space of points of the complex algebraic variety given by the extension of scalars via <fr:tex>\sigma</fr:tex> of <fr:tex>X</fr:tex>.
@@ -137,7 +137,7 @@ numbered="true"
 show-heading="true"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>252</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
     
     
@@ -157,4 +157,54 @@ display="block">        \operatorname {H} _ { \mathrm {DR}} ^i(X)       =  \oper
   </fr:p><fr:p>
     The subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> <fr:em>generated</fr:em> by a set <fr:tex>\mathcal {M}</fr:tex> of motives is defined to be the smallest full subcategory of <fr:tex>\mathcal {M}(k)</fr:tex> containing <fr:tex>\mathcal {M}</fr:tex> that is stable under <fr:tex>\oplus</fr:tex>, <fr:tex>\otimes</fr:tex>, taking the dual, and sub-quotients.
     If we only consider certain algebraic varieties <fr:tex>X</fr:tex> over <fr:tex>k</fr:tex>, then it can be useful to consider, instead of <fr:tex>\mathcal {M}(k)</fr:tex>, the subcategory generated by the <fr:tex>\operatorname {H} ^i(X)</fr:tex>.
-  </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>286</fr:anchor><fr:taxon>Proposition</fr:taxon><fr:addr>minus-three-points-1.10</fr:addr><fr:route>minus-three-points-1.10.xml</fr:route><fr:number>1.10</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Realisation systems form a Tannakian category.
+  </fr:p>
+  
+    
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="false"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>285</fr:anchor><fr:taxon>Proof</fr:taxon><fr:parent>minus-three-points-1.10</fr:parent></fr:frontmatter><fr:mainmatter>
+    <fr:p>
+      As in [<fr:link
+href="J"
+type="external">J</fr:link>], the key point is that a morphism of mixed Hodge <fr:tex>\mathbb {Q}</fr:tex>-structures is strictly compatible with the filtrations <fr:tex>W</fr:tex> and <fr:tex>F</fr:tex>, and that its kernel and cokernel are mixed Hodge <fr:tex>\mathbb {Q}</fr:tex>-structures [<fr:link
+href="D2.xml"
+type="local"
+addr="D2">D2</fr:link>, Theorem 2.3.5].
+      We thus deduce that every morphism of realisation systems is strictly compatible with <fr:tex>W</fr:tex> and <fr:tex>F</fr:tex>.
+      (For <fr:tex>W</fr:tex>, we can instead use <fr:link
+href="AM4"
+type="external">(AM4)</fr:link>.)
+    </fr:p>
+
+    <fr:p>
+      So it is clear that the kernels and cokernels again form realisation systems, and that a bijective morphism is an isomorphism.
+      We have direct sums, and so the category is abelian.
+    </fr:p>
+
+    <fr:p>
+      We have an obvious tensor product, which is associative and commutative, and a way of taking duals.
+      We also have a fibre functor, or, indeed, two: <fr:tex>{}_ { \mathrm {B}}</fr:tex> and <fr:tex>{}_ { \mathrm {DR}}</fr:tex>, with values in <fr:tex>\mathbb {Q}</fr:tex>-vector spaces.
+      The category of realisation systems is thus Tannakian and neutral: the fibre functor <fr:tex>{}_ { \mathrm {B}}</fr:tex> (resp. <fr:tex>{}_ { \mathrm {DR}}</fr:tex>) identifies it with the category of representations of the group scheme <fr:tex>G_ { \mathrm {B}}</fr:tex> (resp. <fr:tex>G_ { \mathrm {DR}}</fr:tex>) of its automorphisms (cf. [<fr:link
+href="Sa"
+type="external">Sa</fr:link>] or [<fr:link
+href="DM.xml"
+type="local"
+addr="DM">DM</fr:link>, Theorem 2.11]).
+    </fr:p>
+  </fr:mainmatter></fr:tree>
+  
+</fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
