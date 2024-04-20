@@ -1,0 +1,11 @@
+\documentclass[crop,dvisvgm]{standalone}
+\usepackage {tikz}
+\begin{document}
+\begin {tikzpicture} 
+     \node [label={below:{$s$}}] at (0,0) {$ \bullet $};
+     \draw [-latex] (0,0) to (0,2) node [label={above:{$v$}}] {};
+     \draw  (0,0) to (50:1.5);
+     \draw  (0,0) to (130:1.5);
+     \draw  [domain=50:130] plot ({1.5*cos( \x )}, {1.5*sin( \x )});
+   \end {tikzpicture}
+\end{document}

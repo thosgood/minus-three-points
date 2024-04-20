@@ -63,6 +63,14 @@
   \number{0.5}
 
   \p{
+    Given an affine scheme #{f\colon X\to S} over #{S}, the quasi-coherent sheaf of algebras #{f_*\OO_X} will be called the \em{affine algebra} of #{X/S}, or simply of #{X}, and #{X} will be called its \em{spectrum}.
+  }
+}
+
+\subtree[minus-three-points-0.6]{
+  \number{0.6}
+
+  \p{
     Let #{G} be a sheaf of groups on a site #{\mathcal{S}}, or, equivalently, in a topos #{T}.
     Useful particular case: if #{\mathcal{S}} is a point, then a sheaf is a set and #{G} is a group.
     A \em{#{G}-torsor}, or \em{torsor for #{G}}, is a sheaf #{P} endowed with a right #{G}-action such that #{P} is locally isomorphic to #{G} acting on itself by translations on the right.
@@ -78,7 +86,6 @@
 
     \subtree{
       \taxon{notation}
-
       \p{
         We will write #{{}_HP_G} to mean that #{P} is an #{(H,G)}-bitorsor.
       }

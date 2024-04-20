@@ -1,0 +1,17 @@
+\documentclass[crop,dvisvgm]{standalone}
+\usepackage {tikz}
+\begin{document}
+\begin {tikzpicture} 
+     \node [label=below:{$b$}] at (0,0) {$ \bullet $};
+     \node [label={[label distance=-3mm]below right:{ \scriptsize $1$}}] at (3,1) {$ \bullet $};
+     \node [label={[label distance=-3mm]below right:{ \scriptsize $0$}}] at (-3,1) {$ \bullet $};
+     \draw [thick,domain=-20:150,->] plot ({0.5*cos( \x )-3}, {0.5*sin( \x )+1});
+     \draw [thick,domain=150:310] plot ({0.5*cos( \x )-3}, {0.5*sin( \x )+1});
+     \draw [thick,domain=-130:-30,->] plot ({0.5*cos( \x )+3}, {0.5*sin( \x )+1});
+     \draw [thick,domain=-30:200] plot ({0.5*cos( \x )+3}, {0.5*sin( \x )+1});
+     \draw [thick] (0,0.125) to (-2.52,0.84);
+     \draw [thick] (0,0.125) to (2.52,0.84);
+     \draw [thick] (0,-0.125) to (-2.69,0.61);
+     \draw [thick] (0,-0.125) to (2.69,0.61);
+   \end {tikzpicture}
+\end{document}

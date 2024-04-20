@@ -23,6 +23,10 @@
   }
 }
 
+\def\tikz[body]{
+  \tex{\usepackage{tikz}}{\begin{tikzpicture}\body\end{tikzpicture}}
+}
+
 \def\tikzcd[body]{
   \tex{\usepackage{amsmath,tikz-cd}}{\begin{tikzcd}\body\end{tikzcd}}
 }

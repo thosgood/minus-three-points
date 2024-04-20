@@ -6,7 +6,7 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"><fr:frontmatter><fr:anchor>249</fr:anchor><fr:addr>minus-three-points-0.1</fr:addr><fr:route>minus-three-points-0.1.xml</fr:route><fr:number>0.1</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote inductive limits and projective limits by <fr:tex>\operatorname {lim \, ind}</fr:tex> and <fr:tex>\operatorname {lim \, proj}</fr:tex>.
   </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -14,7 +14,7 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+expanded="true"><fr:frontmatter><fr:anchor>248</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
@@ -66,7 +66,15 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:addr>minus-three-points-0.5</fr:addr><fr:route>minus-three-points-0.5.xml</fr:route><fr:number>0.5</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Given an affine scheme <fr:tex>f \colon  X \to  S</fr:tex> over <fr:tex>S</fr:tex>, the quasi-coherent sheaf of algebras <fr:tex>f_* \mathcal {O} _X</fr:tex> will be called the <fr:em>affine algebra</fr:em> of <fr:tex>X/S</fr:tex>, or simply of <fr:tex>X</fr:tex>, and <fr:tex>X</fr:tex> will be called its <fr:em>spectrum</fr:em>.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="true"
+show-heading="true"
+show-metadata="false"
+expanded="true"><fr:frontmatter><fr:anchor>247</fr:anchor><fr:addr>minus-three-points-0.6</fr:addr><fr:route>minus-three-points-0.6.xml</fr:route><fr:number>0.6</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>G</fr:tex> be a sheaf of groups on a site <fr:tex>\mathcal {S}</fr:tex>, or, equivalently, in a topos <fr:tex>T</fr:tex>.
     Useful particular case: if <fr:tex>\mathcal {S}</fr:tex> is a point, then a sheaf is a set and <fr:tex>G</fr:tex> is a group.
     A <fr:em><fr:tex>G</fr:tex>-torsor</fr:em>, or <fr:em>torsor for <fr:tex>G</fr:tex></fr:em>, is a sheaf <fr:tex>P</fr:tex> endowed with a right <fr:tex>G</fr:tex>-action such that <fr:tex>P</fr:tex> is locally isomorphic to <fr:tex>G</fr:tex> acting on itself by translations on the right.
@@ -84,21 +92,21 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="false"
-expanded="true"><fr:frontmatter><fr:anchor>245</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"><fr:frontmatter><fr:anchor>246</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-0.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
         We will write <fr:tex>{}_HP_G</fr:tex> to mean that <fr:tex>P</fr:tex> is an <fr:tex>(H,G)</fr:tex>-bitorsor.
       </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
     We will use the following operations on torsors and bitorsors.
 
-    <fr:ul><fr:li><fr:strong>Pushing forward:</fr:strong> (or <fr:strong>transporting</fr:strong>) a <fr:tex>G</fr:tex>-torsor <fr:tex>P</fr:tex> by <fr:tex>\varphi \colon  G \to  H</fr:tex> to obtain an <fr:tex>H</fr:tex>-torsor <fr:tex>\varphi (P)</fr:tex>.
+    <fr:ul><fr:li><fr:strong>Pushing forward</fr:strong> (or <fr:strong>transporting</fr:strong>) a <fr:tex>G</fr:tex>-torsor <fr:tex>P</fr:tex> by <fr:tex>\varphi \colon  G \to  H</fr:tex> to obtain an <fr:tex>H</fr:tex>-torsor <fr:tex>\varphi (P)</fr:tex>.
         A <fr:em><fr:tex>\varphi</fr:tex>-morphism</fr:em> from the <fr:tex>G</fr:tex>-torsor <fr:tex>P</fr:tex> to the <fr:tex>H</fr:tex>-torsor <fr:tex>Q</fr:tex> is some <fr:tex>u \colon  P \to  Q</fr:tex> such that <fr:tex>u(pg)=u(p) \varphi (g)</fr:tex>.
         A <fr:tex>\varphi</fr:tex>-morphism factors uniquely through an isomorphism of <fr:tex>H</fr:tex>-torsors between <fr:tex>\varphi (P)</fr:tex> and <fr:tex>Q</fr:tex>.
       </fr:li>
 
-      <fr:li><fr:strong>Composition:</fr:strong> of a <fr:tex>(G_1,G_2)</fr:tex>-bitorsor <fr:tex>P</fr:tex> and a <fr:tex>(G_2,G_3)</fr:tex>-bitorsor <fr:tex>Q</fr:tex>:
+      <fr:li><fr:strong>Composition</fr:strong> of a <fr:tex>(G_1,G_2)</fr:tex>-bitorsor <fr:tex>P</fr:tex> and a <fr:tex>(G_2,G_3)</fr:tex>-bitorsor <fr:tex>Q</fr:tex>:
         the <fr:tex>(G_1,G_3)</fr:tex>-bitorsor <fr:tex>P \circ  Q</fr:tex> given by the contracted product <fr:tex>P \times ^{G_2}Q=(P \times  Q)/G_2</fr:tex>.
       </fr:li>
 
-      <fr:li><fr:strong>Inverse:</fr:strong> of <fr:tex>{}_{G_1}P_{G_2}</fr:tex>:
+      <fr:li><fr:strong>Inverse</fr:strong> of <fr:tex>{}_{G_1}P_{G_2}</fr:tex>:
         the <fr:tex>(G_2,G_1)</fr:tex>-bitorsor <fr:tex>P^{-1}</fr:tex>, unique up to isomorphism, endowed with <fr:tex>(p \mapsto  p^{-1}) \colon  P \to  P^{-1}</fr:tex> such that <fr:tex>(g_1pg_2)^{-1}=g_2^{-1}p^{-1}g_1^{-1}</fr:tex>.
       </fr:li></fr:ul>
 

@@ -6,7 +6,7 @@ toc="true"
 numbered="true"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>292</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
+expanded="true"><fr:frontmatter><fr:anchor>308</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Mixed motives</fr:title><fr:number>1</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
@@ -15,7 +15,7 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>291</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"><fr:frontmatter><fr:anchor>307</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -26,7 +26,8 @@ href="https://doi.org/10.1007/978-1-4613-9649-9_3"
 type="external">10.1007/978-1-4613-9649-9_3</fr:link>.
       <fr:link
 href="http://publications.ias.edu/node/407"
-type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
+type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: bibliography</fr:em></fr:strong></fr:li>
+  <fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
   The translator (<fr:link
 href="https://thosgood.com"
 type="external">Tim Hosgood</fr:link>) takes full responsibility for any errors introduced, and claims no rights to any of the mathematical content herein.
@@ -102,7 +103,7 @@ toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
-expanded="true"><fr:frontmatter><fr:anchor>290</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+expanded="true"><fr:frontmatter><fr:anchor>306</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -113,7 +114,8 @@ href="https://doi.org/10.1007/978-1-4613-9649-9_3"
 type="external">10.1007/978-1-4613-9649-9_3</fr:link>.
       <fr:link
 href="http://publications.ias.edu/node/407"
-type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
+type="external">[PDF]</fr:link></fr:li></fr:ul></fr:p><fr:ul><fr:li><fr:strong><fr:em>TO-DO: bibliography</fr:em></fr:strong></fr:li>
+  <fr:li><fr:strong><fr:em>TO-DO: replace fref by ref</fr:em></fr:strong></fr:li></fr:ul><fr:p>
   The translator (<fr:link
 href="https://thosgood.com"
 type="external">Tim Hosgood</fr:link>) takes full responsibility for any errors introduced, and claims no rights to any of the mathematical content herein.
