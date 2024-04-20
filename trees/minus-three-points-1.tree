@@ -779,7 +779,7 @@
 
   \p{
     Let #{E} be a finite extension of #{\QQ}, unramified outside of a finite set #{P} of prime numbers.
-    We are going to expand on [(1.6)](#chunk-1.6) for #{\Spec(E)} and, more precisely, define a realisation system #{A\coloneqq\HH_\mot^0(\Spec(E))} that is smooth over #{\Spec(\ZZ)\setminus P}.
+    We are going to expand on \ref{minus-three-points-1.6} for #{\Spec(E)} and, more precisely, define a realisation system #{A\coloneqq\HH_\mot^0(\Spec(E))} that is smooth over #{\Spec(\ZZ)\setminus P}.
     The motive #{A} is of Hodge type #{(0,0)}.
     This determines #{W} and #{F}.
     We have that #{A_\DR=E}, viewed as a vector space over #{\QQ}.
@@ -886,5 +886,105 @@
 
   \p{
     We have #{N_\DR=M_\DR}, with the structure of an #{A_\DR}-module given by that of the vector space over #{E}.
+  }
+
+  \subtree[minus-three-points-mp3e]{
+    \number{M'3E}
+    \p{
+      (cf. [(M3)](minus-three-points-m3), [(M9)](minus-three-points-m9)) An #{\AAf}-sheaf #{M_\AAf} on #{\Spec(E)} (cf. \ref{minus-three-points-1.14}).
+    }
+  }
+
+  \p{
+    We define #{N_\AAf} as its direct image over #{\Spec(\QQ)}: #{N_\AAf(\bar{\QQ})} is the sum over the #{\sigma\colon E\to\bar{\QQ}} of the #{M_AAf(\bar{\QQ})}.
+  }
+
+  \subtree[minus-three-points-mp4e]{
+    \number{M'4E}
+    \p{
+      For each place #{v} of #{E} over #{p\not\in P}, a vector space #{M_\crisv} over the completion #{E_v} of #{E} at #{v}.
+      Let #{F_v^*} be the automorphism of #{E_v} that induces #{x\mapsto x^p} on the residue field.
+      We give an #{F_v^*}-linear #{\phi_v\colon M_\crisv\mapsto M_\crisv}.
+    }
+  }
+
+  \p{
+    \oldpage{102}
+    We have #{E\otimes\QQ_p=\bigoplus_{v\mid p}E_v}, and #{N_\crisp} is the sum of the #{M_\crisv}.
+  }
+
+  \subtree[minus-three-points-mp5e]{
+    \number{M'5E}
+    \p{
+      Comparison isomorphisms
+      ##{
+        \begin{aligned}
+          \comp_{\DR,\sigma}\colon M_\sigma(C)\otimes C
+          &\simto M_\DR\otimes_{E,\sigma}C
+        \\\comp_{\AAf,\sigma}\colon M_{\sigma}\otimes\AAf
+          &\simto M_\AAf(\bar{E}_C)
+        \end{aligned}
+      }
+      both functorial in #{C} (where #{\bar{E}_C} is the algebraic closure of #{E} in #{C}, with respect to #{\sigma}), as well as
+      ##{
+        \comp_{\crisv,\DR}\colon M_\DR\otimes_E E_v \simto M_\crisv.
+      }
+    }
+  }
+
+  \p{
+    By summing over #{\sigma} (resp. #{v}), these give [(M'5)](minus-three-points-mp5).
+  }
+
+  \subtree[minus-three-points-mp6e]{
+    \number{M'6E}
+    \p{
+      A filtration #{W} of the objects [(M'1)E](minus-three-points-mp1e), [(M'2)E](minus-three-points-mp2e), [(M'3)E](minus-three-points-mp3e), and [(M'4)E](minus-three-points-mp4e), respected by the comparison isomorphisms.
+    }
+  }
+
+  \p{
+    We leave to the reader the task of translating axioms [(AM1)](minus-three-points-am1), [(AM3)](minus-three-points-am3), and [(AM4)](minus-three-points-am4), which remain to be imposed, into this language (cf. \ref{minus-three-points-1.14}).
+  }
+}
+
+\subtree[minus-three-points-1.19]{
+  \number{1.19}
+
+  \p{
+    With the definition \ref{minus-three-points-1.17} of smooth realisation systems over #{S=\Spec(\OO)}, the functor given by forgetting the #{A}-module structure, which takes values in smooth realisation systems over #{\Spec(\ZZ)\setminus P}, is called the "\em{direct image of #{S} in #{\Spec(\ZZ)\setminus P}}".
+    In the various realisations of \ref{minus-three-points-1.18}, it corresponds to the direct image.
+    Its left adjoint, #{M\mapsto A\otimes M} (cf. \fref{minus-three-points-5.3}), is the \em{inverse image}.
+  }
+}
+
+\subtree[minus-three-points-1.20]{
+  \number{1.20}
+
+  \p{
+    If #{S} is an open of the spectrum of the ring of integers of a finite extension #{E} of #{\QQ}, then we can modify the description in \ref{minus-three-points-1.18} as follows to define smooth realisation systems over #{S}.
+
+    \ul{
+      \li{
+        In [(AM3)](minus-three-points-am3), we ask for each #{\QQ_\ell}-sheaf #{M_\ell} induced by #{M_\AAf} to come from a smooth #{\QQ_\ell}-sheaf on #{S[1/\ell]}.
+      }
+      \li{
+        In [(M'4)E](minus-three-points-mp4e), for each residue field #{k(v)} of #{S}, we ask for #{M_\crisv} over the field of fractions #{K_v} of Witt vectors over #{k(v)}, endowed with a semi-linear #{\phi_v}.
+        The crystalline comparison isomorphism of [(M'5)E](minus-three-points-mp5e) then becomes
+        ##{
+          M_\DR\otimes E_v \simto M_\crisv\otimes_{K_v}E_v.
+        }
+      }
+    }
+  }
+}
+
+\subtree[minus-three-points-1.21]{
+  \number{1.21}
+
+  \p{
+    Let #{S} be smooth over #{\Spec(\ZZ)}.
+    Here is a provisional definition of smooth realisation systems over #{S}, inspired by \ref{minus-three-points-1.18}.
+    The data is as follows:
   }
 }

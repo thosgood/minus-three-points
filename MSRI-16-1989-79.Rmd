@@ -1,71 +1,3 @@
-    ::: {.trmenv #Mp3E title="(M'3)E" latex="{(M'3)\textsubscript{E}}"}
-    (cf. [(M3)](minus-three-points-m3), [(M9)](minus-three-points-m9)) An $\AAf$-sheaf $M_\AAf$ on $\Spec(E)$ (cf. \ref{minus-three-points-chunk-1.14}).
-    :::
-
-    We define $N_\AAf$ as its direct image over $\Spec(\QQ)$: $N_\AAf(\bar{\QQ})$ is the sum over the $\sigma\colon E\to\bar{\QQ}$ of the $M_AAf(\bar{\QQ})$.
-
-    ::: {.trmenv #Mp4E title="(M'4)E" latex="{(M'4)\textsubscript{E}}"}
-    For each place $v$ of $E$ over $p\not\in P$, a vector space $M_\crisv$ over the completion $E_v$ of $E$ at $v$.
-    Let $F_v^*$ be the automorphism of $E_v$ that induces $x\mapsto x^p$ on the residue field.
-    We give an $F_v^*$-linear $\phi_v\colon M_\crisv\mapsto M_\crisv$.
-    :::
-
-    \oldpage{102}
-    We have $E\otimes\QQ_p=\bigoplus_{v\mid p}E_v$, and $N_\crisp$ is the sum of the $M_\crisv$.
-
-    ::: {.trmenv #Mp5E title="(M'5)E" latex="{(M'5)\textsubscript{E}}"}
-    Comparison isomorphisms
-    $$
-      \begin{aligned}
-        \comp_{\DR,\sigma}\colon M_\sigma(C)\otimes C
-        &\simto M_\DR\otimes_{E,\sigma}C
-      \\\comp_{\AAf,\sigma}\colon M_{\sigma}\otimes\AAf
-        &\simto M_\AAf(\bar{E}_C)
-      \end{aligned}
-    $$
-    both functorial in $C$ (where $\bar{E}_C$ is the algebraic closure of $E$ in $C$, with respect to $\sigma$), as well as
-    $$
-      \comp_{\crisv,\DR}\colon M_\DR\otimes_E E_v \simto M_\crisv.
-    $$
-    :::
-
-    By summing over $\sigma$ (resp. $v$), these give [(M'5)](minus-three-points-mp5).
-
-    ::: {.trmenv #Mp6E title="(M'6)E" latex="{(M'6)\textsubscript{E}}"}
-    A filtration $W$ of the objects [(M'1)E](minus-three-points-mp1e), [(M'2)E](minus-three-points-mp2e), [(M'3)E](minus-three-points-mp3e), and [(M'4)E](minus-three-points-mp4e), respected by the comparison isomorphisms.
-    :::
-
-    We leave to the reader the task of translating axioms [(AM1)](minus-three-points-am1), [(AM3)](minus-three-points-am3), and [(AM4)](minus-three-points-am4), which remain to be imposed, into this language (cf. \ref{minus-three-points-chunk-1.14}).
-::::
-
-
-
-
-
-
-
-::: {.rmenv #chunk-1.19 title="1.19" latex="{1.19}"}
-    With the definition \ref{minus-three-points-1.17} of smooth realisation systems over $S=\Spec(\OO)$, the functor given by forgetting the $A$-module structure, which takes values in smooth realisation systems over $\Spec(\ZZ)\setminus P$, is called the "\em{direct image of $S$ in $\Spec(\ZZ)\setminus P$}".
-    In the various realisations of \ref{minus-three-points-1.18}, it corresponds to the direct image.
-    Its left adjoint, $M\mapsto A\otimes M$ (cf. \fref{minus-three-points-5.3}), is the \em{inverse image}.
-:::
-
-::: {.rmenv #chunk-1.20 title="1.20" latex="{1.20}"}
-    If $S$ is an open of the spectrum of the ring of integers of a finite extension $E$ of $\QQ$, then we can modify the description in \ref{minus-three-points-1.18} as follows to define smooth realisation systems over $S$.
-
-    - In [(AM3)](minus-three-points-am3), we ask for each $\QQ_\ell$-sheaf $M_\ell$ induced by $M_\AAf$ to come from a smooth $\QQ_\ell$-sheaf on $S[1/\ell]$.
-    - In [(M'4)E](minus-three-points-mp4e), for each residue field $k(v)$ of $S$, we ask for $M_\crisv$ over the field of fractions $K_v$ of Witt vectors over $k(v)$, endowed with a semi-linear $\phi_v$.
-      The crystalline comparison isomorphism of [(M'5)E](minus-three-points-mp5e) then becomes
-      $$
-        M_\DR\otimes E_v \simto M_\crisv\otimes_{K_v}E_v.
-      $$
-:::
-
-:::: {.rmenv #chunk-1.21 title="1.21" latex="{1.21}"}
-    Let $S$ be smooth over $\Spec(\ZZ)$.
-    Here is a provisional definition of smooth realisation systems over $S$, inspired by \ref{minus-three-points-1.18}.
-    The data is as follows:
-
     ::: {.trmenv #Mp1S title="(M'1)S" latex="{(M'1)\textsubscript{S}}"}
     For $C$ an algebraic closure of $\RR$, a locally constant sheaf $M_\BB(C)$ of $\QQ$-vector spaces on $S(C)$, functorial in $C$.
     We set $M_\BB\coloneqq M_\BB(\CC)$.
@@ -118,25 +50,25 @@
     [(AM3)](minus-three-points-am3) becomes: $M_\ell$ comes from a smooth $\QQ_\ell$-sheaf on $S[1/\ell]$;
     for [(AM4)](minus-three-points-am4), a condition is imposed for every closed point of $S$.
 
-    As a catch-all, this category does the job (cf. [(1.13)](#chunk-1.13) nonetheless).
-    Additional axioms will always be natural, notably concerning the behaviour at infinity of the variation of mixed Hodge structures $H_\BB$ (cf. [@SZ]).
+    As a catch-all, this category does the job (cf. \ref{minus-three-points-1.13} nonetheless).
+    Additional axioms will always be natural, notably concerning the behaviour at infinity of the variation of mixed Hodge structures $H_\BB$ (cf. [[SZ](SZ)]).
 ::::
 
 ::: {.rmenv #chunk-1.22 title="1.22 Definition" latex="{1.22 Definition}"}
     \oldpage{104}
     Let $E$ be a finite extension of $\QQ$.
-    Then a realisation system *with coefficients in $E$* is a realisation system $M$ endowed with the structure of an $E$-modules, $E\to\End(M)$.
+    Then a realisation system \em{with coefficients in $E$} is a realisation system $M$ endowed with the structure of an $E$-modules, $E\to\End(M)$.
 :::
 
 Up until now, our motives have been "isomotives": the $\Hom$ are vector spaces over $\QQ$.
 For motives with integer coefficients, I propose the following definitions.
 
 ::: {.rmenv #chunk-1.23 title="1.23 Definition" latex="{1.23 Definition}"}
-    A realisation system $M$ over $\QQ$ (resp. $\Spec\ZZ\setminus P$) *with integer coefficients* is a realisation system, denoted by $M\otimes\QQ$, endowed with a lattice $M_\BB\subset(M\otimes\QQ)_\BB$ such that, for all $\ell$, $M_\ell\coloneqq M_\BB\otimes\ZZ_\ell\subset(M\otimes\QQ)_\ell$ is stable under $\Gal(\bar{\QQ}/\QQ)$.
+    A realisation system $M$ over $\QQ$ (resp. $\Spec\ZZ\setminus P$) \em{with integer coefficients} is a realisation system, denoted by $M\otimes\QQ$, endowed with a lattice $M_\BB\subset(M\otimes\QQ)_\BB$ such that, for all $\ell$, $M_\ell\coloneqq M_\BB\otimes\ZZ_\ell\subset(M\otimes\QQ)_\ell$ is stable under $\Gal(\bar{\QQ}/\QQ)$.
 :::
 
 :::: {.rmenv #chunk-1.24 title="1.24" latex="{1.24}"}
-    On a more general base $S$, a realisation system *with integer coefficients* is a realisation system $M\otimes\QQ$ endowed with a local system of torsion-free $\ZZ$-modules $M_\BB\subset(M\otimes\QQ)_\BB$ satisfying $M_\BB\otimes\QQ\simto(M\otimes\QQ)_\BB$ (a "lattice") and such that the $\ZZ_\ell$-sheaf $M_\BB\otimes\ZZ_\ell$ on $S(\CC)$ corresponds, under $\comp_{\ell,\BB}$, to a smooth $\ZZ_\ell$-sheaf $M_\ell\subset(M\otimes\QQ)_\ell$ on $S[1/\ell]$.
+    On a more general base $S$, a realisation system \em{with integer coefficients} is a realisation system $M\otimes\QQ$ endowed with a local system of torsion-free $\ZZ$-modules $M_\BB\subset(M\otimes\QQ)_\BB$ satisfying $M_\BB\otimes\QQ\simto(M\otimes\QQ)_\BB$ (a "lattice") and such that the $\ZZ_\ell$-sheaf $M_\BB\otimes\ZZ_\ell$ on $S(\CC)$ corresponds, under $\comp_{\ell,\BB}$, to a smooth $\ZZ_\ell$-sheaf $M_\ell\subset(M\otimes\QQ)_\ell$ on $S[1/\ell]$.
 
     This causes us to modify [(M'1)S](minus-three-points-mp1s), [(M'3)S](minus-three-points-mp3s), and [(M'5)S](minus-three-points-mp5s) as follows.
 
@@ -154,7 +86,7 @@ For motives with integer coefficients, I propose the following definitions.
 ::::
 
 ::: {.rmenv #chunk-1.25 title="1.25" latex="{1.25}"}
-    In [(1.24)](#chunk-1.24), the data of the $M_\ell$ is equivalent to that of a projective system of sheaves of $\ZZ/(n)$-modules on the $S[1/n]$:
+    In \ref{minus-three-points-1.24}, the data of the $M_\ell$ is equivalent to that of a projective system of sheaves of $\ZZ/(n)$-modules on the $S[1/n]$:
     $$
       M_{\ZZ/(n)}\colon \prod_{\ell\mid n}M_\ell/n M_\ell
     $$
@@ -165,7 +97,7 @@ For motives with integer coefficients, I propose the following definitions.
 :::
 
 ::: {.rmenv #chunk-1.26 title="1.26" latex="{1.26}"}
-    Combining the variants in [(1.22)](#chunk-1.22) and [(1.24)](#chunk-1.24), we similarly define motives over $S$ with coefficients in the ring of integers of a finite extension of $\QQ$.
+    Combining the variants in \ref{minus-three-points-1.22} and \ref{minus-three-points-1.24}, we similarly define motives over $S$ with coefficients in the ring of integers of a finite extension of $\QQ$.
 :::
 
 
@@ -173,8 +105,9 @@ For motives with integer coefficients, I propose the following definitions.
 # Examples {#section-2}
 
 ::: {.rmenv #chunk-2.1 title="2.1" latex="{2.1}"}
-\oldpage{105}The *Tate motive* $\ZZ(1)$ is a motive over $\Spec(\ZZ)$ \ref{minus-three-points-1.15} with integer coefficients [(1.23)](#chunk-1.23).
-Here is its description as a realisation system, in the language of \ref{minus-three-points-1.9} and \ref{minus-three-points-chunk-1.14} (along with [(1.25)](#chunk-1.25)):
+\oldpage{105}
+The \em{Tate motive} $\ZZ(1)$ is a motive over $\Spec(\ZZ)$ \ref{minus-three-points-1.15} with integer coefficients \ref{minus-three-points-1.23}.
+Here is its description as a realisation system, in the language of \ref{minus-three-points-1.9} and \ref{minus-three-points-chunk-1.14} (along with \ref{minus-three-points-1.25}):
 
 - [(M1)](minus-three-points-m1) and [(M7)](minus-three-points-m7): $\ZZ(1)_\BB=2\pi i\ZZ\subset\CC$ and $F_\infty=-1$.
 - [(M'1)](minus-three-points-mp1): $\ZZ(1)_\BB(C)=2\pi i\ZZ\subset C$.
@@ -190,7 +123,7 @@ Here is its description as a realisation system, in the language of \ref{minus-t
   $$
     \ZZ(1)_\BB\otimes\CC \simto \CC \simfrom \ZZ(1)_\DR\otimes\CC.
   $$
-  The isomorphism $\comp_{\ZZ/n,\BB}$ [(1.25)](#chunk-1.25) is induced by
+  The isomorphism $\comp_{\ZZ/n,\BB}$ \ref{minus-three-points-1.25} is induced by
   $$
     \exp(x/n)\colon \ZZ(1)_\BB \to \ZZ/n(1)\subset\CC^\times.
   $$
@@ -220,7 +153,7 @@ An abelian scheme $A$ over $S$ similarly defines a smooth motive with integer co
 :::
 
 ::: {.rmenv #chunk-2.3 title="2.3" latex="{2.3}"}
-Recall that a *smooth $1$-motive* $X$ over a scheme $S$ consists of
+Recall that a \em{smooth $1$-motive} $X$ over a scheme $S$ consists of
 
 a. a group scheme $L$ over $S$ that, locally, for the étale topology, is a constant group scheme defined by a free $\ZZ$-module of finite type;
   an abelian scheme $A$ over $S$, and a torus $T$ over $S$;
@@ -229,12 +162,12 @@ c. a morphism $u\colon L\to E$ lifting $\bar{u}$.
 
 We write $X=[L\xrightarrow{u}E]$.
 
-A $1$-motive $X$ over $\QQ$ defines a motive over $\QQ$ with integer coefficients $T(X)$ (cf. [@D3, Section 10, but the crystalline aspect is missing]), and the functor $X\mapsto T(X)$ is fully faithful (cf. [@D3, both 10.1.3 and 2.2]).
+A $1$-motive $X$ over $\QQ$ defines a motive over $\QQ$ with integer coefficients $T(X)$ (cf. [[D3](D3), Section 10, but the crystalline aspect is missing]), and the functor $X\mapsto T(X)$ is fully faithful (cf. [[D3](D3), both 10.1.3 and 2.2]).
 
 For $X=[\ZZ\to0]$, $T(X)$ is the unit motive $\ZZ(0)$.
 For $X=[0\to\Gm]$, $T(X)$ is the Tate motive $\ZZ(1)$.
 For an abelian variety $A$ and $X=[0\to A]$, $T(X)=T(A)$.
-Of course, here, as in [(2.2)](#chunk-2.2), we can take more general bases than $\Spec(\QQ)$.
+Of course, here, as in \ref{minus-three-points-2.2}, we can take more general bases than $\Spec(\QQ)$.
 :::
 
 ::: {.rmenv #chunk-2.4 title="2.4" latex="{2.4}"}
@@ -242,9 +175,10 @@ I conjecture that the set of motives with integer coefficients of the form $T(X)
 If $T'$ is a motive with integer coefficients, with $T'\otimes\QQ\simto T(X)\otimes\QQ$, then $T'$ is of the form $T(X')$ with $X'$ isogenous to $X$.
 The conjecture is thus equivalent to the claim that the set of motives $T(X)\otimes\QQ$, for $1$-motives $X$, is stable under extensions.
 The word "conjecture" is an abuse of terminology, since the statement itself is not precise.
-What is conjectured is that every realisation system \ref{minus-three-points-1.9} (or [(1.24)](#chunk-1.24), over $S$) that is an extension $T(X)$ by $T(Y)$ (for $1$-motives $X$ and $Y$), and "natural", "coming from geometry", is isomorphic to that defined by a $1$-motive $Z$ that is an extension of $X$ by $Y$.
+What is conjectured is that every realisation system \ref{minus-three-points-1.9} (or \ref{minus-three-points-1.24}, over $S$) that is an extension $T(X)$ by $T(Y)$ (for $1$-motives $X$ and $Y$), and "natural", "coming from geometry", is isomorphic to that defined by a $1$-motive $Z$ that is an extension of $X$ by $Y$.
 
-\oldpage{107}A point $a$ of an abelian variety $A$ over $\QQ$ defines a $1$-motive $[\ZZ\xrightarrow{u}A]$ with $u(1)=a$.
+\oldpage{107}
+A point $a$ of an abelian variety $A$ over $\QQ$ defines a $1$-motive $[\ZZ\xrightarrow{u}A]$ with $u(1)=a$.
 The motive $T([\ZZ\xrightarrow{u}A])$ is an extension of $\ZZ(0)$ by $T(A)$, and the conjecture, applied to $\ZZ(0)$ and $T(A)$, implies that
 $$
   A(\QQ) \simto \Ext^1(\ZZ(0),T(A))
@@ -262,10 +196,12 @@ $$
 and similarly for more general bases that $\Spec(\QQ)$.
 
 The case $E=\Gm$ is particularly interesting: for every smooth scheme $S$ over $\Spec(\ZZ)$, we want, in the category of motives with integer coefficients over $S$,
+
 $$
   \Gamma(S,\OO_S^\times) \simto \Ext^1(\ZZ(0),\ZZ(1)).
 \startverb\tag{2.4.1}\stopverb
 $$
+
 :::
 
 :::: {.rmenv #chunk-2.5 title="2.5" latex="{2.5}"}
@@ -283,7 +219,13 @@ Similarly, the data of $E_\DR$ (resp. $E_\AAf$, $E_\crisp$) is equivalent to tha
 
 ::: {.trmenv #M5P title="(M5)P" latex="{(M5)P}"}
 The comparison morphisms for $E$ can be identified with comparison morphisms $P_\BB\otimes\CC\simto P_\DR\otimes\CC$, $P_\BB\otimes\AAf\simto P_\AAf$, and $P_\DR\otimes\QQ_p\simto P_\crisp$ that are compatible with the analogous morphisms for $M$.
-*Notation:* $\otimes$, see \ref{minus-three-points-0.4}.
+
+\subtree{
+  \taxon{notation}
+  \p{
+    #{\otimes}, see \ref{minus-three-points-0.4}.
+  }
+}
 :::
 
 ::: {.trmenv #M6P title="(M6)P" latex="{(M6)P}"}
@@ -291,7 +233,8 @@ Since $M$ is, by hypothesis, of weight $\leqslant-1$, and $\QQ(0)$ is of pure we
 :::
 
 ::: {.trmenv #M7P title="(M7)P" latex="{(M7)P}"}
-\oldpage{108}The data of $F_\infty$ for $E$ is equivalent to that of an involution of $P_\BB$ that is compatible with that of $M_\BB$.
+\oldpage{108}
+The data of $F_\infty$ for $E$ is equivalent to that of an involution of $P_\BB$ that is compatible with that of $M_\BB$.
 Axiom [(AM2)](minus-three-points-am2) for $E$ is that this involution is induced by the $\CC$-antilinear involution of $P_{\BB,\CC}=\PP_{\DR,\CC}$ with fixed points $P_{\DR,\RR}$.
 :::
 
@@ -320,17 +263,17 @@ We note only that [(AM1)](minus-three-points-am1) and [(AM4)](minus-three-points
 ::: {.rmenv #chunk-2.6 title="2.6 Definition" latex="{2.6 Definition}"}
 —
 
-i. A system of torsors, [(M1)P](#M1P) to [(M10)P](#M10P) in [(2.5)](#chunk-2.5), that satisfies the conditions required in order to define an extension $E$ of $\QQ(0)$ by a realisation system $M$ is called a *torsor in realisation systems*.
+i. A system of torsors, [(M1)P](minus-three-points-m1P) to [(M10)P](minus-three-points-m10P) in \ref{minus-three-points-2.5}, that satisfies the conditions required in order to define an extension $E$ of $\QQ(0)$ by a realisation system $M$ is called a \em{torsor in realisation systems}.
 
-ii. If $M$ is a motive, then the torsor $P$ for $M$ is *motivic* (or a *torsor in motives*) if the extension $E$ is a motive.
+ii. If $M$ is a motive, then the torsor $P$ for $M$ is \em{motivic} (or a \em{torsor in motives}) if the extension $E$ is a motive.
 :::
 
 :::: {.rmenv #chunk-2.7 title="2.7" latex="{2.7}"}
 Let $M$ be a realisation system with integer coefficients.
-An *extension* $E$ of $\ZZ(0)$ by $M$ is an extension $E\otimes\QQ$ of $\QQ(0)$ by $M\otimes\QQ$, endowed with an integer structure such that the sequence $0\to M_\BB\to E_\BB\to\ZZ\to0$ is exact.
+An \em{extension} $E$ of $\ZZ(0)$ by $M$ is an extension $E\otimes\QQ$ of $\QQ(0)$ by $M\otimes\QQ$, endowed with an integer structure such that the sequence $0\to M_\BB\to E_\BB\to\ZZ\to0$ is exact.
 
-As in [(2.5)](#chunk-2.5), such an extension is described by a system of torsors.
-\oldpage{109}As in [(1.24)](#chunk-1.24) and [(1.25)](#chunk-1.25), this corresponds to modifying [(2.5)](#chunk-2.5) as follows:
+As in \ref{minus-three-points-2.5}, such an extension is described by a system of torsors.
+\oldpage{109}As in \ref{minus-three-points-1.24} and \ref{minus-three-points-1.25}, this corresponds to modifying \ref{minus-three-points-2.5} as follows:
 
 ::: {.trmenv #M1PZ title="(M1)PZ" latex="{(M1)P$\ZZ$}"}
 $P_\BB$ is an $M_\BB$-torsor.
@@ -345,8 +288,8 @@ It is equivalent to give a projective system of equivariant $M_{\ZZ/(n)}$-torsor
 Replace $\comp_{\AAf,\BB}$ by $\comp_{\ell,\BB}$ for each $\ell$, or $\comp_{\ZZ/(n),\BB}$, or $\comp_{\hZZ,\BB}$.
 :::
 
-Such a system of torsors, which defines an extension of $\ZZ(0)$ by $M$, is also called a *torsor for $M$*.
-It is said to be *motivic* if the corresponding extension is, i.e. if the torsor for $M\otimes\QQ$ that it defines is motivic.
+Such a system of torsors, which defines an extension of $\ZZ(0)$ by $M$, is also called a \em{torsor for $M$}.
+It is said to be \em{motivic} if the corresponding extension is, i.e. if the torsor for $M\otimes\QQ$ that it defines is motivic.
 ::::
 
 :::: {.rmenv #chunk-2.8 title="2.8" latex="{2.8}"}
@@ -368,7 +311,7 @@ For a local section $p$ of $F^0P_\DR$, $\nabla p\in\Omega^1\otimes F^{-1}(M_\DR)
 ::::
 
 ::: {.rmenv #chunk-2.9 title="2.9" latex="{2.9}"}
-We explicitly describe the torsor in motives $K(x)$ for $\ZZ(1)$ (the *Kummer torsor*) corresponding to $x\in\QQ^\times$ as in [(2.4.1)](#chunk-2.4.1).
+We explicitly describe the torsor in motives $K(x)$ for $\ZZ(1)$ (the \em{Kummer torsor}) corresponding to $x\in\QQ^\times$ as in \ref{minus-three-points-2.4.1}.
 
 The $\ZZ(1)_\BB$-torsor $K(x)_\BB$ is the torsor for $2\pi i\ZZ$ of logarithms of $x$.
 Since $F^0\ZZ(1)_\DR=0$, we have $K(x)_\DR=\ZZ(1)_\DR=\QQ$.
@@ -398,7 +341,7 @@ $$
 $$
 The $\ZZ/(n)(1)$-torsor $K(q)_{\ZZ/(n)}$ is that of the $n$-th roots of $q$.
 This is a locally constant sheaf on $(\Gm\otimes\ZZ[1/n])_\et$.
-Transition and comparison morphisms are defined as in [(2.9)](#chunk-2.9).
+Transition and comparison morphisms are defined as in \ref{minus-three-points-2.9}.
 
 We now explain what the $F$-crystal structure is at $p$.
 Let $\hGm$ be the completion of $\Gm$ along its fibre of characteristic $p$, and $\hGm\otimes\QQ_p$ the corresponding rigid analytic space.
@@ -431,7 +374,7 @@ For $\widetilde{F}\colon q\mapsto q^p$, we have
 $$
   \phi_p^{-1}[q\mapsto q^p](0) = 0.
 $$
-\oldpage{111}For $x\in\QQ$ a unit at $p$, and $\widetilde{F}$ such that $\widetilde{F}(x)=x$, we thus have $\phi_p^{-1}[\widetilde{F}](0)=\log(x/x^p)$ at $x$, as required by [(2.9)](#chunk-2.9)
+\oldpage{111}For $x\in\QQ$ a unit at $p$, and $\widetilde{F}$ such that $\widetilde{F}(x)=x$, we thus have $\phi_p^{-1}[\widetilde{F}](0)=\log(x/x^p)$ at $x$, as required by \ref{minus-three-points-2.9}
 :::
 
 
@@ -440,14 +383,14 @@ $$
 
 \oldpage{112}The study of the fundamental group of $\PP^1\setminus\{0,1,\infty\}$ reveals, for each $k\geqslant2$, a torsor $P_{1,k}$ for $\ZZ(k)$ on $\Spec(\ZZ)$.
 We will describe these torsors in this section.
-The relation with $\pi_1$ will be explained in [§16](#section-16) (see [(16.23)](#chunk-16.23)) and the calculations to justify this will be given in [§19](#section-19).
-We will then describe the torsors $P_{d,k}$ for $\ZZ(k)$ on $\Spec(\QQ(\sqrt[d]{1}))$, given by an analogous construction [(16.28)](#chunk-16.28).
+The relation with $\pi_1$ will be explained in \fref{minus-three-points-16} (see \fref{minus-three-points-16.23}) and the calculations to justify this will be given in \fref{minus-three-points-19}.
+We will then describe the torsors $P_{d,k}$ for $\ZZ(k)$ on $\Spec(\QQ(\sqrt[d]{1}))$, given by an analogous construction \fref{minus-three-points-16.28}.
 
 The sum of the $\P_{d,k}$ and of $(-1)^k$ times its symmetry under $\zeta\mapsto\zeta^{-1}$ is torsion.
-This is essentially equivalent to the adelic integral formulas for the value of the Dirichlet $L$ functions at negative integers: [(3.6)](#chunk-3.6), [(3.8)](#chunk-3.8), [(3.9)](#chunk-3.9), and [(3.14)](#chunk-3.14).
-A geometric interpretation, which allows us to reprove these formulas, will be given in [§18](#section-18).
+This is essentially equivalent to the adelic integral formulas for the value of the Dirichlet $L$ functions at negative integers: \fref{minus-three-points-3.6}, \fref{minus-three-points-3.8}, \fref{minus-three-points-3.9}, and \fref{minus-three-points-3.14}.
+A geometric interpretation, which allows us to reprove these formulas, will be given in \fref{minus-three-points-18}.
 
-A geometric interpretation of the relations of distributions [(3.13)](#chunk-3.13) will be given in [§17](#section-17).
+A geometric interpretation of the relations of distributions \fref{minus-three-points-3.13} will be given in \fref{minus-three-points-17}.
 
 ::: {.rmenv #chunk-3.1 title="3.1" latex="{3.1}"}
 We denote by $P$ the torsor $P_{1,k}$ that we are going to define.
