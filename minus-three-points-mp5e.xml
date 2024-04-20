@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>677</fr:anchor><fr:addr>minus-three-points-mp5e</fr:addr><fr:route>minus-three-points-mp5e.xml</fr:route><fr:number>M'5E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>693</fr:anchor><fr:addr>minus-three-points-mp5e</fr:addr><fr:route>minus-three-points-mp5e.xml</fr:route><fr:number>M'5E</fr:number><fr:parent>minus-three-points-1.18</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Comparison isomorphisms
       <fr:tex
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , \sigma } \colon  M_ \sigma (C) \otimes  C           &amp; \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes _{E, \sigma }C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , \sigma } \colon  M_{ \sigma } \otimes \mathbb {A} ^ \mathrm {f}            &amp; \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar {E}_C)          \end {aligned}       </fr:tex>
@@ -20,7 +20,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>676</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>692</fr:anchor><fr:addr>minus-three-points-1.18</fr:addr><fr:route>minus-three-points-1.18.xml</fr:route><fr:number>1.18</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We will now show how a realisation system <fr:tex>N</fr:tex>, smooth over <fr:tex>S= \operatorname {Spec} ( \mathcal {O} )</fr:tex> (as in <fr:ref
 addr="minus-three-points-1.17"
 href="minus-three-points-1.17.xml"
@@ -171,7 +171,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>675</fr:anchor><fr:addr>minus-three-points-1.20</fr:addr><fr:route>minus-three-points-1.20.xml</fr:route><fr:number>1.20</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>691</fr:anchor><fr:addr>minus-three-points-1.20</fr:addr><fr:route>minus-three-points-1.20.xml</fr:route><fr:number>1.20</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If <fr:tex>S</fr:tex> is an open of the spectrum of the ring of integers of a finite extension <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Q}</fr:tex>, then we can modify the description in <fr:ref
 addr="minus-three-points-1.18"
 href="minus-three-points-1.18.xml"

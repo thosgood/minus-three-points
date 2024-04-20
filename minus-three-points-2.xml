@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>745</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>761</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context></fr:context><fr:related><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>744</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>760</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -85,6 +85,134 @@ style="list-style-type: &quot;3. &quot;">
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;4. &quot;">
+      <fr:link
+href="minus-three-points-4"
+type="external"><fr:strong>Reminders on Ind-objects</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;5. &quot;">
+      <fr:link
+href="minus-three-points-5"
+type="external"><fr:strong>Algebraic geometry in a Tannakian category</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;6. &quot;">
+      <fr:link
+href="minus-three-points-6"
+type="external"><fr:strong>The fundamental group of a Tannakian category</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;7. &quot;">
+      <fr:link
+href="minus-three-points-7"
+type="external"><fr:strong>Algebraic geometry in the Tannakian category of realisation systems: interpretations</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;8. &quot;">
+      <fr:link
+href="minus-three-points-8"
+type="external"><fr:strong>Iterated extensions of Tate motives</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;9. &quot;">
+      <fr:link
+href="minus-three-points-9"
+type="external"><fr:strong>Reminders on unipotent groups</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;10. &quot;">
+      <fr:link
+href="minus-three-points-10"
+type="external"><fr:strong>Theories of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;11. &quot;">
+      <fr:link
+href="minus-three-points-11"
+type="external"><fr:strong>The crystalline structure of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;12. &quot;">
+      <fr:link
+href="minus-three-points-12"
+type="external"><fr:strong>The Hodge filtration of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;13. &quot;">
+      <fr:link
+href="minus-three-points-13"
+type="external"><fr:strong>The motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;14. &quot;">
+      <fr:link
+href="minus-three-points-14"
+type="external"><fr:strong>Example: the motivic <fr:tex>\pi _1</fr:tex> of <fr:tex>\mathbb {G}_ \mathrm {m}</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;15. &quot;">
+      <fr:link
+href="minus-three-points-15"
+type="external"><fr:strong>Basepoints at infinity</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;16. &quot;">
+      <fr:link
+href="minus-three-points-16"
+type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a quotient of the motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;17. &quot;">
+      <fr:link
+href="minus-three-points-17"
+type="external"><fr:strong></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;18. &quot;">
+      <fr:link
+href="minus-three-points-18"
+type="external"><fr:strong>The torsor <fr:tex>P_{d,k}+(-1)^kP_{d,k}</fr:tex> is of finite order: geometric approach</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;19. &quot;">
+      <fr:link
+href="minus-three-points-19"
+type="external"><fr:strong>Comparison of the <fr:tex>\mathbb {Z}(k)</fr:tex>-torsors from sections 3 and 16</fr:strong></fr:link>
     </html:li>
 
     
@@ -118,7 +246,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>743</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>759</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -186,6 +314,134 @@ style="list-style-type: &quot;3. &quot;">
 href="minus-three-points-3.xml"
 type="local"
 addr="minus-three-points-3"><fr:strong><fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;4. &quot;">
+      <fr:link
+href="minus-three-points-4"
+type="external"><fr:strong>Reminders on Ind-objects</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;5. &quot;">
+      <fr:link
+href="minus-three-points-5"
+type="external"><fr:strong>Algebraic geometry in a Tannakian category</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;6. &quot;">
+      <fr:link
+href="minus-three-points-6"
+type="external"><fr:strong>The fundamental group of a Tannakian category</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;7. &quot;">
+      <fr:link
+href="minus-three-points-7"
+type="external"><fr:strong>Algebraic geometry in the Tannakian category of realisation systems: interpretations</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;8. &quot;">
+      <fr:link
+href="minus-three-points-8"
+type="external"><fr:strong>Iterated extensions of Tate motives</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;9. &quot;">
+      <fr:link
+href="minus-three-points-9"
+type="external"><fr:strong>Reminders on unipotent groups</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;10. &quot;">
+      <fr:link
+href="minus-three-points-10"
+type="external"><fr:strong>Theories of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;11. &quot;">
+      <fr:link
+href="minus-three-points-11"
+type="external"><fr:strong>The crystalline structure of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;12. &quot;">
+      <fr:link
+href="minus-three-points-12"
+type="external"><fr:strong>The Hodge filtration of <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;13. &quot;">
+      <fr:link
+href="minus-three-points-13"
+type="external"><fr:strong>The motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;14. &quot;">
+      <fr:link
+href="minus-three-points-14"
+type="external"><fr:strong>Example: the motivic <fr:tex>\pi _1</fr:tex> of <fr:tex>\mathbb {G}_ \mathrm {m}</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;15. &quot;">
+      <fr:link
+href="minus-three-points-15"
+type="external"><fr:strong>Basepoints at infinity</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;16. &quot;">
+      <fr:link
+href="minus-three-points-16"
+type="external"><fr:strong><fr:tex>\mathbb {P}^1</fr:tex> minus three points: a quotient of the motivic <fr:tex>\pi _1</fr:tex></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;17. &quot;">
+      <fr:link
+href="minus-three-points-17"
+type="external"><fr:strong></fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;18. &quot;">
+      <fr:link
+href="minus-three-points-18"
+type="external"><fr:strong>The torsor <fr:tex>P_{d,k}+(-1)^kP_{d,k}</fr:tex> is of finite order: geometric approach</fr:strong></fr:link>
+    </html:li>
+
+    
+ <html:li
+style="list-style-type: &quot;19. &quot;">
+      <fr:link
+href="minus-three-points-19"
+type="external"><fr:strong>Comparison of the <fr:tex>\mathbb {Z}(k)</fr:tex>-torsors from sections 3 and 16</fr:strong></fr:link>
     </html:li>
 
     
