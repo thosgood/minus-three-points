@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>487</fr:anchor><fr:addr>minus-three-points-m10</fr:addr><fr:route>minus-three-points-m10.xml</fr:route><fr:number>M10</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M_{ { { \mathrm {cris}} \, \, p} }</fr:tex> is endowed with an automorphism
+root="false"><fr:frontmatter><fr:anchor>526</fr:anchor><fr:addr>minus-three-points-m10</fr:addr><fr:route>minus-three-points-m10.xml</fr:route><fr:number>M10</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>M_{ { { \mathrm {cris}} \, \, p} }</fr:tex> is endowed with an automorphism
       <fr:tex
 display="block">          \phi _p \colon  M_{ { { \mathrm {cris}} \, \, p} } \to  M_{ { { \mathrm {cris}} \, \, p} }       </fr:tex>
       called the <fr:em>crystalline Frobenius</fr:em>, which respects <fr:tex>W</fr:tex>.
@@ -18,7 +18,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>486</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>525</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -33,7 +33,7 @@ type="external">(AM5)</fr:link>.
   </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -44,7 +44,7 @@ root="false"><fr:frontmatter><fr:anchor>349</fr:anchor><fr:taxon>Terminology</fr
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -53,7 +53,7 @@ root="false"><fr:frontmatter><fr:anchor>350</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -62,7 +62,7 @@ root="false"><fr:frontmatter><fr:anchor>351</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -73,7 +73,7 @@ type="external">(M5)</fr:link>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -82,7 +82,7 @@ root="false"><fr:frontmatter><fr:anchor>353</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -92,7 +92,7 @@ root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:addr>minus-three-poin
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {C}   \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes \mathbb {C}           \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f}           \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} } \colon            &amp;M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_{ { { \mathrm {cris}} \, \, p} }          \end {aligned}       </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -102,7 +102,7 @@ root="false"><fr:frontmatter><fr:anchor>355</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -110,7 +110,7 @@ root="false"><fr:frontmatter><fr:anchor>356</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -119,7 +119,7 @@ root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -127,7 +127,7 @@ root="false"><fr:frontmatter><fr:anchor>358</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -138,7 +138,7 @@ display="block">          \phi _p \colon  M_{ { { \mathrm {cris}} \, \, p} } \to
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -149,7 +149,7 @@ addr="D2">D2</fr:link>, Definition 2.3.8].
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -164,7 +164,7 @@ display="block">         F_ \infty          = c_ { \mathrm {B}}  c_ { \mathrm {D
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -174,7 +174,7 @@ root="false"><fr:frontmatter><fr:anchor>362</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -183,7 +183,7 @@ root="false"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"

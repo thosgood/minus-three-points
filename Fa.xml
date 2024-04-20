@@ -40,7 +40,7 @@ addr="D2">D2</fr:link>, Section 3.2];
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"

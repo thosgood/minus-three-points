@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="true"><fr:frontmatter><fr:anchor>551</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
+root="true"><fr:frontmatter><fr:anchor>623</fr:anchor><fr:addr>index</fr:addr><fr:route>index.xml</fr:route><fr:title>Deligne's "The fundamental group of the projective line minus three points"</fr:title></fr:frontmatter><fr:mainmatter><fr:p>
   This is an English translation of <fr:strong>P. Deligne</fr:strong>'s paper:
 
   <fr:ul><fr:li>
@@ -108,7 +108,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>545</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>617</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -118,7 +118,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>546</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>minus-three-points-bibliography</fr:addr><fr:route>minus-three-points-bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
+root="false"><fr:frontmatter><fr:anchor>618</fr:anchor><fr:taxon>Bibliography</fr:taxon><fr:addr>minus-three-points-bibliography</fr:addr><fr:route>minus-three-points-bibliography.xml</fr:route><fr:title>Complete list of references</fr:title></fr:frontmatter><fr:mainmatter><fr:p><fr:em>Click anywhere on an entry to see the corresponding BibTeX.</fr:em></fr:p>
   <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
@@ -126,14 +126,14 @@ numbered="true"
 show-heading="false"
 show-metadata="false"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>538</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
+root="false"><fr:frontmatter><fr:anchor>610</fr:anchor></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>505</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>577</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>Fa</fr:addr><fr:route>Fa.xml</fr:route><fr:title>Crystalline cohomology and <fr:tex>p</fr:tex>-adic Galois representations</fr:title><fr:date><fr:year>1998</fr:year></fr:date><fr:authors><fr:author>G. Faltings</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Proc. 1st JAMI-conference</fr:em> pp. 25–81</fr:meta><fr:meta
 name="bibtex">@article{Fa,
   author = {Faltings, G.},
@@ -148,7 +148,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>507</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D4</fr:addr><fr:route>D4.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1990</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>579</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D4</fr:addr><fr:route>D4.xml</fr:route><fr:title>Catégories tannakiennes</fr:title><fr:date><fr:year>1990</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue">in "Grothendieck Festschrift vol. II" Birkhäuser <fr:em>Prog. in Math.</fr:em> <fr:strong>87</fr:strong></fr:meta><fr:meta
 name="bibtex">@incollection{D4,
   author = {Deligne, P.},
@@ -163,7 +163,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>509</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>581</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>B</fr:addr><fr:route>B.xml</fr:route><fr:title>Height pairing between algebraic cycles</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>A.A. Beilinson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Contemp. Math.</fr:em> <fr:strong>67</fr:strong> pp. 1–24</fr:meta><fr:meta
 name="bibtex">@article{B,
   author = {Beilinson, A.A.},
@@ -179,7 +179,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>511</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A2</fr:addr><fr:route>A2.xml</fr:route><fr:title>The hyperadelic gamma function</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>583</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A2</fr:addr><fr:route>A2.xml</fr:route><fr:title>The hyperadelic gamma function</fr:title><fr:date><fr:year>1989</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>95</fr:strong> pp. 63–131</fr:meta><fr:meta
 name="bibtex">@article{A2,
   author = {Anderson, G.},
@@ -195,7 +195,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>513</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>I</fr:addr><fr:route>I.xml</fr:route><fr:title>Profinite braid groups, Galois representations and complex multiplication</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>585</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>I</fr:addr><fr:route>I.xml</fr:route><fr:title>Profinite braid groups, Galois representations and complex multiplication</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>Y. Ihara</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Ann. of Math.</fr:em> <fr:strong>123</fr:strong> pp. 3–106</fr:meta><fr:meta
 name="bibtex">@article{I,
   author = {Ihara, Y.},
@@ -211,7 +211,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>515</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A1</fr:addr><fr:route>A1.xml</fr:route><fr:title>Torsion points on Fermat Jacobians, roots of circular units and relative singular homology</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>587</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>A1</fr:addr><fr:route>A1.xml</fr:route><fr:title>Torsion points on Fermat Jacobians, roots of circular units and relative singular homology</fr:title><fr:date><fr:year>1986</fr:year></fr:date><fr:authors><fr:author>G. Anderson</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Duke Math. J.</fr:em> <fr:strong>53</fr:strong> pp. 457–502</fr:meta><fr:meta
 name="bibtex">@article{A1,
   author = {Anderson, G.},
@@ -227,7 +227,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>517</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FL</fr:addr><fr:route>FL.xml</fr:route><fr:title>Construction de représentations <fr:tex>p</fr:tex>-adiques</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>G. Laffaille</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>589</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FL</fr:addr><fr:route>FL.xml</fr:route><fr:title>Construction de représentations <fr:tex>p</fr:tex>-adiques</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>G. Laffaille</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Ann. Sci. ENS</fr:em> <fr:strong>15</fr:strong> pp. 547–608</fr:meta><fr:meta
 name="bibtex">@article{FL,
   author = {Fontaine, J.-M. and Laffaille, G.},
@@ -243,7 +243,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>520</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>592</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>C</fr:addr><fr:route>C.xml</fr:route><fr:title>Dilogarithms, Regulators and <fr:tex>p</fr:tex>-adic <fr:tex>L</fr:tex>-functions</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>R.F. Coleman</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Inv. Math.</fr:em> <fr:strong>69</fr:strong> pp. 171–208</fr:meta><fr:meta
 name="bibtex">@article{C,
   author = {Coleman, R.F.},
@@ -259,7 +259,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>522</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>594</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>DM</fr:addr><fr:route>DM.xml</fr:route><fr:title>Tannakian categories</fr:title><fr:date><fr:year>1982</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author><fr:author>J. Milne</fr:author></fr:authors><fr:meta
 name="venue">in "Hodge cycles, motives and Shimura varieties" Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>900</fr:strong> pp. 101–228</fr:meta><fr:meta
 name="bibtex">@incollection{DM,
   author = {Deligne, P. and Milne, J.},
@@ -277,7 +277,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>525</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D5</fr:addr><fr:route>D5.xml</fr:route><fr:title>Poids dans la cohomologie des variétés algébriques</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>597</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D5</fr:addr><fr:route>D5.xml</fr:route><fr:title>Poids dans la cohomologie des variétés algébriques</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Actes ICM Vancouver</fr:em> pp. 79–85</fr:meta><fr:meta
 name="bibtex">@article{D5,
   author = {Deligne, P.},
@@ -292,7 +292,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>527</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D3</fr:addr><fr:route>D3.xml</fr:route><fr:title>Théorie de Hodge III</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>599</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D3</fr:addr><fr:route>D3.xml</fr:route><fr:title>Théorie de Hodge III</fr:title><fr:date><fr:year>1974</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>44</fr:strong> pp. 5–77</fr:meta><fr:meta
 name="bibtex">@article{D3,
   author = {Deligne, P.},
@@ -308,7 +308,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>529</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>601</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D2</fr:addr><fr:route>D2.xml</fr:route><fr:title>Théorie de Hodge II</fr:title><fr:date><fr:year>1971</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>40</fr:strong> pp. 5–58</fr:meta><fr:meta
 name="bibtex">@article{D2,
   author = {Deligne, P.},
@@ -324,7 +324,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>531</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D1</fr:addr><fr:route>D1.xml</fr:route><fr:title>Equations différentielles à points singuliers réguliers</fr:title><fr:date><fr:year>1970</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>603</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>D1</fr:addr><fr:route>D1.xml</fr:route><fr:title>Equations différentielles à points singuliers réguliers</fr:title><fr:date><fr:year>1970</fr:year></fr:date><fr:authors><fr:author>P. Deligne</fr:author></fr:authors><fr:meta
 name="venue">Springer Verlag <fr:em>Lecture Notes in Math.</fr:em> <fr:strong>163</fr:strong></fr:meta><fr:meta
 name="bibtex">@book{D1,
   author = {Deligne, P.},
@@ -340,7 +340,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>533</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>G</fr:addr><fr:route>G.xml</fr:route><fr:title>On the de Rham cohomology of algebraic varieties</fr:title><fr:date><fr:year>1966</fr:year></fr:date><fr:authors><fr:author>A. Grothendieck</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>605</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>G</fr:addr><fr:route>G.xml</fr:route><fr:title>On the de Rham cohomology of algebraic varieties</fr:title><fr:date><fr:year>1966</fr:year></fr:date><fr:authors><fr:author>A. Grothendieck</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>Publ. Math. IHÉS</fr:em> <fr:strong>29</fr:strong> pp. 95–103</fr:meta><fr:meta
 name="bibtex">@article{G,
   author = {Grothendieck, A.},
@@ -356,7 +356,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="false"
-root="false"><fr:frontmatter><fr:anchor>535</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FM</fr:addr><fr:route>FM.xml</fr:route><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>B. Messing</fr:author></fr:authors><fr:meta
+root="false"><fr:frontmatter><fr:anchor>607</fr:anchor><fr:taxon>Reference</fr:taxon><fr:addr>FM</fr:addr><fr:route>FM.xml</fr:route><fr:authors><fr:author>J.-M. Fontaine</fr:author><fr:author>B. Messing</fr:author></fr:authors><fr:meta
 name="venue"><fr:em>to appear</fr:em></fr:meta><fr:meta
 name="bibtex">@article{FM,
   author = {Fontaine, J.-M. and Messing, B.},
@@ -369,7 +369,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>547</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>619</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -379,7 +379,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>548</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>620</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -665,13 +665,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>549</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>621</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Mixed motives</fr:title><fr:number>1</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -720,7 +720,7 @@ addr="G">G</fr:link>] and [SGA4, XVI, 4.1]:
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -730,7 +730,7 @@ display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -741,7 +741,7 @@ display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -751,7 +751,7 @@ display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k,
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -783,13 +783,13 @@ addr="D4">D4</fr:link>].
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
-    
+
     
     giving rise to commutative diagrams
     <fr:tex
@@ -810,7 +810,7 @@ display="block">        \operatorname {H} _ { \mathrm {DR}} ^i(X)       =  \oper
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -828,7 +828,7 @@ type="external">Man</fr:link>]);
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -888,7 +888,7 @@ type="external">Man</fr:link>];
     the more general motives, considered here, are then called <fr:em>mixed motives</fr:em></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -907,7 +907,7 @@ type="external">(AM5)</fr:link>.
   </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -918,7 +918,7 @@ root="false"><fr:frontmatter><fr:anchor>349</fr:anchor><fr:taxon>Terminology</fr
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -927,7 +927,7 @@ root="false"><fr:frontmatter><fr:anchor>350</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -936,7 +936,7 @@ root="false"><fr:frontmatter><fr:anchor>351</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -947,7 +947,7 @@ type="external">(M5)</fr:link>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -956,7 +956,7 @@ root="false"><fr:frontmatter><fr:anchor>353</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -966,7 +966,7 @@ root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:addr>minus-three-poin
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {C}   \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes \mathbb {C}           \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f}           \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} } \colon            &amp;M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_{ { { \mathrm {cris}} \, \, p} }          \end {aligned}       </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -976,7 +976,7 @@ root="false"><fr:frontmatter><fr:anchor>355</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -984,7 +984,7 @@ root="false"><fr:frontmatter><fr:anchor>356</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -993,7 +993,7 @@ root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1001,7 +1001,7 @@ root="false"><fr:frontmatter><fr:anchor>358</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1012,7 +1012,7 @@ display="block">          \phi _p \colon  M_{ { { \mathrm {cris}} \, \, p} } \to
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1023,7 +1023,7 @@ addr="D2">D2</fr:link>, Definition 2.3.8].
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1038,7 +1038,7 @@ display="block">         F_ \infty          = c_ { \mathrm {B}}  c_ { \mathrm {D
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1048,7 +1048,7 @@ root="false"><fr:frontmatter><fr:anchor>362</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1057,7 +1057,7 @@ root="false"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1067,7 +1067,7 @@ root="false"><fr:frontmatter><fr:anchor>364</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1125,7 +1125,7 @@ addr="minus-three-points-1.4">(M1)–(M10)</fr:link>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1147,7 +1147,7 @@ addr="D2">D2</fr:link>, Section 3.2];
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1194,7 +1194,7 @@ addr="D5">D5</fr:link>].
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1228,7 +1228,7 @@ addr="Fa">Fa</fr:link>]).
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1246,7 +1246,7 @@ addr="minus-three-points-1.4">(M1)–(M10)</fr:link> for cohomology with proper 
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1266,7 +1266,7 @@ href="M10"
 type="external">(M10)</fr:link> as a germ — in the filter of complements of finite sets of prime numbers — of systems of automorphisms <fr:tex>\phi _p</fr:tex> of the <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex></fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1278,7 +1278,7 @@ root="false"><fr:frontmatter><fr:anchor>375</fr:anchor><fr:taxon>Proposition</fr
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1320,7 +1320,7 @@ addr="DM">DM</fr:link>, Theorem 2.11]).
 </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1336,7 +1336,7 @@ number="1.9"></fr:ref> generated (under <fr:tex>\oplus</fr:tex>, <fr:tex>\otimes
 </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1405,20 +1405,224 @@ display="block">            \operatorname {Gr} _n^W(M) \otimes \operatorname {Gr
         Here, neither reason (a) nor reason (b) apply.
       </html:li>
 
-    </html:ol></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+    </html:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-1.13</fr:addr><fr:route>minus-three-points-1.13.xml</fr:route><fr:number>1.13</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    The treatment of crystalline structures is not satisfying.
+    In the definition of realisation systems, I have not included the data  given in <fr:ref
+addr="minus-three-points-1.7"
+href="minus-three-points-1.7.xml"
+number="1.7"></fr:ref>, for the want of verifying their existence in the case of Lie algebras of <fr:tex>\pi _1</fr:tex> that interest us.
+    I have nevertheless included the data of <fr:tex>\phi _p</fr:tex>, despite its appearance as a bizarre addition, because the calculations in [minus-three-points-19 <fr:strong>(?)</fr:strong>] give an interesting result.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>394</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Here is a variant of the statement of <fr:ref
+addr="minus-three-points-1.4"
+href="minus-three-points-1.4.xml"
+number="1.4"></fr:ref>.
+    This formulation, which is less elementary, highlights the role of <fr:tex>F_ \infty</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>386</fr:anchor><fr:addr>minus-three-points-mp1</fr:addr><fr:route>minus-three-points-mp1.xml</fr:route><fr:number>M'1</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      To every algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex> is attached, in a functorial way, <fr:tex>M_ { \mathrm {B}} (C)</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    From <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> we deduce the data of <fr:link
+href="minus-three-points-m1.xml"
+type="local"
+addr="minus-three-points-m1">(M1)</fr:link> and <fr:link
+href="minus-three-points-m7.xml"
+type="local"
+addr="minus-three-points-m7">(M7)</fr:link> by setting <fr:tex>M_ { \mathrm {B}} \coloneqq  M_ { \mathrm {B}} ( \mathbb {C} )</fr:tex>, and the taking <fr:tex>F_ \infty</fr:tex> induced by <fr:tex>z \mapsto \bar {z} \colon \mathbb {C} \to \mathbb {C}</fr:tex>.
+    For <fr:tex>M= \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, we will have <fr:tex>M_ { \mathrm {B}} (C)= \operatorname {H} ^i(X(C), \mathbb {Q} )</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>387</fr:anchor><fr:addr>minus-three-points-mp2</fr:addr><fr:route>minus-three-points-mp2.xml</fr:route><fr:number>M'2</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The same as <fr:link
+href="minus-three-points-m2.xml"
+type="local"
+addr="minus-three-points-m2">(M2)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>388</fr:anchor><fr:addr>minus-three-points-mp8</fr:addr><fr:route>minus-three-points-mp8.xml</fr:route><fr:number>M'8</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The same as <fr:link
+href="minus-three-points-m8.xml"
+type="local"
+addr="minus-three-points-m8">(M8)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>389</fr:anchor><fr:addr>minus-three-points-mp3</fr:addr><fr:route>minus-three-points-mp3.xml</fr:route><fr:number>M'3</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      An <fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex>-sheaf <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    By "<fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex>-sheaf" we mean the data, for all <fr:tex>\ell</fr:tex>, of a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf <fr:tex>\mathcal {F}_ \ell</fr:tex>, and, for almost all <fr:tex>\ell</fr:tex>, of a <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell } \subset \mathcal {F}_ \ell</fr:tex> which generates <fr:tex>\mathcal {F}_ \ell</fr:tex>: the germ of the system of the <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }</fr:tex> is given.
+    On the spectrum of a field <fr:tex>k</fr:tex>, the data of <fr:tex>\mathcal {F}_ \ell</fr:tex> (resp. <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }</fr:tex>) is equivalent to that of, for every algebraic closure <fr:tex>\bar {k}</fr:tex> of <fr:tex>k</fr:tex>, a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-vector space <fr:tex>\mathcal {F}_ \ell ( \bar {k})</fr:tex> (resp. a <fr:tex>\mathbb {Z} _ \ell</fr:tex>-module <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }( \bar {k})</fr:tex> of finite type), functorially in <fr:tex>\bar {k}</fr:tex>, and such that the action of <fr:tex>\operatorname {Gal} ( \bar {k}/k)</fr:tex> is continuous.
+    Note that <fr:tex>\mathcal {F}_ \mathbb {A} ^ \mathrm {f} ( \bar {k})</fr:tex> is the restricted product of the <fr:tex>\mathcal {F}_ \ell ( \bar {k})</fr:tex> with respect to the <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }( \bar {k})</fr:tex>.
+  </fr:p><fr:p>
+    From <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>, we deduce the data of <fr:link
+href="minus-three-points-m3.xml"
+type="local"
+addr="minus-three-points-m3">(M3)</fr:link> and <fr:link
+href="minus-three-points-m9.xml"
+type="local"
+addr="minus-three-points-m9">(M9)</fr:link> by setting <fr:tex>M_ \mathbb {A} ^ \mathrm {f} \coloneqq (M_ \mathbb {A} ^ \mathrm {f} )_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} })</fr:tex>.
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>390</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+        We write <fr:tex>M_ \ell</fr:tex> (resp. <fr:tex>M_{ \mathbb {Z} _ \ell }</fr:tex>, <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>) for <fr:tex>(M_ \mathbb {A} ^ \mathrm {f} )_ \ell</fr:tex> (resp. <fr:tex>(M_ \mathbb {A} ^ \mathrm {f} )_{ \mathbb {Z} _ \ell }</fr:tex>, <fr:tex>(M_ \mathbb {A} ^ \mathrm {f} )_ \mathbb {A} ^ \mathrm {f}</fr:tex>).
+      </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
+    If <fr:tex>M= \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, and <fr:tex>a</fr:tex> is the morphism <fr:tex>X \to \operatorname {Spec} ( \mathbb {Q} )</fr:tex>, then <fr:tex>M_ \ell = \mathbb {R} ^ia_* \mathbb {Q} _ \ell</fr:tex>, and <fr:tex>M_{ \mathbb {Z} _ \ell }</fr:tex> is equal to the image of <fr:tex>\mathbb {R} ^ia_* \mathbb {Z} _ \ell</fr:tex> in <fr:tex>M_ \ell</fr:tex>.
+    We have that <fr:tex>\mathbb {R} ^ia_* \mathbb {Z} _ \ell ( \bar {k})= \operatorname {H} ^i(X \otimes _ \mathbb {Q} \bar {k}, \mathbb {Z} _ \ell )</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>391</fr:anchor><fr:addr>minus-three-points-mp4</fr:addr><fr:route>minus-three-points-mp4.xml</fr:route><fr:number>M'4</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For almost all primes <fr:tex>p</fr:tex>, an <fr:tex>F</fr:tex>-isocrystal <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex> on <fr:tex>\mathbb {F} _p</fr:tex>, i.e. a vector space <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex> over <fr:tex>\mathbb {Q} _p</fr:tex> endowed with an automorphism <fr:tex>\phi _p</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>392</fr:anchor><fr:addr>minus-three-points-mp5</fr:addr><fr:route>minus-three-points-mp5.xml</fr:route><fr:number>M'5</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      Comparison isomorphisms
+      <fr:tex
+display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes  C  \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes  C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} }_C)          \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }&amp; \colon  M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, p}           \end {aligned}       </fr:tex>
+      that are functorial in <fr:tex>C</fr:tex>, where <fr:tex>\bar { \mathbb {Q} }_C</fr:tex> is the algebraic closure of <fr:tex>\mathbb {Q}</fr:tex> in <fr:tex>C</fr:tex>.
+      The first is equivalent to the data of <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }</fr:tex> as in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link> satisfying <fr:link
+href="minus-three-points-am2.xml"
+type="local"
+addr="minus-three-points-am2">(AM2)</fr:link>;
+      the second is equivalent to the data of <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }</fr:tex> as in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link> satisfying <fr:link
+href="minus-three-points-am5.xml"
+type="local"
+addr="minus-three-points-am5">(AM5)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    In <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>, instead of giving the <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>, we could have given only the <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaves <fr:tex>M_ \ell</fr:tex>, replacing <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }</fr:tex> by the <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} } \colon  M_B(C) \otimes \mathbb {Q} _ \ell \xrightarrow { \sim }  M_ \ell ( \bar { \mathbb {Q} }_C)</fr:tex> and requiring the existence of an integer lattice <fr:tex>L \subset  M_B( \mathbb {C} )</fr:tex> such that the <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }(L \otimes \mathbb {Z} _ \ell )</fr:tex> be stable under <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex>.
+    They define the <fr:tex>M_{ \mathbb {Z} _ \ell }</fr:tex> of <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>393</fr:anchor><fr:addr>minus-three-points-mp6</fr:addr><fr:route>minus-three-points-mp6.xml</fr:route><fr:number>M'6</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>W</fr:tex> is a filtration of the objects of <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> to <fr:link
+href="minus-three-points-mp4.xml"
+type="local"
+addr="minus-three-points-mp4">(M'4)</fr:link>, respected by the comparison isomorphisms.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    A definition essentially equivalent to <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref> is then the following: a <fr:em>realisation system</fr:em> is a system <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> to <fr:link
+href="minus-three-points-mp6.xml"
+type="local"
+addr="minus-three-points-mp6">(M'6)</fr:link>, and <fr:link
+href="minus-three-points-mp8.xml"
+type="local"
+addr="minus-three-points-mp8">(M'8)</fr:link>, satisfying axioms <fr:link
+href="minus-three-points-am1.xml"
+type="local"
+addr="minus-three-points-am1">(AM1)</fr:link>, <fr:link
+href="minus-three-points-am2.xml"
+type="local"
+addr="minus-three-points-am2">(AM2)</fr:link>, and <fr:link
+href="minus-three-points-am4.xml"
+type="local"
+addr="minus-three-points-am4">(AM4)</fr:link> (suitably modified in the evident way).
+  </fr:p><fr:p>
+    The data of <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> is equivalent to a sheaf of <fr:tex>\mathbb {Q}</fr:tex>-vector spaces on the étale site of <fr:tex>\operatorname {Spec} \mathbb {R}</fr:tex>.
+    From this point of view, <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }</fr:tex> is an isomorphism to <fr:tex>\operatorname {Spec} ( \mathbb {R} )_ \mathrm {et}</fr:tex> between the inverse image of <fr:tex>M_ \ell</fr:tex> and the <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf induced by <fr:tex>M_ { \mathrm {B}}</fr:tex>.
+  </fr:p><fr:p>
+    In the language of sheaves, <fr:link
+href="minus-three-points-am3.xml"
+type="local"
+addr="minus-three-points-am3">(AM3)</fr:link> implies that <fr:tex>M_ \ell</fr:tex> comes from a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  S \setminus \{ \ell \}</fr:tex>.
+    The language of sheaves makes it clear that, for all <fr:tex>p</fr:tex>, <fr:tex>M_ \ell</fr:tex> defines a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Q} _p)</fr:tex> (cf. the analogous case of <fr:tex>\mathbb {R}</fr:tex> below).
+    The choice of a decomposition group is not required.
+  </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>550</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>622</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1427,7 +1631,7 @@ root="false"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:addr>minus-three-poin
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1442,7 +1646,7 @@ display="block">        \begin {gathered}          \widehat { \mathbb {Z}}   \xr
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1454,7 +1658,7 @@ root="false"><fr:frontmatter><fr:anchor>318</fr:anchor><fr:addr>minus-three-poin
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1465,7 +1669,7 @@ root="false"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr>minus-three-poin
 display="block">       X \otimes  k'        \coloneqq  X \times _{ \operatorname {Spec} (k)} \operatorname {Spec} (k').     </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1474,7 +1678,7 @@ root="false"><fr:frontmatter><fr:anchor>320</fr:anchor><fr:addr>minus-three-poin
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1493,7 +1697,7 @@ root="false"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr>minus-three-poin
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1525,7 +1729,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>540</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>612</fr:anchor><fr:addr>minus-three-points-3</fr:addr><fr:route>minus-three-points-3.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › <fr:tex>\mathbb {Z}(n)</fr:tex>-torsors</fr:title><fr:number>3</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -1535,7 +1739,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>541</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>613</fr:anchor><fr:addr>minus-three-points-2</fr:addr><fr:route>minus-three-points-2.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Examples</fr:title><fr:number>2</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter></fr:mainmatter></fr:tree><fr:tree
@@ -1545,7 +1749,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>542</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>614</fr:anchor><fr:addr>minus-three-points-introduction</fr:addr><fr:route>minus-three-points-introduction.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Introduction</fr:title><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
@@ -1831,13 +2035,13 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>543</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>615</fr:anchor><fr:addr>minus-three-points-1</fr:addr><fr:route>minus-three-points-1.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Mixed motives</fr:title><fr:number>1</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1886,7 +2090,7 @@ addr="G">G</fr:link>] and [SGA4, XVI, 4.1]:
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1896,7 +2100,7 @@ display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1907,7 +2111,7 @@ display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1917,7 +2121,7 @@ display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k,
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1949,13 +2153,13 @@ addr="D4">D4</fr:link>].
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
-    
+
     
     giving rise to commutative diagrams
     <fr:tex
@@ -1976,7 +2180,7 @@ display="block">        \operatorname {H} _ { \mathrm {DR}} ^i(X)       =  \oper
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -1994,7 +2198,7 @@ type="external">Man</fr:link>]);
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2054,7 +2258,7 @@ type="external">Man</fr:link>];
     the more general motives, considered here, are then called <fr:em>mixed motives</fr:em></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2073,7 +2277,7 @@ type="external">(AM5)</fr:link>.
   </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2084,7 +2288,7 @@ root="false"><fr:frontmatter><fr:anchor>349</fr:anchor><fr:taxon>Terminology</fr
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2093,7 +2297,7 @@ root="false"><fr:frontmatter><fr:anchor>350</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2102,7 +2306,7 @@ root="false"><fr:frontmatter><fr:anchor>351</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2113,7 +2317,7 @@ type="external">(M5)</fr:link>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2122,7 +2326,7 @@ root="false"><fr:frontmatter><fr:anchor>353</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2132,7 +2336,7 @@ root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:addr>minus-three-poin
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {C}   \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes \mathbb {C}           \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f}           \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} } \colon            &amp;M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_{ { { \mathrm {cris}} \, \, p} }          \end {aligned}       </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2142,7 +2346,7 @@ root="false"><fr:frontmatter><fr:anchor>355</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2150,7 +2354,7 @@ root="false"><fr:frontmatter><fr:anchor>356</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2159,7 +2363,7 @@ root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2167,7 +2371,7 @@ root="false"><fr:frontmatter><fr:anchor>358</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2178,7 +2382,7 @@ display="block">          \phi _p \colon  M_{ { { \mathrm {cris}} \, \, p} } \to
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2189,7 +2393,7 @@ addr="D2">D2</fr:link>, Definition 2.3.8].
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2204,7 +2408,7 @@ display="block">         F_ \infty          = c_ { \mathrm {B}}  c_ { \mathrm {D
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2214,7 +2418,7 @@ root="false"><fr:frontmatter><fr:anchor>362</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2223,7 +2427,7 @@ root="false"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2233,7 +2437,7 @@ root="false"><fr:frontmatter><fr:anchor>364</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2291,7 +2495,7 @@ addr="minus-three-points-1.4">(M1)–(M10)</fr:link>.
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2313,7 +2517,7 @@ addr="D2">D2</fr:link>, Section 3.2];
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2360,7 +2564,7 @@ addr="D5">D5</fr:link>].
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2394,7 +2598,7 @@ addr="Fa">Fa</fr:link>]).
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2412,7 +2616,7 @@ addr="minus-three-points-1.4">(M1)–(M10)</fr:link> for cohomology with proper 
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2432,7 +2636,7 @@ href="M10"
 type="external">(M10)</fr:link> as a germ — in the filter of complements of finite sets of prime numbers — of systems of automorphisms <fr:tex>\phi _p</fr:tex> of the <fr:tex>M_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex></fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2444,7 +2648,7 @@ root="false"><fr:frontmatter><fr:anchor>375</fr:anchor><fr:taxon>Proposition</fr
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="false"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2486,7 +2690,7 @@ addr="DM">DM</fr:link>, Theorem 2.11]).
 </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2502,7 +2706,7 @@ number="1.9"></fr:ref> generated (under <fr:tex>\oplus</fr:tex>, <fr:tex>\otimes
 </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2571,20 +2775,224 @@ display="block">            \operatorname {Gr} _n^W(M) \otimes \operatorname {Gr
         Here, neither reason (a) nor reason (b) apply.
       </html:li>
 
-    </html:ol></fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
+    </html:ol></fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>385</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-1.13</fr:addr><fr:route>minus-three-points-1.13.xml</fr:route><fr:number>1.13</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    The treatment of crystalline structures is not satisfying.
+    In the definition of realisation systems, I have not included the data  given in <fr:ref
+addr="minus-three-points-1.7"
+href="minus-three-points-1.7.xml"
+number="1.7"></fr:ref>, for the want of verifying their existence in the case of Lie algebras of <fr:tex>\pi _1</fr:tex> that interest us.
+    I have nevertheless included the data of <fr:tex>\phi _p</fr:tex>, despite its appearance as a bizarre addition, because the calculations in [minus-three-points-19 <fr:strong>(?)</fr:strong>] give an interesting result.
+  </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>394</fr:anchor><fr:addr>minus-three-points-1.14</fr:addr><fr:route>minus-three-points-1.14.xml</fr:route><fr:number>1.14</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+    Here is a variant of the statement of <fr:ref
+addr="minus-three-points-1.4"
+href="minus-three-points-1.4.xml"
+number="1.4"></fr:ref>.
+    This formulation, which is less elementary, highlights the role of <fr:tex>F_ \infty</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>386</fr:anchor><fr:addr>minus-three-points-mp1</fr:addr><fr:route>minus-three-points-mp1.xml</fr:route><fr:number>M'1</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      To every algebraic closure <fr:tex>C</fr:tex> of <fr:tex>\mathbb {R}</fr:tex> is attached, in a functorial way, <fr:tex>M_ { \mathrm {B}} (C)</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    From <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> we deduce the data of <fr:link
+href="minus-three-points-m1.xml"
+type="local"
+addr="minus-three-points-m1">(M1)</fr:link> and <fr:link
+href="minus-three-points-m7.xml"
+type="local"
+addr="minus-three-points-m7">(M7)</fr:link> by setting <fr:tex>M_ { \mathrm {B}} \coloneqq  M_ { \mathrm {B}} ( \mathbb {C} )</fr:tex>, and the taking <fr:tex>F_ \infty</fr:tex> induced by <fr:tex>z \mapsto \bar {z} \colon \mathbb {C} \to \mathbb {C}</fr:tex>.
+    For <fr:tex>M= \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, we will have <fr:tex>M_ { \mathrm {B}} (C)= \operatorname {H} ^i(X(C), \mathbb {Q} )</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>387</fr:anchor><fr:addr>minus-three-points-mp2</fr:addr><fr:route>minus-three-points-mp2.xml</fr:route><fr:number>M'2</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The same as <fr:link
+href="minus-three-points-m2.xml"
+type="local"
+addr="minus-three-points-m2">(M2)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>388</fr:anchor><fr:addr>minus-three-points-mp8</fr:addr><fr:route>minus-three-points-mp8.xml</fr:route><fr:number>M'8</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      The same as <fr:link
+href="minus-three-points-m8.xml"
+type="local"
+addr="minus-three-points-m8">(M8)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>389</fr:anchor><fr:addr>minus-three-points-mp3</fr:addr><fr:route>minus-three-points-mp3.xml</fr:route><fr:number>M'3</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      An <fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex>-sheaf <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> on <fr:tex>\operatorname {Spec} ( \mathbb {Q} )</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    By "<fr:tex>\mathbb {A} ^ \mathrm {f}</fr:tex>-sheaf" we mean the data, for all <fr:tex>\ell</fr:tex>, of a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf <fr:tex>\mathcal {F}_ \ell</fr:tex>, and, for almost all <fr:tex>\ell</fr:tex>, of a <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell } \subset \mathcal {F}_ \ell</fr:tex> which generates <fr:tex>\mathcal {F}_ \ell</fr:tex>: the germ of the system of the <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }</fr:tex> is given.
+    On the spectrum of a field <fr:tex>k</fr:tex>, the data of <fr:tex>\mathcal {F}_ \ell</fr:tex> (resp. <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }</fr:tex>) is equivalent to that of, for every algebraic closure <fr:tex>\bar {k}</fr:tex> of <fr:tex>k</fr:tex>, a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-vector space <fr:tex>\mathcal {F}_ \ell ( \bar {k})</fr:tex> (resp. a <fr:tex>\mathbb {Z} _ \ell</fr:tex>-module <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }( \bar {k})</fr:tex> of finite type), functorially in <fr:tex>\bar {k}</fr:tex>, and such that the action of <fr:tex>\operatorname {Gal} ( \bar {k}/k)</fr:tex> is continuous.
+    Note that <fr:tex>\mathcal {F}_ \mathbb {A} ^ \mathrm {f} ( \bar {k})</fr:tex> is the restricted product of the <fr:tex>\mathcal {F}_ \ell ( \bar {k})</fr:tex> with respect to the <fr:tex>\mathcal {F}_{ \mathbb {Z} _ \ell }( \bar {k})</fr:tex>.
+  </fr:p><fr:p>
+    From <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>, we deduce the data of <fr:link
+href="minus-three-points-m3.xml"
+type="local"
+addr="minus-three-points-m3">(M3)</fr:link> and <fr:link
+href="minus-three-points-m9.xml"
+type="local"
+addr="minus-three-points-m9">(M9)</fr:link> by setting <fr:tex>M_ \mathbb {A} ^ \mathrm {f} \coloneqq (M_ \mathbb {A} ^ \mathrm {f} )_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} })</fr:tex>.
+
+    <fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>390</fr:anchor><fr:taxon>Notation</fr:taxon><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+        We write <fr:tex>M_ \ell</fr:tex> (resp. <fr:tex>M_{ \mathbb {Z} _ \ell }</fr:tex>, <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>) for <fr:tex>(M_ \mathbb {A} ^ \mathrm {f} )_ \ell</fr:tex> (resp. <fr:tex>(M_ \mathbb {A} ^ \mathrm {f} )_{ \mathbb {Z} _ \ell }</fr:tex>, <fr:tex>(M_ \mathbb {A} ^ \mathrm {f} )_ \mathbb {A} ^ \mathrm {f}</fr:tex>).
+      </fr:p></fr:mainmatter></fr:tree></fr:p><fr:p>
+    If <fr:tex>M= \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>, and <fr:tex>a</fr:tex> is the morphism <fr:tex>X \to \operatorname {Spec} ( \mathbb {Q} )</fr:tex>, then <fr:tex>M_ \ell = \mathbb {R} ^ia_* \mathbb {Q} _ \ell</fr:tex>, and <fr:tex>M_{ \mathbb {Z} _ \ell }</fr:tex> is equal to the image of <fr:tex>\mathbb {R} ^ia_* \mathbb {Z} _ \ell</fr:tex> in <fr:tex>M_ \ell</fr:tex>.
+    We have that <fr:tex>\mathbb {R} ^ia_* \mathbb {Z} _ \ell ( \bar {k})= \operatorname {H} ^i(X \otimes _ \mathbb {Q} \bar {k}, \mathbb {Z} _ \ell )</fr:tex>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>391</fr:anchor><fr:addr>minus-three-points-mp4</fr:addr><fr:route>minus-three-points-mp4.xml</fr:route><fr:number>M'4</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      For almost all primes <fr:tex>p</fr:tex>, an <fr:tex>F</fr:tex>-isocrystal <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex> on <fr:tex>\mathbb {F} _p</fr:tex>, i.e. a vector space <fr:tex>M_ { { \mathrm {cris}} \, \, p}</fr:tex> over <fr:tex>\mathbb {Q} _p</fr:tex> endowed with an automorphism <fr:tex>\phi _p</fr:tex>.
+    </fr:p></fr:mainmatter></fr:tree><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>392</fr:anchor><fr:addr>minus-three-points-mp5</fr:addr><fr:route>minus-three-points-mp5.xml</fr:route><fr:number>M'5</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      Comparison isomorphisms
+      <fr:tex
+display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes  C  \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes  C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} }_C)          \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }&amp; \colon  M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, p}           \end {aligned}       </fr:tex>
+      that are functorial in <fr:tex>C</fr:tex>, where <fr:tex>\bar { \mathbb {Q} }_C</fr:tex> is the algebraic closure of <fr:tex>\mathbb {Q}</fr:tex> in <fr:tex>C</fr:tex>.
+      The first is equivalent to the data of <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }</fr:tex> as in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link> satisfying <fr:link
+href="minus-three-points-am2.xml"
+type="local"
+addr="minus-three-points-am2">(AM2)</fr:link>;
+      the second is equivalent to the data of <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }</fr:tex> as in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link> satisfying <fr:link
+href="minus-three-points-am5.xml"
+type="local"
+addr="minus-three-points-am5">(AM5)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    In <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>, instead of giving the <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>, we could have given only the <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaves <fr:tex>M_ \ell</fr:tex>, replacing <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }</fr:tex> by the <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} } \colon  M_B(C) \otimes \mathbb {Q} _ \ell \xrightarrow { \sim }  M_ \ell ( \bar { \mathbb {Q} }_C)</fr:tex> and requiring the existence of an integer lattice <fr:tex>L \subset  M_B( \mathbb {C} )</fr:tex> such that the <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }(L \otimes \mathbb {Z} _ \ell )</fr:tex> be stable under <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex>.
+    They define the <fr:tex>M_{ \mathbb {Z} _ \ell }</fr:tex> of <fr:link
+href="minus-three-points-mp3.xml"
+type="local"
+addr="minus-three-points-mp3">(M'3)</fr:link>.
+  </fr:p><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="false"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>393</fr:anchor><fr:addr>minus-three-points-mp6</fr:addr><fr:route>minus-three-points-mp6.xml</fr:route><fr:number>M'6</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>W</fr:tex> is a filtration of the objects of <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> to <fr:link
+href="minus-three-points-mp4.xml"
+type="local"
+addr="minus-three-points-mp4">(M'4)</fr:link>, respected by the comparison isomorphisms.
+    </fr:p></fr:mainmatter></fr:tree><fr:p>
+    A definition essentially equivalent to <fr:ref
+addr="minus-three-points-1.9"
+href="minus-three-points-1.9.xml"
+taxon="Definition"
+number="1.9"></fr:ref> is then the following: a <fr:em>realisation system</fr:em> is a system <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> to <fr:link
+href="minus-three-points-mp6.xml"
+type="local"
+addr="minus-three-points-mp6">(M'6)</fr:link>, and <fr:link
+href="minus-three-points-mp8.xml"
+type="local"
+addr="minus-three-points-mp8">(M'8)</fr:link>, satisfying axioms <fr:link
+href="minus-three-points-am1.xml"
+type="local"
+addr="minus-three-points-am1">(AM1)</fr:link>, <fr:link
+href="minus-three-points-am2.xml"
+type="local"
+addr="minus-three-points-am2">(AM2)</fr:link>, and <fr:link
+href="minus-three-points-am4.xml"
+type="local"
+addr="minus-three-points-am4">(AM4)</fr:link> (suitably modified in the evident way).
+  </fr:p><fr:p>
+    The data of <fr:link
+href="minus-three-points-mp1.xml"
+type="local"
+addr="minus-three-points-mp1">(M'1)</fr:link> is equivalent to a sheaf of <fr:tex>\mathbb {Q}</fr:tex>-vector spaces on the étale site of <fr:tex>\operatorname {Spec} \mathbb {R}</fr:tex>.
+    From this point of view, <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }</fr:tex> is an isomorphism to <fr:tex>\operatorname {Spec} ( \mathbb {R} )_ \mathrm {et}</fr:tex> between the inverse image of <fr:tex>M_ \ell</fr:tex> and the <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf induced by <fr:tex>M_ { \mathrm {B}}</fr:tex>.
+  </fr:p><fr:p>
+    In the language of sheaves, <fr:link
+href="minus-three-points-am3.xml"
+type="local"
+addr="minus-three-points-am3">(AM3)</fr:link> implies that <fr:tex>M_ \ell</fr:tex> comes from a smooth <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Z} ) \setminus  S \setminus \{ \ell \}</fr:tex>.
+    The language of sheaves makes it clear that, for all <fr:tex>p</fr:tex>, <fr:tex>M_ \ell</fr:tex> defines a <fr:tex>\mathbb {Q} _ \ell</fr:tex>-sheaf on <fr:tex>\operatorname {Spec} ( \mathbb {Q} _p)</fr:tex> (cf. the analogous case of <fr:tex>\mathbb {R}</fr:tex> below).
+    The choice of a decomposition group is not required.
+  </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
 numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>544</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
+root="false"><fr:frontmatter><fr:anchor>616</fr:anchor><fr:addr>minus-three-points-0</fr:addr><fr:route>minus-three-points-0.xml</fr:route><fr:title><fr:link
 href="index.xml"
 type="local"
 addr="index">Deligne's "The fundamental group of the projective line minus three points"</fr:link> › Terminology and notation</fr:title><fr:number>0</fr:number><fr:parent>index</fr:parent></fr:frontmatter><fr:mainmatter><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2593,7 +3001,7 @@ root="false"><fr:frontmatter><fr:anchor>316</fr:anchor><fr:addr>minus-three-poin
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2608,7 +3016,7 @@ display="block">        \begin {gathered}          \widehat { \mathbb {Z}}   \xr
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2620,7 +3028,7 @@ root="false"><fr:frontmatter><fr:anchor>318</fr:anchor><fr:addr>minus-three-poin
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2631,7 +3039,7 @@ root="false"><fr:frontmatter><fr:anchor>319</fr:anchor><fr:addr>minus-three-poin
 display="block">       X \otimes  k'        \coloneqq  X \times _{ \operatorname {Spec} (k)} \operatorname {Spec} (k').     </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2640,7 +3048,7 @@ root="false"><fr:frontmatter><fr:anchor>320</fr:anchor><fr:addr>minus-three-poin
   </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -2659,7 +3067,7 @@ root="false"><fr:frontmatter><fr:anchor>322</fr:anchor><fr:addr>minus-three-poin
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"

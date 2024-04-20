@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>398</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>408</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.4</fr:addr><fr:route>minus-three-points-1.1.4.xml</fr:route><fr:number>1.1.4</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} ^i(X \otimes \bar {k}, \mathbb {Q} _ \ell )         =  \operatorname {H} ^i(X( \mathbb {C} ), \mathbb {Q} ) \otimes _{ \mathbb {Q} } \mathbb {Q} _ \ell        \tag{1.1.4}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>397</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>407</fr:anchor><fr:addr>minus-three-points-1.1</fr:addr><fr:route>minus-three-points-1.1.xml</fr:route><fr:number>1.1</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     For algebraic varieties, we have various parallel cohomology theories.
     The most important for us will be de Rham and <fr:tex>\ell</fr:tex>-adic cohomology.
   </fr:p><fr:ul><fr:li><fr:strong>De Rham cohomology.</fr:strong>
@@ -60,7 +60,7 @@ addr="G">G</fr:link>] and [SGA4, XVI, 4.1]:
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -70,7 +70,7 @@ display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X)         =  \
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -81,7 +81,7 @@ display="block">          \operatorname {H} ^i(X, \mathbb {Q} _ \ell )         =
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -91,7 +91,7 @@ display="block">          \operatorname {H} _ { \mathrm {DR}} ^i(X) \otimes _{k,
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -123,13 +123,13 @@ addr="D4">D4</fr:link>].
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"><fr:frontmatter><fr:anchor>255</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-1.1.5</fr:addr><fr:route>minus-three-points-1.1.5.xml</fr:route><fr:number>1.1.5</fr:number><fr:parent>minus-three-points-1.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \operatorname {H} _ \mathrm {mot} ^i(X \times  Y)          \simeq   \bigoplus _{i=j+k}  \operatorname {H} _ \mathrm {mot} ^j(X) \otimes \operatorname {H} _ \mathrm {mot} ^k(Y)       \tag{1.1.5}       </fr:tex></fr:mainmatter></fr:tree>
-    
+
     
     giving rise to commutative diagrams
     <fr:tex
@@ -154,7 +154,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>396</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>406</fr:anchor><fr:addr>minus-three-points-1.6</fr:addr><fr:route>minus-three-points-1.6.xml</fr:route><fr:number>1.6</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     A scheme <fr:tex>X</fr:tex> of finite type over <fr:tex>\mathbb {Q}</fr:tex> should define, for each <fr:tex>i</fr:tex>, a motive <fr:tex>M \coloneqq   \operatorname {H} _ \mathrm {mot} ^i(X)</fr:tex>.
     
     In this section, we will partially describe the system <fr:link
@@ -172,7 +172,7 @@ addr="D2">D2</fr:link>, Section 3.2];
     <fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"

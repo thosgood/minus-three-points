@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>495</fr:anchor><fr:addr>minus-three-points-m5</fr:addr><fr:route>minus-three-points-m5.xml</fr:route><fr:number>M5</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>537</fr:anchor><fr:addr>minus-three-points-m5</fr:addr><fr:route>minus-three-points-m5.xml</fr:route><fr:number>M5</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Comparison isomorphisms
       <fr:tex
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {C}   \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes \mathbb {C}           \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f}           \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} } \colon            &amp;M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_{ { { \mathrm {cris}} \, \, p} }          \end {aligned}       </fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>494</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>536</fr:anchor><fr:addr>minus-three-points-1.4</fr:addr><fr:route>minus-three-points-1.4.xml</fr:route><fr:number>1.4</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     If we cannot define the category of motives, we can at least describe a sequence of compatibilities between the <fr:tex>\operatorname {H} ^i(X)</fr:tex> taken in the various cohomological theories, i.e. describe compatibilities that should exist between the various realisations of a motive.
     We will explain the case of motives over <fr:tex>\mathbb {Q}</fr:tex>:
     a motive over <fr:tex>\mathbb {Q}</fr:tex> should give rise to a system <fr:link
@@ -32,7 +32,7 @@ type="external">(AM5)</fr:link>.
   </fr:p><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -43,7 +43,7 @@ root="false"><fr:frontmatter><fr:anchor>349</fr:anchor><fr:taxon>Terminology</fr
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -52,7 +52,7 @@ root="false"><fr:frontmatter><fr:anchor>350</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -61,7 +61,7 @@ root="false"><fr:frontmatter><fr:anchor>351</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -72,7 +72,7 @@ type="external">(M5)</fr:link>.
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -81,7 +81,7 @@ root="false"><fr:frontmatter><fr:anchor>353</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -91,7 +91,7 @@ root="false"><fr:frontmatter><fr:anchor>354</fr:anchor><fr:addr>minus-three-poin
 display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {C}   \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes \mathbb {C}           \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} } \colon            &amp;M_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f}           \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} } \colon            &amp;M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_{ { { \mathrm {cris}} \, \, p} }          \end {aligned}       </fr:tex></fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -101,7 +101,7 @@ root="false"><fr:frontmatter><fr:anchor>355</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -109,7 +109,7 @@ root="false"><fr:frontmatter><fr:anchor>356</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -118,7 +118,7 @@ root="false"><fr:frontmatter><fr:anchor>357</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -126,7 +126,7 @@ root="false"><fr:frontmatter><fr:anchor>358</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -137,7 +137,7 @@ display="block">          \phi _p \colon  M_{ { { \mathrm {cris}} \, \, p} } \to
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -148,7 +148,7 @@ addr="D2">D2</fr:link>, Definition 2.3.8].
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -163,7 +163,7 @@ display="block">         F_ \infty          = c_ { \mathrm {B}}  c_ { \mathrm {D
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -173,7 +173,7 @@ root="false"><fr:frontmatter><fr:anchor>362</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
@@ -182,11 +182,37 @@ root="false"><fr:frontmatter><fr:anchor>363</fr:anchor><fr:addr>minus-three-poin
     </fr:p></fr:mainmatter></fr:tree><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
-numbered="true"
+numbered="false"
 show-heading="true"
 show-metadata="false"
 expanded="true"
 root="false"><fr:frontmatter><fr:anchor>364</fr:anchor><fr:addr>minus-three-points-am5</fr:addr><fr:route>minus-three-points-am5.xml</fr:route><fr:number>AM5</fr:number><fr:parent>minus-three-points-1.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Let <fr:tex>c \in \operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> be complex conjugation.
       Then <fr:tex>c</fr:tex> acts on <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex> respecting <fr:tex>M_ { \mathrm {B}} \subset  M_ \mathbb {A} ^ \mathrm {f}</fr:tex>, and induces the involution <fr:tex>F_ \infty</fr:tex> on <fr:tex>M_ { \mathrm {B}}</fr:tex>.
-    </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
+    </fr:p></fr:mainmatter></fr:tree></fr:mainmatter></fr:tree></fr:context><fr:related></fr:related><fr:backlinks><fr:tree
+xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
+toc="true"
+numbered="false"
+show-heading="true"
+show-metadata="true"
+expanded="true"
+root="false"><fr:frontmatter><fr:anchor>535</fr:anchor><fr:addr>minus-three-points-mp5</fr:addr><fr:route>minus-three-points-mp5.xml</fr:route><fr:number>M'5</fr:number><fr:parent>minus-three-points-1.14</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+      Comparison isomorphisms
+      <fr:tex
+display="block">          \begin {aligned}            \operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes  C  \xrightarrow { \sim }  M_ { \mathrm {DR}} \otimes  C          \\ \operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }&amp; \colon  M_ { \mathrm {B}} (C) \otimes \mathbb {A} ^ \mathrm {f}   \xrightarrow { \sim }  M_ \mathbb {A} ^ \mathrm {f} ( \bar { \mathbb {Q} }_C)          \\ \operatorname {comp} _{ { { \mathrm {cris}} \, \, p} , { \mathrm {DR}} }&amp; \colon  M_ { \mathrm {DR}} \otimes \mathbb {Q} _p  \xrightarrow { \sim }  M_ { { \mathrm {cris}} \, \, p}           \end {aligned}       </fr:tex>
+      that are functorial in <fr:tex>C</fr:tex>, where <fr:tex>\bar { \mathbb {Q} }_C</fr:tex> is the algebraic closure of <fr:tex>\mathbb {Q}</fr:tex> in <fr:tex>C</fr:tex>.
+      The first is equivalent to the data of <fr:tex>\operatorname {comp} _{ { \mathrm {DR}} , { \mathrm {B}} }</fr:tex> as in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link> satisfying <fr:link
+href="minus-three-points-am2.xml"
+type="local"
+addr="minus-three-points-am2">(AM2)</fr:link>;
+      the second is equivalent to the data of <fr:tex>\operatorname {comp} _{ \mathbb {A} ^ \mathrm {f} , { \mathrm {B}} }</fr:tex> as in <fr:link
+href="minus-three-points-m5.xml"
+type="local"
+addr="minus-three-points-m5">(M5)</fr:link> satisfying <fr:link
+href="minus-three-points-am5.xml"
+type="local"
+addr="minus-three-points-am5">(AM5)</fr:link>.
+    </fr:p></fr:mainmatter></fr:tree></fr:backlinks><fr:references></fr:references></fr:backmatter></fr:tree>
