@@ -498,8 +498,8 @@
     \p{
       We will construct an isomorphism of torsors
       ##{
-        Q_{\ZZ/(N)}
-        = \sum \alpha^{\otimes(k-1)}K(-\alpha)_{\ZZ/(N)}
+        Q_{\ZZ{/}(N)}
+        = \sum \alpha^{\otimes(k-1)}K(-\alpha)_{\ZZ{/}(N)}
       \startverb\tag{3.7.1}\stopverb
       }
       where the sum is taken over the #{N}-th roots of #{1} that are not #{1} itself.
