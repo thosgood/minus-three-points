@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>875</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.3</fr:addr><fr:route>minus-three-points-3.2.3.xml</fr:route><fr:number>3.2.3</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>877</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.3</fr:addr><fr:route>minus-three-points-3.2.3.xml</fr:route><fr:number>3.2.3</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \ell _k^{(p)}(z)         =  \lim _N  \frac {1}{1-z^{p^N}}  \sum _{n=1, p \nmid  n}^{p^N-1} z^n/n^k.       \tag{3.2.3}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>874</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>876</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Some preliminaries, before defining <fr:tex>\phi _p</fr:tex>.
     The <fr:tex>k</fr:tex>-logarithm is defined for <fr:tex>|z| \leqslant1</fr:tex> by
 
@@ -118,7 +118,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>873</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>875</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Some preliminaries, before defining <fr:tex>\phi _p</fr:tex>.
     The <fr:tex>k</fr:tex>-logarithm is defined for <fr:tex>|z| \leqslant1</fr:tex> by
 

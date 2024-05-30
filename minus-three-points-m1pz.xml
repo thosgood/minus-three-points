@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>961</fr:anchor><fr:addr>minus-three-points-m1pz</fr:addr><fr:route>minus-three-points-m1pz.xml</fr:route><fr:number>M1PZ</fr:number><fr:parent>minus-three-points-2.7</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>P_ { \mathrm {B}}</fr:tex> is an <fr:tex>M_ { \mathrm {B}}</fr:tex>-torsor.
+root="false"><fr:frontmatter><fr:anchor>969</fr:anchor><fr:addr>minus-three-points-m1pz</fr:addr><fr:route>minus-three-points-m1pz.xml</fr:route><fr:number>M1PZ</fr:number><fr:parent>minus-three-points-2.7</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>P_ { \mathrm {B}}</fr:tex> is an <fr:tex>M_ { \mathrm {B}}</fr:tex>-torsor.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>960</fr:anchor><fr:addr>minus-three-points-2.7</fr:addr><fr:route>minus-three-points-2.7.xml</fr:route><fr:number>2.7</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>968</fr:anchor><fr:addr>minus-three-points-2.7</fr:addr><fr:route>minus-three-points-2.7.xml</fr:route><fr:number>2.7</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>M</fr:tex> be a realisation system with integer coefficients.
     An <fr:em>extension</fr:em> <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Z} (0)</fr:tex> by <fr:tex>M</fr:tex> is an extension <fr:tex>E \otimes \mathbb {Q}</fr:tex> of <fr:tex>\mathbb {Q} (0)</fr:tex> by <fr:tex>M \otimes \mathbb {Q}</fr:tex>, endowed with an integer structure such that the sequence <fr:tex>0 \to  M_ { \mathrm {B}} \to  E_ { \mathrm {B}} \to \mathbb {Z} \to0</fr:tex> is exact.
 

@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1063</fr:anchor><fr:addr>minus-three-points-mp3sz</fr:addr><fr:route>minus-three-points-mp3sz.xml</fr:route><fr:number>M'3SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1071</fr:anchor><fr:addr>minus-three-points-mp3sz</fr:addr><fr:route>minus-three-points-mp3sz.xml</fr:route><fr:number>M'3SZ</fr:number><fr:parent>minus-three-points-1.24</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of a <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>M_ \ell</fr:tex> on <fr:tex>S[1/ \ell ]</fr:tex>.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1062</fr:anchor><fr:addr>minus-three-points-1.24</fr:addr><fr:route>minus-three-points-1.24.xml</fr:route><fr:number>1.24</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1070</fr:anchor><fr:addr>minus-three-points-1.24</fr:addr><fr:route>minus-three-points-1.24.xml</fr:route><fr:number>1.24</fr:number><fr:parent>minus-three-points-1</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     On a more general base <fr:tex>S</fr:tex>, a realisation system <fr:em>with integer coefficients</fr:em> is a realisation system <fr:tex>M \otimes \mathbb {Q}</fr:tex> endowed with a local system of torsion-free <fr:tex>\mathbb {Z}</fr:tex>-modules <fr:tex>M_ { \mathrm {B}} \subset (M \otimes \mathbb {Q} )_ { \mathrm {B}}</fr:tex> satisfying <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {Q} \xrightarrow { \sim } (M \otimes \mathbb {Q} )_ { \mathrm {B}}</fr:tex> (a "lattice") and such that the <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>M_ { \mathrm {B}} \otimes \mathbb {Z} _ \ell</fr:tex> on <fr:tex>S( \mathbb {C} )</fr:tex> corresponds, under <fr:tex>\operatorname {comp} _{ \ell , { \mathrm {B}} }</fr:tex>, to a smooth <fr:tex>\mathbb {Z} _ \ell</fr:tex>-sheaf <fr:tex>M_ \ell \subset (M \otimes \mathbb {Q} )_ \ell</fr:tex> on <fr:tex>S[1/ \ell ]</fr:tex>.
   </fr:p><fr:p>
     This causes us to modify <fr:link

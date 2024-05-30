@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1023</fr:anchor><fr:addr>minus-three-points-m9p</fr:addr><fr:route>minus-three-points-m9p.xml</fr:route><fr:number>M9P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1031</fr:anchor><fr:addr>minus-three-points-m9p</fr:addr><fr:route>minus-three-points-m9p.xml</fr:route><fr:number>M9P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The data of the action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> on <fr:tex>E_ \mathbb {A} ^ \mathrm {f}</fr:tex> is equivalent to that of an action of <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex> on <fr:tex>P_ \mathbb {A} ^ \mathrm {f}</fr:tex>, which makes <fr:tex>P_ \mathbb {A} ^ \mathrm {f}</fr:tex> an equivariant <fr:tex>M_ \mathbb {A} ^ \mathrm {f}</fr:tex>-torsor.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>1022</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>1030</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>M</fr:tex> be a realisation system <fr:ref
 addr="minus-three-points-1.9"
 href="minus-three-points-1.9.xml"

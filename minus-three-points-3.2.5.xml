@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>880</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.5</fr:addr><fr:route>minus-three-points-3.2.5.xml</fr:route><fr:number>3.2.5</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>882</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.2.5</fr:addr><fr:route>minus-three-points-3.2.5.xml</fr:route><fr:number>3.2.5</fr:number><fr:parent>minus-three-points-3.2</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">         N^{k-1} \sum _{u^N=z}  \ell _k^{(p)}(u)         =  \ell _k^{(p)}(z).       \tag{3.2.5}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>879</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>881</fr:anchor><fr:addr>minus-three-points-3.2</fr:addr><fr:route>minus-three-points-3.2.xml</fr:route><fr:number>3.2</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Some preliminaries, before defining <fr:tex>\phi _p</fr:tex>.
     The <fr:tex>k</fr:tex>-logarithm is defined for <fr:tex>|z| \leqslant1</fr:tex> by
 

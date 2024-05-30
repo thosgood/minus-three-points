@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>975</fr:anchor><fr:addr>minus-three-points-m39pz</fr:addr><fr:route>minus-three-points-m39pz.xml</fr:route><fr:number>M3PZ,M9PZ</fr:number><fr:parent>minus-three-points-2.7</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>P_ \ell</fr:tex> is, for each <fr:tex>\ell</fr:tex>, a <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex>-equivariant <fr:tex>M_ \ell</fr:tex>-torsor.
+root="false"><fr:frontmatter><fr:anchor>983</fr:anchor><fr:addr>minus-three-points-m39pz</fr:addr><fr:route>minus-three-points-m39pz.xml</fr:route><fr:number>M3PZ,M9PZ</fr:number><fr:parent>minus-three-points-2.7</fr:parent></fr:frontmatter><fr:mainmatter><fr:p><fr:tex>P_ \ell</fr:tex> is, for each <fr:tex>\ell</fr:tex>, a <fr:tex>\operatorname {Gal} ( \bar { \mathbb {Q} }/ \mathbb {Q} )</fr:tex>-equivariant <fr:tex>M_ \ell</fr:tex>-torsor.
       Giving a projective system of equivariant <fr:tex>M_{ \mathbb {Z} {/}(n)}</fr:tex>-torsors <fr:tex>P_{ \mathbb {Z} {/}(n)}</fr:tex> is equivalent to giving their projective limit <fr:tex>P_{ \widehat { \mathbb {Z}} }</fr:tex>, which is an equivariant <fr:tex>M_{ \widehat { \mathbb {Z}} }</fr:tex>-torsor.
     </fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
@@ -16,7 +16,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>974</fr:anchor><fr:addr>minus-three-points-2.7</fr:addr><fr:route>minus-three-points-2.7.xml</fr:route><fr:number>2.7</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>982</fr:anchor><fr:addr>minus-three-points-2.7</fr:addr><fr:route>minus-three-points-2.7.xml</fr:route><fr:number>2.7</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>M</fr:tex> be a realisation system with integer coefficients.
     An <fr:em>extension</fr:em> <fr:tex>E</fr:tex> of <fr:tex>\mathbb {Z} (0)</fr:tex> by <fr:tex>M</fr:tex> is an extension <fr:tex>E \otimes \mathbb {Q}</fr:tex> of <fr:tex>\mathbb {Q} (0)</fr:tex> by <fr:tex>M \otimes \mathbb {Q}</fr:tex>, endowed with an integer structure such that the sequence <fr:tex>0 \to  M_ { \mathrm {B}} \to  E_ { \mathrm {B}} \to \mathbb {Z} \to0</fr:tex> is exact.
 

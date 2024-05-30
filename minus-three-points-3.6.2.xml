@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>910</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.2</fr:addr><fr:route>minus-three-points-3.6.2.xml</fr:route><fr:number>3.6.2</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>913</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.6.2</fr:addr><fr:route>minus-three-points-3.6.2.xml</fr:route><fr:number>3.6.2</fr:number><fr:parent>minus-three-points-3.6</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \sigma  p^ \wedge  - p^ \wedge          = (c^k-1)(p_M)^ \wedge .       \tag{3.6.2}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>909</fr:anchor><fr:taxon>Paraphrase</fr:taxon><fr:addr>minus-three-points-3.6</fr:addr><fr:route>minus-three-points-3.6.xml</fr:route><fr:number>3.6</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>912</fr:anchor><fr:taxon>Paraphrase</fr:taxon><fr:addr>minus-three-points-3.6</fr:addr><fr:route>minus-three-points-3.6.xml</fr:route><fr:number>3.6</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>P</fr:tex> be a torsor for a realisation system <fr:tex>M</fr:tex> with integer coefficients.
     The fact that <fr:tex>P</fr:tex> is <fr:tex>n</fr:tex>-torsion means more than "every realisation is <fr:tex>n</fr:tex>-torsion".
     Let <fr:tex>\frac {1}{n}M</fr:tex> be the realisation system <fr:tex>M \otimes \mathbb {Q}</fr:tex>, endowed with the integer structure <fr:tex>\frac {1}{n}M_ { \mathrm {B}}</fr:tex>.

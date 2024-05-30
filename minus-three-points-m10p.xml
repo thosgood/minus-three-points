@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>955</fr:anchor><fr:addr>minus-three-points-m10p</fr:addr><fr:route>minus-three-points-m10p.xml</fr:route><fr:number>M10P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>963</fr:anchor><fr:addr>minus-three-points-m10p</fr:addr><fr:route>minus-three-points-m10p.xml</fr:route><fr:number>M10P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       Similarly, the automorphism <fr:tex>\phi _p</fr:tex> of <fr:tex>E_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex> corresponds to an automorphism <fr:tex>\phi _p</fr:tex> of <fr:tex>P_ { \mathrm {DR}} \otimes \mathbb {Q} _p</fr:tex> such that
       <fr:tex
 display="block">          \phi _p(x+m)         =  \phi _p(x) +  \phi _p(m).       </fr:tex></fr:p></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
@@ -17,7 +17,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>954</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>962</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>M</fr:tex> be a realisation system <fr:ref
 addr="minus-three-points-1.9"
 href="minus-three-points-1.9.xml"

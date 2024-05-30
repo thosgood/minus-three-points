@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>990</fr:anchor><fr:addr>minus-three-points-m5p</fr:addr><fr:route>minus-three-points-m5p.xml</fr:route><fr:number>M5P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>998</fr:anchor><fr:addr>minus-three-points-m5p</fr:addr><fr:route>minus-three-points-m5p.xml</fr:route><fr:number>M5P</fr:number><fr:parent>minus-three-points-2.5</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
       The comparison morphisms for <fr:tex>E</fr:tex> can be identified with comparison morphisms <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {C} \xrightarrow { \sim }  P_ { \mathrm {DR}} \otimes \mathbb {C}</fr:tex>, <fr:tex>P_ { \mathrm {B}} \otimes \mathbb {A} ^ \mathrm {f} \xrightarrow { \sim }  P_ \mathbb {A} ^ \mathrm {f}</fr:tex>, and <fr:tex>P_ { \mathrm {DR}} \otimes \mathbb {Q} _p \xrightarrow { \sim }  P_ { { \mathrm {cris}} \, \, p}</fr:tex> that are compatible with the analogous morphisms for <fr:tex>M</fr:tex>.
 
       <fr:tree
@@ -28,7 +28,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>989</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>997</fr:anchor><fr:addr>minus-three-points-2.5</fr:addr><fr:route>minus-three-points-2.5.xml</fr:route><fr:number>2.5</fr:number><fr:parent>minus-three-points-2</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     Let <fr:tex>M</fr:tex> be a realisation system <fr:ref
 addr="minus-three-points-1.9"
 href="minus-three-points-1.9.xml"
@@ -188,7 +188,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>988</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>996</fr:anchor><fr:addr>minus-three-points-0.4</fr:addr><fr:route>minus-three-points-0.4.xml</fr:route><fr:number>0.4</fr:number><fr:parent>minus-three-points-0</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>\otimes</fr:tex> an extension of scalars.
     For example, if <fr:tex>X</fr:tex> is a scheme over <fr:tex>k</fr:tex>, and <fr:tex>k'</fr:tex> is an extension of <fr:tex>k</fr:tex>, then we set
     <fr:tex

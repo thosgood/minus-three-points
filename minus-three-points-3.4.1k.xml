@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>897</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.4.1k</fr:addr><fr:route>minus-three-points-3.4.1k.xml</fr:route><fr:number>3.4.1k</fr:number><fr:parent>minus-three-points-3.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>899</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.4.1k</fr:addr><fr:route>minus-three-points-3.4.1k.xml</fr:route><fr:number>3.4.1k</fr:number><fr:parent>minus-three-points-3.4</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">          \phi _p^{-1}(0)         = (k-1)! p^k \zeta _p^{(p)}(k).       \tag{3.4.1k}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>896</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.4</fr:addr><fr:route>minus-three-points-3.4.xml</fr:route><fr:number>3.4</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>898</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.4</fr:addr><fr:route>minus-three-points-3.4.xml</fr:route><fr:number>3.4</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>\zeta ^{(p)}(s)</fr:tex> the <fr:tex>\zeta</fr:tex> function with its Eulerian factor at <fr:tex>p</fr:tex> removed:
     <fr:tex
 display="block">        \zeta ^{(p)}(s)        \coloneqq   \sum _{p \nmid  n} 1/n^s.     </fr:tex>

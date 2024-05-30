@@ -7,7 +7,7 @@ numbered="true"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>861</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.4</fr:addr><fr:route>minus-three-points-3.1.4.xml</fr:route><fr:number>3.1.4</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
+root="false"><fr:frontmatter><fr:anchor>863</fr:anchor><fr:taxon>Equation</fr:taxon><fr:addr>minus-three-points-3.1.4</fr:addr><fr:route>minus-three-points-3.1.4.xml</fr:route><fr:number>3.1.4</fr:number><fr:parent>minus-three-points-3.1</fr:parent></fr:frontmatter><fr:mainmatter><fr:tex
 display="block">         T_N(z)         =  \prod _{u^M=z} T_N(u).       \tag{3.1.4}       </fr:tex></fr:mainmatter><fr:backmatter><fr:contributions></fr:contributions><fr:context><fr:tree
 xmlns:fr="http://www.jonmsterling.com/jms-005P.xml"
 toc="true"
@@ -15,7 +15,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>860</fr:anchor><fr:addr>minus-three-points-3.1</fr:addr><fr:route>minus-three-points-3.1.xml</fr:route><fr:number>3.1</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>862</fr:anchor><fr:addr>minus-three-points-3.1</fr:addr><fr:route>minus-three-points-3.1.xml</fr:route><fr:number>3.1</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We denote by <fr:tex>P</fr:tex> the torsor <fr:tex>P_{1,k}</fr:tex> that we are going to define.
     At the same time, we will define a trivialisation <fr:tex>u_ { \mathrm {B}} \in  P_ { \mathrm {B}}</fr:tex> of its Betti realisation.
     Since <fr:tex>F^0 \mathbb {Z} (k)_ { \mathrm {DR}} =0</fr:tex>, we necessarily have that <fr:tex>P_ { \mathrm {DR}} = \mathbb {Z} (k)_ { \mathrm {DR}} = \mathbb {Q}</fr:tex>.
@@ -124,7 +124,7 @@ numbered="false"
 show-heading="true"
 show-metadata="true"
 expanded="true"
-root="false"><fr:frontmatter><fr:anchor>859</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.3</fr:addr><fr:route>minus-three-points-3.3.xml</fr:route><fr:number>3.3</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
+root="false"><fr:frontmatter><fr:anchor>861</fr:anchor><fr:taxon>Remark</fr:taxon><fr:addr>minus-three-points-3.3</fr:addr><fr:route>minus-three-points-3.3.xml</fr:route><fr:number>3.3</fr:number><fr:parent>minus-three-points-3</fr:parent></fr:frontmatter><fr:mainmatter><fr:p>
     We have described the <fr:tex>\mathbb {Z} {/}(N)(k)</fr:tex>-torsor <fr:tex>P_{ \mathbb {Z} {/}(N)}</fr:tex> as a sum of torsors indexed by the <fr:tex>N</fr:tex>-th roots of <fr:tex>1</fr:tex>.
     If <fr:tex>N</fr:tex> is a power of a prime number <fr:tex>\ell</fr:tex>, say <fr:tex>N= \ell ^n</fr:tex>, then we can again, thanks to <fr:ref
 addr="minus-three-points-3.1.4"
