@@ -507,6 +507,31 @@
   }
 
   \p{
-    Since
+    Since #{k} is even, and #{\alpha} and #{\alpha^{-1}} are inverses in #{\ZZ{/}N(1)}, we have
+    ##{
+      \begin{aligned}
+        Q_{\ZZ{/}(N)}
+        &= 2\sum\alpha^{\otimes(k-1)}T_N(\alpha)
+      \\&= \sum\alpha^{\otimes(k-1)}T_N(\alpha) + \sum(\alpha^{-1})^{\otimes(k-1)}T_N(\alpha^{-1})
+      \\&= \sum\alpha^{\otimes(k-1)}\big(T_N(\alpha)-T_N(\alpha^{-1})\big)
+      \end{aligned}
+    }
+    where the sums are over the #{N}-th roots of 1, and we can omit the term #{\alpha=1}.
+    We have #{(1-\alpha)(1-\alpha^{-1})=-\alpha}, whence \ref{minus-three-points-3.7.1}.
+  }
+
+  \subtree[minus-three-points-3.7.2]{
+    \taxon{lemma}
+    \number{3.7.2}
+
+    \p{
+      The image under \ref{minus-three-points-3.7.1} of #{\comp_{\ZZ{/}(N),\BB}(2u_\BB)} is defined by the principal determinations of the #{(-\alpha)^{1/N}}.
+    }
+
+    \proof{
+      \p{
+        For #{|z|=1}, #{z\neq1}, the ratio of the principal determinations of #{(1-z)^{1/N}} and #{(1-z^{-1})^{1/N}} is the principal determination of #{(-z)^{1/N}}.
+      }
+    }
   }
 }
